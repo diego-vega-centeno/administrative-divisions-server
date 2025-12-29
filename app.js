@@ -1,10 +1,11 @@
+import './src/config/env.js'
 import express from 'express'
-import env from 'dotenv'
+import './src/config/env.js'
 import loginRoute from './src/routes/logIn.js'
 
 // setup
 const app = express();
-env.config();
+app.use(express.json());
 
 // root check
 app.get('/', (req, res) => {
