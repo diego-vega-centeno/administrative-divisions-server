@@ -11,7 +11,7 @@ router.post('/login', async function (req, res, next) {
 
   const user = dbQueryRes.rows[0]
 
-  const token = jwt.sign({ id: user.id, email: user.email }, process.env.JWT_SECRET)
+  const token = jwt.sign({ id: user.id, email: user.email }, process.env.JWT_SECRET, { expiresIn: '1h' })
 
   return res.status(200).json({ status: 'OK', message: 'Login successful', data: { id: user.id, email: user.email, token: token } })
 })
