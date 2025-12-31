@@ -4,7 +4,7 @@ import jwt from 'jsonwebtoken'
 
 const router = express.Router();
 
-router.post('/login', async function (req, res, next) {
+router.post('/', async function (req, res, next) {
   let dbQueryRes = await db.query('SELECT * FROM users WHERE email = $1', [req.body.email])
 
   if (!dbQueryRes.rowCount) return res.status(404).json({ status: 'ERROR', message: 'User not found' })
