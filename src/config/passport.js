@@ -11,12 +11,15 @@ const opts = {
 
 passport.use('jwt', new JwtStrategy(opts, async function (req, payload, done) {
   try {
-    const userParam = req.body.user + '@gmail.com';
-    if (userParam) {
-      const userRes = await pool.query('SELECT * FROM users WHERE email=$1 LIMIT 1', [userParam]);
-      if (userRes.rowCount) return done(null, userRes.rows[0].id);
+    const email = req.body.email;
+    if (email) {
+      const userResponse = await pool.query('SELECT * FROM users WHERE email=$1 LIMIT 1', [email]);
+      if (!userResponse.rowCount) return done(null, false, { message: 'User not found' })
+      if (userResponse.rows[0].id !== payload.id) return done(null, false, { message: 'User unauthorized' })
+        
+      return done(null, userResponse.rows[0].id);
     }
-    done(null, false, { message: 'User not found' })
+    
   } catch (error) {
     return done(error)
   }

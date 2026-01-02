@@ -5,7 +5,7 @@ const authenticateJWT = (req, res, next) => {
     if (error) return next(error);
     if (!user) return res.status(403).json({
       status: 'FAILURE',
-      message: 'User not found'
+      message: info.message || 'Failed authentication'
     });
     next();
   })(req, res, next);
