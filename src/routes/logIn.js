@@ -1,11 +1,11 @@
 import express from 'express'
-import db from '../config/db.js'
+import pool from '../config/db.js'
 import jwt from 'jsonwebtoken'
 
 const router = express.Router();
 
 router.post('/', async function (req, res, next) {
-  let dbQueryRes = await db.query('SELECT * FROM users WHERE email = $1', [req.body.email])
+  let dbQueryRes = await pool.query('SELECT * FROM users WHERE email = $1', [req.body.email])
 
   if (!dbQueryRes.rowCount) return res.status(404).json({ status: 'ERROR', message: 'User not found' })
 

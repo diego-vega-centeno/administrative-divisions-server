@@ -11,7 +11,7 @@ const opts = {
 
 passport.use('jwt', new JwtStrategy(opts, async function (req, payload, done) {
   try {
-    const userParam = req.params.user + '@gmail.com';
+    const userParam = req.body.user + '@gmail.com';
     if (userParam) {
       const userRes = await pool.query('SELECT * FROM users WHERE email=$1 LIMIT 1', [userParam]);
       if (userRes.rowCount) return done(null, userRes.rows[0].id);
