@@ -7,6 +7,8 @@ const authenticateJWT = (req, res, next) => {
       status: 'FAILURE',
       message: info.message || 'Failed authentication'
     });
+    // Manually attach user to request because I'm using a callback
+    req.user = user;
     next();
   })(req, res, next);
 }

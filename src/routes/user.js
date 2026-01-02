@@ -1,12 +1,11 @@
 import express from 'express'
-import passport from '../config/passport.js';
 import { authenticateJWT } from '../middleware/auth.js';
 
 const router = express.Router();
 
-router.get('/:user', authenticateJWT,
+router.get('/profile', authenticateJWT,
   function (req, res, next) {
-    return res.status(200).json({ status: 'OK', message: 'User found' })
+    return res.status(200).json({ status: 'OK', message: 'User found', data: { id: req.user.id, email: req.user.email} });
   }
 )
 
