@@ -1,11 +1,10 @@
 import express from 'express';
-import passport from '../config/passport.js';
 import { saveFavorites } from '../models/dbWrites.js';
+import { authenticateJWT } from '../middleware/auth.js';
 
 const router = express.Router();
 
-router.post('/',
-  passport.authenticate('jwt', { session: false }),
+router.post('/', authenticateJWT,
   async function (req, res, next) {
     const userId = req.user;
     try {
