@@ -19,16 +19,16 @@ router.put('/', authenticateJWT, validate(favoriteSchema),
   });
 
 // GET /api/favorites - Get user's favorites
-// router.get('/', authenticateJWT,
-//   async function (req, res, next) {
-//     const userId = req.user.id;
-//     try {
-//       const result = await pool.query('SELECT * FROM favorites WHERE user_id = $1', [userId]);
-//       return res.status(200).json({ status: 'OK', data: result.rows });
-//     } catch (error) {
-//       next(error);
-//     }
-//   });
+router.get('/', authenticateJWT,
+  async function (req, res, next) {
+    const userId = req.user.id;
+    try {
+      const result = await pool.query('SELECT * FROM favorites WHERE user_id = $1', [userId]);
+      return res.status(200).json({ status: 'OK', data: result.rows });
+    } catch (error) {
+      next(error);
+    }
+  });
 
 // // DELETE /api/favorites/:id - Delete a favorite
 // router.delete('/:id', authenticateJWT,
