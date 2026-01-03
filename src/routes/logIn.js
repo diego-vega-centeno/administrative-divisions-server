@@ -1,14 +1,13 @@
 import express from 'express'
 import pool from '../config/db.js'
 import jwt from 'jsonwebtoken'
+import validate from '../middleware/validate.js'
+import { loginSchema } from '../schemas/validation.js'
 
 const router = express.Router();
 
-router.post('/', async function (req, res, next) {
+router.post('/', validate(loginSchema), async function (req, res, next) {
   try {
-
-    if(!req.body.email) return res.status(400).json({ status: 'ERROR', message: 'Missing email'})
-
     let dbQueryRes = await pool.query('SELECT * FROM users WHERE email = $1', [req.body.email])
 
     if (!dbQueryRes.rowCount) return res.status(404).json({ status: 'ERROR', message: 'User not found' })

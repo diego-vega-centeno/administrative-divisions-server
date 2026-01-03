@@ -15,10 +15,12 @@
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
+    "lodash-es": "^4.17.22",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
-    "pg": "^8.16.3"
+    "pg": "^8.16.3",
+    "zod": "^4.3.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.11"

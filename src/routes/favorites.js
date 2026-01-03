@@ -2,17 +2,15 @@ import express from 'express';
 // import pool from '../config/db.js';
 import { saveFavorites } from '../models/dbWrites.js';
 import { authenticateJWT } from '../middleware/auth.js';
+import validate from '../middleware/validate.js';
+import { favoriteSchema } from '../schemas/validation.js';
 
 const router = express.Router();
 
-// POST /api/favorites - Save a favorite
-router.put('/', authenticateJWT,
+// PUT /api/favorites - Save a favorite
+router.put('/', authenticateJWT, validate(favoriteSchema),
   async function (req, res, next) {
     try {
-      if (!req.body.osmRelId || !req.body.osmRelName) {
-        return res.status(400).json({ status: 'ERROR', message: 'Missing osmRelId and osmRelName' });
-      }
-
       await saveFavorites(req.user.id, req.body.osmRelId, req.body.osmRelName);
       return res.status(200).json({ status: 'OK', message: 'Favorite saved' });
     } catch (error) {
