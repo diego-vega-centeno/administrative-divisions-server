@@ -4,7 +4,8 @@ const saveFavorites = async (userId, osmRelId, osmRelName) => {
   try {
     const result = await pool.query(`
       INSERT INTO favorites (user_id, osm_relation_id, name) 
-      VALUES ($1, $2, $3)`,
+      VALUES ($1, $2, $3)
+      ON CONFLICT (user_id, osm_relation_id) DO NOTHING`,
     [userId, osmRelId, osmRelName]);
     return result;
   } catch (error) {

@@ -12,7 +12,6 @@ passport.use('jwt', new JwtStrategy(opts, async function (payload, done) {
   try {
     const userResponse = await pool.query('SELECT * FROM users WHERE id=$1 LIMIT 1', [payload.id]);
     if (!userResponse.rowCount) return done(null, false, { message: 'User not found' });
-    // if (userResponse.rows[0].id !== payload.id) return done(null, false, { message: 'User unauthorized' });
     
     return done(null, userResponse.rows[0]);
   } catch (error) {

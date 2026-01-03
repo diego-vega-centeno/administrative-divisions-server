@@ -6,7 +6,7 @@ import { authenticateJWT } from '../middleware/auth.js';
 const router = express.Router();
 
 // POST /api/favorites - Save a favorite
-router.post('/', authenticateJWT,
+router.put('/', authenticateJWT,
   async function (req, res, next) {
     try {
       await saveFavorites(req.user.id, req.body.osmRelId, req.body.osmRelName);
