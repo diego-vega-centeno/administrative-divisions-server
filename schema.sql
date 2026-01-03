@@ -12,5 +12,6 @@ CREATE TABLE IF NOT EXISTS favorites (
   user_id UUID REFERENCES users(id) ON DELETE CASCADE,
   osm_relation_id VARCHAR(255) NOT NULL,
   name VARCHAR(255) NOT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  UNIQUE(user_id, osm_relation_id)
 );
