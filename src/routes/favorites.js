@@ -9,6 +9,10 @@ const router = express.Router();
 router.put('/', authenticateJWT,
   async function (req, res, next) {
     try {
+      if (!req.body.osmRelId || !req.body.osmRelName) {
+        return res.status(400).json({ status: 'ERROR', message: 'Missing osmRelId and osmRelName' });
+      }
+
       await saveFavorites(req.user.id, req.body.osmRelId, req.body.osmRelName);
       return res.status(200).json({ status: 'OK', message: 'Favorite saved' });
     } catch (error) {
