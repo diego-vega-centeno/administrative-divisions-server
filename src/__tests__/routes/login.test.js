@@ -13,7 +13,7 @@ describe('POST /login', () => {
     const response = await request(app)
       .post('/login')
       .send({
-        email: 'user1@gmail.com'
+        email: 'user1@test.com'
       });
 
     expect(response.status).toBe(200);
