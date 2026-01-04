@@ -1,5 +1,5 @@
 import express from 'express';
-// import pool from '../config/db.js';
+import pool from '../config/db.js';
 import { saveFavorites } from '../models/dbWrites.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
@@ -30,20 +30,25 @@ router.get('/', authenticateJWT,
     }
   });
 
-// // DELETE /api/favorites/:id - Delete a favorite
-// router.delete('/:id', authenticateJWT,
-//   async function (req, res, next) {
-//     const userId = req.user.id;
-//     const favoriteId = req.params.id;
-//     try {
-//       const result = await pool.query('DELETE FROM favorites WHERE id = $1 AND user_id = $2', [favoriteId, userId]);
-//       if (result.rowCount === 0) {
-//         return res.status(404).json({ status: 'ERROR', message: 'Favorite not found' });
-//       }
-//       return res.status(200).json({ status: 'OK', message: 'Favorite deleted' });
-//     } catch (error) {
-//       next(error);
-//     }
-//   });
+
+// DELETE /api/favorites/:id - Delete a favorite
+router.delete('/:id', authenticateJWT,
+  async function (req, res, next) {
+    const favoriteId = req.params.id;
+    const userId = req.user.id;
+
+    try {
+      const result = await pool.query('DELETE FROM favorites WHERE user_id = $1 AND id = $2', [userId, favoriteId]);
+
+      if (result.rowCount === 0) {
+        return res.status(404).json({status: 'ERROR', message: 'Favorite not found'});
+      }
+
+      return res.status(200).json({status: 'OK', message: 'Favorite deleted'});
+    } catch (error) {
+      next(error)
+    }
+  }
+)
 
 export default router;
