@@ -1,6 +1,7 @@
 import './src/config/env.js'
 import express from 'express'
 import passport from './src/config/passport.js'
+import loginRoute from './src/routes/logIn.js'
 import userRoute from './src/routes/user.js'
 import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
@@ -14,6 +15,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(passport.initialize());
 
 // endpoints
+app.use('/login', loginRoute)
 app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
