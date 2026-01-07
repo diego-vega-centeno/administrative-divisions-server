@@ -4,6 +4,7 @@ import passport from './src/config/passport.js'
 import loginRoute from './src/routes/logIn.js'
 import userRoute from './src/routes/user.js'
 import favoritesRoute from './src/routes/favorites.js'
+import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 
 // setup
 const app = express();
@@ -22,6 +23,7 @@ app.get('/', (req, res) => {
 app.use('/login', loginRoute)
 app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
+app.use('/auth/google', oauthGoogleRoute)
 
 // error handler
 app.use((err, req, res, next) => {
