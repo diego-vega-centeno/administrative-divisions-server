@@ -4,7 +4,7 @@ import { authenticateJWT } from '../middleware/auth.js';
 
 const router = express.Router();
 
-router.get('/countries/:countryId', authenticateJWT, async function (req, res, next) {
+router.get('/countries/:countryId', async function (req, res, next) {
   const { countryId } = req.params;
   const levels = req.query.levels?.split(',') ?? null;
   
