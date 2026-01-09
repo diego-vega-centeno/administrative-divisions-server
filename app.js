@@ -6,11 +6,27 @@ import userRoute from './src/routes/user.js'
 import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
+import { rateLimit } from 'express-rate-limit'
 
 // setup
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// API rate limit
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 50,
+  standardHeaders: true,
+  legacyHeaders: false,
+  ipv6Subnet: 56,
+  message: {
+    status:'ERROR',
+    message: 'API rate limit exceeded'
+  }
+});
+
+app.use('api/v1/', apiLimiter);
 
 // Initialize Passport
 app.use(passport.initialize());
