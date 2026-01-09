@@ -9,7 +9,7 @@ router.get('/countries/:countryId', authenticateJWT, async function (req, res, n
   const levels = req.query.levels?.split(',') ?? null;
   
   if (!(countryId in osmRelsByCntr)) {
-    return res.status(200).json({ status: 'FAILURE', message: 'Country not found' });
+    return res.status(404).json({ status: 'ERROR', message: 'Country not found' });
   }
   let resultRels = osmRelsByCntr[countryId];
 
