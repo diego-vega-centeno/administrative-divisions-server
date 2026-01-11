@@ -23,7 +23,7 @@ passport.use('jwt', new JwtStrategy(opts, async function (payload, done) {
 passport.use('google', new GoogleStrategy({
   clientID: process.env.GOOGLE_CLIENT_ID,
   clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-  callbackURL: "/auth/google/callback"
+  callbackURL: process.env.CALLBACK_URL
 },
   async function (accessToken, refreshToken, profile, done) {
     try {
