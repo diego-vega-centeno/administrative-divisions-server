@@ -27,7 +27,7 @@ router.get("/callback",
       return res.status(500).json({ error: 'Server configuration error' });
     }
 
-    res.redirect(`${frontendUrl}/auth/callback?token=${token}`);
+    res.redirect(`${frontendUrl}/#/auth/callback?token=${token}`);
   }
 );
 
