@@ -42,7 +42,6 @@ router.get("/callback",
       maxAge: 1000 * 60 * 60 * 24 // 1d
     })
 
-    // res.redirect(`${frontendUrl}/auth/callback?token=${token}`);
     res.redirect(`${frontendUrl}/`);
   }
 );
