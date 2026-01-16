@@ -47,7 +47,7 @@ app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
 
 // health check
-app.get('/health', (req, res) => res.status(200));
+app.get('/health', (req, res) => res.sendStatus(200));
 
 // API
 app.use('/api/v1/', apiRoute)
