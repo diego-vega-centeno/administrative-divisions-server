@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 const allowedOrigin = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL
 
 app.use(cors({
-  origin: "https://osm-administrative-divisions.vercel.app/",
+  origin: allowedOrigin,
   credentials: true
 }));
 
