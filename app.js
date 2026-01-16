@@ -46,6 +46,9 @@ app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
 
+// health check
+app.get('/health', (req, res) => res.status(200));
+
 // API
 app.use('/api/v1/', apiRoute)
 
