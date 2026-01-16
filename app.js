@@ -7,11 +7,19 @@ import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
 import { rateLimit } from 'express-rate-limit'
+import cors from 'cors'
 
 // setup
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+// allow CORS for frontend
+const allowedOrigin = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL
+app.use(cors({
+  origin: allowedOrigin,
+  credentials: true
+}));
+
 
 // API rate limit
 const apiLimiter = rateLimit({
@@ -21,7 +29,7 @@ const apiLimiter = rateLimit({
   legacyHeaders: false,
   ipv6Subnet: 56,
   message: {
-    status:'ERROR',
+    status: 'ERROR',
     message: 'API rate limit exceeded'
   }
 });
