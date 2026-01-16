@@ -1,6 +1,6 @@
 import pg from 'pg'
 
-const testEnvs = ['test', 'dev'];
+const testEnvs = ['test', 'development'];
 
 const pool = new pg.Pool({
     user: process.env.PG_USER,

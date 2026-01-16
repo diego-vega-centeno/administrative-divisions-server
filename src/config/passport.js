@@ -13,7 +13,7 @@ passport.use('jwt', new JwtStrategy(opts, async function (payload, done) {
   try {
     const userResponse = await pool.query('SELECT * FROM users WHERE id=$1 LIMIT 1', [payload.id]);
     if (!userResponse.rowCount) return done(null, false, { message: 'User not found' });
-    
+
     return done(null, userResponse.rows[0]);
   } catch (error) {
     return done(error);
@@ -23,7 +23,7 @@ passport.use('jwt', new JwtStrategy(opts, async function (payload, done) {
 passport.use('google', new GoogleStrategy({
   clientID: process.env.GOOGLE_CLIENT_ID,
   clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-  callbackURL: process.env.NODE_ENV == 'dev' ? process.env.CALLBACK_DEV_URL : process.env.CALLBACK_PROD_URL,
+  callbackURL: process.env.NODE_ENV === 'development' ? process.env.CALLBACK_DEV_URL : process.env.CALLBACK_PROD_URL,
 },
   async function (accessToken, refreshToken, profile, done) {
     try {
@@ -37,9 +37,8 @@ passport.use('google', new GoogleStrategy({
       //   );
       //   return done(null, newUser.rows[0]);
       // }
-
       // return done(null, user.rows[0]);
-      return done(null, {id: 'test1', email: 'test1@test.com'});
+      return done(null, { id: 'test1', email: 'test1@test.com' });
     }
     catch (error) {
       return done(error)

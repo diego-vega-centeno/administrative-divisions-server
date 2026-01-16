@@ -3,7 +3,7 @@ import passport from '../config/passport.js';
 import jwt from 'jsonwebtoken'
 
 const router = express.Router();
-let frontendUrl = process.env.NODE_ENV == 'dev' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL;
+let frontendUrl = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL;
 
 router.get("/",
   passport.authenticate("google", {
@@ -18,6 +18,7 @@ router.get("/callback",
     failureRedirect: frontendUrl + "/login"
   }),
   function (req, res) {
+
     // generate token after passing google authentication
     const token = jwt.sign({ id: req.user.id, email: req.user.email }, process.env.JWT_SECRET, { expiresIn: '1h' })
 
