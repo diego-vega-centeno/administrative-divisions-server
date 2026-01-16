@@ -7,12 +7,15 @@ import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
 import { rateLimit } from 'express-rate-limit'
+import cookieParser from 'cookie-parser'
 import cors from 'cors'
 
 // setup
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(cookieParser());
+
 // allow CORS for frontend
 const allowedOrigin = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL
 

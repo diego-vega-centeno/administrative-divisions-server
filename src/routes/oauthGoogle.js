@@ -15,20 +15,34 @@ router.get("/",
 router.get("/callback",
   passport.authenticate("google", {
     session: false,
-    failureRedirect: frontendUrl + "/auth/callback?error=oauth_failed"
+    failureRedirect: frontendUrl + "?error=oauth_failed"
   }),
   function (req, res) {
 
     // generate token after passing google authentication
-    const token = jwt.sign({ id: req.user.id, email: req.user.email }, process.env.JWT_SECRET, { expiresIn: '1h' })
+    const token = jwt.sign(
+      { id: req.user.id, email: req.user.email },
+      process.env.JWT_SECRET,
+      { expiresIn: '1d' }
+    )
 
     // return res.status(200).json({ status: 'OK', message: 'Login successful', data: { id: req.user.id, email: req.user.email, token: token } });
     if (!frontendUrl) {
       console.error('Missing FRONTEND_URL');
-      return res.status(500).json({ error: 'Server configuration error' });
+      return res.status(500).json({
+        status: 'ERROR',
+        message: 'Server configuration error'
+      });
     }
 
-    res.redirect(`${frontendUrl}/auth/callback?token=${token}`);
+    res.cookie('jwt', token, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
+      maxAge: 1000 * 60 * 60 * 24 // 1d
+    })
+
+    res.redirect(`${frontendUrl}/`);
   }
 );
 
