@@ -15,8 +15,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 // allow CORS for frontend
 const allowedOrigin = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL
+
 app.use(cors({
-  origin: allowedOrigin,
+  origin: "https://osm-administrative-divisions.vercel.app/",
   credentials: true
 }));
 
