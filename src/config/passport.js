@@ -1,10 +1,19 @@
 import passport from 'passport'
 import { Strategy as JwtStrategy, ExtractJwt } from 'passport-jwt'
-// import pool from '../config/db.js'
+import pool from '../config/db.js'
 import GoogleStrategy from 'passport-google-oauth20';
 
+const cookieExtractor = (req) => {
+  // all token available
+  let token;
+  if (req && req.cookies) {
+    token = req.cookies['jwt'];
+  }
+  return token;
+}
+
 const opts = {
-  jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
+  jwtFromRequest: cookieExtractor,
   secretOrKey: process.env.JWT_SECRET,
   ignoreExpiration: false
 }
@@ -28,17 +37,16 @@ passport.use('google', new GoogleStrategy({
   async function (accessToken, refreshToken, profile, done) {
     try {
       // find user
-      // const user = await pool.query('SELECT * FROM users WHERE oauth_id = $1', [profile.id]);
+      const user = await pool.query('SELECT * FROM users WHERE oauth_id = $1', [profile.id]);
 
-      // if (!user.rowCount) {
-      //   // create new user
-      //   const newUser = await pool.query('INSERT INTO users (email, name, oauth_id) VALUES ($1, $2, $3) RETURNING *',
-      //     [profile.emails[0].value, profile.displayName, profile.id]
-      //   );
-      //   return done(null, newUser.rows[0]);
-      // }
-      // return done(null, user.rows[0]);
-      return done(null, { id: 'test1', email: 'test1@test.com' });
+      if (!user.rowCount) {
+        // create new user
+        const newUser = await pool.query('INSERT INTO users (email, name, oauth_id) VALUES ($1, $2, $3) RETURNING *',
+          [profile.emails[0].value, profile.displayName, profile.id]
+        );
+        return done(null, newUser.rows[0]);
+      }
+      return done(null, user.rows[0]);
     }
     catch (error) {
       return done(error)
