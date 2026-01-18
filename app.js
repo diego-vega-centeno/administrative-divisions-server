@@ -5,6 +5,7 @@ import loginRoute from './src/routes/logIn.js'
 import userRoute from './src/routes/user.js'
 import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
+import checkUserRoute from './src/routes/checkUser.js';
 import apiRoute from './src/routes/apiRoute.js'
 import { rateLimit } from 'express-rate-limit'
 import cookieParser from 'cookie-parser'
@@ -48,6 +49,7 @@ app.use('/login', loginRoute)
 app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
+app.use('/auth/me', checkUserRoute)
 
 // health check
 app.get('/health', (req, res) => res.sendStatus(200));
