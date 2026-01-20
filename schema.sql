@@ -12,7 +12,7 @@ CREATE TABLE IF NOT EXISTS favorites (
   id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
   user_id UUID REFERENCES users(id) ON DELETE CASCADE,
   osm_relation_id VARCHAR(100) NOT NULL,
-  name VARCHAR(100) NOT NULL,
+  text VARCHAR(100) NOT NULL,
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   UNIQUE(user_id, osm_relation_id)
 );
