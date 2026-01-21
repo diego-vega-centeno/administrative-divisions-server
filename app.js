@@ -6,6 +6,7 @@ import userRoute from './src/routes/userRoute.js'
 import favoritesRoute from './src/routes/favorites.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
+import layerRoute from './src/routes/layers.js'
 import { rateLimit } from 'express-rate-limit'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
@@ -49,6 +50,7 @@ app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
 app.use('/user', userRoute)
+app.use('/layer', layerRoute)
 
 // health check
 app.get('/health', (req, res) => res.sendStatus(200));
