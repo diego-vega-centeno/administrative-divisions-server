@@ -22,3 +22,4 @@ export const favoriteSchema = z.object({
     .transform(value => escape(value)),
 });
 
+export const favoritesSchema = z.array(favoriteSchema);
