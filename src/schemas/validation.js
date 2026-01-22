@@ -11,15 +11,23 @@ export const loginSchema = z.object({
 });
 
 // Favorites schema
-export const favoriteSchema = z.object({
-  osmRelId: z
+const relationSchema = z.object({
+  relId: z
     .string()
-    .min(1, 'osmRelId is required')
+    .min(1, 'relation id is required')
     .transform(value => escape(value)),
-  osmRelName: z
+  relName: z
     .string()
-    .min(1, 'osmRelName is required')
+    .min(1, 'relation name is required')
     .transform(value => escape(value)),
 });
 
-export const favoritesSchema = z.array(favoriteSchema);
+const relationsSchema = z.array(relationSchema);
+
+export const layerSchema = z.object({
+  title: z
+    .string()
+    .min(1, 'relation id is required')
+    .transform(value => escape(value)),
+  relations: relationsSchema
+})
