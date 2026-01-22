@@ -3,20 +3,20 @@ import pool from '../config/db.js';
 import { saveFavorites } from '../models/dbWrites.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
-import { favoritesSchema } from '../schemas/validation.js';
+// import { favoritesSchema } from '../schemas/validation.js';
 
 const router = express.Router();
 
 // PUT /api/favorites - Save a favorite
-router.put('/', authenticateJWT, validate(favoritesSchema),
-  async function (req, res, next) {
-    try {
-      await saveFavorites(req.user.id, req.body);
-      return res.status(200).json({ status: 'OK', message: 'Favorite saved' });
-    } catch (error) {
-      next(error);
-    }
-  });
+// router.put('/', authenticateJWT, validate(favoritesSchema),
+//   async function (req, res, next) {
+//     try {
+//       await saveFavorites(req.user.id, req.body);
+//       return res.status(200).json({ status: 'OK', message: 'Favorite saved' });
+//     } catch (error) {
+//       next(error);
+//     }
+//   });
 
 // GET /api/favorites - Get user's favorites
 router.get('/', authenticateJWT,

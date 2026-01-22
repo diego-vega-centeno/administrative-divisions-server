@@ -46,7 +46,7 @@ app.use(passport.initialize());
 
 // endpoints
 app.use('/login', loginRoute)
-app.use('/api/favorites', favoritesRoute)
+// app.use('/api/favorites', favoritesRoute)
 app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
 app.use('/user', userRoute)
