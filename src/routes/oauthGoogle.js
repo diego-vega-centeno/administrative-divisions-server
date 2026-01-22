@@ -8,7 +8,8 @@ let frontendUrl = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_D
 router.get("/",
   passport.authenticate("google", {
     scope: ["profile", "email"],
-    prompt: "select_account"
+    prompt: "select_account",
+    session: false
   })
 );
 

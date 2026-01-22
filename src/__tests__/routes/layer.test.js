@@ -1,36 +1,20 @@
 import request from 'supertest';
 import app from '../../../app.js';
 import pool from '../../config/db.js';
+import { generateTestToken } from '../helpers/testAuth.js';
 
 let token;
 let layerId;
 
 beforeAll(async () => {
-
-  // create test user
-  await pool.query(`
-    INSERT INTO users (name, email, oauth_id) 
-    VALUES ('test_user_name', 'test_user@test.com', 'google-test_user')`
-  );
-
-  // generate token
-  const response = await request(app)
-    .post('/login')
-    .send({
-      email: 'test_user@test.com'
-    });
-
-  token = response.body.data.token;
+  // generate token using secure test helper
+  token = await generateTestToken();
 });
 
 afterAll(async () => {
+  // clean test users
   const usersResult = await pool.query("SELECT id FROM users WHERE email LIKE '%@test.com'");
   const userIds = usersResult.rows.map(row => row.id);
-
-  // clean favorites
-  // if (userIds.length > 0) {
-  //   await pool.query('DELETE FROM favorites WHERE user_id = ANY($1)', [userIds]);
-  // }
 
   // delete test user
   if (userIds.length > 0) {
