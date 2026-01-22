@@ -8,7 +8,7 @@ const router = express.Router();
 router.put('/', authenticateJWT, async (req, res, next) => {
   try {
     const { title, relations } = req.body;
-    // relations : [{relId:String, osmRelName: String},...]
+    // relations : [{relId:String, relName: String},...]
     const layerId = await saveLayer(req.user.id, title, relations);
     return res.status(201).json({
       status: 'OK',
