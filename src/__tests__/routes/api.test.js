@@ -1,20 +1,21 @@
 import request from 'supertest';
 import app from '../../../app.js';
 import pool from '../../config/db.js';
+import { generateTestToken } from '../helpers/testAuth.js';
 
 let token;
-
 beforeAll(async () => {
-  const response = await request(app)
-    .post('/login')
-    .send({
-      email: 'user1@test.com'
-    });
-
-  token = response.body.data.token;
+  token = await generateTestToken();
 });
 
 afterAll(async () => {
+  // clean test users
+  const usersResult = await pool.query("SELECT id FROM users WHERE email LIKE '%@test.com'");
+  const userIds = usersResult.rows.map(row => row.id);
+
+  if (userIds.length > 0) {
+    await pool.query('DELETE FROM users WHERE id = ANY($1)', [userIds]);
+  }
   // Close db connection
   await pool.end();
 });
@@ -23,7 +24,7 @@ describe('GET /api/v1/countries/:countryId', () => {
   test('should return 403 if unauthorized', async () => {
     const response = await request(app)
       .get('/api/v1/countries/288247')
-      .set('Authorization', `Bearer not-a-token`);
+      .set('Cookie', `Not-a-token`)
 
     expect(response.status).toBe(403);
     expect(response.body.status).toBe('FAILURE');
@@ -31,8 +32,8 @@ describe('GET /api/v1/countries/:countryId', () => {
 
   test('should return 404  and no country found', async () => {
     const response = await request(app)
-      .get('/api/v1/countries/non-an-id')
-      .set('Authorization', `Bearer ${token}`);
+      .get('/api/v1/countries/not-an-id')
+      .set('Cookie', `jwt=${token}`)
 
     expect(response.status).toBe(404);
     expect(response.body.status).toBe('ERROR');
@@ -41,7 +42,7 @@ describe('GET /api/v1/countries/:countryId', () => {
   test('should return a valid JSON structure', async () => {
     const response = await request(app)
       .get('/api/v1/countries/288247')
-      .set('Authorization', `Bearer ${token}`);
+      .set('Cookie', `jwt=${token}`)
 
     expect(response.status).toBe(200);
     expect(response.body.status).toBe('OK');
@@ -61,7 +62,7 @@ describe('GET /api/v1/countries/:countryId', () => {
   test('should filter by levels correctly', async () => {
     const response = await request(app)
       .get('/api/v1/countries/288247?levels=4,6')
-      .set('Authorization', `Bearer ${token}`);
+      .set('Cookie', `jwt=${token}`)
 
     expect(response.status).toBe(200);
     expect(response.body.data.every(rel =>
