@@ -35,4 +35,15 @@ async function saveLayer(userId, title, relations) {
   }
 }
 
-export { saveLayer }
+
+async function getLayerRelations(layerId) {
+  const relsResult = await pool.query(`
+    SELECT ly.title, lr.* 
+    FROM layer_relations AS lr 
+    JOIN layers AS ly ON ly.id = lr.layer_id 
+    WHERE ly.id = $1`, [layerId]);
+
+  return relsResult.rows;
+}
+
+export { saveLayer, getLayerRelations }

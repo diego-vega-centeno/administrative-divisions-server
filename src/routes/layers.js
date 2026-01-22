@@ -1,12 +1,13 @@
 import express from 'express';
-import { saveLayer } from '../models/layerWrites.js';
+import { saveLayer, getLayerRelations } from '../models/layerWrites.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
 import { layerSchema } from '../schemas/validation.js';
 
 const router = express.Router();
 
-// PUT /api/layers - Create a new layer with relations
+// PUT /layer - Create a new layer with relations
+// Has a unique title constraint
 router.put('/', authenticateJWT, validate(layerSchema), async (req, res, next) => {
   try {
     const { title, relations } = req.body;
@@ -19,6 +20,20 @@ router.put('/', authenticateJWT, validate(layerSchema), async (req, res, next) =
     });
   } catch (error) {
     next(error);
+  }
+});
+
+// GET /layer/:id - Get realtions from layer
+router.get('/:id', authenticateJWT, async (req, res, next) => {
+  try {
+    const relations = await getLayerRelations(req.params?.id);
+    return res.status(200).json({
+      status: 'OK',
+      message: 'Relations obtained',
+      data: relations
+    });
+  } catch (error) {
+    next(error)
   }
 });
 
