@@ -7,18 +7,12 @@ let token;
 let layerId;
 
 beforeAll(async () => {
-
-  // create test user
-  await pool.query(`
-    INSERT INTO users (name, email, oauth_id) 
-    VALUES ('test_user_name', 'test_user@test.com', 'google-test_user')`
-  );
-
   // generate token using secure test helper
-  token = await generateTestToken('test_user@test.com', 1);
+  token = await generateTestToken();
 });
 
 afterAll(async () => {
+  // clean test users
   const usersResult = await pool.query("SELECT id FROM users WHERE email LIKE '%@test.com'");
   const userIds = usersResult.rows.map(row => row.id);
 
