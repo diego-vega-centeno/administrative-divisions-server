@@ -56,8 +56,21 @@ app.use('/api/v1/', apiRoute)
 
 // error handler
 app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).json({ status: 'ERROR', message: err.message || 'Something went wrong!' });
+  // console.error(err.stack);
+  console.error(`${err.severity} - ${err.code} : ${err.detail}`)
+
+  if (err.code === '23505') {
+    return res.status(409).json({
+      status: 'ERROR',
+      code: 'DUPLICATE_TITLE',
+      message: 'Duplicate title'
+    });
+  }
+  res.status(500).json({
+    status: 'ERROR',
+    code: 'INTERNAL_ERROR',
+    message: err.message || 'Something went wrong!'
+  });
 });
 
 // start server (only if not in test environment)
