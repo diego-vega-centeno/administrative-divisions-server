@@ -43,7 +43,6 @@ app.use('api/v1/', apiLimiter);
 app.use(passport.initialize());
 
 // endpoints
-app.use('/api/users', userRoute)
 app.use('/auth/google', oauthGoogleRoute)
 app.use('/user', userRoute)
 app.use('/layer', layerRoute)
