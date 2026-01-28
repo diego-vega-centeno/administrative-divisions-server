@@ -17,6 +17,7 @@ app.use(cookieParser());
 
 // allow CORS for frontend
 const allowedOrigin = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL
+const frontendUrl = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL;
 
 app.use(cors({
   origin: allowedOrigin,
@@ -55,21 +56,19 @@ app.use('/api/v1/', apiRoute)
 
 // error handler
 app.use((err, req, res, next) => {
-  // console.error(err.stack);
-  console.error(`${err.severity} - ${err.code} : ${err.detail}`)
+  console.error(`Error -> code: ${err.code}; message: ${err.message}`)
 
   if (err.code === '23505') {
-    return res.status(409).json({
-      status: 'ERROR',
-      code: 'DUPLICATE_TITLE',
-      message: 'Duplicate title'
-    });
+    return res.redirect(`${frontendUrl}?error=duplicate_title&message=${encodeURIComponent('Duplicate entry')}`);
   }
-  res.status(500).json({
-    status: 'ERROR',
-    code: 'INTERNAL_ERROR',
-    message: err.message || 'Something went wrong!'
-  });
+
+  // Handle OAuth callback errors
+  if (req.path.includes('/auth/google/callback')) {
+    return res.redirect(`${frontendUrl}?error=oauth_failed&message=${encodeURIComponent(err.message || 'Authentication failed')}`);
+  }
+
+  // default handle error
+  res.redirect(`${frontendUrl}?error=internal_error&message=${encodeURIComponent(err.message || 'Something went wrong!')}`);
 });
 
 // start server (only if not in test environment)
