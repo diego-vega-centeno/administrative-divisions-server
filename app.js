@@ -8,6 +8,7 @@ import layerRoute from './src/routes/layers.js'
 import { rateLimit } from 'express-rate-limit'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
+import { databaseErrorHandler, oauthErrorHandler, generalErrorHandler } from './src/routes/error-handlers.js'
 
 // setup
 const app = express();
@@ -54,22 +55,10 @@ app.get('/health', (req, res) => res.sendStatus(200));
 // API
 app.use('/api/v1/', apiRoute)
 
-// error handler
-app.use((err, req, res, next) => {
-  console.error(`Error -> code: ${err.code}; message: ${err.message}`)
-
-  if (err.code === '23505') {
-    return res.redirect(`${frontendUrl}?error=duplicate_title&message=${encodeURIComponent('Duplicate entry')}`);
-  }
-
-  // Handle OAuth callback errors
-  if (req.path.includes('/auth/google/callback')) {
-    return res.redirect(`${frontendUrl}?error=oauth_failed&message=${encodeURIComponent(err.message || 'Authentication failed')}`);
-  }
-
-  // default handle error
-  res.redirect(`${frontendUrl}?error=internal_error&message=${encodeURIComponent(err.message || 'Something went wrong!')}`);
-});
+// error handlers
+app.use(oauthErrorHandler);
+app.use(databaseErrorHandler);
+app.use(generalErrorHandler);
 
 // start server (only if not in test environment)
 if (process.env.NODE_ENV !== 'test') {
