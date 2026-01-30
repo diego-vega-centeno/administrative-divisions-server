@@ -14,7 +14,6 @@ router.put('/', authenticateJWT, validate(layerSchema), async (req, res, next) =
     // relations : [{relId:String, relName: String},...]
     const layerId = await saveLayer(req.user.id, title, relations);
     return res.status(201).json({
-      status: 'OK',
       message: 'Layer saved',
       data: { layerId }
     });
@@ -27,11 +26,7 @@ router.put('/', authenticateJWT, validate(layerSchema), async (req, res, next) =
 router.get('/:id', authenticateJWT, async (req, res, next) => {
   try {
     const relations = await getLayerRelations(req.params?.id);
-    return res.status(200).json({
-      status: 'OK',
-      message: 'Relations obtained',
-      data: relations
-    });
+    return res.status(200).json({data: relations});
   } catch (error) {
     next(error)
   }

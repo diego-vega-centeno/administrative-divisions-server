@@ -4,7 +4,7 @@ const authenticateJWT = (req, res, next) => {
   passport.authenticate('jwt', { session: false }, function (error, user, info) {
     if (error) return next(error);
     if (!user) return res.status(403).json({
-      status: 'FAILURE',
+      code: 'auth_failed',
       message: info.message || 'Failed authentication'
     });
     // Manually attach user to request because I'm using a callback

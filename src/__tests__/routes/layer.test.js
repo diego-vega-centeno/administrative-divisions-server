@@ -42,7 +42,6 @@ describe('PUT /layer', () => {
     layerId = response.body.data.layerId;
 
     expect(response.status).toBe(201);
-    expect(response.body.status).toBe('OK');
   });
 
   test('should return 403 if unauthorized', async () => {
@@ -51,7 +50,6 @@ describe('PUT /layer', () => {
       .set('Cookie', `Not-a-cookie`);
 
     expect(response.status).toBe(403);
-    expect(response.body.status).toBe('FAILURE');
   });
 
   test('should return 400 if relId is missing', async () => {
@@ -66,7 +64,6 @@ describe('PUT /layer', () => {
       });
 
     expect(response.status).toBe(400);
-    expect(response.body.status).toBe('ERROR');
   });
 
   test('should return 400 if relName is missing', async () => {
@@ -81,7 +78,6 @@ describe('PUT /layer', () => {
       });
 
     expect(response.status).toBe(400);
-    expect(response.body.status).toBe('ERROR');
   });
 });
 

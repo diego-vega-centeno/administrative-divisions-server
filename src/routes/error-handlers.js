@@ -10,7 +10,6 @@ const databaseErrorHandler = (err, req, res, next) => {
 
   if (err.code === '23505') {
     return res.status(409).json({
-      status: 'ERROR',
       code: 'duplicate_entry',
       message: 'A record with this value already exists'
     });
@@ -37,14 +36,12 @@ const generalErrorHandler = (err, req, res, next) => {
 
   if (err.isOperational) {
     return res.status(err.statusCode || 500).json({
-      status: 'ERROR',
       code: err.code || 'operational_error',
       message: err.message
     });
   }
 
   return res.status(500).json({
-    status: 'ERROR',
     code: 'internal_error',
     message: process.env.NODE_ENV === 'production' ?
       'Something went wrong!' :

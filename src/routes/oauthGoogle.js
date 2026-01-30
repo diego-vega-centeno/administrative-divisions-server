@@ -27,15 +27,6 @@ router.get("/callback",
       { expiresIn: '1d' }
     )
 
-    // return res.status(200).json({ status: 'OK', message: 'Login successful', data: { id: req.user.id, email: req.user.email, token: token } });
-    if (!frontendUrl) {
-      console.error('Missing FRONTEND_URL');
-      return res.status(500).json({
-        status: 'ERROR',
-        message: 'Server configuration error'
-      });
-    }
-
     res.cookie('jwt', token, {
       httpOnly: true,
       secure: process.env.NODE_ENV === 'production',

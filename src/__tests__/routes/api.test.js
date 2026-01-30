@@ -27,7 +27,6 @@ describe('GET /api/v1/countries/:countryId', () => {
       .set('Cookie', `Not-a-token`)
 
     expect(response.status).toBe(403);
-    expect(response.body.status).toBe('FAILURE');
   });
 
   test('should return 404  and no country found', async () => {
@@ -36,7 +35,6 @@ describe('GET /api/v1/countries/:countryId', () => {
       .set('Cookie', `jwt=${token}`)
 
     expect(response.status).toBe(404);
-    expect(response.body.status).toBe('ERROR');
   });
 
   test('should return a valid JSON structure', async () => {
@@ -45,7 +43,6 @@ describe('GET /api/v1/countries/:countryId', () => {
       .set('Cookie', `jwt=${token}`)
 
     expect(response.status).toBe(200);
-    expect(response.body.status).toBe('OK');
     expect(response.body.data).toBeDefined();
     expect(Array.isArray(response.body.data)).toBe(true);
 
