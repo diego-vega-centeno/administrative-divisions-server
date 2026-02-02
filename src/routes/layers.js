@@ -33,7 +33,7 @@ router.get('/:id', authenticateJWT, async (req, res, next) => {
   }
 });
 
-// GET /layer- Get all realtions from layer
+// GET /layer- Get all realtions from user
 router.get('/', authenticateJWT, async (req, res, next) => {
   try {
     const layersRelations = await getUserLayersRelations(req.user.id);
