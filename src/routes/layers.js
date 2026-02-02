@@ -1,6 +1,8 @@
 import express from 'express';
-import { saveLayer, getLayerRelations } from '../models/layerWrites.js';
-import { getUserLayersRelations } from '../models/layerReads.js';
+import {
+  getUserLayersRelations, saveLayer, deleteLayer,
+  getLayerRelations
+} from '../models/layer.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
 import { layerSchema } from '../schemas/validation.js';
@@ -42,6 +44,16 @@ router.get('/', authenticateJWT, async (req, res, next) => {
     next(error)
   }
 });
+
+// DELETE /layers/:id - Delete layer, relations will cascade down
+router.delete('/:id', authenticateJWT, async (req, res, next) => {
+  try {
+    await deleteLayer(req.params?.id);
+    return res.sendStatus(204);
+  } catch (error) {
+    next(error)
+  }
+})
 
 export default router;
 
