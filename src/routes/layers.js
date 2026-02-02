@@ -45,7 +45,7 @@ router.get('/', authenticateJWT, async (req, res, next) => {
   }
 });
 
-// DELETE /layers/:id - Delete layer, relations will cascade down
+// DELETE /layer/:id - Delete layer, relations will cascade down
 router.delete('/:id', authenticateJWT, async (req, res, next) => {
   try {
     await deleteLayer(req.params?.id);
