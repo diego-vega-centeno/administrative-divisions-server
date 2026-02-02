@@ -13,7 +13,7 @@ async function getUserLayersRelations(userId) {
 
 async function deleteLayer(layerId) {
   await pool.query(`
-    DELETE FROM layers WHERE id = $1`, layerId)
+    DELETE FROM layers WHERE id = $1`, [layerId])
 }
 
 async function saveLayer(userId, title, relations) {
