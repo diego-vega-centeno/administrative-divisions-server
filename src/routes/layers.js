@@ -1,7 +1,7 @@
 import express from 'express';
 import {
   getUserLayersRelations, saveLayer, deleteLayer,
-  getLayerRelations, deleteRelation
+  getLayerRelations, deleteRelations
 } from '../models/layer.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
@@ -56,10 +56,11 @@ router.delete('/:id', authenticateJWT, async (req, res, next) => {
 })
 
 // DELETE /layer/:layerId/rel/:relId - Delete relation in layer
-router.delete('/:layerId/rel/:relId', async (req, res, next) => {
+router.delete('/:layerId/rels', async (req, res, next) => {
   try {
-    const { layerId, relId } = req.params;
-    await deleteRelation(layerId, relId);
+    const { layerId } = req.params;
+    const relsIds = req.body.relsIds;
+    await deleteRelations(layerId, relsIds);
     return res.sendStatus(204);
   } catch (error) {
     next(error)

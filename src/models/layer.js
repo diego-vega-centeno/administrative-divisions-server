@@ -16,15 +16,15 @@ async function deleteLayer(layerId) {
     DELETE FROM layers WHERE id = $1`, [layerId])
 }
 
-async function deleteRelation(layerId, relId) {
+async function deleteRelations(layerId, relsIds) {
   const client = await pool.connect();
 
   try {
     await client.query('BEGIN');
 
     await client.query(
-      `DELETE FROM layer_relations WHERE id = $1`,
-      [relId]
+      `DELETE FROM layer_relations WHERE id = ANY($1::uuid[])`,
+      [relsIds]
     );
 
     await client.query(`
@@ -94,5 +94,5 @@ async function getLayerRelations(layerId) {
 
 export {
   getUserLayersRelations, saveLayer, deleteLayer, getLayerRelations,
-  deleteRelation
+  deleteRelations
 }
