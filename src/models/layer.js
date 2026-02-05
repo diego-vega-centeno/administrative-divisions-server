@@ -16,6 +16,37 @@ async function deleteLayer(layerId) {
     DELETE FROM layers WHERE id = $1`, [layerId])
 }
 
+async function deleteRelation(layerId, relId) {
+  const client = await pool.connect();
+
+  try {
+    await client.query('BEGIN');
+
+    await client.query(
+      `DELETE FROM layer_relations WHERE id = $1`,
+      [relId]
+    );
+
+    await client.query(`
+      DELETE FROM layers as ly
+      WHERE ly.id = $1 
+      AND NOT EXISTS (
+        SELECT 1
+        FROM layer_relations as lr
+        WHERE lr.layer_id = ly.id
+      )`,
+      [layerId]
+    )
+    await client.query('COMMIT');
+
+  } catch (error) {
+    await client.query('ROLLBACK');
+    throw error;
+  } finally {
+    client.release();
+  }
+}
+
 async function saveLayer(userId, title, relations) {
   const client = await pool.connect();
   // Handle operations as transaction
@@ -61,4 +92,7 @@ async function getLayerRelations(layerId) {
   return relsResult.rows;
 }
 
-export { getUserLayersRelations, saveLayer, deleteLayer, getLayerRelations }
+export {
+  getUserLayersRelations, saveLayer, deleteLayer, getLayerRelations,
+  deleteRelation
+}
