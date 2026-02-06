@@ -16,6 +16,13 @@ async function deleteLayer(layerId) {
     DELETE FROM layers WHERE id = $1`, [layerId])
 }
 
+async function changeLayerTitle(layerId, newTitle) {
+  await pool.query(`
+    UPDATE layers 
+    SET title = $2
+    WHERE id = $1`, [layerId, newTitle])
+}
+
 async function deleteRelations(layerId, relsIds) {
   const client = await pool.connect();
 
@@ -94,5 +101,5 @@ async function getLayerRelations(layerId) {
 
 export {
   getUserLayersRelations, saveLayer, deleteLayer, getLayerRelations,
-  deleteRelations
+  deleteRelations, changeLayerTitle
 }
