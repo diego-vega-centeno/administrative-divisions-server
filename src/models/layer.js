@@ -17,10 +17,12 @@ async function deleteLayer(layerId) {
 }
 
 async function changeLayerTitle(layerId, newTitle) {
-  await pool.query(`
+  const response = await pool.query(`
     UPDATE layers 
     SET title = $2
-    WHERE id = $1`, [layerId, newTitle])
+    WHERE id = $1
+    RETURNING title`, [layerId, newTitle]);
+  return response.rows[0].title;
 }
 
 async function deleteRelations(layerId, relsIds) {

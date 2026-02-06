@@ -72,8 +72,11 @@ router.put('/:layerId/update/title', async (req, res, next) => {
   try {
     const { layerId } = req.params;
     const newTitle = req.body.newTitle;
-    await changeLayerTitle(layerId, newTitle);
-    return res.sendStatus(204);
+    const updatedTitle = await changeLayerTitle(layerId, newTitle);
+    return res.status(201).json({
+      message: 'Layer title updated',
+      data: { updatedTitle }
+    });
   } catch (error) {
     next(error)
   }
