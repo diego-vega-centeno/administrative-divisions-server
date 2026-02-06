@@ -1,7 +1,7 @@
 import express from 'express';
 import {
   getUserLayersRelations, saveLayer, deleteLayer,
-  getLayerRelations, deleteRelations
+  getLayerRelations, deleteRelations, changeLayerTitle
 } from '../models/layer.js';
 import { authenticateJWT } from '../middleware/auth.js';
 import validate from '../middleware/validate.js';
@@ -61,6 +61,18 @@ router.delete('/:layerId/rels', async (req, res, next) => {
     const { layerId } = req.params;
     const relsIds = req.body.relsIds;
     await deleteRelations(layerId, relsIds);
+    return res.sendStatus(204);
+  } catch (error) {
+    next(error)
+  }
+})
+
+// PUT /layer/:layerId/update/title - Update layer title
+router.put('/:layerId/update/title', async (req, res, next) => {
+  try {
+    const { layerId } = req.params;
+    const newTitle = req.body.newTitle;
+    await changeLayerTitle(layerId, newTitle);
     return res.sendStatus(204);
   } catch (error) {
     next(error)
