@@ -1,0 +1,506 @@
+[
+  {
+    "id": "10488187",
+    "parent": "184633",
+    "text": "Sudurpashchim Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10489132",
+    "parent": "184633",
+    "text": "Koshi Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10489317",
+    "parent": "184633",
+    "text": "Bagamati Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10489318",
+    "parent": "184633",
+    "text": "Madhesh Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10489605",
+    "parent": "184633",
+    "text": "Gandaki Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10493722",
+    "parent": "184633",
+    "text": "Lumbini Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "10493723",
+    "parent": "184633",
+    "text": "Karnali Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "4586285",
+    "parent": "10488187",
+    "text": "Achham",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586286",
+    "parent": "10488187",
+    "text": "Kanchanpur District",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586287",
+    "parent": "10488187",
+    "text": "Kailali",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586288",
+    "parent": "10488187",
+    "text": "Dadeldhura",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586289",
+    "parent": "10488187",
+    "text": "Doti",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586290",
+    "parent": "10488187",
+    "text": "Darchula District (Nepal)",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586291",
+    "parent": "10488187",
+    "text": "Bajhang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586292",
+    "parent": "10488187",
+    "text": "Bajura",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586293",
+    "parent": "10488187",
+    "text": "Baitadi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589462",
+    "parent": "10489132",
+    "text": "Udayapur",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589463",
+    "parent": "10489132",
+    "text": "Okhaldhunga",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589464",
+    "parent": "10489132",
+    "text": "Khotang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589465",
+    "parent": "10489132",
+    "text": "Tehrathum",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589466",
+    "parent": "10489132",
+    "text": "Dhankuta",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589467",
+    "parent": "10489132",
+    "text": "Bhojpur",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589468",
+    "parent": "10489132",
+    "text": "Morang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589469",
+    "parent": "10489132",
+    "text": "Sankhuwasabha",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589472",
+    "parent": "10489132",
+    "text": "Sunsari",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589473",
+    "parent": "10489132",
+    "text": "Solukhumbu",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589476",
+    "parent": "10489132",
+    "text": "Ilam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589478",
+    "parent": "10489132",
+    "text": "Taplejung",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589479",
+    "parent": "10489132",
+    "text": "Panchthar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7522458",
+    "parent": "10489132",
+    "text": "Jhapa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589412",
+    "parent": "10489318",
+    "text": "Dhanusha",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589413",
+    "parent": "10489318",
+    "text": "Parsa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589414",
+    "parent": "10489318",
+    "text": "Bara",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589416",
+    "parent": "10489318",
+    "text": "Mahottari",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589418",
+    "parent": "10489318",
+    "text": "Rautahat",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589419",
+    "parent": "10489318",
+    "text": "Sarlahi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589470",
+    "parent": "10489318",
+    "text": "Saptari",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589471",
+    "parent": "10489318",
+    "text": "Siraha",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588143",
+    "parent": "10489605",
+    "text": "Parbat",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588144",
+    "parent": "10489605",
+    "text": "Baglung",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588145",
+    "parent": "10489605",
+    "text": "Mustang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588146",
+    "parent": "10489605",
+    "text": "Myagdi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588149",
+    "parent": "10489605",
+    "text": "Kaski",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588150",
+    "parent": "10489605",
+    "text": "Gorkha",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588151",
+    "parent": "10489605",
+    "text": "Tanahun",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588152",
+    "parent": "10489605",
+    "text": "Manang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4588153",
+    "parent": "10489605",
+    "text": "Lamjung",
+    "admin_level": "6"
+  },
+  {
+    "id": "5691338",
+    "parent": "10489605",
+    "text": "Syangja",
+    "admin_level": "6"
+  },
+  {
+    "id": "10489606",
+    "parent": "10489605",
+    "text": "Nawalpur District",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586049",
+    "parent": "10493722",
+    "text": "Rupandehi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586360",
+    "parent": "10493722",
+    "text": "Dang",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586362",
+    "parent": "10493722",
+    "text": "Pyuthan",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586363",
+    "parent": "10493722",
+    "text": "Bardiya",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586364",
+    "parent": "10493722",
+    "text": "Nepalgunj",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586367",
+    "parent": "10493722",
+    "text": "Rolpa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589557",
+    "parent": "10493722",
+    "text": "Arghakhanchi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589558",
+    "parent": "10493722",
+    "text": "Kapilvastu",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589559",
+    "parent": "10493722",
+    "text": "Gulmi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589560",
+    "parent": "10493722",
+    "text": "Nawalparasi W",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589561",
+    "parent": "10493722",
+    "text": "Palpa",
+    "admin_level": "6"
+  },
+  {
+    "id": "10624408",
+    "parent": "10493722",
+    "text": "Eastern Rukum",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586357",
+    "parent": "10493723",
+    "text": "Jajarkot",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586359",
+    "parent": "10493723",
+    "text": "Dolpa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586361",
+    "parent": "10493723",
+    "text": "Kalikot",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586365",
+    "parent": "10493723",
+    "text": "Mugu",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586368",
+    "parent": "10493723",
+    "text": "Salyan",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586369",
+    "parent": "10493723",
+    "text": "Surkhet",
+    "admin_level": "6"
+  },
+  {
+    "id": "4586370",
+    "parent": "10493723",
+    "text": "Humla",
+    "admin_level": "6"
+  },
+  {
+    "id": "10493724",
+    "parent": "10493723",
+    "text": "Western Rukum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "12228031",
+    "parent": "10493723",
+    "text": "Dailekh",
+    "admin_level": "6"
+  },
+  {
+    "id": "15588737",
+    "parent": "10493723",
+    "text": "Jumla",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583247",
+    "parent": "10489317",
+    "text": "Kathmandu",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583248",
+    "parent": "10489317",
+    "text": "Kavrepalanchok",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583249",
+    "parent": "10489317",
+    "text": "Dhading",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583250",
+    "parent": "10489317",
+    "text": "Nuwakot",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583251",
+    "parent": "10489317",
+    "text": "Bhaktapur",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583252",
+    "parent": "10489317",
+    "text": "Rasuwa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583253",
+    "parent": "10489317",
+    "text": "Lalitpur",
+    "admin_level": "6"
+  },
+  {
+    "id": "4583254",
+    "parent": "10489317",
+    "text": "Sindhupalchowk",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589410",
+    "parent": "10489317",
+    "text": "Chitwan",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589411",
+    "parent": "10489317",
+    "text": "Dolakha",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589415",
+    "parent": "10489317",
+    "text": "Makwanpur",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589417",
+    "parent": "10489317",
+    "text": "Ramechhap",
+    "admin_level": "6"
+  },
+  {
+    "id": "4589420",
+    "parent": "10489317",
+    "text": "Sindhuli",
+    "admin_level": "6"
+  }
+]

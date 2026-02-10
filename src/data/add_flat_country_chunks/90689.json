@@ -1,0 +1,254 @@
+[
+  {
+    "id": "55466",
+    "parent": "90689",
+    "text": "Bistri\u021ba-N\u0103s\u0103ud",
+    "admin_level": "4"
+  },
+  {
+    "id": "72481",
+    "parent": "90689",
+    "text": "Maramure\u0219",
+    "admin_level": "4"
+  },
+  {
+    "id": "72482",
+    "parent": "90689",
+    "text": "Satu Mare",
+    "admin_level": "4"
+  },
+  {
+    "id": "91685",
+    "parent": "90689",
+    "text": "S\u0103laj",
+    "admin_level": "4"
+  },
+  {
+    "id": "91731",
+    "parent": "90689",
+    "text": "Bihor",
+    "admin_level": "4"
+  },
+  {
+    "id": "91733",
+    "parent": "90689",
+    "text": "Cluj",
+    "admin_level": "4"
+  },
+  {
+    "id": "194271",
+    "parent": "90689",
+    "text": "Alba",
+    "admin_level": "4"
+  },
+  {
+    "id": "377733",
+    "parent": "90689",
+    "text": "Bucharest",
+    "admin_level": "4"
+  },
+  {
+    "id": "2077868",
+    "parent": "90689",
+    "text": "Suceava",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248573",
+    "parent": "90689",
+    "text": "Mure\u0219",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248586",
+    "parent": "90689",
+    "text": "Sibiu",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248612",
+    "parent": "90689",
+    "text": "Bra\u0219ov",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248621",
+    "parent": "90689",
+    "text": "Covasna",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248660",
+    "parent": "90689",
+    "text": "Harghita",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248675",
+    "parent": "90689",
+    "text": "Neam\u021b",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248681",
+    "parent": "90689",
+    "text": "Bac\u0103u",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248721",
+    "parent": "90689",
+    "text": "Arad",
+    "admin_level": "4"
+  },
+  {
+    "id": "2248737",
+    "parent": "90689",
+    "text": "Hunedoara",
+    "admin_level": "4"
+  },
+  {
+    "id": "2256729",
+    "parent": "90689",
+    "text": "Boto\u0219ani",
+    "admin_level": "4"
+  },
+  {
+    "id": "2256747",
+    "parent": "90689",
+    "text": "Ia\u0219i",
+    "admin_level": "4"
+  },
+  {
+    "id": "2256753",
+    "parent": "90689",
+    "text": "Vaslui",
+    "admin_level": "4"
+  },
+  {
+    "id": "2260187",
+    "parent": "90689",
+    "text": "Vrancea",
+    "admin_level": "4"
+  },
+  {
+    "id": "2260192",
+    "parent": "90689",
+    "text": "Gala\u021bi",
+    "admin_level": "4"
+  },
+  {
+    "id": "2261275",
+    "parent": "90689",
+    "text": "Gorj",
+    "admin_level": "4"
+  },
+  {
+    "id": "2261289",
+    "parent": "90689",
+    "text": "V\u00e2lcea",
+    "admin_level": "4"
+  },
+  {
+    "id": "2261315",
+    "parent": "90689",
+    "text": "Arge\u0219",
+    "admin_level": "4"
+  },
+  {
+    "id": "2355471",
+    "parent": "90689",
+    "text": "D\u00e2mbovi\u021ba",
+    "admin_level": "4"
+  },
+  {
+    "id": "2355507",
+    "parent": "90689",
+    "text": "Prahova",
+    "admin_level": "4"
+  },
+  {
+    "id": "2355511",
+    "parent": "90689",
+    "text": "Buz\u0103u",
+    "admin_level": "4"
+  },
+  {
+    "id": "2355512",
+    "parent": "90689",
+    "text": "Br\u0103ila",
+    "admin_level": "4"
+  },
+  {
+    "id": "2355517",
+    "parent": "90689",
+    "text": "Ialomi\u021ba",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366863",
+    "parent": "90689",
+    "text": "Timi\u0219",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366873",
+    "parent": "90689",
+    "text": "Cara\u0219-Severin",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366962",
+    "parent": "90689",
+    "text": "Mehedin\u021bi",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366970",
+    "parent": "90689",
+    "text": "Dolj",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366978",
+    "parent": "90689",
+    "text": "Olt",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366986",
+    "parent": "90689",
+    "text": "Teleorman",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366987",
+    "parent": "90689",
+    "text": "Giurgiu",
+    "admin_level": "4"
+  },
+  {
+    "id": "2366996",
+    "parent": "90689",
+    "text": "Ilfov",
+    "admin_level": "4"
+  },
+  {
+    "id": "2367015",
+    "parent": "90689",
+    "text": "C\u0103l\u0103ra\u0219i",
+    "admin_level": "4"
+  },
+  {
+    "id": "2367022",
+    "parent": "90689",
+    "text": "Constan\u021ba",
+    "admin_level": "4"
+  },
+  {
+    "id": "2367044",
+    "parent": "90689",
+    "text": "Tulcea",
+    "admin_level": "4"
+  }
+]

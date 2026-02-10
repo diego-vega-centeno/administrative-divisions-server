@@ -1,0 +1,206 @@
+[
+  {
+    "id": "1674535",
+    "parent": "303427",
+    "text": "Badakhshan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674541",
+    "parent": "303427",
+    "text": "Takhar Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674544",
+    "parent": "303427",
+    "text": "Nuristan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674564",
+    "parent": "303427",
+    "text": "Kunduz Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674567",
+    "parent": "303427",
+    "text": "Kandahar Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674573",
+    "parent": "303427",
+    "text": "Helmand Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674607",
+    "parent": "303427",
+    "text": "Kunar Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674664",
+    "parent": "303427",
+    "text": "Nimruz Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674766",
+    "parent": "303427",
+    "text": "Laghman Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674767",
+    "parent": "303427",
+    "text": "Kapisa Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674770",
+    "parent": "303427",
+    "text": "Nangarhar Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674782",
+    "parent": "303427",
+    "text": "Parwan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674785",
+    "parent": "303427",
+    "text": "Baghlan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674791",
+    "parent": "303427",
+    "text": "Samangan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674795",
+    "parent": "303427",
+    "text": "Balkh Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674800",
+    "parent": "303427",
+    "text": "Jowzjan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674802",
+    "parent": "303427",
+    "text": "Farah Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674803",
+    "parent": "303427",
+    "text": "Herat Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674811",
+    "parent": "303427",
+    "text": "Badghis Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674814",
+    "parent": "303427",
+    "text": "Faryab Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674816",
+    "parent": "303427",
+    "text": "Ghor Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674833",
+    "parent": "303427",
+    "text": "Daykundi Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674841",
+    "parent": "303427",
+    "text": "Zabul Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674849",
+    "parent": "303427",
+    "text": "Bamyan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674874",
+    "parent": "303427",
+    "text": "Logar Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674876",
+    "parent": "303427",
+    "text": "Kabul Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674878",
+    "parent": "303427",
+    "text": "Khost Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674882",
+    "parent": "303427",
+    "text": "Paktia Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674993",
+    "parent": "303427",
+    "text": "Uruzgan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1674994",
+    "parent": "303427",
+    "text": "Sar-e Pol Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1675032",
+    "parent": "303427",
+    "text": "Panjshir Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1675047",
+    "parent": "303427",
+    "text": "Paktika Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1675048",
+    "parent": "303427",
+    "text": "Ghazni Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1759757",
+    "parent": "303427",
+    "text": "Maidan Wardak Province",
+    "admin_level": "4"
+  }
+]

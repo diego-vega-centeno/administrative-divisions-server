@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7742426",
+    "parent": "536900",
+    "text": "Barbuda",
+    "admin_level": "4"
+  },
+  {
+    "id": "7742427",
+    "parent": "536900",
+    "text": "Redonda",
+    "admin_level": "4"
+  },
+  {
+    "id": "9604138",
+    "parent": "536900",
+    "text": "Antigua",
+    "admin_level": "4"
+  },
+  {
+    "id": "9604456",
+    "parent": "9604138",
+    "text": "Saint Philip",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604457",
+    "parent": "9604138",
+    "text": "Saint Mary",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604629",
+    "parent": "9604138",
+    "text": "Saint Paul",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604794",
+    "parent": "9604138",
+    "text": "Saint Peter",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604932",
+    "parent": "9604138",
+    "text": "Saint John",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604933",
+    "parent": "9604138",
+    "text": "Saint George",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604136",
+    "parent": "7742427",
+    "text": "Redonda",
+    "admin_level": "6"
+  },
+  {
+    "id": "9604459",
+    "parent": "7742426",
+    "text": "Barbuda",
+    "admin_level": "6"
+  }
+]

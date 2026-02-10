@@ -1,0 +1,7436 @@
+[
+  {
+    "id": "107886",
+    "parent": "108089",
+    "text": "Azuay",
+    "admin_level": "4"
+  },
+  {
+    "id": "108088",
+    "parent": "108089",
+    "text": "Loja",
+    "admin_level": "4"
+  },
+  {
+    "id": "108326",
+    "parent": "108089",
+    "text": "Zamora Chinchipe",
+    "admin_level": "4"
+  },
+  {
+    "id": "108521",
+    "parent": "108089",
+    "text": "Morona Santiago",
+    "admin_level": "4"
+  },
+  {
+    "id": "108720",
+    "parent": "108089",
+    "text": "Ca\u00f1ar",
+    "admin_level": "4"
+  },
+  {
+    "id": "108860",
+    "parent": "108089",
+    "text": "Chimborazo",
+    "admin_level": "4"
+  },
+  {
+    "id": "108899",
+    "parent": "108089",
+    "text": "Bol\u00edvar",
+    "admin_level": "4"
+  },
+  {
+    "id": "109248",
+    "parent": "108089",
+    "text": "Los R\u00edos",
+    "admin_level": "4"
+  },
+  {
+    "id": "109441",
+    "parent": "108089",
+    "text": "Santa Elena Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "109468",
+    "parent": "108089",
+    "text": "Guayas",
+    "admin_level": "4"
+  },
+  {
+    "id": "112910",
+    "parent": "108089",
+    "text": "Manab\u00ed",
+    "admin_level": "4"
+  },
+  {
+    "id": "113237",
+    "parent": "108089",
+    "text": "Esmeraldas",
+    "admin_level": "4"
+  },
+  {
+    "id": "113442",
+    "parent": "108089",
+    "text": "Tungurahua",
+    "admin_level": "4"
+  },
+  {
+    "id": "113721",
+    "parent": "108089",
+    "text": "Santo Domingo de los Ts\u00e1chilas",
+    "admin_level": "4"
+  },
+  {
+    "id": "113722",
+    "parent": "108089",
+    "text": "Pichincha",
+    "admin_level": "4"
+  },
+  {
+    "id": "113869",
+    "parent": "108089",
+    "text": "Pastaza",
+    "admin_level": "4"
+  },
+  {
+    "id": "113982",
+    "parent": "108089",
+    "text": "Imbabura",
+    "admin_level": "4"
+  },
+  {
+    "id": "114048",
+    "parent": "108089",
+    "text": "Carchi",
+    "admin_level": "4"
+  },
+  {
+    "id": "114245",
+    "parent": "108089",
+    "text": "Orellana",
+    "admin_level": "4"
+  },
+  {
+    "id": "114276",
+    "parent": "108089",
+    "text": "Napo",
+    "admin_level": "4"
+  },
+  {
+    "id": "114574",
+    "parent": "108089",
+    "text": "Sucumb\u00edos",
+    "admin_level": "4"
+  },
+  {
+    "id": "958681",
+    "parent": "108089",
+    "text": "El Oro",
+    "admin_level": "4"
+  },
+  {
+    "id": "963072",
+    "parent": "108089",
+    "text": "Cotopaxi",
+    "admin_level": "4"
+  },
+  {
+    "id": "1628150",
+    "parent": "108089",
+    "text": "Gal\u00e1pagos",
+    "admin_level": "4"
+  },
+  {
+    "id": "1640266",
+    "parent": "1628150",
+    "text": "Cant\u00f3n Isabela",
+    "admin_level": "6"
+  },
+  {
+    "id": "2677049",
+    "parent": "1628150",
+    "text": "Cant\u00f3n San Crist\u00f3bal",
+    "admin_level": "6"
+  },
+  {
+    "id": "2677050",
+    "parent": "1628150",
+    "text": "Cant\u00f3n Santa Cruz",
+    "admin_level": "6"
+  },
+  {
+    "id": "109442",
+    "parent": "109468",
+    "text": "Playas",
+    "admin_level": "6"
+  },
+  {
+    "id": "109443",
+    "parent": "109468",
+    "text": "Guayaquil",
+    "admin_level": "6"
+  },
+  {
+    "id": "109445",
+    "parent": "109468",
+    "text": "Balao",
+    "admin_level": "6"
+  },
+  {
+    "id": "109447",
+    "parent": "109468",
+    "text": "Daule",
+    "admin_level": "6"
+  },
+  {
+    "id": "109448",
+    "parent": "109468",
+    "text": "San Jacinto de Yaguachi",
+    "admin_level": "6"
+  },
+  {
+    "id": "109449",
+    "parent": "109468",
+    "text": "Balzar",
+    "admin_level": "6"
+  },
+  {
+    "id": "109450",
+    "parent": "109468",
+    "text": "Milagro",
+    "admin_level": "6"
+  },
+  {
+    "id": "109451",
+    "parent": "109468",
+    "text": "Samborond\u00f3n",
+    "admin_level": "6"
+  },
+  {
+    "id": "109452",
+    "parent": "109468",
+    "text": "Salitre",
+    "admin_level": "6"
+  },
+  {
+    "id": "109453",
+    "parent": "109468",
+    "text": "El Empalme",
+    "admin_level": "6"
+  },
+  {
+    "id": "109454",
+    "parent": "109468",
+    "text": "Naranjito",
+    "admin_level": "6"
+  },
+  {
+    "id": "109455",
+    "parent": "109468",
+    "text": "Dur\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "109456",
+    "parent": "109468",
+    "text": "Coronel Marcelino Maridue\u00f1a",
+    "admin_level": "6"
+  },
+  {
+    "id": "109457",
+    "parent": "109468",
+    "text": "General Antonio Elizalde (Bucay)",
+    "admin_level": "6"
+  },
+  {
+    "id": "109458",
+    "parent": "109468",
+    "text": "Sim\u00f3n Bol\u00edvar",
+    "admin_level": "6"
+  },
+  {
+    "id": "109459",
+    "parent": "109468",
+    "text": "Alfredo Baquerizo Moreno",
+    "admin_level": "6"
+  },
+  {
+    "id": "109460",
+    "parent": "109468",
+    "text": "Nobol",
+    "admin_level": "6"
+  },
+  {
+    "id": "109461",
+    "parent": "109468",
+    "text": "Lomas de Sargentillo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109463",
+    "parent": "109468",
+    "text": "Pedro Carbo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109464",
+    "parent": "109468",
+    "text": "Colimes",
+    "admin_level": "6"
+  },
+  {
+    "id": "109465",
+    "parent": "109468",
+    "text": "Palestina",
+    "admin_level": "6"
+  },
+  {
+    "id": "109466",
+    "parent": "109468",
+    "text": "Santa Luc\u00eda",
+    "admin_level": "6"
+  },
+  {
+    "id": "285105",
+    "parent": "109468",
+    "text": "El Triunfo",
+    "admin_level": "6"
+  },
+  {
+    "id": "965884",
+    "parent": "109468",
+    "text": "Naranjal",
+    "admin_level": "6"
+  },
+  {
+    "id": "1768491",
+    "parent": "109468",
+    "text": "Isidro Ayora",
+    "admin_level": "6"
+  },
+  {
+    "id": "112888",
+    "parent": "112910",
+    "text": "Puerto L\u00f3pez",
+    "admin_level": "6"
+  },
+  {
+    "id": "112890",
+    "parent": "112910",
+    "text": "Paj\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "112892",
+    "parent": "112910",
+    "text": "24 de Mayo",
+    "admin_level": "6"
+  },
+  {
+    "id": "112893",
+    "parent": "112910",
+    "text": "Santa Ana",
+    "admin_level": "6"
+  },
+  {
+    "id": "112894",
+    "parent": "112910",
+    "text": "Montecristi",
+    "admin_level": "6"
+  },
+  {
+    "id": "112895",
+    "parent": "112910",
+    "text": "Manta",
+    "admin_level": "6"
+  },
+  {
+    "id": "112897",
+    "parent": "112910",
+    "text": "Portoviejo",
+    "admin_level": "6"
+  },
+  {
+    "id": "112898",
+    "parent": "112910",
+    "text": "Rocafuerte",
+    "admin_level": "6"
+  },
+  {
+    "id": "112899",
+    "parent": "112910",
+    "text": "Jun\u00edn",
+    "admin_level": "6"
+  },
+  {
+    "id": "112900",
+    "parent": "112910",
+    "text": "Bol\u00edvar",
+    "admin_level": "6"
+  },
+  {
+    "id": "112901",
+    "parent": "112910",
+    "text": "Pichincha",
+    "admin_level": "6"
+  },
+  {
+    "id": "112902",
+    "parent": "112910",
+    "text": "Sucre",
+    "admin_level": "6"
+  },
+  {
+    "id": "112903",
+    "parent": "112910",
+    "text": "Tosagua",
+    "admin_level": "6"
+  },
+  {
+    "id": "112904",
+    "parent": "112910",
+    "text": "Chone",
+    "admin_level": "6"
+  },
+  {
+    "id": "112905",
+    "parent": "112910",
+    "text": "San Vicente",
+    "admin_level": "6"
+  },
+  {
+    "id": "112906",
+    "parent": "112910",
+    "text": "El Carmen",
+    "admin_level": "6"
+  },
+  {
+    "id": "112908",
+    "parent": "112910",
+    "text": "Pedernales",
+    "admin_level": "6"
+  },
+  {
+    "id": "112909",
+    "parent": "112910",
+    "text": "Flavio Alfaro",
+    "admin_level": "6"
+  },
+  {
+    "id": "281843",
+    "parent": "112910",
+    "text": "Jipijapa",
+    "admin_level": "6"
+  },
+  {
+    "id": "286794",
+    "parent": "112910",
+    "text": "Olmedo",
+    "admin_level": "6"
+  },
+  {
+    "id": "286801",
+    "parent": "112910",
+    "text": "Jaramij\u00f3",
+    "admin_level": "6"
+  },
+  {
+    "id": "286820",
+    "parent": "112910",
+    "text": "Jama",
+    "admin_level": "6"
+  },
+  {
+    "id": "109438",
+    "parent": "109441",
+    "text": "Salinas",
+    "admin_level": "6"
+  },
+  {
+    "id": "109439",
+    "parent": "109441",
+    "text": "La Libertad",
+    "admin_level": "6"
+  },
+  {
+    "id": "109440",
+    "parent": "109441",
+    "text": "Elena Canton",
+    "admin_level": "6"
+  },
+  {
+    "id": "108075",
+    "parent": "108088",
+    "text": "Puyango",
+    "admin_level": "6"
+  },
+  {
+    "id": "108087",
+    "parent": "108088",
+    "text": "Zapotillo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108103",
+    "parent": "108088",
+    "text": "Celica",
+    "admin_level": "6"
+  },
+  {
+    "id": "108104",
+    "parent": "108088",
+    "text": "Macar\u00e1",
+    "admin_level": "6"
+  },
+  {
+    "id": "108105",
+    "parent": "108088",
+    "text": "Pindal",
+    "admin_level": "6"
+  },
+  {
+    "id": "108118",
+    "parent": "108088",
+    "text": "Sozoranga",
+    "admin_level": "6"
+  },
+  {
+    "id": "108119",
+    "parent": "108088",
+    "text": "Calvas",
+    "admin_level": "6"
+  },
+  {
+    "id": "108120",
+    "parent": "108088",
+    "text": "Espindola",
+    "admin_level": "6"
+  },
+  {
+    "id": "108121",
+    "parent": "108088",
+    "text": "Quilanga",
+    "admin_level": "6"
+  },
+  {
+    "id": "108205",
+    "parent": "108088",
+    "text": "Chaguarpamba",
+    "admin_level": "6"
+  },
+  {
+    "id": "108209",
+    "parent": "108088",
+    "text": "Paltas",
+    "admin_level": "6"
+  },
+  {
+    "id": "108265",
+    "parent": "108088",
+    "text": "Olmedo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108271",
+    "parent": "108088",
+    "text": "Catamayo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108289",
+    "parent": "108088",
+    "text": "Loja",
+    "admin_level": "6"
+  },
+  {
+    "id": "108296",
+    "parent": "108088",
+    "text": "Gonzanama",
+    "admin_level": "6"
+  },
+  {
+    "id": "108298",
+    "parent": "108088",
+    "text": "Saraguro",
+    "admin_level": "6"
+  },
+  {
+    "id": "108327",
+    "parent": "108326",
+    "text": "Chinchipe",
+    "admin_level": "6"
+  },
+  {
+    "id": "108328",
+    "parent": "108326",
+    "text": "Palanda",
+    "admin_level": "6"
+  },
+  {
+    "id": "108329",
+    "parent": "108326",
+    "text": "Nangaritza",
+    "admin_level": "6"
+  },
+  {
+    "id": "108330",
+    "parent": "108326",
+    "text": "Zamora",
+    "admin_level": "6"
+  },
+  {
+    "id": "108331",
+    "parent": "108326",
+    "text": "Centinela del C\u00f3ndor",
+    "admin_level": "6"
+  },
+  {
+    "id": "108332",
+    "parent": "108326",
+    "text": "Paquisha",
+    "admin_level": "6"
+  },
+  {
+    "id": "108334",
+    "parent": "108326",
+    "text": "Yacuambi",
+    "admin_level": "6"
+  },
+  {
+    "id": "108335",
+    "parent": "108326",
+    "text": "Yantzaza",
+    "admin_level": "6"
+  },
+  {
+    "id": "108336",
+    "parent": "108326",
+    "text": "El Pangui",
+    "admin_level": "6"
+  },
+  {
+    "id": "107885",
+    "parent": "958681",
+    "text": "Pasaje",
+    "admin_level": "6"
+  },
+  {
+    "id": "107888",
+    "parent": "958681",
+    "text": "El Guabo",
+    "admin_level": "6"
+  },
+  {
+    "id": "107889",
+    "parent": "958681",
+    "text": "Machala",
+    "admin_level": "6"
+  },
+  {
+    "id": "107890",
+    "parent": "958681",
+    "text": "Chilla",
+    "admin_level": "6"
+  },
+  {
+    "id": "107900",
+    "parent": "958681",
+    "text": "Huaquillas",
+    "admin_level": "6"
+  },
+  {
+    "id": "107901",
+    "parent": "958681",
+    "text": "Santa Rosa",
+    "admin_level": "6"
+  },
+  {
+    "id": "108003",
+    "parent": "958681",
+    "text": "Zaruma",
+    "admin_level": "6"
+  },
+  {
+    "id": "108009",
+    "parent": "958681",
+    "text": "Portovelo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108014",
+    "parent": "958681",
+    "text": "Atahualpa",
+    "admin_level": "6"
+  },
+  {
+    "id": "108015",
+    "parent": "958681",
+    "text": "Arenillas",
+    "admin_level": "6"
+  },
+  {
+    "id": "108041",
+    "parent": "958681",
+    "text": "Pi\u00f1as",
+    "admin_level": "6"
+  },
+  {
+    "id": "108042",
+    "parent": "958681",
+    "text": "Balsas",
+    "admin_level": "6"
+  },
+  {
+    "id": "108043",
+    "parent": "958681",
+    "text": "Marcabel\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "108044",
+    "parent": "958681",
+    "text": "Las Lajas",
+    "admin_level": "6"
+  },
+  {
+    "id": "107275",
+    "parent": "107886",
+    "text": "Sevilla de Oro",
+    "admin_level": "6"
+  },
+  {
+    "id": "107286",
+    "parent": "107886",
+    "text": "El Pan",
+    "admin_level": "6"
+  },
+  {
+    "id": "107287",
+    "parent": "107886",
+    "text": "Guachapala",
+    "admin_level": "6"
+  },
+  {
+    "id": "107288",
+    "parent": "107886",
+    "text": "Paute",
+    "admin_level": "6"
+  },
+  {
+    "id": "107289",
+    "parent": "107886",
+    "text": "Gualaceo",
+    "admin_level": "6"
+  },
+  {
+    "id": "107291",
+    "parent": "107886",
+    "text": "Chordeleg",
+    "admin_level": "6"
+  },
+  {
+    "id": "107292",
+    "parent": "107886",
+    "text": "Sigsig",
+    "admin_level": "6"
+  },
+  {
+    "id": "107296",
+    "parent": "107886",
+    "text": "Nab\u00f3n",
+    "admin_level": "6"
+  },
+  {
+    "id": "107299",
+    "parent": "107886",
+    "text": "O\u00f1a",
+    "admin_level": "6"
+  },
+  {
+    "id": "107303",
+    "parent": "107886",
+    "text": "Gir\u00f3n",
+    "admin_level": "6"
+  },
+  {
+    "id": "107343",
+    "parent": "107886",
+    "text": "Santa Isabel",
+    "admin_level": "6"
+  },
+  {
+    "id": "107347",
+    "parent": "107886",
+    "text": "San Fernando",
+    "admin_level": "6"
+  },
+  {
+    "id": "107362",
+    "parent": "107886",
+    "text": "Pucar\u00e1",
+    "admin_level": "6"
+  },
+  {
+    "id": "107724",
+    "parent": "107886",
+    "text": "Cuenca",
+    "admin_level": "6"
+  },
+  {
+    "id": "2674970",
+    "parent": "107886",
+    "text": "Camilo Ponce Enr\u00edquez",
+    "admin_level": "6"
+  },
+  {
+    "id": "108522",
+    "parent": "108521",
+    "text": "Gualaquiza",
+    "admin_level": "6"
+  },
+  {
+    "id": "108523",
+    "parent": "108521",
+    "text": "San Juan Bosco",
+    "admin_level": "6"
+  },
+  {
+    "id": "108524",
+    "parent": "108521",
+    "text": "Lim\u00f3n Indanza",
+    "admin_level": "6"
+  },
+  {
+    "id": "108525",
+    "parent": "108521",
+    "text": "Tiwintza",
+    "admin_level": "6"
+  },
+  {
+    "id": "108526",
+    "parent": "108521",
+    "text": "Santiago de M\u00e9ndez",
+    "admin_level": "6"
+  },
+  {
+    "id": "108527",
+    "parent": "108521",
+    "text": "Suc\u00faa",
+    "admin_level": "6"
+  },
+  {
+    "id": "108528",
+    "parent": "108521",
+    "text": "Logro\u00f1o",
+    "admin_level": "6"
+  },
+  {
+    "id": "108529",
+    "parent": "108521",
+    "text": "Morona",
+    "admin_level": "6"
+  },
+  {
+    "id": "108530",
+    "parent": "108521",
+    "text": "Pablo Sexto",
+    "admin_level": "6"
+  },
+  {
+    "id": "108531",
+    "parent": "108521",
+    "text": "Palora",
+    "admin_level": "6"
+  },
+  {
+    "id": "108532",
+    "parent": "108521",
+    "text": "Huamboya",
+    "admin_level": "6"
+  },
+  {
+    "id": "3718294",
+    "parent": "108521",
+    "text": "Taisha",
+    "admin_level": "6"
+  },
+  {
+    "id": "108900",
+    "parent": "108899",
+    "text": "Chillanes",
+    "admin_level": "6"
+  },
+  {
+    "id": "108901",
+    "parent": "108899",
+    "text": "San Miguel",
+    "admin_level": "6"
+  },
+  {
+    "id": "108903",
+    "parent": "108899",
+    "text": "Caluma",
+    "admin_level": "6"
+  },
+  {
+    "id": "108904",
+    "parent": "108899",
+    "text": "Echeand\u00eda",
+    "admin_level": "6"
+  },
+  {
+    "id": "108905",
+    "parent": "108899",
+    "text": "Las Naves",
+    "admin_level": "6"
+  },
+  {
+    "id": "108906",
+    "parent": "108899",
+    "text": "Guaranda",
+    "admin_level": "6"
+  },
+  {
+    "id": "3728204",
+    "parent": "108899",
+    "text": "Chimbo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109249",
+    "parent": "109248",
+    "text": "Montalvo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109250",
+    "parent": "109248",
+    "text": "Babahoyo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109251",
+    "parent": "109248",
+    "text": "Baba",
+    "admin_level": "6"
+  },
+  {
+    "id": "109253",
+    "parent": "109248",
+    "text": "Puebloviejo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109254",
+    "parent": "109248",
+    "text": "Palenque",
+    "admin_level": "6"
+  },
+  {
+    "id": "109255",
+    "parent": "109248",
+    "text": "Vinces",
+    "admin_level": "6"
+  },
+  {
+    "id": "109256",
+    "parent": "109248",
+    "text": "Mocache",
+    "admin_level": "6"
+  },
+  {
+    "id": "109257",
+    "parent": "109248",
+    "text": "Quevedo",
+    "admin_level": "6"
+  },
+  {
+    "id": "109258",
+    "parent": "109248",
+    "text": "Ventanas",
+    "admin_level": "6"
+  },
+  {
+    "id": "109259",
+    "parent": "109248",
+    "text": "Valencia",
+    "admin_level": "6"
+  },
+  {
+    "id": "1776536",
+    "parent": "109248",
+    "text": "Quinsaloma",
+    "admin_level": "6"
+  },
+  {
+    "id": "3747811",
+    "parent": "109248",
+    "text": "Buena Fe",
+    "admin_level": "6"
+  },
+  {
+    "id": "3747812",
+    "parent": "109248",
+    "text": "Urdaneta",
+    "admin_level": "6"
+  },
+  {
+    "id": "113433",
+    "parent": "113442",
+    "text": "Ambato",
+    "admin_level": "6"
+  },
+  {
+    "id": "113434",
+    "parent": "113442",
+    "text": "Tisaleo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113436",
+    "parent": "113442",
+    "text": "Quero",
+    "admin_level": "6"
+  },
+  {
+    "id": "113437",
+    "parent": "113442",
+    "text": "Cevallos",
+    "admin_level": "6"
+  },
+  {
+    "id": "113438",
+    "parent": "113442",
+    "text": "Pelileo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113439",
+    "parent": "113442",
+    "text": "Patate",
+    "admin_level": "6"
+  },
+  {
+    "id": "113441",
+    "parent": "113442",
+    "text": "Santiago de Pillaro",
+    "admin_level": "6"
+  },
+  {
+    "id": "2676918",
+    "parent": "113442",
+    "text": "Mocha",
+    "admin_level": "6"
+  },
+  {
+    "id": "3824006",
+    "parent": "113442",
+    "text": "Ba\u00f1os",
+    "admin_level": "6"
+  },
+  {
+    "id": "113712",
+    "parent": "113722",
+    "text": "Machachi",
+    "admin_level": "6"
+  },
+  {
+    "id": "113713",
+    "parent": "113722",
+    "text": "Sangolqui",
+    "admin_level": "6"
+  },
+  {
+    "id": "113714",
+    "parent": "113722",
+    "text": "Quito Canton",
+    "admin_level": "6"
+  },
+  {
+    "id": "113715",
+    "parent": "113722",
+    "text": "Pedro Moncayo Canton",
+    "admin_level": "6"
+  },
+  {
+    "id": "113716",
+    "parent": "113722",
+    "text": "Cayambe",
+    "admin_level": "6"
+  },
+  {
+    "id": "113717",
+    "parent": "113722",
+    "text": "San Miguel de Los Bancos",
+    "admin_level": "6"
+  },
+  {
+    "id": "113718",
+    "parent": "113722",
+    "text": "Pedro Vicente Maldonado",
+    "admin_level": "6"
+  },
+  {
+    "id": "113719",
+    "parent": "113722",
+    "text": "Puerto Quito",
+    "admin_level": "6"
+  },
+  {
+    "id": "113865",
+    "parent": "113869",
+    "text": "Mera",
+    "admin_level": "6"
+  },
+  {
+    "id": "113866",
+    "parent": "113869",
+    "text": "Santa Clara",
+    "admin_level": "6"
+  },
+  {
+    "id": "113867",
+    "parent": "113869",
+    "text": "Arajuno",
+    "admin_level": "6"
+  },
+  {
+    "id": "2678135",
+    "parent": "113869",
+    "text": "Pastaza",
+    "admin_level": "6"
+  },
+  {
+    "id": "114241",
+    "parent": "114245",
+    "text": "Aguarico",
+    "admin_level": "6"
+  },
+  {
+    "id": "114242",
+    "parent": "114245",
+    "text": "Francisco de Orellana",
+    "admin_level": "6"
+  },
+  {
+    "id": "114243",
+    "parent": "114245",
+    "text": "Joya de los Sachas",
+    "admin_level": "6"
+  },
+  {
+    "id": "114244",
+    "parent": "114245",
+    "text": "Loreto",
+    "admin_level": "6"
+  },
+  {
+    "id": "114271",
+    "parent": "114276",
+    "text": "Carlos Julio Arosemena Tola",
+    "admin_level": "6"
+  },
+  {
+    "id": "114272",
+    "parent": "114276",
+    "text": "Tena",
+    "admin_level": "6"
+  },
+  {
+    "id": "114273",
+    "parent": "114276",
+    "text": "Archidona",
+    "admin_level": "6"
+  },
+  {
+    "id": "114275",
+    "parent": "114276",
+    "text": "El Chaco",
+    "admin_level": "6"
+  },
+  {
+    "id": "229594",
+    "parent": "114276",
+    "text": "Quijos",
+    "admin_level": "6"
+  },
+  {
+    "id": "114561",
+    "parent": "114574",
+    "text": "Sucumb\u00edos",
+    "admin_level": "6"
+  },
+  {
+    "id": "114562",
+    "parent": "114574",
+    "text": "Gonzalo Pizarro",
+    "admin_level": "6"
+  },
+  {
+    "id": "114563",
+    "parent": "114574",
+    "text": "Cascales",
+    "admin_level": "6"
+  },
+  {
+    "id": "114564",
+    "parent": "114574",
+    "text": "Lago Agrio",
+    "admin_level": "6"
+  },
+  {
+    "id": "114565",
+    "parent": "114574",
+    "text": "Shushufindi",
+    "admin_level": "6"
+  },
+  {
+    "id": "114566",
+    "parent": "114574",
+    "text": "Putumayo",
+    "admin_level": "6"
+  },
+  {
+    "id": "114567",
+    "parent": "114574",
+    "text": "Cuyabeno",
+    "admin_level": "6"
+  },
+  {
+    "id": "108713",
+    "parent": "108720",
+    "text": "La Troncal",
+    "admin_level": "6"
+  },
+  {
+    "id": "108714",
+    "parent": "108720",
+    "text": "Suscal",
+    "admin_level": "6"
+  },
+  {
+    "id": "108715",
+    "parent": "108720",
+    "text": "El Tambo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108716",
+    "parent": "108720",
+    "text": "Biblian",
+    "admin_level": "6"
+  },
+  {
+    "id": "108717",
+    "parent": "108720",
+    "text": "Deleg",
+    "admin_level": "6"
+  },
+  {
+    "id": "108718",
+    "parent": "108720",
+    "text": "Azogues",
+    "admin_level": "6"
+  },
+  {
+    "id": "919715",
+    "parent": "108720",
+    "text": "Ca\u00f1ar",
+    "admin_level": "6"
+  },
+  {
+    "id": "108859",
+    "parent": "108860",
+    "text": "Chunchi",
+    "admin_level": "6"
+  },
+  {
+    "id": "108861",
+    "parent": "108860",
+    "text": "Cumanda",
+    "admin_level": "6"
+  },
+  {
+    "id": "108862",
+    "parent": "108860",
+    "text": "Alaus\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "108863",
+    "parent": "108860",
+    "text": "Pallatanga",
+    "admin_level": "6"
+  },
+  {
+    "id": "108864",
+    "parent": "108860",
+    "text": "Guamote",
+    "admin_level": "6"
+  },
+  {
+    "id": "108865",
+    "parent": "108860",
+    "text": "Colta",
+    "admin_level": "6"
+  },
+  {
+    "id": "108866",
+    "parent": "108860",
+    "text": "Chambo",
+    "admin_level": "6"
+  },
+  {
+    "id": "108867",
+    "parent": "108860",
+    "text": "Riobamba",
+    "admin_level": "6"
+  },
+  {
+    "id": "108868",
+    "parent": "108860",
+    "text": "Guano",
+    "admin_level": "6"
+  },
+  {
+    "id": "2675164",
+    "parent": "108860",
+    "text": "Penipe",
+    "admin_level": "6"
+  },
+  {
+    "id": "288325",
+    "parent": "113721",
+    "text": "La Concordia",
+    "admin_level": "6"
+  },
+  {
+    "id": "8009485",
+    "parent": "113721",
+    "text": "Santo Domingo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113397",
+    "parent": "963072",
+    "text": "Pangua",
+    "admin_level": "6"
+  },
+  {
+    "id": "113398",
+    "parent": "963072",
+    "text": "Pujil\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "113399",
+    "parent": "963072",
+    "text": "Salcedo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113400",
+    "parent": "963072",
+    "text": "Latacunga",
+    "admin_level": "6"
+  },
+  {
+    "id": "113402",
+    "parent": "963072",
+    "text": "Sigchos",
+    "admin_level": "6"
+  },
+  {
+    "id": "113403",
+    "parent": "963072",
+    "text": "La Man\u00e1",
+    "admin_level": "6"
+  },
+  {
+    "id": "562970",
+    "parent": "963072",
+    "text": "Saquisil\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "113236",
+    "parent": "113237",
+    "text": "Muisne",
+    "admin_level": "6"
+  },
+  {
+    "id": "113238",
+    "parent": "113237",
+    "text": "Atacames",
+    "admin_level": "6"
+  },
+  {
+    "id": "113239",
+    "parent": "113237",
+    "text": "Esmeraldas",
+    "admin_level": "6"
+  },
+  {
+    "id": "113240",
+    "parent": "113237",
+    "text": "Quinind\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "113241",
+    "parent": "113237",
+    "text": "R\u00edo Verde",
+    "admin_level": "6"
+  },
+  {
+    "id": "2675277",
+    "parent": "113237",
+    "text": "Eloy Alfaro",
+    "admin_level": "6"
+  },
+  {
+    "id": "2675459",
+    "parent": "113237",
+    "text": "San Lorenzo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113981",
+    "parent": "113982",
+    "text": "Otavalo",
+    "admin_level": "6"
+  },
+  {
+    "id": "113983",
+    "parent": "113982",
+    "text": "Ibarra",
+    "admin_level": "6"
+  },
+  {
+    "id": "113984",
+    "parent": "113982",
+    "text": "Pimampiro",
+    "admin_level": "6"
+  },
+  {
+    "id": "113985",
+    "parent": "113982",
+    "text": "Atuntaqui",
+    "admin_level": "6"
+  },
+  {
+    "id": "113986",
+    "parent": "113982",
+    "text": "San Miguel de Urcuqu\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "1779682",
+    "parent": "113982",
+    "text": "Cotacachi",
+    "admin_level": "6"
+  },
+  {
+    "id": "114042",
+    "parent": "114048",
+    "text": "Bol\u00edvar",
+    "admin_level": "6"
+  },
+  {
+    "id": "114043",
+    "parent": "114048",
+    "text": "Mont\u00fafar",
+    "admin_level": "6"
+  },
+  {
+    "id": "114044",
+    "parent": "114048",
+    "text": "San Pedro de Huaca",
+    "admin_level": "6"
+  },
+  {
+    "id": "114045",
+    "parent": "114048",
+    "text": "Tulc\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "114046",
+    "parent": "114048",
+    "text": "Mira",
+    "admin_level": "6"
+  },
+  {
+    "id": "114047",
+    "parent": "114048",
+    "text": "Espejo",
+    "admin_level": "6"
+  },
+  {
+    "id": "1640265",
+    "parent": "1640266",
+    "text": "Parroquia Puerto Villamil",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677057",
+    "parent": "1640266",
+    "text": "Parroquia Tom\u00e1s de Berlanga (Santo Tom\u00e1s)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677052",
+    "parent": "2677049",
+    "text": "Parroquia El Progresso",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677053",
+    "parent": "2677049",
+    "text": "Parroquia Isla Santa Mar\u00eda (Floreana) (Cab. en Pto. Velasco Ibarra)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677055",
+    "parent": "2677049",
+    "text": "Parroquia Puerto Baquerizo Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677051",
+    "parent": "2677050",
+    "text": "Parroquia Bella Vista",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677054",
+    "parent": "2677050",
+    "text": "Parroquia Puerto Ayora",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677056",
+    "parent": "2677050",
+    "text": "Parroquia Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "279102",
+    "parent": "109438",
+    "text": "Salinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "279136",
+    "parent": "109438",
+    "text": "Parroquia Jos\u00e9 Luis Tamayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "279158",
+    "parent": "109438",
+    "text": "Parroquia Anconcito",
+    "admin_level": "8"
+  },
+  {
+    "id": "278708",
+    "parent": "109440",
+    "text": "Parroquia Manglaralto",
+    "admin_level": "8"
+  },
+  {
+    "id": "278716",
+    "parent": "109440",
+    "text": "Parroquia Colonche",
+    "admin_level": "8"
+  },
+  {
+    "id": "278738",
+    "parent": "109440",
+    "text": "Chanduy",
+    "admin_level": "8"
+  },
+  {
+    "id": "279550",
+    "parent": "109440",
+    "text": "Santa Elena",
+    "admin_level": "8"
+  },
+  {
+    "id": "279587",
+    "parent": "109440",
+    "text": "Atahualpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "280279",
+    "parent": "109440",
+    "text": "Parroquia Sim\u00f3n Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675935",
+    "parent": "109440",
+    "text": "Parroquia San Jose de Ancon",
+    "admin_level": "8"
+  },
+  {
+    "id": "281084",
+    "parent": "112888",
+    "text": "Parroquia Puerto L\u00f3pez",
+    "admin_level": "8"
+  },
+  {
+    "id": "281085",
+    "parent": "112888",
+    "text": "Parroquia Salango",
+    "admin_level": "8"
+  },
+  {
+    "id": "281236",
+    "parent": "112888",
+    "text": "Parroquia Machalilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "282270",
+    "parent": "112890",
+    "text": "Parroquia Paj\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "282275",
+    "parent": "112890",
+    "text": "Parroquia Campozano",
+    "admin_level": "8"
+  },
+  {
+    "id": "282276",
+    "parent": "112890",
+    "text": "Parroquia Cascol",
+    "admin_level": "8"
+  },
+  {
+    "id": "282626",
+    "parent": "112890",
+    "text": "Parroquia Guale",
+    "admin_level": "8"
+  },
+  {
+    "id": "282627",
+    "parent": "112890",
+    "text": "Parroquia Lascano",
+    "admin_level": "8"
+  },
+  {
+    "id": "282082",
+    "parent": "112893",
+    "text": "Parroquia Santa Ana de Vuelta Larga",
+    "admin_level": "8"
+  },
+  {
+    "id": "282254",
+    "parent": "112893",
+    "text": "Parroquia La Uni\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656410",
+    "parent": "112893",
+    "text": "Ayacucho",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656411",
+    "parent": "112893",
+    "text": "Honorato Vasquez (Cab. en Vasquez)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656412",
+    "parent": "112893",
+    "text": "San Pablo de Pueblo Nuevo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282069",
+    "parent": "112894",
+    "text": "La Pila",
+    "admin_level": "8"
+  },
+  {
+    "id": "286800",
+    "parent": "112894",
+    "text": "Montecristi",
+    "admin_level": "8"
+  },
+  {
+    "id": "280722",
+    "parent": "281843",
+    "text": "Parroquia Pedro Pablo G\u00f3mez",
+    "admin_level": "8"
+  },
+  {
+    "id": "281815",
+    "parent": "281843",
+    "text": "Membrillal",
+    "admin_level": "8"
+  },
+  {
+    "id": "281816",
+    "parent": "281843",
+    "text": "Parroquia Julcuy",
+    "admin_level": "8"
+  },
+  {
+    "id": "281842",
+    "parent": "281843",
+    "text": "Puerto de Cayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "281845",
+    "parent": "281843",
+    "text": "Jipijapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "282093",
+    "parent": "281843",
+    "text": "Parroquia Am\u00e9rica",
+    "admin_level": "8"
+  },
+  {
+    "id": "282261",
+    "parent": "281843",
+    "text": "Parroquia La Union",
+    "admin_level": "8"
+  },
+  {
+    "id": "282269",
+    "parent": "281843",
+    "text": "Parroquia El Anegado",
+    "admin_level": "8"
+  },
+  {
+    "id": "282078",
+    "parent": "112897",
+    "text": "Portoviejo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282079",
+    "parent": "112897",
+    "text": "Crucita",
+    "admin_level": "8"
+  },
+  {
+    "id": "282081",
+    "parent": "112897",
+    "text": "Abd\u00f3n Calder\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "282085",
+    "parent": "112897",
+    "text": "Parroquia Pueblo Nuevo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282086",
+    "parent": "112897",
+    "text": "Parroquia R\u00edo Chico",
+    "admin_level": "8"
+  },
+  {
+    "id": "282087",
+    "parent": "112897",
+    "text": "Alhajuela",
+    "admin_level": "8"
+  },
+  {
+    "id": "282250",
+    "parent": "112897",
+    "text": "Parroquia Chirijos",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668396",
+    "parent": "112897",
+    "text": "San Pl\u00e1cido",
+    "admin_level": "8"
+  },
+  {
+    "id": "282068",
+    "parent": "112895",
+    "text": "San Lorenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282072",
+    "parent": "112895",
+    "text": "Santa Marianita",
+    "admin_level": "8"
+  },
+  {
+    "id": "18357350",
+    "parent": "112895",
+    "text": "Manta",
+    "admin_level": "8"
+  },
+  {
+    "id": "282067",
+    "parent": "286801",
+    "text": "Jaramij\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650964",
+    "parent": "108120",
+    "text": "27 de Abril",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650965",
+    "parent": "108120",
+    "text": "El Ingenio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650983",
+    "parent": "108120",
+    "text": "El Airo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650987",
+    "parent": "108120",
+    "text": "Amaluza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650988",
+    "parent": "108120",
+    "text": "Bellavista",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650989",
+    "parent": "108120",
+    "text": "Jimbura",
+    "admin_level": "8"
+  },
+  {
+    "id": "6907764",
+    "parent": "108120",
+    "text": "Santa Teresita",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676970",
+    "parent": "108327",
+    "text": "Chito",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676971",
+    "parent": "108327",
+    "text": "El Chorro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676972",
+    "parent": "108327",
+    "text": "La Chonta",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676973",
+    "parent": "108327",
+    "text": "Pucapamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676974",
+    "parent": "108327",
+    "text": "San Andr\u00e9s",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676975",
+    "parent": "108327",
+    "text": "Zumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722656",
+    "parent": "108328",
+    "text": "El Porvenir del Carmen",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722657",
+    "parent": "108328",
+    "text": "Palanda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722658",
+    "parent": "108328",
+    "text": "Valladolid",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723204",
+    "parent": "108328",
+    "text": "La Canela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723205",
+    "parent": "108328",
+    "text": "San Francisco del Vergel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723248",
+    "parent": "108329",
+    "text": "Guayzimi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723249",
+    "parent": "108329",
+    "text": "Zurmi",
+    "admin_level": "8"
+  },
+  {
+    "id": "7916593",
+    "parent": "108329",
+    "text": "Nuevo Paraiso",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652085",
+    "parent": "108015",
+    "text": "Arenillas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652086",
+    "parent": "108015",
+    "text": "Carcabon",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652087",
+    "parent": "108015",
+    "text": "Chacras",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652088",
+    "parent": "108015",
+    "text": "Palmales",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674280",
+    "parent": "108041",
+    "text": "Capiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674281",
+    "parent": "108041",
+    "text": "La Bocana",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674282",
+    "parent": "108041",
+    "text": "Moromoro (Cab. en el Vado)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674283",
+    "parent": "108041",
+    "text": "Piedras",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674284",
+    "parent": "108041",
+    "text": "Pi\u00f1as",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674285",
+    "parent": "108041",
+    "text": "San Roque (Ambrosio Maldonado)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674286",
+    "parent": "108041",
+    "text": "Saracay",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640753",
+    "parent": "108075",
+    "text": "El Limo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640766",
+    "parent": "108075",
+    "text": "Alamor",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640784",
+    "parent": "108075",
+    "text": "Ciano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640785",
+    "parent": "108075",
+    "text": "El Arenal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642537",
+    "parent": "108075",
+    "text": "Mercadillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642538",
+    "parent": "108075",
+    "text": "Vicentino",
+    "admin_level": "8"
+  },
+  {
+    "id": "3634989",
+    "parent": "108087",
+    "text": "Parroquia Limones",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640617",
+    "parent": "108087",
+    "text": "Mangahurco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640631",
+    "parent": "108087",
+    "text": "Bolaspamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640636",
+    "parent": "108087",
+    "text": "Garzareal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640637",
+    "parent": "108087",
+    "text": "Paletillas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640640",
+    "parent": "108087",
+    "text": "Zapotillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "15864659",
+    "parent": "108087",
+    "text": "Cazaderos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642547",
+    "parent": "108103",
+    "text": "Sabanilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642562",
+    "parent": "108103",
+    "text": "Tnte. Maximiliano Rodriguez Loaiza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642673",
+    "parent": "108103",
+    "text": "Cruzpamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642838",
+    "parent": "108103",
+    "text": "San Juan de P\u00f3zul",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642842",
+    "parent": "108103",
+    "text": "Celica",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642908",
+    "parent": "108104",
+    "text": "La Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642909",
+    "parent": "108104",
+    "text": "Larama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642910",
+    "parent": "108104",
+    "text": "Sabiango",
+    "admin_level": "8"
+  },
+  {
+    "id": "3642912",
+    "parent": "108104",
+    "text": "Macar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3643603",
+    "parent": "108118",
+    "text": "Tacamoros",
+    "admin_level": "8"
+  },
+  {
+    "id": "3643618",
+    "parent": "108118",
+    "text": "Sozoranga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3643639",
+    "parent": "108118",
+    "text": "Nueva F\u00e1tima",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644104",
+    "parent": "108119",
+    "text": "Colaisaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644117",
+    "parent": "108119",
+    "text": "Parroquia Cariamanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644118",
+    "parent": "108119",
+    "text": "El Lucero",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644119",
+    "parent": "108119",
+    "text": "Sanguillin",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644120",
+    "parent": "108119",
+    "text": "Parroquia Utuana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644138",
+    "parent": "108209",
+    "text": "Lauro Guerrero",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644139",
+    "parent": "108209",
+    "text": "Orianga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644140",
+    "parent": "108209",
+    "text": "Cangonama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644146",
+    "parent": "108209",
+    "text": "Casanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644147",
+    "parent": "108209",
+    "text": "Guachanama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644151",
+    "parent": "108209",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644152",
+    "parent": "108209",
+    "text": "Yamana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644153",
+    "parent": "108209",
+    "text": "Catacocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640679",
+    "parent": "108105",
+    "text": "12 de Diciembre",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640680",
+    "parent": "108105",
+    "text": "Chaquinal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640681",
+    "parent": "108105",
+    "text": "Pindal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3640734",
+    "parent": "108105",
+    "text": "Milagros",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652077",
+    "parent": "108044",
+    "text": "El Para\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652078",
+    "parent": "108044",
+    "text": "La Libertad",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652079",
+    "parent": "108044",
+    "text": "La Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009753",
+    "parent": "108044",
+    "text": "Dos Quebradas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736062",
+    "parent": "108043",
+    "text": "Marcabel\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4027001",
+    "parent": "108043",
+    "text": "El Ingenio",
+    "admin_level": "8"
+  },
+  {
+    "id": "2649318",
+    "parent": "108042",
+    "text": "Balsas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818101",
+    "parent": "108042",
+    "text": "Bellamaria",
+    "admin_level": "8"
+  },
+  {
+    "id": "3644985",
+    "parent": "108205",
+    "text": "Santa Rufina",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645014",
+    "parent": "108205",
+    "text": "Buenavista",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645024",
+    "parent": "108205",
+    "text": "Amarillos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645025",
+    "parent": "108205",
+    "text": "Chaguarpamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645026",
+    "parent": "108205",
+    "text": "El Rosario",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651034",
+    "parent": "108271",
+    "text": "Catamayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651035",
+    "parent": "108271",
+    "text": "El Tambo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651036",
+    "parent": "108271",
+    "text": "Guayquichuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651037",
+    "parent": "108271",
+    "text": "San Pedro de la Bendita",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651038",
+    "parent": "108271",
+    "text": "Zambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651090",
+    "parent": "108289",
+    "text": "Loja",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651091",
+    "parent": "108289",
+    "text": "Malacatos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651092",
+    "parent": "108289",
+    "text": "Quinara",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651093",
+    "parent": "108289",
+    "text": "San Pedro de Vilcabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651094",
+    "parent": "108289",
+    "text": "Vilcabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651095",
+    "parent": "108289",
+    "text": "Yangana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651099",
+    "parent": "108289",
+    "text": "Taquil",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651147",
+    "parent": "108289",
+    "text": "Chantaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651148",
+    "parent": "108289",
+    "text": "Chuquiribamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651149",
+    "parent": "108289",
+    "text": "El Cisne",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651150",
+    "parent": "108289",
+    "text": "Gualel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651151",
+    "parent": "108289",
+    "text": "Jimbilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651152",
+    "parent": "108289",
+    "text": "San Lucas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651153",
+    "parent": "108289",
+    "text": "Santiago",
+    "admin_level": "8"
+  },
+  {
+    "id": "3647831",
+    "parent": "108296",
+    "text": "Changaimina",
+    "admin_level": "8"
+  },
+  {
+    "id": "3647832",
+    "parent": "108296",
+    "text": "Gonzaman\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3647833",
+    "parent": "108296",
+    "text": "Nambacola",
+    "admin_level": "8"
+  },
+  {
+    "id": "3647834",
+    "parent": "108296",
+    "text": "Purunuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3647835",
+    "parent": "108296",
+    "text": "Sacapalca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723305",
+    "parent": "108330",
+    "text": "Cumbaratza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723306",
+    "parent": "108330",
+    "text": "Guadalupe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723307",
+    "parent": "108330",
+    "text": "Imbana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723308",
+    "parent": "108330",
+    "text": "Sabanilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723309",
+    "parent": "108330",
+    "text": "San Carlos de las Minas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723310",
+    "parent": "108330",
+    "text": "Timbara",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723311",
+    "parent": "108330",
+    "text": "Zamora",
+    "admin_level": "8"
+  },
+  {
+    "id": "2650760",
+    "parent": "108334",
+    "text": "28 de Mayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2650761",
+    "parent": "108334",
+    "text": "La Paz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2650762",
+    "parent": "108334",
+    "text": "Tutupali",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723236",
+    "parent": "108335",
+    "text": "Chica\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723237",
+    "parent": "108335",
+    "text": "Los Encuentros",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723238",
+    "parent": "108335",
+    "text": "Yantzaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650941",
+    "parent": "108121",
+    "text": "Fundochamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650942",
+    "parent": "108121",
+    "text": "Quilanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3650943",
+    "parent": "108121",
+    "text": "San Antonio de Las Aradas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645886",
+    "parent": "108265",
+    "text": "La Tingue",
+    "admin_level": "8"
+  },
+  {
+    "id": "3645887",
+    "parent": "108265",
+    "text": "Olmedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736085",
+    "parent": "108009",
+    "text": "Curtincapac",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736086",
+    "parent": "108009",
+    "text": "Morales",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736087",
+    "parent": "108009",
+    "text": "Portovelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736088",
+    "parent": "108009",
+    "text": "Salat\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818077",
+    "parent": "108332",
+    "text": "Bellavista",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818081",
+    "parent": "108332",
+    "text": "Nuevo Quito",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818084",
+    "parent": "108332",
+    "text": "Paquisha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654680",
+    "parent": "107885",
+    "text": "Buena Vista",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654681",
+    "parent": "107885",
+    "text": "Ca\u00f1aquemada",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654682",
+    "parent": "107885",
+    "text": "La Pea\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654683",
+    "parent": "107885",
+    "text": "Pasaje",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654684",
+    "parent": "107885",
+    "text": "Progreso",
+    "admin_level": "8"
+  },
+  {
+    "id": "2654685",
+    "parent": "107885",
+    "text": "Uzhcurrumi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675235",
+    "parent": "107885",
+    "text": "Casacay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2653225",
+    "parent": "107888",
+    "text": "La Iberia",
+    "admin_level": "8"
+  },
+  {
+    "id": "2670339",
+    "parent": "107888",
+    "text": "Barbones (Sucre)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2670340",
+    "parent": "107888",
+    "text": "El Guabo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2670342",
+    "parent": "107888",
+    "text": "Rio Bonito",
+    "admin_level": "8"
+  },
+  {
+    "id": "2670343",
+    "parent": "107888",
+    "text": "Tendales (Cab. en Puerto Tendales)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2653224",
+    "parent": "107889",
+    "text": "El Retiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2670341",
+    "parent": "107889",
+    "text": "Machala",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652140",
+    "parent": "107901",
+    "text": "Bellamar\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652141",
+    "parent": "107901",
+    "text": "Bellavista",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652142",
+    "parent": "107901",
+    "text": "Jambel\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652143",
+    "parent": "107901",
+    "text": "La Avanzada",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652144",
+    "parent": "107901",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652145",
+    "parent": "107901",
+    "text": "Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652146",
+    "parent": "107901",
+    "text": "Torata",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652147",
+    "parent": "107901",
+    "text": "Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648134",
+    "parent": "108014",
+    "text": "Milagro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648135",
+    "parent": "108014",
+    "text": "San Jos\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648137",
+    "parent": "108014",
+    "text": "Cordoncillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648138",
+    "parent": "108014",
+    "text": "Ayapamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648143",
+    "parent": "108014",
+    "text": "San Juan de Cerro Azul",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675216",
+    "parent": "108014",
+    "text": "Paccha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674985",
+    "parent": "2674970",
+    "text": "Camilo Ponce Enr\u00edquez",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674986",
+    "parent": "2674970",
+    "text": "El Carmen de Pijili",
+    "admin_level": "8"
+  },
+  {
+    "id": "3720919",
+    "parent": "108529",
+    "text": "Cuchaentza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722556",
+    "parent": "108529",
+    "text": "Alshi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722557",
+    "parent": "108529",
+    "text": "General Proa\u00f1o",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722569",
+    "parent": "108529",
+    "text": "R\u00edo Blanco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722570",
+    "parent": "108529",
+    "text": "San Isidro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722571",
+    "parent": "108529",
+    "text": "Sevilla Don Bosco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3722572",
+    "parent": "108529",
+    "text": "Sina\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "6038377",
+    "parent": "108529",
+    "text": "Zu\u00f1ac",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009755",
+    "parent": "108529",
+    "text": "Macas",
+    "admin_level": "8"
+  },
+  {
+    "id": "109467",
+    "parent": "109443",
+    "text": "Tenguel",
+    "admin_level": "8"
+  },
+  {
+    "id": "284878",
+    "parent": "109443",
+    "text": "Pun\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "2403848",
+    "parent": "109443",
+    "text": "Guayaquil",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675714",
+    "parent": "109443",
+    "text": "Juan G\u00f3mez Rend\u00f3n (Progeso)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675715",
+    "parent": "109443",
+    "text": "Morro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675716",
+    "parent": "109443",
+    "text": "Posorja",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652281",
+    "parent": "109443",
+    "text": "Guayaquil",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673245",
+    "parent": "113714",
+    "text": "La Merced",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673246",
+    "parent": "113714",
+    "text": "Pifo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673247",
+    "parent": "113714",
+    "text": "Pintag",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673274",
+    "parent": "113714",
+    "text": "Alangasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673275",
+    "parent": "113714",
+    "text": "Conocoto",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673303",
+    "parent": "113714",
+    "text": "Guangopolo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673304",
+    "parent": "113714",
+    "text": "Tumbaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673307",
+    "parent": "113714",
+    "text": "Cumbaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673310",
+    "parent": "113714",
+    "text": "Nayon",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673315",
+    "parent": "113714",
+    "text": "Zambiza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673318",
+    "parent": "113714",
+    "text": "Llano Chico",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673329",
+    "parent": "113714",
+    "text": "Calderon",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673363",
+    "parent": "113714",
+    "text": "Guayllabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673409",
+    "parent": "113714",
+    "text": "Puembo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673411",
+    "parent": "113714",
+    "text": "Tababela",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673412",
+    "parent": "113714",
+    "text": "Yaruqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673415",
+    "parent": "113714",
+    "text": "Checa - Chilpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673416",
+    "parent": "113714",
+    "text": "El Quinche",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673425",
+    "parent": "113714",
+    "text": "Lloa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673430",
+    "parent": "113714",
+    "text": "Nono",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673440",
+    "parent": "113714",
+    "text": "Pomasqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673446",
+    "parent": "113714",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673447",
+    "parent": "113714",
+    "text": "Puellaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673455",
+    "parent": "113714",
+    "text": "Atahualpa (Babaspamba)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673456",
+    "parent": "113714",
+    "text": "Chavezpamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673457",
+    "parent": "113714",
+    "text": "Perucho",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673480",
+    "parent": "113714",
+    "text": "Calacali",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673481",
+    "parent": "113714",
+    "text": "Nanegal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673482",
+    "parent": "113714",
+    "text": "Nanegalito",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673483",
+    "parent": "113714",
+    "text": "San Jose de Minas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673489",
+    "parent": "113714",
+    "text": "Gualea",
+    "admin_level": "8"
+  },
+  {
+    "id": "2673490",
+    "parent": "113714",
+    "text": "Pacto",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009658",
+    "parent": "113714",
+    "text": "Amagua\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723774",
+    "parent": "113867",
+    "text": "Arajuno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723775",
+    "parent": "113867",
+    "text": "Curaray",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724004",
+    "parent": "114242",
+    "text": "Alejandro Labaka",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724005",
+    "parent": "114242",
+    "text": "Dayuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724006",
+    "parent": "114242",
+    "text": "El Dorado",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724007",
+    "parent": "114242",
+    "text": "El Ed\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724008",
+    "parent": "114242",
+    "text": "Garc\u00eda Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724009",
+    "parent": "114242",
+    "text": "In\u00e9s Arango",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724010",
+    "parent": "114242",
+    "text": "La Belleza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724011",
+    "parent": "114242",
+    "text": "Nuevo Para\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724012",
+    "parent": "114242",
+    "text": "Puerto Francisco de Orellana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724013",
+    "parent": "114242",
+    "text": "San Jose de Guayusa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724014",
+    "parent": "114242",
+    "text": "San Luis de Armenia",
+    "admin_level": "8"
+  },
+  {
+    "id": "3724015",
+    "parent": "114242",
+    "text": "Taracoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725852",
+    "parent": "114272",
+    "text": "Chonta Punta",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725853",
+    "parent": "114272",
+    "text": "Ahuano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725872",
+    "parent": "114272",
+    "text": "Puerto Napo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725876",
+    "parent": "114272",
+    "text": "Puerto Misahuall\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725877",
+    "parent": "114272",
+    "text": "Tena",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725946",
+    "parent": "114272",
+    "text": "T\u00e1lag",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725948",
+    "parent": "114272",
+    "text": "Pano",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676624",
+    "parent": "2678135",
+    "text": "Rio Corrientes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676625",
+    "parent": "2678135",
+    "text": "Rio Tigre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676629",
+    "parent": "2678135",
+    "text": "Montalvo (Andoas)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676633",
+    "parent": "2678135",
+    "text": "Canelos",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676634",
+    "parent": "2678135",
+    "text": "Diez de Agosto",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676635",
+    "parent": "2678135",
+    "text": "El Triunfo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676636",
+    "parent": "2678135",
+    "text": "Fatima",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676637",
+    "parent": "2678135",
+    "text": "Pomona",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676638",
+    "parent": "2678135",
+    "text": "Puyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676639",
+    "parent": "2678135",
+    "text": "Sarayacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676640",
+    "parent": "2678135",
+    "text": "Simon Bolivar",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676641",
+    "parent": "2678135",
+    "text": "Tarqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676642",
+    "parent": "2678135",
+    "text": "Teniente Hugo Ortiz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676643",
+    "parent": "2678135",
+    "text": "Veracruz (Indillama) (Cab. en Indillama)",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718293",
+    "parent": "3718294",
+    "text": "Tuutinentza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718303",
+    "parent": "3718294",
+    "text": "Huasaga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718307",
+    "parent": "3718294",
+    "text": "Taisha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718314",
+    "parent": "3718294",
+    "text": "Macuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3819286",
+    "parent": "3718294",
+    "text": "Pumpuetsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810317",
+    "parent": "107289",
+    "text": "Daniel C\u00f3rdova Toral",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810318",
+    "parent": "107289",
+    "text": "Luis Cordero Vega",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810319",
+    "parent": "107289",
+    "text": "Mariano Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810320",
+    "parent": "107289",
+    "text": "Remigo Crespo Toral",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810321",
+    "parent": "107289",
+    "text": "San Juan",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842906",
+    "parent": "107289",
+    "text": "Gualaceo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842907",
+    "parent": "107289",
+    "text": "Jad\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842908",
+    "parent": "107289",
+    "text": "Sim\u00f3n Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842909",
+    "parent": "107289",
+    "text": "Zhidmad",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842809",
+    "parent": "107292",
+    "text": "Cuchil",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842810",
+    "parent": "107292",
+    "text": "G\u00fcel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842811",
+    "parent": "107292",
+    "text": "Ludo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842812",
+    "parent": "107292",
+    "text": "San Bartolom\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842813",
+    "parent": "107292",
+    "text": "San Jos\u00e9 de Raranga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842814",
+    "parent": "107292",
+    "text": "San Miguel de Jima",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842815",
+    "parent": "107292",
+    "text": "Sigsig",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656626",
+    "parent": "107296",
+    "text": "Cochapata",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656627",
+    "parent": "107296",
+    "text": "El Progreso",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656628",
+    "parent": "107296",
+    "text": "Las Nieves (Chaya)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2656629",
+    "parent": "107296",
+    "text": "Nab\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664856",
+    "parent": "107299",
+    "text": "San Felipe de O\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664857",
+    "parent": "107299",
+    "text": "Susudel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671359",
+    "parent": "107303",
+    "text": "Asuncion",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671360",
+    "parent": "107303",
+    "text": "Giron",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671361",
+    "parent": "107303",
+    "text": "San Gerardo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664569",
+    "parent": "107343",
+    "text": "Abdon Calderon (La Union)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664570",
+    "parent": "107343",
+    "text": "San Salvador de Ca\u00f1aribamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664571",
+    "parent": "107343",
+    "text": "Santa Isabel (Chaguarurco)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664572",
+    "parent": "107343",
+    "text": "Zhaglli (Shaglli)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662059",
+    "parent": "107362",
+    "text": "Pucar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662060",
+    "parent": "107362",
+    "text": "San Rafael de Sharug",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693131",
+    "parent": "107724",
+    "text": "Llacao",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693132",
+    "parent": "107724",
+    "text": "Nulti",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693133",
+    "parent": "107724",
+    "text": "Cuenca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693190",
+    "parent": "107724",
+    "text": "Cumbe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693191",
+    "parent": "107724",
+    "text": "El Valle",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693192",
+    "parent": "107724",
+    "text": "Paccha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693193",
+    "parent": "107724",
+    "text": "Quingeo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693194",
+    "parent": "107724",
+    "text": "Santa Ana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693195",
+    "parent": "107724",
+    "text": "Tarqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693196",
+    "parent": "107724",
+    "text": "Turi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693197",
+    "parent": "107724",
+    "text": "Victoria del Portete",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693284",
+    "parent": "107724",
+    "text": "Checa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693285",
+    "parent": "107724",
+    "text": "Chiquintad",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693286",
+    "parent": "107724",
+    "text": "Octavio Cordero Palacios",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693287",
+    "parent": "107724",
+    "text": "Sidcay",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693325",
+    "parent": "107724",
+    "text": "Ba\u00f1os",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693326",
+    "parent": "107724",
+    "text": "Chaucha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693327",
+    "parent": "107724",
+    "text": "Sayaus\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3694807",
+    "parent": "107724",
+    "text": "Molleturo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3694808",
+    "parent": "107724",
+    "text": "San Joaqu\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "3755369",
+    "parent": "107724",
+    "text": "Sinincay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667918",
+    "parent": "108003",
+    "text": "Arcapamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667919",
+    "parent": "108003",
+    "text": "Guizhagui\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667920",
+    "parent": "108003",
+    "text": "Huertas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667921",
+    "parent": "108003",
+    "text": "Malvas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667922",
+    "parent": "108003",
+    "text": "Muluncay Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667923",
+    "parent": "108003",
+    "text": "Zaruma",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667942",
+    "parent": "108003",
+    "text": "Sinsao",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667949",
+    "parent": "108003",
+    "text": "Aba\u00f1in",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667950",
+    "parent": "108003",
+    "text": "Guanazan",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667951",
+    "parent": "108003",
+    "text": "Salvias",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651860",
+    "parent": "108298",
+    "text": "El Para\u00edso de Celen",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651861",
+    "parent": "108298",
+    "text": "El Tabl\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651862",
+    "parent": "108298",
+    "text": "Lluzhapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651863",
+    "parent": "108298",
+    "text": "Manu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651864",
+    "parent": "108298",
+    "text": "San Antonio de Qumbe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651865",
+    "parent": "108298",
+    "text": "San Pablo de Tenta",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651866",
+    "parent": "108298",
+    "text": "San Sebasti\u00e1n de Yuluc",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651867",
+    "parent": "108298",
+    "text": "Saraguro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651868",
+    "parent": "108298",
+    "text": "Selva Alegre",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651869",
+    "parent": "108298",
+    "text": "Sumaypamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3651870",
+    "parent": "108298",
+    "text": "Urdaneta",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661205",
+    "parent": "108522",
+    "text": "Bomboiza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661220",
+    "parent": "108522",
+    "text": "Amazonas (Rosario de Cuyes)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661221",
+    "parent": "108522",
+    "text": "Bermejos",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661222",
+    "parent": "108522",
+    "text": "Chiguinda",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661223",
+    "parent": "108522",
+    "text": "El Ideal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661224",
+    "parent": "108522",
+    "text": "El Rosario",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661225",
+    "parent": "108522",
+    "text": "Gualaquiza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661226",
+    "parent": "108522",
+    "text": "Nueva Tarqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661227",
+    "parent": "108522",
+    "text": "San Miguel de Cuyes",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810220",
+    "parent": "107347",
+    "text": "Chumbl\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810221",
+    "parent": "107347",
+    "text": "San Fernando",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664545",
+    "parent": "109448",
+    "text": "Gral. Pedro J. Montero (Boliche)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664546",
+    "parent": "109448",
+    "text": "San Jacinto de Yaguachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664547",
+    "parent": "109448",
+    "text": "Virgen de F\u00e1tima",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664548",
+    "parent": "109448",
+    "text": "Yaguachi Viejo (Cone)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674241",
+    "parent": "109451",
+    "text": "Samborond\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674242",
+    "parent": "109451",
+    "text": "Tarifa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810489",
+    "parent": "109455",
+    "text": "Duran",
+    "admin_level": "8"
+  },
+  {
+    "id": "281748",
+    "parent": "109463",
+    "text": "Parroquia Pedro Carbo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282625",
+    "parent": "109463",
+    "text": "Parroquia Valle de la Virgen",
+    "admin_level": "8"
+  },
+  {
+    "id": "283432",
+    "parent": "109463",
+    "text": "Sabanilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648533",
+    "parent": "965884",
+    "text": "Jes\u00fas Mar\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648534",
+    "parent": "965884",
+    "text": "Naranjal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648535",
+    "parent": "965884",
+    "text": "San Carlos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652286",
+    "parent": "965884",
+    "text": "Santa Rosa de Flandes",
+    "admin_level": "8"
+  },
+  {
+    "id": "3652331",
+    "parent": "965884",
+    "text": "Taura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3692998",
+    "parent": "107288",
+    "text": "Bul\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3692999",
+    "parent": "107288",
+    "text": "Chic\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693000",
+    "parent": "107288",
+    "text": "Dugdug",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693001",
+    "parent": "107288",
+    "text": "El Cabo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693002",
+    "parent": "107288",
+    "text": "Guaraynag",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693003",
+    "parent": "107288",
+    "text": "Paute",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693004",
+    "parent": "107288",
+    "text": "San Crist\u00f3bal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3693005",
+    "parent": "107288",
+    "text": "Tomebamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684276",
+    "parent": "108713",
+    "text": "La Troncal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684277",
+    "parent": "108713",
+    "text": "Manuel J. Calle",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684278",
+    "parent": "108713",
+    "text": "Pancho Negro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3687294",
+    "parent": "108716",
+    "text": "Bibli\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3687295",
+    "parent": "108716",
+    "text": "Jerusal\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3687296",
+    "parent": "108716",
+    "text": "Naz\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3687297",
+    "parent": "108716",
+    "text": "San Francisco de Sageo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3687298",
+    "parent": "108716",
+    "text": "Turupamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691736",
+    "parent": "108718",
+    "text": "Pindilig",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691737",
+    "parent": "108718",
+    "text": "Rivera",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691763",
+    "parent": "108718",
+    "text": "Azogues",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691764",
+    "parent": "108718",
+    "text": "Cojitambo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691765",
+    "parent": "108718",
+    "text": "Guap\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691766",
+    "parent": "108718",
+    "text": "Javier Loyola",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691767",
+    "parent": "108718",
+    "text": "Luis Cordero",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691768",
+    "parent": "108718",
+    "text": "San Miguel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3691769",
+    "parent": "108718",
+    "text": "Taday",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728327",
+    "parent": "108862",
+    "text": "Achupallas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728328",
+    "parent": "108862",
+    "text": "Alaus\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728329",
+    "parent": "108862",
+    "text": "Guasuntos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728330",
+    "parent": "108862",
+    "text": "Huigra",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728331",
+    "parent": "108862",
+    "text": "Multitud",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728332",
+    "parent": "108862",
+    "text": "Pistishi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728333",
+    "parent": "108862",
+    "text": "Pumallacta",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728334",
+    "parent": "108862",
+    "text": "Sevilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728335",
+    "parent": "108862",
+    "text": "Sibambe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728336",
+    "parent": "108862",
+    "text": "Tix\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728405",
+    "parent": "108864",
+    "text": "Cebadas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728406",
+    "parent": "108864",
+    "text": "Guamote",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728407",
+    "parent": "108864",
+    "text": "Palmira",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728289",
+    "parent": "108900",
+    "text": "Chillanes",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728290",
+    "parent": "108900",
+    "text": "San Jos\u00e9 del Tambo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2651069",
+    "parent": "109250",
+    "text": "Babahoyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2651070",
+    "parent": "109250",
+    "text": "Parroquia Caracol",
+    "admin_level": "8"
+  },
+  {
+    "id": "2651071",
+    "parent": "109250",
+    "text": "Febres Cordero",
+    "admin_level": "8"
+  },
+  {
+    "id": "2651072",
+    "parent": "109250",
+    "text": "Parroquia La Union",
+    "admin_level": "8"
+  },
+  {
+    "id": "2651073",
+    "parent": "109250",
+    "text": "Parroquia Pimocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674298",
+    "parent": "109458",
+    "text": "Simon Bolivar",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676078",
+    "parent": "109458",
+    "text": "Crnel. Lorenzo de Garaicoa (Pedregal)",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684555",
+    "parent": "919715",
+    "text": "Ca\u00f1ar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684556",
+    "parent": "919715",
+    "text": "Chontamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684557",
+    "parent": "919715",
+    "text": "Chorocopte",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684558",
+    "parent": "919715",
+    "text": "Ducur",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684559",
+    "parent": "919715",
+    "text": "General Morales",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684560",
+    "parent": "919715",
+    "text": "Gualleturo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684561",
+    "parent": "919715",
+    "text": "Ingapirca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684562",
+    "parent": "919715",
+    "text": "Juncal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684563",
+    "parent": "919715",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684564",
+    "parent": "919715",
+    "text": "Honorato Vazquez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684565",
+    "parent": "919715",
+    "text": "Ventura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684566",
+    "parent": "919715",
+    "text": "Zhud",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684241",
+    "parent": "108717",
+    "text": "Deleg",
+    "admin_level": "8"
+  },
+  {
+    "id": "3684242",
+    "parent": "108717",
+    "text": "Solano",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667867",
+    "parent": "109450",
+    "text": "Chobo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667868",
+    "parent": "109450",
+    "text": "Mariscal Sucre (Huaques)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667869",
+    "parent": "109450",
+    "text": "Milagro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2667870",
+    "parent": "109450",
+    "text": "Roberto Astudillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728390",
+    "parent": "108859",
+    "text": "Capsol",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728391",
+    "parent": "108859",
+    "text": "Chunchi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728392",
+    "parent": "108859",
+    "text": "Compud",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728393",
+    "parent": "108859",
+    "text": "Gonzol",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728394",
+    "parent": "108859",
+    "text": "Llagos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723225",
+    "parent": "108336",
+    "text": "El Pangui",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723226",
+    "parent": "108336",
+    "text": "Pachicutza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718317",
+    "parent": "108523",
+    "text": "San Carlos de Lim\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718328",
+    "parent": "108523",
+    "text": "San Juan Bosco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718329",
+    "parent": "108523",
+    "text": "Pan de Az\u00facar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718337",
+    "parent": "108523",
+    "text": "San Jacinto de Wakambeis",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718338",
+    "parent": "108523",
+    "text": "Santiago de Pananza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676492",
+    "parent": "108524",
+    "text": "General Leonidas Plaza Gutierrez",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676493",
+    "parent": "108524",
+    "text": "Indanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676494",
+    "parent": "108524",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676495",
+    "parent": "108524",
+    "text": "San Miguel de Conchay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676496",
+    "parent": "108524",
+    "text": "Sta Susana De Chiviaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676497",
+    "parent": "108524",
+    "text": "Yunganza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718211",
+    "parent": "108525",
+    "text": "San Jos\u00e9 de Morona",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718212",
+    "parent": "108525",
+    "text": "Santiago",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719687",
+    "parent": "108526",
+    "text": "Chupianza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719688",
+    "parent": "108526",
+    "text": "Copal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719689",
+    "parent": "108526",
+    "text": "Patuca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719690",
+    "parent": "108526",
+    "text": "San Francisco de Chinimbimi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719691",
+    "parent": "108526",
+    "text": "San Luis del Acho",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719692",
+    "parent": "108526",
+    "text": "Santiago de M\u00e9ndez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719693",
+    "parent": "108526",
+    "text": "Tayuza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718252",
+    "parent": "108528",
+    "text": "Logro\u00f1o",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718253",
+    "parent": "108528",
+    "text": "Shimpis",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718260",
+    "parent": "108528",
+    "text": "Yaupi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661109",
+    "parent": "107286",
+    "text": "El Pan",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661110",
+    "parent": "107286",
+    "text": "San Vicente",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810248",
+    "parent": "107291",
+    "text": "Chordeleg",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810249",
+    "parent": "107291",
+    "text": "La Uni\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810250",
+    "parent": "107291",
+    "text": "Luis Galarza Orellana",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810251",
+    "parent": "107291",
+    "text": "Principal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810252",
+    "parent": "107291",
+    "text": "San Martin de Puzhio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842838",
+    "parent": "107275",
+    "text": "Amaluza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842839",
+    "parent": "107275",
+    "text": "Palmas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3842840",
+    "parent": "107275",
+    "text": "Sevilla de Oro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719470",
+    "parent": "108527",
+    "text": "Asunci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719471",
+    "parent": "108527",
+    "text": "Huambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719472",
+    "parent": "108527",
+    "text": "Santa Marianita de Jes\u00fas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719473",
+    "parent": "108527",
+    "text": "Suc\u00faa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718349",
+    "parent": "108532",
+    "text": "Chiguaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3718350",
+    "parent": "108532",
+    "text": "Huamboya",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661463",
+    "parent": "109251",
+    "text": "Baba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661464",
+    "parent": "109251",
+    "text": "Guare",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661465",
+    "parent": "109251",
+    "text": "Isla de Bejucal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668069",
+    "parent": "109255",
+    "text": "Antonio Sotomayor",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668070",
+    "parent": "109255",
+    "text": "Vinces",
+    "admin_level": "8"
+  },
+  {
+    "id": "282428",
+    "parent": "109447",
+    "text": "Daule",
+    "admin_level": "8"
+  },
+  {
+    "id": "282575",
+    "parent": "109447",
+    "text": "Los Lojas",
+    "admin_level": "8"
+  },
+  {
+    "id": "282601",
+    "parent": "109447",
+    "text": "Parroquia Limonal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2649702",
+    "parent": "109447",
+    "text": "Parroquia Juan Bautista Aguirre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2649703",
+    "parent": "109447",
+    "text": "Parroquia Laurel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3765069",
+    "parent": "109447",
+    "text": "La Aurora",
+    "admin_level": "8"
+  },
+  {
+    "id": "282446",
+    "parent": "109452",
+    "text": "Parroquia Junquillal",
+    "admin_level": "8"
+  },
+  {
+    "id": "282592",
+    "parent": "109452",
+    "text": "El Salitre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2649354",
+    "parent": "109452",
+    "text": "Parroquia Gral. Vernaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2649355",
+    "parent": "109452",
+    "text": "Parroquia La Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "282301",
+    "parent": "109464",
+    "text": "Parroquia Colimes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676028",
+    "parent": "109464",
+    "text": "Colimes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676029",
+    "parent": "109464",
+    "text": "San Jacinto",
+    "admin_level": "8"
+  },
+  {
+    "id": "282091",
+    "parent": "112892",
+    "text": "Parroquia Bellavista",
+    "admin_level": "8"
+  },
+  {
+    "id": "282092",
+    "parent": "112892",
+    "text": "Parroquia Sucre",
+    "admin_level": "8"
+  },
+  {
+    "id": "282260",
+    "parent": "112892",
+    "text": "Parroquia Noboa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676485",
+    "parent": "112892",
+    "text": "Parroquia Arq. Sixto Duran Ballen",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728376",
+    "parent": "108865",
+    "text": "Cajabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728377",
+    "parent": "108865",
+    "text": "Ca\u00f1i",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728378",
+    "parent": "108865",
+    "text": "Columbe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728379",
+    "parent": "108865",
+    "text": "Juan de Velasco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728380",
+    "parent": "108865",
+    "text": "Santiago de Quito",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728541",
+    "parent": "108867",
+    "text": "Flores",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728542",
+    "parent": "108867",
+    "text": "Licto",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728543",
+    "parent": "108867",
+    "text": "Pungal\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728544",
+    "parent": "108867",
+    "text": "Pun\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728583",
+    "parent": "108867",
+    "text": "Cacha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728584",
+    "parent": "108867",
+    "text": "Calpi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728585",
+    "parent": "108867",
+    "text": "Cubij\u00edes",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728586",
+    "parent": "108867",
+    "text": "Lic\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728587",
+    "parent": "108867",
+    "text": "Qu\u00edmiag",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728588",
+    "parent": "108867",
+    "text": "Riobamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728589",
+    "parent": "108867",
+    "text": "San Juan",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728590",
+    "parent": "108867",
+    "text": "San Luis",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728299",
+    "parent": "108901",
+    "text": "Balsapamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728300",
+    "parent": "108901",
+    "text": "Bilov\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728301",
+    "parent": "108901",
+    "text": "R\u00e9gulo de Mora",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728302",
+    "parent": "108901",
+    "text": "San Miguel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728303",
+    "parent": "108901",
+    "text": "San Pablo de Atenas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728304",
+    "parent": "108901",
+    "text": "San Vicente",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728305",
+    "parent": "108901",
+    "text": "Santiago",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728257",
+    "parent": "108906",
+    "text": "Facundo Vela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728258",
+    "parent": "108906",
+    "text": "Guaranda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728259",
+    "parent": "108906",
+    "text": "Salinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728260",
+    "parent": "108906",
+    "text": "San Luis de Pambil",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728261",
+    "parent": "108906",
+    "text": "Simiatug",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728265",
+    "parent": "108906",
+    "text": "San Lorenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728267",
+    "parent": "108906",
+    "text": "San Sim\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728272",
+    "parent": "108906",
+    "text": "Julio Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728273",
+    "parent": "108906",
+    "text": "Santa Fe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818013",
+    "parent": "109253",
+    "text": "Puebloviejo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818014",
+    "parent": "109253",
+    "text": "Puerto Pechiche",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818015",
+    "parent": "109253",
+    "text": "San Juan",
+    "admin_level": "8"
+  },
+  {
+    "id": "568654",
+    "parent": "109258",
+    "text": "Zapotal",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774292",
+    "parent": "109258",
+    "text": "Ventanas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3819321",
+    "parent": "109258",
+    "text": "Chacarita",
+    "admin_level": "8"
+  },
+  {
+    "id": "3819322",
+    "parent": "109258",
+    "text": "Los \u00c1ngeles",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736482",
+    "parent": "113433",
+    "text": "Ambatillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736483",
+    "parent": "113433",
+    "text": "Ambato",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736484",
+    "parent": "113433",
+    "text": "Augusto Martinez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736485",
+    "parent": "113433",
+    "text": "Constantino Fern\u00e1ndez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736486",
+    "parent": "113433",
+    "text": "Cunchibamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736487",
+    "parent": "113433",
+    "text": "Huachi Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736488",
+    "parent": "113433",
+    "text": "Izamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736491",
+    "parent": "113433",
+    "text": "Juan Benigno Vela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736492",
+    "parent": "113433",
+    "text": "Montalvo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736493",
+    "parent": "113433",
+    "text": "Pasa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736494",
+    "parent": "113433",
+    "text": "Picaihua",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736495",
+    "parent": "113433",
+    "text": "Pilahuin",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736496",
+    "parent": "113433",
+    "text": "Quisapincha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736497",
+    "parent": "113433",
+    "text": "San Bartolom\u00e9 de Pinllo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736498",
+    "parent": "113433",
+    "text": "San Fernando",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736499",
+    "parent": "113433",
+    "text": "Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736500",
+    "parent": "113433",
+    "text": "Totoras",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736501",
+    "parent": "113433",
+    "text": "Unamuncho",
+    "admin_level": "8"
+  },
+  {
+    "id": "3736502",
+    "parent": "113433",
+    "text": "Atahualpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3727148",
+    "parent": "3728204",
+    "text": "La Magdalena",
+    "admin_level": "8"
+  },
+  {
+    "id": "3727149",
+    "parent": "3728204",
+    "text": "Telimbela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3727193",
+    "parent": "3728204",
+    "text": "Asunci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3727194",
+    "parent": "3728204",
+    "text": "San Jos\u00e9 de Chimbo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3727195",
+    "parent": "3728204",
+    "text": "San Sebasti\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774288",
+    "parent": "3747812",
+    "text": "Catarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774289",
+    "parent": "3747812",
+    "text": "Ricaurte",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661011",
+    "parent": "109453",
+    "text": "El Rosario",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661012",
+    "parent": "109453",
+    "text": "Guayas (Pueblo Nuevo)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661013",
+    "parent": "109453",
+    "text": "El Empalme",
+    "admin_level": "8"
+  },
+  {
+    "id": "282247",
+    "parent": "112900",
+    "text": "Parroquia Quiroga",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668786",
+    "parent": "112900",
+    "text": "Calceta",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668787",
+    "parent": "112900",
+    "text": "Membrillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282246",
+    "parent": "112901",
+    "text": "Parroquia Pichincha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659869",
+    "parent": "112901",
+    "text": "Barraganete",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659870",
+    "parent": "112901",
+    "text": "San Sebastian",
+    "admin_level": "8"
+  },
+  {
+    "id": "282077",
+    "parent": "112902",
+    "text": "Charapot\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "286831",
+    "parent": "112902",
+    "text": "Bah\u00eda de Car\u00e1quez",
+    "admin_level": "8"
+  },
+  {
+    "id": "282219",
+    "parent": "112904",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "282225",
+    "parent": "112904",
+    "text": "Parroquia Canuto",
+    "admin_level": "8"
+  },
+  {
+    "id": "285942",
+    "parent": "112904",
+    "text": "Parroquia Eloy Alfaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "285955",
+    "parent": "112904",
+    "text": "Boyac\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "286410",
+    "parent": "112904",
+    "text": "Parroquia Ricaurte",
+    "admin_level": "8"
+  },
+  {
+    "id": "286436",
+    "parent": "112904",
+    "text": "Parroquia Convento",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660289",
+    "parent": "112904",
+    "text": "Parroquia Chibunga",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660290",
+    "parent": "112904",
+    "text": "Chone",
+    "admin_level": "8"
+  },
+  {
+    "id": "285902",
+    "parent": "112905",
+    "text": "San Vicente",
+    "admin_level": "8"
+  },
+  {
+    "id": "285927",
+    "parent": "112905",
+    "text": "Canoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "286717",
+    "parent": "112906",
+    "text": "El Carmen",
+    "admin_level": "8"
+  },
+  {
+    "id": "286727",
+    "parent": "112906",
+    "text": "Parroquia San Pedro de Suma",
+    "admin_level": "8"
+  },
+  {
+    "id": "286735",
+    "parent": "112906",
+    "text": "Parroquia Wilfrido Loor Moreira",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674438",
+    "parent": "112906",
+    "text": "Santa Mar\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "14564480",
+    "parent": "112906",
+    "text": "El Para\u00edso La 14",
+    "admin_level": "8"
+  },
+  {
+    "id": "286671",
+    "parent": "112909",
+    "text": "Parroquia Zapallo",
+    "admin_level": "8"
+  },
+  {
+    "id": "286694",
+    "parent": "112909",
+    "text": "Parroquia Flavio Alfaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "286749",
+    "parent": "112909",
+    "text": "Parroquia San Francisco de Novillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "282084",
+    "parent": "112903",
+    "text": "Parroquia Tosagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "282226",
+    "parent": "112903",
+    "text": "San Jos\u00e9 de Bachillero",
+    "admin_level": "8"
+  },
+  {
+    "id": "282248",
+    "parent": "112903",
+    "text": "Parroquia Angel Pedro Giler",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671305",
+    "parent": "109257",
+    "text": "La Esperanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671306",
+    "parent": "109257",
+    "text": "Quevedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2671307",
+    "parent": "109257",
+    "text": "San Carlos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774416",
+    "parent": "113397",
+    "text": "El Coraz\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774417",
+    "parent": "113397",
+    "text": "Moraspungo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774418",
+    "parent": "113397",
+    "text": "Pinllopata",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774419",
+    "parent": "113397",
+    "text": "Ram\u00f3n Campa\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774464",
+    "parent": "113398",
+    "text": "Angamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774465",
+    "parent": "113398",
+    "text": "Guanguaje",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774466",
+    "parent": "113398",
+    "text": "La Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774467",
+    "parent": "113398",
+    "text": "Pujil\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774468",
+    "parent": "113398",
+    "text": "P\u00edlalo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774469",
+    "parent": "113398",
+    "text": "Tingo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774470",
+    "parent": "113398",
+    "text": "Zumbahua",
+    "admin_level": "8"
+  },
+  {
+    "id": "2657569",
+    "parent": "113402",
+    "text": "Chugchillan",
+    "admin_level": "8"
+  },
+  {
+    "id": "2657570",
+    "parent": "113402",
+    "text": "Isinlivi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2657571",
+    "parent": "113402",
+    "text": "Las Pampas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2657572",
+    "parent": "113402",
+    "text": "Palo Quemado",
+    "admin_level": "8"
+  },
+  {
+    "id": "2657574",
+    "parent": "113402",
+    "text": "Sigchos",
+    "admin_level": "8"
+  },
+  {
+    "id": "562983",
+    "parent": "113403",
+    "text": "Parroquia Guasaganda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774336",
+    "parent": "113403",
+    "text": "La Man\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774337",
+    "parent": "113403",
+    "text": "Pucayacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "337221",
+    "parent": "113712",
+    "text": "Parroquia El Chaupi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669237",
+    "parent": "113712",
+    "text": "Aloag",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669238",
+    "parent": "113712",
+    "text": "Aloas\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669240",
+    "parent": "113712",
+    "text": "Machachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669241",
+    "parent": "113712",
+    "text": "Manuel Cornejo Astorga (Tandapi)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669242",
+    "parent": "113712",
+    "text": "Tambillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "8470962",
+    "parent": "113712",
+    "text": "Cutuglagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303884",
+    "parent": "113712",
+    "text": "Uyumbicho",
+    "admin_level": "8"
+  },
+  {
+    "id": "3773272",
+    "parent": "3747811",
+    "text": "Patricia Pilar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3773273",
+    "parent": "3747811",
+    "text": "Buena Fe",
+    "admin_level": "8"
+  },
+  {
+    "id": "287478",
+    "parent": "8009485",
+    "text": "Parroquia San Jacinto de B\u00faa",
+    "admin_level": "8"
+  },
+  {
+    "id": "287806",
+    "parent": "8009485",
+    "text": "Parroquia Valle Hermoso",
+    "admin_level": "8"
+  },
+  {
+    "id": "287808",
+    "parent": "8009485",
+    "text": "Santo Domingo de los Tsachilas",
+    "admin_level": "8"
+  },
+  {
+    "id": "287819",
+    "parent": "8009485",
+    "text": "Parroquia Puerto Lim\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "287821",
+    "parent": "8009485",
+    "text": "Parroquia Luz de America",
+    "admin_level": "8"
+  },
+  {
+    "id": "287913",
+    "parent": "8009485",
+    "text": "San Jos\u00e9 de Alluriqu\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "288296",
+    "parent": "8009485",
+    "text": "El Esfuerzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "288307",
+    "parent": "8009485",
+    "text": "Santa Mar\u00eda del Toachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719746",
+    "parent": "108531",
+    "text": "16 de Agosto",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719747",
+    "parent": "108531",
+    "text": "Arapicos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719748",
+    "parent": "108531",
+    "text": "Cumand\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719749",
+    "parent": "108531",
+    "text": "Palora",
+    "admin_level": "8"
+  },
+  {
+    "id": "3719750",
+    "parent": "108531",
+    "text": "Sangay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661626",
+    "parent": "113438",
+    "text": "Benitez (Pachanlica)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661627",
+    "parent": "113438",
+    "text": "Bolivar",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661628",
+    "parent": "113438",
+    "text": "Chiquicha (Cab. en Chiquicha Grande)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661629",
+    "parent": "113438",
+    "text": "Cotalo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661630",
+    "parent": "113438",
+    "text": "El Rosario (Rumichaca)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661631",
+    "parent": "113438",
+    "text": "Garcia Moreno (Chumaqui)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661632",
+    "parent": "113438",
+    "text": "Guambalo (Huambalo)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661633",
+    "parent": "113438",
+    "text": "Pelileo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2661634",
+    "parent": "113438",
+    "text": "Salasaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668085",
+    "parent": "113439",
+    "text": "El Triunfo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668086",
+    "parent": "113439",
+    "text": "Los Andes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668087",
+    "parent": "113439",
+    "text": "Patate",
+    "admin_level": "8"
+  },
+  {
+    "id": "2668088",
+    "parent": "113439",
+    "text": "Sucre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665395",
+    "parent": "113441",
+    "text": "Baquerizo Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665396",
+    "parent": "113441",
+    "text": "Emilio Maria Teran Rumpipamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665397",
+    "parent": "113441",
+    "text": "Marcos Espinel (Chacata)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665398",
+    "parent": "113441",
+    "text": "Pillaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665399",
+    "parent": "113441",
+    "text": "San Andr\u00e9s",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665400",
+    "parent": "113441",
+    "text": "San Jos\u00e9 de Poal\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665401",
+    "parent": "113441",
+    "text": "San Miguelito",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676943",
+    "parent": "113441",
+    "text": "Presidente Urbina (Chagrapamba - Patzucul)",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723705",
+    "parent": "113865",
+    "text": "Madre Tierra",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723706",
+    "parent": "113865",
+    "text": "Mera",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723707",
+    "parent": "113865",
+    "text": "Shell",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728518",
+    "parent": "2675164",
+    "text": "Bilbao",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728519",
+    "parent": "2675164",
+    "text": "El Altar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728520",
+    "parent": "2675164",
+    "text": "La Candelaria",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728521",
+    "parent": "2675164",
+    "text": "Penipe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728522",
+    "parent": "2675164",
+    "text": "Puela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728523",
+    "parent": "2675164",
+    "text": "San Antonio de Bayushig",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009769",
+    "parent": "2675164",
+    "text": "Matus",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648203",
+    "parent": "3824006",
+    "text": "Ba\u00f1os de Agua Santa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648204",
+    "parent": "3824006",
+    "text": "Lligua",
+    "admin_level": "8"
+  },
+  {
+    "id": "3824033",
+    "parent": "3824006",
+    "text": "R\u00edo Negro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3824034",
+    "parent": "3824006",
+    "text": "R\u00edo Verde",
+    "admin_level": "8"
+  },
+  {
+    "id": "3824035",
+    "parent": "3824006",
+    "text": "Ulba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728484",
+    "parent": "108868",
+    "text": "Guanando",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728485",
+    "parent": "108868",
+    "text": "Guano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728486",
+    "parent": "108868",
+    "text": "La Providencia",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728487",
+    "parent": "108868",
+    "text": "San Andr\u00e9s",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728488",
+    "parent": "108868",
+    "text": "San Gerardo de Pacaicaguan",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728489",
+    "parent": "108868",
+    "text": "San Isidro de Patulu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728490",
+    "parent": "108868",
+    "text": "San Jos\u00e9 de Chazo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728491",
+    "parent": "108868",
+    "text": "San Lucas de Llapo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728492",
+    "parent": "108868",
+    "text": "Santa Fe de Gal\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3728493",
+    "parent": "108868",
+    "text": "Valpara\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818047",
+    "parent": "113436",
+    "text": "Quero",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818048",
+    "parent": "113436",
+    "text": "Rumipamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3818049",
+    "parent": "113436",
+    "text": "Yanayacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676919",
+    "parent": "2676918",
+    "text": "Mocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676920",
+    "parent": "2676918",
+    "text": "Pinguili",
+    "admin_level": "8"
+  },
+  {
+    "id": "2653356",
+    "parent": "113434",
+    "text": "Tisaleo",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009773",
+    "parent": "113434",
+    "text": "Quinchicoto",
+    "admin_level": "8"
+  },
+  {
+    "id": "3810331",
+    "parent": "113437",
+    "text": "Cevallos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723719",
+    "parent": "113866",
+    "text": "San Jos\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723720",
+    "parent": "113866",
+    "text": "Santa Clara",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648708",
+    "parent": "113399",
+    "text": "Antonio Jos\u00e9 Holgu\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648709",
+    "parent": "113399",
+    "text": "Mulalillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648710",
+    "parent": "113399",
+    "text": "Panzaleo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774500",
+    "parent": "113399",
+    "text": "Cusubamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774501",
+    "parent": "113399",
+    "text": "Mulliquindil",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774502",
+    "parent": "113399",
+    "text": "Salcedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774372",
+    "parent": "113400",
+    "text": "Alaques",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774373",
+    "parent": "113400",
+    "text": "Belisario Quevedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774374",
+    "parent": "113400",
+    "text": "Guaytacama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774375",
+    "parent": "113400",
+    "text": "Joseguango Bajo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774376",
+    "parent": "113400",
+    "text": "Latacunga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774377",
+    "parent": "113400",
+    "text": "Mulal\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774378",
+    "parent": "113400",
+    "text": "Once de Noviembre",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774379",
+    "parent": "113400",
+    "text": "Poal\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774380",
+    "parent": "113400",
+    "text": "San Juan de Pastocalle",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774381",
+    "parent": "113400",
+    "text": "Tanicuch\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3774382",
+    "parent": "113400",
+    "text": "Toacaso",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747779",
+    "parent": "113713",
+    "text": "Cotogchoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747780",
+    "parent": "113713",
+    "text": "Rumipamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747781",
+    "parent": "113713",
+    "text": "Sangolqu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725956",
+    "parent": "114273",
+    "text": "Archidona",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725957",
+    "parent": "114273",
+    "text": "Cotundo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725958",
+    "parent": "114273",
+    "text": "San Pablo de Ushpayacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726129",
+    "parent": "114275",
+    "text": "El Chaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726130",
+    "parent": "114275",
+    "text": "Gonzalo D\u00edaz de Pineda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726131",
+    "parent": "114275",
+    "text": "Linares",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726132",
+    "parent": "114275",
+    "text": "Oyacachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726133",
+    "parent": "114275",
+    "text": "Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726134",
+    "parent": "114275",
+    "text": "Sardinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726022",
+    "parent": "229594",
+    "text": "Baeza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726023",
+    "parent": "229594",
+    "text": "Cosanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726024",
+    "parent": "229594",
+    "text": "Cuyuja",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726025",
+    "parent": "229594",
+    "text": "Papallacta",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726033",
+    "parent": "229594",
+    "text": "San Francisco de Borja",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726058",
+    "parent": "229594",
+    "text": "Sumaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660270",
+    "parent": "562970",
+    "text": "Canchagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660271",
+    "parent": "562970",
+    "text": "Chantilin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660272",
+    "parent": "562970",
+    "text": "Cochapamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660273",
+    "parent": "562970",
+    "text": "Saquisili",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723808",
+    "parent": "114244",
+    "text": "Loreto",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723809",
+    "parent": "114244",
+    "text": "Puerto Murialdo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723848",
+    "parent": "114244",
+    "text": "\u00c1vila Huiruno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723857",
+    "parent": "114244",
+    "text": "San Jos\u00e9 de Payamino",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723866",
+    "parent": "114244",
+    "text": "San Jos\u00e9 de Dahuano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3723867",
+    "parent": "114244",
+    "text": "San Vicente de Huaticocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677645",
+    "parent": "114241",
+    "text": "Parroquia Capitan Augusto Rivadeneyra",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677646",
+    "parent": "114241",
+    "text": "Parroquia Cononaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677647",
+    "parent": "114241",
+    "text": "Parroquia Nuevo Rocafuerte",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677648",
+    "parent": "114241",
+    "text": "Parroquia Santa Maria de Huiririma",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677649",
+    "parent": "114241",
+    "text": "Tiputini",
+    "admin_level": "8"
+  },
+  {
+    "id": "2677650",
+    "parent": "114241",
+    "text": "Yasuni",
+    "admin_level": "8"
+  },
+  {
+    "id": "1668310",
+    "parent": "114567",
+    "text": "Parroquia Cuyabeno",
+    "admin_level": "8"
+  },
+  {
+    "id": "1668376",
+    "parent": "114567",
+    "text": "Aguas Negras",
+    "admin_level": "8"
+  },
+  {
+    "id": "1674120",
+    "parent": "114567",
+    "text": "Parroquia Tarapoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725781",
+    "parent": "114243",
+    "text": "Enokanqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725782",
+    "parent": "114243",
+    "text": "Joya de los Sachas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725783",
+    "parent": "114243",
+    "text": "Lago San Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725784",
+    "parent": "114243",
+    "text": "Pompeya",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725785",
+    "parent": "114243",
+    "text": "Rumipamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725786",
+    "parent": "114243",
+    "text": "San Carlos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725787",
+    "parent": "114243",
+    "text": "San Sebasti\u00e1n del Coca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725788",
+    "parent": "114243",
+    "text": "Tres de Noviembre",
+    "admin_level": "8"
+  },
+  {
+    "id": "3725789",
+    "parent": "114243",
+    "text": "Uni\u00f3n Milagre\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694777",
+    "parent": "114565",
+    "text": "Parroquia Pa\u00f1acocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694789",
+    "parent": "114565",
+    "text": "Parroquia San Roque",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694804",
+    "parent": "114565",
+    "text": "Parroquia Limoncocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694815",
+    "parent": "114565",
+    "text": "Shushufindi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694846",
+    "parent": "114565",
+    "text": "7 de Julio",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694847",
+    "parent": "114565",
+    "text": "Parroquia San Pedro de los Cofanes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648160",
+    "parent": "112908",
+    "text": "10 de Agosto",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676487",
+    "parent": "112908",
+    "text": "Atahualpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676488",
+    "parent": "112908",
+    "text": "Cojimies",
+    "admin_level": "8"
+  },
+  {
+    "id": "8007686",
+    "parent": "112908",
+    "text": "Pedernales",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659080",
+    "parent": "113236",
+    "text": "Galera",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659085",
+    "parent": "113236",
+    "text": "Quingue",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659105",
+    "parent": "113236",
+    "text": "San Francisco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659114",
+    "parent": "113236",
+    "text": "Muisne",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659149",
+    "parent": "113236",
+    "text": "Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659150",
+    "parent": "113236",
+    "text": "Daule",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659151",
+    "parent": "113236",
+    "text": "Salima",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659152",
+    "parent": "113236",
+    "text": "San Gregorio",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659153",
+    "parent": "113236",
+    "text": "San Jose de Chamanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "287758",
+    "parent": "113240",
+    "text": "Independencia",
+    "admin_level": "8"
+  },
+  {
+    "id": "288647",
+    "parent": "113240",
+    "text": "Quininde",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669722",
+    "parent": "113240",
+    "text": "Chura",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669723",
+    "parent": "113240",
+    "text": "Cube",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669724",
+    "parent": "113240",
+    "text": "La Uni\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669725",
+    "parent": "113240",
+    "text": "Malimpia",
+    "admin_level": "8"
+  },
+  {
+    "id": "2669726",
+    "parent": "113240",
+    "text": "Viche",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694887",
+    "parent": "114564",
+    "text": "Parroquia Pacayacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "1694919",
+    "parent": "114564",
+    "text": "Parroquia Dureno",
+    "admin_level": "8"
+  },
+  {
+    "id": "1698320",
+    "parent": "114564",
+    "text": "El Eno",
+    "admin_level": "8"
+  },
+  {
+    "id": "1698321",
+    "parent": "114564",
+    "text": "Parroquia Santa Cecilia",
+    "admin_level": "8"
+  },
+  {
+    "id": "1698352",
+    "parent": "114564",
+    "text": "Nueva Loja",
+    "admin_level": "8"
+  },
+  {
+    "id": "1698380",
+    "parent": "114564",
+    "text": "Parroquia General Farf\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1698389",
+    "parent": "114564",
+    "text": "Parroquia Jambeli",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659162",
+    "parent": "2675277",
+    "text": "Maldonado",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659163",
+    "parent": "2675277",
+    "text": "Selva Alegre",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659166",
+    "parent": "2675277",
+    "text": "Valdez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659175",
+    "parent": "2675277",
+    "text": "Pampanal de Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659179",
+    "parent": "2675277",
+    "text": "Anchayaku",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659181",
+    "parent": "2675277",
+    "text": "San Francisco de Onzole",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659183",
+    "parent": "2675277",
+    "text": "Santo Domingo de Onzole",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659184",
+    "parent": "2675277",
+    "text": "Telembi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659193",
+    "parent": "2675277",
+    "text": "Atahualpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659194",
+    "parent": "2675277",
+    "text": "Borb\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659195",
+    "parent": "2675277",
+    "text": "Col\u00f3n Eloy del Mar\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659196",
+    "parent": "2675277",
+    "text": "Luis Vargas Torres",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659197",
+    "parent": "2675277",
+    "text": "San Jos\u00e9 de Cayapas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659198",
+    "parent": "2675277",
+    "text": "Timbir\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659203",
+    "parent": "2675277",
+    "text": "La Tola",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659204",
+    "parent": "2675277",
+    "text": "Santa Luc\u00eda de las Pe\u00f1as",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676649",
+    "parent": "113717",
+    "text": "Mindo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676650",
+    "parent": "113717",
+    "text": "San Miguel de los Bancos",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675610",
+    "parent": "288325",
+    "text": "La Villegas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675611",
+    "parent": "288325",
+    "text": "Flor de Valle",
+    "admin_level": "8"
+  },
+  {
+    "id": "2675612",
+    "parent": "288325",
+    "text": "Plan Piloto",
+    "admin_level": "8"
+  },
+  {
+    "id": "8009484",
+    "parent": "288325",
+    "text": "Monterrey",
+    "admin_level": "8"
+  },
+  {
+    "id": "2674394",
+    "parent": "1779682",
+    "text": "Las Golondrinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747430",
+    "parent": "1779682",
+    "text": "6 de Julio de Cuellaje",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747431",
+    "parent": "1779682",
+    "text": "Apuela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747432",
+    "parent": "1779682",
+    "text": "Cotacachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747433",
+    "parent": "1779682",
+    "text": "Garc\u00eda Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747434",
+    "parent": "1779682",
+    "text": "Imantag",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747435",
+    "parent": "1779682",
+    "text": "Pe\u00f1aherrera",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747436",
+    "parent": "1779682",
+    "text": "Plaza Guti\u00e9rrez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747437",
+    "parent": "1779682",
+    "text": "Quiroga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747438",
+    "parent": "1779682",
+    "text": "Vacas Galindo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659227",
+    "parent": "113238",
+    "text": "Atacames",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659228",
+    "parent": "113238",
+    "text": "La Uni\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659229",
+    "parent": "113238",
+    "text": "S\u00faa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659230",
+    "parent": "113238",
+    "text": "Tonchig\u00fce",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659231",
+    "parent": "113238",
+    "text": "Tonsupa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2403900",
+    "parent": "113239",
+    "text": "Esmeraldas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659260",
+    "parent": "113239",
+    "text": "Chinca",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659261",
+    "parent": "113239",
+    "text": "Coronel Carlos Concha Torres",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659262",
+    "parent": "113239",
+    "text": "Majua",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659284",
+    "parent": "113239",
+    "text": "Camarones",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659286",
+    "parent": "113239",
+    "text": "San Mateo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659287",
+    "parent": "113239",
+    "text": "Tabiazo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659288",
+    "parent": "113239",
+    "text": "Tachina",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659289",
+    "parent": "113239",
+    "text": "Vuelta Larga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659919",
+    "parent": "113241",
+    "text": "Chontaduro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659920",
+    "parent": "113241",
+    "text": "Chumund\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659921",
+    "parent": "113241",
+    "text": "Lagarto",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659922",
+    "parent": "113241",
+    "text": "Montalvo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659923",
+    "parent": "113241",
+    "text": "R\u00edo Verde",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659924",
+    "parent": "113241",
+    "text": "Rocafuerte",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659937",
+    "parent": "2675459",
+    "text": "Anc\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659938",
+    "parent": "2675459",
+    "text": "Mataje",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659939",
+    "parent": "2675459",
+    "text": "San Lorenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659940",
+    "parent": "2675459",
+    "text": "Tambillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3659941",
+    "parent": "2675459",
+    "text": "Tululbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "7528791",
+    "parent": "2675459",
+    "text": "Alto Tambo",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529401",
+    "parent": "2675459",
+    "text": "Calderon",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529456",
+    "parent": "2675459",
+    "text": "San Javier de Cachavi",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529457",
+    "parent": "2675459",
+    "text": "Concepci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529460",
+    "parent": "2675459",
+    "text": "Carondelet",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529462",
+    "parent": "2675459",
+    "text": "Urbina",
+    "admin_level": "8"
+  },
+  {
+    "id": "7529466",
+    "parent": "2675459",
+    "text": "Cinco de Junio",
+    "admin_level": "8"
+  },
+  {
+    "id": "9180523",
+    "parent": "2675459",
+    "text": "Santa Rita",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662012",
+    "parent": "113715",
+    "text": "Malchingui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662013",
+    "parent": "113715",
+    "text": "Tabacundo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662014",
+    "parent": "113715",
+    "text": "Tocachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2662015",
+    "parent": "113715",
+    "text": "Tupigachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676647",
+    "parent": "113715",
+    "text": "La Esperanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "318315",
+    "parent": "113716",
+    "text": "Parroquia Santa Rosa de Cusubamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "318316",
+    "parent": "113716",
+    "text": "Asc\u00e1zubi",
+    "admin_level": "8"
+  },
+  {
+    "id": "318328",
+    "parent": "113716",
+    "text": "Cangahua",
+    "admin_level": "8"
+  },
+  {
+    "id": "318740",
+    "parent": "113716",
+    "text": "Parroquia Ot\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "324167",
+    "parent": "113716",
+    "text": "Cayambe",
+    "admin_level": "8"
+  },
+  {
+    "id": "324178",
+    "parent": "113716",
+    "text": "Parroquia Olmedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747279",
+    "parent": "113981",
+    "text": "Eugenio Espejo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747280",
+    "parent": "113981",
+    "text": "Gonz\u00e1lez Su\u00e1rez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747281",
+    "parent": "113981",
+    "text": "Doctor Miguel Egas Cabezas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747282",
+    "parent": "113981",
+    "text": "Otavalo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747283",
+    "parent": "113981",
+    "text": "San Jos\u00e9 de Quichinche",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747284",
+    "parent": "113981",
+    "text": "San Juan de Ilum\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747285",
+    "parent": "113981",
+    "text": "San Pablo del Lago",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747286",
+    "parent": "113981",
+    "text": "San Pedro de Pataqu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747287",
+    "parent": "113981",
+    "text": "San Rafael de la Laguna",
+    "admin_level": "8"
+  },
+  {
+    "id": "3747288",
+    "parent": "113981",
+    "text": "Selva Alegre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2676100",
+    "parent": "113983",
+    "text": "Angochagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742355",
+    "parent": "113983",
+    "text": "Ambuqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742356",
+    "parent": "113983",
+    "text": "Carolina",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742357",
+    "parent": "113983",
+    "text": "Ibarra",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742358",
+    "parent": "113983",
+    "text": "La Esperanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742359",
+    "parent": "113983",
+    "text": "Lita",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742360",
+    "parent": "113983",
+    "text": "Salinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3742361",
+    "parent": "113983",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660205",
+    "parent": "113984",
+    "text": "Chuga",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660206",
+    "parent": "113984",
+    "text": "Mariano Acosta",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660207",
+    "parent": "113984",
+    "text": "Pimampiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2660208",
+    "parent": "113984",
+    "text": "San Francisco de Sigsipamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663613",
+    "parent": "113986",
+    "text": "Cahuasqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663614",
+    "parent": "113986",
+    "text": "La Merced de Buenos Aires",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663615",
+    "parent": "113986",
+    "text": "Pablo Arenas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663616",
+    "parent": "113986",
+    "text": "San Blas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663617",
+    "parent": "113986",
+    "text": "Tumbabiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2663618",
+    "parent": "113986",
+    "text": "Urcuqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659836",
+    "parent": "114042",
+    "text": "Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659837",
+    "parent": "114042",
+    "text": "Garcia Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659838",
+    "parent": "114042",
+    "text": "Los Andes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659839",
+    "parent": "114042",
+    "text": "Monte Olivo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659840",
+    "parent": "114042",
+    "text": "San Rafael",
+    "admin_level": "8"
+  },
+  {
+    "id": "2659841",
+    "parent": "114042",
+    "text": "San Vicente de Pusir",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744807",
+    "parent": "113985",
+    "text": "Andrade Mar\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744808",
+    "parent": "113985",
+    "text": "Imbaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744809",
+    "parent": "113985",
+    "text": "Natabuela",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744810",
+    "parent": "113985",
+    "text": "San Jos\u00e9 de Chaltura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744811",
+    "parent": "113985",
+    "text": "San Roque",
+    "admin_level": "8"
+  },
+  {
+    "id": "3744821",
+    "parent": "113985",
+    "text": "Atuntaqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664884",
+    "parent": "114043",
+    "text": "Chitan de Navarrete",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664885",
+    "parent": "114043",
+    "text": "Crist\u00f3bal Col\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664886",
+    "parent": "114043",
+    "text": "Fernandez Salvador",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664887",
+    "parent": "114043",
+    "text": "La Paz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664888",
+    "parent": "114043",
+    "text": "Piartal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2664889",
+    "parent": "114043",
+    "text": "San Gabriel",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726374",
+    "parent": "114561",
+    "text": "El Play\u00f3n de San Francisco",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726375",
+    "parent": "114561",
+    "text": "La Bonita",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726376",
+    "parent": "114561",
+    "text": "La Sof\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726377",
+    "parent": "114561",
+    "text": "Rosa Florida",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726378",
+    "parent": "114561",
+    "text": "Santa B\u00e1rbara",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726358",
+    "parent": "114562",
+    "text": "El Reventador",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726359",
+    "parent": "114562",
+    "text": "Gonzalo Pizarro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726360",
+    "parent": "114562",
+    "text": "Lumbaqu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726361",
+    "parent": "114562",
+    "text": "Puerto Libre",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708068",
+    "parent": "114563",
+    "text": "Parroquia El Dorado de Cascales",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708069",
+    "parent": "114563",
+    "text": "Parroquia Santa Rosa de Sucumb\u00edos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708070",
+    "parent": "114563",
+    "text": "Parroquia Sevilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726426",
+    "parent": "114045",
+    "text": "Chical",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726427",
+    "parent": "114045",
+    "text": "El Carmelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726428",
+    "parent": "114045",
+    "text": "Julio Andrade",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726429",
+    "parent": "114045",
+    "text": "Maldonado",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726430",
+    "parent": "114045",
+    "text": "Pioter",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726431",
+    "parent": "114045",
+    "text": "Santa Martha de Cuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726432",
+    "parent": "114045",
+    "text": "Tobar Donos",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726433",
+    "parent": "114045",
+    "text": "Tufi\u00f1o",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726434",
+    "parent": "114045",
+    "text": "Tulc\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3726435",
+    "parent": "114045",
+    "text": "Urbina",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665985",
+    "parent": "114046",
+    "text": "Concepcion",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665986",
+    "parent": "114046",
+    "text": "Jacinto Jijon y Caama\u00f1o (Cab. en Rio Blanco)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665987",
+    "parent": "114046",
+    "text": "Julian Mantalvo (San Ignacio de Quil)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2665988",
+    "parent": "114046",
+    "text": "Mira (Chontahuasi)",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648585",
+    "parent": "114047",
+    "text": "El Goaltal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648604",
+    "parent": "114047",
+    "text": "El Angel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648605",
+    "parent": "114047",
+    "text": "La Libertad",
+    "admin_level": "8"
+  },
+  {
+    "id": "2648606",
+    "parent": "114047",
+    "text": "San Isidro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2653378",
+    "parent": "114044",
+    "text": "Parroquia Huaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "2653379",
+    "parent": "114044",
+    "text": "Parroquia Mariscal Sucre",
+    "admin_level": "8"
+  },
+  {
+    "id": "1644020",
+    "parent": "114566",
+    "text": "Parroquia Puerto Rodr\u00edguez",
+    "admin_level": "8"
+  },
+  {
+    "id": "1666428",
+    "parent": "114566",
+    "text": "Puerto El Carmen de Putumayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1666459",
+    "parent": "114566",
+    "text": "Parroquia Santa Elena",
+    "admin_level": "8"
+  },
+  {
+    "id": "1666849",
+    "parent": "114566",
+    "text": "Parroquia Puerto Bol\u00edvar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1784992",
+    "parent": "114566",
+    "text": "Parroquia Palma Roja",
+    "admin_level": "8"
+  }
+]

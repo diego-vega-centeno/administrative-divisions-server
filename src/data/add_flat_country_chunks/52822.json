@@ -1,0 +1,128 @@
+[
+  {
+    "id": "52824",
+    "parent": "52822",
+    "text": "Norrbotten County",
+    "admin_level": "4"
+  },
+  {
+    "id": "52825",
+    "parent": "52822",
+    "text": "V\u00e4sterbotten County",
+    "admin_level": "4"
+  },
+  {
+    "id": "52826",
+    "parent": "52822",
+    "text": "J\u00e4mtland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "52827",
+    "parent": "52822",
+    "text": "V\u00e4sternorrland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "52832",
+    "parent": "52822",
+    "text": "G\u00e4vleborg County",
+    "admin_level": "4"
+  },
+  {
+    "id": "52834",
+    "parent": "52822",
+    "text": "Dalarna County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54220",
+    "parent": "52822",
+    "text": "Uppsala County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54221",
+    "parent": "52822",
+    "text": "V\u00e4stmanland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54222",
+    "parent": "52822",
+    "text": "\u00d6rebro County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54223",
+    "parent": "52822",
+    "text": "V\u00e4rmland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54367",
+    "parent": "52822",
+    "text": "V\u00e4stra G\u00f6taland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54374",
+    "parent": "52822",
+    "text": "J\u00f6nk\u00f6ping County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54386",
+    "parent": "52822",
+    "text": "S\u00f6dermanland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54391",
+    "parent": "52822",
+    "text": "Stockholm County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54403",
+    "parent": "52822",
+    "text": "Halland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54409",
+    "parent": "52822",
+    "text": "Sk\u00e5ne County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54412",
+    "parent": "52822",
+    "text": "Kronoberg County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54413",
+    "parent": "52822",
+    "text": "Blekinge County",
+    "admin_level": "4"
+  },
+  {
+    "id": "54417",
+    "parent": "52822",
+    "text": "Kalmar County",
+    "admin_level": "4"
+  },
+  {
+    "id": "940675",
+    "parent": "52822",
+    "text": "\u00d6sterg\u00f6tland County",
+    "admin_level": "4"
+  },
+  {
+    "id": "941530",
+    "parent": "52822",
+    "text": "Gotland County",
+    "admin_level": "4"
+  }
+]

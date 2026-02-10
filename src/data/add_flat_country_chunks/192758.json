@@ -1,0 +1,140 @@
+[
+  {
+    "id": "2060169",
+    "parent": "192758",
+    "text": "Al Wahat",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060170",
+    "parent": "192758",
+    "text": "Benghazi",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060171",
+    "parent": "192758",
+    "text": "Butnan",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060172",
+    "parent": "192758",
+    "text": "Derna",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060173",
+    "parent": "192758",
+    "text": "Ghat",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060174",
+    "parent": "192758",
+    "text": "Jabal al Akhdar",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060175",
+    "parent": "192758",
+    "text": "Jabal al Gharbi",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060176",
+    "parent": "192758",
+    "text": "Jafara",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060177",
+    "parent": "192758",
+    "text": "District of Al-Jufra",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060178",
+    "parent": "192758",
+    "text": "Kufra",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060179",
+    "parent": "192758",
+    "text": "Marj",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060180",
+    "parent": "192758",
+    "text": "Bani Walid",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060181",
+    "parent": "192758",
+    "text": "Murzuq",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060182",
+    "parent": "192758",
+    "text": "Nalut",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060183",
+    "parent": "192758",
+    "text": "Nuqat al Khams",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060184",
+    "parent": "192758",
+    "text": "Sabha",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060185",
+    "parent": "192758",
+    "text": "Sirte",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060186",
+    "parent": "192758",
+    "text": "Tripoli",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060187",
+    "parent": "192758",
+    "text": "Wadi al Hayaa",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060188",
+    "parent": "192758",
+    "text": "Wadi al Shatii",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060189",
+    "parent": "192758",
+    "text": "Az Zawiya District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3795005",
+    "parent": "192758",
+    "text": "Murqub",
+    "admin_level": "4"
+  },
+  {
+    "id": "15327824",
+    "parent": "192758",
+    "text": "Baladiyah Surman",
+    "admin_level": "4"
+  }
+]

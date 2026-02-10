@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "184856",
+    "parent": "184840",
+    "text": "Al-Hasaka Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184867",
+    "parent": "184840",
+    "text": "Deir ez-Zor Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184877",
+    "parent": "184840",
+    "text": "Homs Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184878",
+    "parent": "184840",
+    "text": "Ar-Raqqa Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184879",
+    "parent": "184840",
+    "text": "Aleppo Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184880",
+    "parent": "184840",
+    "text": "Hama Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184881",
+    "parent": "184840",
+    "text": "Idleb Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184882",
+    "parent": "184840",
+    "text": "Tartus Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184883",
+    "parent": "184840",
+    "text": "Lattakia Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184884",
+    "parent": "184840",
+    "text": "Rif Dimashq Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184885",
+    "parent": "184840",
+    "text": "Al-Quneitra Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184886",
+    "parent": "184840",
+    "text": "Dar'a Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "184887",
+    "parent": "184840",
+    "text": "As-Suweida Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "7328462",
+    "parent": "184840",
+    "text": "Damascus Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "11018284",
+    "parent": "184877",
+    "text": "Tadmur Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018286",
+    "parent": "184877",
+    "text": "Al-Qaryatain Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018288",
+    "parent": "184877",
+    "text": "Jubb al-Jarrah Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018289",
+    "parent": "184877",
+    "text": "As-Sukhna Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018388",
+    "parent": "184877",
+    "text": "Mahin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018389",
+    "parent": "184877",
+    "text": "Ar-Raqama Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018390",
+    "parent": "184877",
+    "text": "Al-Furqlos Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018391",
+    "parent": "184877",
+    "text": "Sadad Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018392",
+    "parent": "184877",
+    "text": "Hasya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018394",
+    "parent": "184877",
+    "text": "Al-Qusair Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11018395",
+    "parent": "184877",
+    "text": "Homs Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019277",
+    "parent": "184877",
+    "text": "Ain an-Nisr Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019278",
+    "parent": "184877",
+    "text": "Al-Mukharram Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019280",
+    "parent": "184877",
+    "text": "Talbisa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019281",
+    "parent": "184877",
+    "text": "Ar-Rastan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019283",
+    "parent": "184877",
+    "text": "Taldou Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019284",
+    "parent": "184877",
+    "text": "Khirbat Tin Nur Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019285",
+    "parent": "184877",
+    "text": "Shin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019287",
+    "parent": "184877",
+    "text": "Hadida Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019288",
+    "parent": "184877",
+    "text": "Al-Hawash Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019290",
+    "parent": "184877",
+    "text": "Al-Qabu Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11019357",
+    "parent": "184877",
+    "text": "Kafr Laha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11021024",
+    "parent": "184877",
+    "text": "Talkalakh Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11021025",
+    "parent": "184877",
+    "text": "An-Nasra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011897",
+    "parent": "184884",
+    "text": "Ar-Raheiba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011898",
+    "parent": "184884",
+    "text": "Ad-Dumayr Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011900",
+    "parent": "184884",
+    "text": "Duma Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011904",
+    "parent": "184884",
+    "text": "Rankus Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011906",
+    "parent": "184884",
+    "text": "Assal al-Ward Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011907",
+    "parent": "184884",
+    "text": "Yabrud Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011909",
+    "parent": "184884",
+    "text": "An-Nabk Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011910",
+    "parent": "184884",
+    "text": "Jirud Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011911",
+    "parent": "184884",
+    "text": "As-Sabe' Byar Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011919",
+    "parent": "184884",
+    "text": "Al-Ghizlaniya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011997",
+    "parent": "184884",
+    "text": "Al-Kiswa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011998",
+    "parent": "184884",
+    "text": "Al-Muleiha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011999",
+    "parent": "184884",
+    "text": "Babella Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012000",
+    "parent": "184884",
+    "text": "An-Nashabiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012001",
+    "parent": "184884",
+    "text": "Kafr Batna Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012002",
+    "parent": "184884",
+    "text": "At-Tall Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012003",
+    "parent": "184884",
+    "text": "Harasta Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012004",
+    "parent": "184884",
+    "text": "Arbin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012284",
+    "parent": "184884",
+    "text": "Jaramana Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012286",
+    "parent": "184884",
+    "text": "Al-Hajar al-Aswad Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012287",
+    "parent": "184884",
+    "text": "Sahnaya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012295",
+    "parent": "184884",
+    "text": "Qatana Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012296",
+    "parent": "184884",
+    "text": "Sa'sa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012419",
+    "parent": "184884",
+    "text": "Darayya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012421",
+    "parent": "184884",
+    "text": "Qudsaiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012531",
+    "parent": "184884",
+    "text": "Ma'loula Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012532",
+    "parent": "184884",
+    "text": "Al-Qutaifa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015151",
+    "parent": "184884",
+    "text": "Harran al-Awamid Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015228",
+    "parent": "184884",
+    "text": "Bait Jinn Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015231",
+    "parent": "184884",
+    "text": "Ad-Dimas Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015320",
+    "parent": "184884",
+    "text": "Ain al-Fija Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015322",
+    "parent": "184884",
+    "text": "Madaya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015323",
+    "parent": "184884",
+    "text": "Az-Zabadani Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015382",
+    "parent": "184884",
+    "text": "Deir Atiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015471",
+    "parent": "184884",
+    "text": "Sidnaya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015472",
+    "parent": "184884",
+    "text": "Sarghaya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011913",
+    "parent": "184887",
+    "text": "Malah Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011915",
+    "parent": "184887",
+    "text": "Al-Mushannaf Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011918",
+    "parent": "184887",
+    "text": "As-Soura as-Saghira Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016058",
+    "parent": "184887",
+    "text": "Al-Ariqa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017752",
+    "parent": "184887",
+    "text": "Al-Mazra'a Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017753",
+    "parent": "184887",
+    "text": "Shahba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017754",
+    "parent": "184887",
+    "text": "As-Suweida Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017755",
+    "parent": "184887",
+    "text": "Shaqqa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017834",
+    "parent": "184887",
+    "text": "Salkhad Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017835",
+    "parent": "184887",
+    "text": "Al-Qurya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017988",
+    "parent": "184887",
+    "text": "Dhibin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017989",
+    "parent": "184887",
+    "text": "Al-Ghariya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015557",
+    "parent": "184885",
+    "text": "Khan Arnaba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015558",
+    "parent": "184885",
+    "text": "Al-Khushniya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015559",
+    "parent": "184885",
+    "text": "Al-Quneitra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11015561",
+    "parent": "184885",
+    "text": "Fiq Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11011995",
+    "parent": "184886",
+    "text": "Al-Masmiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11012297",
+    "parent": "184886",
+    "text": "Ghabagheb Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016059",
+    "parent": "184886",
+    "text": "As-Sanamain Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016061",
+    "parent": "184886",
+    "text": "Izra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016062",
+    "parent": "184886",
+    "text": "Ash-Sheikh Miskin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016063",
+    "parent": "184886",
+    "text": "Nawa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016064",
+    "parent": "184886",
+    "text": "Jasim Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016065",
+    "parent": "184886",
+    "text": "Al-Hirak Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11016066",
+    "parent": "184886",
+    "text": "Tasil Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017107",
+    "parent": "184886",
+    "text": "Al-Meseifra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017108",
+    "parent": "184886",
+    "text": "Busra ash-Sham Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017347",
+    "parent": "184886",
+    "text": "Al-Jiza Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017348",
+    "parent": "184886",
+    "text": "Dar'a Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017349",
+    "parent": "184886",
+    "text": "Khirbat Ghazala Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017350",
+    "parent": "184886",
+    "text": "Da'el Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017351",
+    "parent": "184886",
+    "text": "Mezeireb Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11017352",
+    "parent": "184886",
+    "text": "Ash-Shajara Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039276",
+    "parent": "184879",
+    "text": "Jendairis Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039277",
+    "parent": "184879",
+    "text": "Daret Izza Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039279",
+    "parent": "184879",
+    "text": "Afrin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039280",
+    "parent": "184879",
+    "text": "Ma'batli Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039281",
+    "parent": "184879",
+    "text": "Sheikh al-Hadid Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039282",
+    "parent": "184879",
+    "text": "Rajo Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039283",
+    "parent": "184879",
+    "text": "Bulbul Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039284",
+    "parent": "184879",
+    "text": "Sharran Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039285",
+    "parent": "184879",
+    "text": "Azaz Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039286",
+    "parent": "184879",
+    "text": "Tell Rifaat Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039287",
+    "parent": "184879",
+    "text": "Nubbul Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039288",
+    "parent": "184879",
+    "text": "Souran Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039289",
+    "parent": "184879",
+    "text": "Mare' Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039290",
+    "parent": "184879",
+    "text": "Akhtarin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039291",
+    "parent": "184879",
+    "text": "Heraitan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039292",
+    "parent": "184879",
+    "text": "Al-Bab Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039293",
+    "parent": "184879",
+    "text": "Ar-Ra'i Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039294",
+    "parent": "184879",
+    "text": "Al-Arima Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039295",
+    "parent": "184879",
+    "text": "Al-Ghandura Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039297",
+    "parent": "184879",
+    "text": "As-Safira Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039299",
+    "parent": "184879",
+    "text": "Mount Simeon Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039300",
+    "parent": "184879",
+    "text": "Tadef Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039301",
+    "parent": "184879",
+    "text": "Manbij Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039302",
+    "parent": "184879",
+    "text": "Rasm al-Harmal al-Imam Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039303",
+    "parent": "184879",
+    "text": "Jarablus Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039304",
+    "parent": "184879",
+    "text": "Shuyoukh Tahtani Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039305",
+    "parent": "184879",
+    "text": "Deir Hafir Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039306",
+    "parent": "184879",
+    "text": "Al-Khafsa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039307",
+    "parent": "184879",
+    "text": "Kuwaires Sharqi Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039308",
+    "parent": "184879",
+    "text": "Tell ad-Daman Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039309",
+    "parent": "184879",
+    "text": "Banan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039310",
+    "parent": "184879",
+    "text": "Al-Hajeb Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039311",
+    "parent": "184879",
+    "text": "Khanaser Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039312",
+    "parent": "184879",
+    "text": "Abu Qalqal Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039313",
+    "parent": "184879",
+    "text": "Sarin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039314",
+    "parent": "184879",
+    "text": "Abu Kahf Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039315",
+    "parent": "184879",
+    "text": "Maskana Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039316",
+    "parent": "184879",
+    "text": "Az-Zirba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039317",
+    "parent": "184879",
+    "text": "Al-Hader Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039445",
+    "parent": "184879",
+    "text": "Orum al-Kubra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039446",
+    "parent": "184879",
+    "text": "Ibbin Sam'an Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039447",
+    "parent": "184879",
+    "text": "Al-Atareb Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039829",
+    "parent": "184879",
+    "text": "Ain al-Arab Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11039830",
+    "parent": "184879",
+    "text": "Al-Jalabiye Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022805",
+    "parent": "184880",
+    "text": "As-Sa'an Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022806",
+    "parent": "184880",
+    "text": "Uqeiribat Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022807",
+    "parent": "184880",
+    "text": "Saboura Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022808",
+    "parent": "184880",
+    "text": "Barri ash-Sharqi Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022810",
+    "parent": "184880",
+    "text": "Al-Hamra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022811",
+    "parent": "184880",
+    "text": "As-Salamiye Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022812",
+    "parent": "184880",
+    "text": "Souran Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022814",
+    "parent": "184880",
+    "text": "Hama Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022815",
+    "parent": "184880",
+    "text": "Muharda Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022817",
+    "parent": "184880",
+    "text": "Kafr Zita Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022819",
+    "parent": "184880",
+    "text": "Jubb Ramla Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022820",
+    "parent": "184880",
+    "text": "Masyaf Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022821",
+    "parent": "184880",
+    "text": "Hirbnafsah Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022822",
+    "parent": "184880",
+    "text": "Ouj Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022824",
+    "parent": "184880",
+    "text": "Salhab Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022825",
+    "parent": "184880",
+    "text": "Kurnaz Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022826",
+    "parent": "184880",
+    "text": "As-Suqailabiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022827",
+    "parent": "184880",
+    "text": "Qal'at al-Madiq Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022828",
+    "parent": "184880",
+    "text": "Ain Halaqim Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022829",
+    "parent": "184880",
+    "text": "Wadi al-Uyun Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022830",
+    "parent": "184880",
+    "text": "Shat'ha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11022831",
+    "parent": "184880",
+    "text": "Az-Ziyara Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033443",
+    "parent": "184881",
+    "text": "Bedama Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033444",
+    "parent": "184881",
+    "text": "Jisr ash-Shugur Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033445",
+    "parent": "184881",
+    "text": "Al-Janoudiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033446",
+    "parent": "184881",
+    "text": "Darkush Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033448",
+    "parent": "184881",
+    "text": "Idleb Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033450",
+    "parent": "184881",
+    "text": "Armanaz Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033451",
+    "parent": "184881",
+    "text": "Salqin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033453",
+    "parent": "184881",
+    "text": "Mehambal Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033455",
+    "parent": "184881",
+    "text": "Kafranbel Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033456",
+    "parent": "184881",
+    "text": "Ihsem Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033457",
+    "parent": "184881",
+    "text": "Ariha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033458",
+    "parent": "184881",
+    "text": "Ma'arrat an-Nu'man Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033459",
+    "parent": "184881",
+    "text": "Saraqib Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033460",
+    "parent": "184881",
+    "text": "Heish Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033461",
+    "parent": "184881",
+    "text": "Khan Shaykhoun Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033462",
+    "parent": "184881",
+    "text": "At-Taman'a Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033463",
+    "parent": "184881",
+    "text": "Sinjar Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033464",
+    "parent": "184881",
+    "text": "Abu adh-Dhuhour Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033465",
+    "parent": "184881",
+    "text": "Sarmin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033466",
+    "parent": "184881",
+    "text": "Binnish Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033467",
+    "parent": "184881",
+    "text": "Taftanaz Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033468",
+    "parent": "184881",
+    "text": "Ma'arat Masrin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033469",
+    "parent": "184881",
+    "text": "Kafr Takharim Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033470",
+    "parent": "184881",
+    "text": "Qorqanya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033471",
+    "parent": "184881",
+    "text": "Ad-Dana Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11033472",
+    "parent": "184881",
+    "text": "Harim Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "15897746",
+    "parent": "7328462",
+    "text": "Damascus Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029473",
+    "parent": "184882",
+    "text": "At-Tawahin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029474",
+    "parent": "184882",
+    "text": "Al-Anaza Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029475",
+    "parent": "184882",
+    "text": "Al-Qadmous Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029476",
+    "parent": "184882",
+    "text": "Talin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029477",
+    "parent": "184882",
+    "text": "Banyas Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029478",
+    "parent": "184882",
+    "text": "Hamam Wasil Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029480",
+    "parent": "184882",
+    "text": "Barmanet al-Mashayekh Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029481",
+    "parent": "184882",
+    "text": "Ash-Sheikh Badr Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029482",
+    "parent": "184882",
+    "text": "Al-Qumsiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029483",
+    "parent": "184882",
+    "text": "Ar-Rawda Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029485",
+    "parent": "184882",
+    "text": "As-Souda Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029486",
+    "parent": "184882",
+    "text": "Tartus Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029488",
+    "parent": "184882",
+    "text": "Dureikish Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029489",
+    "parent": "184882",
+    "text": "Jneinat Raslan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029490",
+    "parent": "184882",
+    "text": "Duweir Raslan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029491",
+    "parent": "184882",
+    "text": "Sibba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029493",
+    "parent": "184882",
+    "text": "Safita Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029494",
+    "parent": "184882",
+    "text": "Mashta al-Hilu Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029495",
+    "parent": "184882",
+    "text": "Hamin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029496",
+    "parent": "184882",
+    "text": "Ras al-Khashoufa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029497",
+    "parent": "184882",
+    "text": "Khirbat al-Ma'za Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029498",
+    "parent": "184882",
+    "text": "As-Safsafa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029499",
+    "parent": "184882",
+    "text": "As-Sisniya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029500",
+    "parent": "184882",
+    "text": "Al-Barqiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029501",
+    "parent": "184882",
+    "text": "Al-Karima Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11029502",
+    "parent": "184882",
+    "text": "Al-Hamidiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "16794524",
+    "parent": "184882",
+    "text": "Arwad Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030753",
+    "parent": "184883",
+    "text": "Ad-Daliya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030754",
+    "parent": "184883",
+    "text": "Beit Yashut Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030755",
+    "parent": "184883",
+    "text": "Al-Qutailebiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030757",
+    "parent": "184883",
+    "text": "Harf al-Meseitra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030758",
+    "parent": "184883",
+    "text": "Ain ash-Sharqiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030759",
+    "parent": "184883",
+    "text": "Jable Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030760",
+    "parent": "184883",
+    "text": "Ain Shaqaq Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030761",
+    "parent": "184883",
+    "text": "Al-Qardaha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030762",
+    "parent": "184883",
+    "text": "Al-Fakhoura Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030764",
+    "parent": "184883",
+    "text": "Hanadi Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030765",
+    "parent": "184883",
+    "text": "Joubat Berghal Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030767",
+    "parent": "184883",
+    "text": "Muzaira'a Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030768",
+    "parent": "184883",
+    "text": "Ain at-Tina Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030769",
+    "parent": "184883",
+    "text": "Al-Haffa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030770",
+    "parent": "184883",
+    "text": "Slenfa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030771",
+    "parent": "184883",
+    "text": "Kinnsiba Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030772",
+    "parent": "184883",
+    "text": "Al-Bahluliya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030773",
+    "parent": "184883",
+    "text": "Rabi'a Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030774",
+    "parent": "184883",
+    "text": "Lattakia Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030775",
+    "parent": "184883",
+    "text": "Ain al-Beida Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030776",
+    "parent": "184883",
+    "text": "Qastal Maaf Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11030777",
+    "parent": "184883",
+    "text": "Kasab Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11025898",
+    "parent": "184856",
+    "text": "Al-Malikiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11025899",
+    "parent": "184856",
+    "text": "Al-Jawadiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11025900",
+    "parent": "184856",
+    "text": "Al-Ya'rubiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026676",
+    "parent": "184856",
+    "text": "Al-Qahtaniya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026677",
+    "parent": "184856",
+    "text": "Tell Hamis Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026678",
+    "parent": "184856",
+    "text": "Al-Qamishli Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026680",
+    "parent": "184856",
+    "text": "Bir al-Hulo al-Wardiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026681",
+    "parent": "184856",
+    "text": "Amouda Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026682",
+    "parent": "184856",
+    "text": "Al-Hol Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026683",
+    "parent": "184856",
+    "text": "Al-Hasaka Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026684",
+    "parent": "184856",
+    "text": "Ad-Darbasiya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026686",
+    "parent": "184856",
+    "text": "Al-Arisha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026687",
+    "parent": "184856",
+    "text": "Ash-Shaddadi Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026688",
+    "parent": "184856",
+    "text": "Markada Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026689",
+    "parent": "184856",
+    "text": "Tell Tamr Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11026690",
+    "parent": "184856",
+    "text": "Ras al-Ain Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023014",
+    "parent": "184867",
+    "text": "Al-Bukamal Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023016",
+    "parent": "184867",
+    "text": "Al-Mayadin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023017",
+    "parent": "184867",
+    "text": "Al-Ashaara Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023018",
+    "parent": "184867",
+    "text": "Al-Jalaa' Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023019",
+    "parent": "184867",
+    "text": "Hajin Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023020",
+    "parent": "184867",
+    "text": "As-Susa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023021",
+    "parent": "184867",
+    "text": "Dhiban Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023023",
+    "parent": "184867",
+    "text": "As-Suwar Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023024",
+    "parent": "184867",
+    "text": "Al-Basira Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023025",
+    "parent": "184867",
+    "text": "Mouhasan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023637",
+    "parent": "184867",
+    "text": "Deir ez-Zor Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023638",
+    "parent": "184867",
+    "text": "Khasham Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023640",
+    "parent": "184867",
+    "text": "Al-Kasra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11023641",
+    "parent": "184867",
+    "text": "At-Tabni Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024165",
+    "parent": "184878",
+    "text": "Ma'daan Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024166",
+    "parent": "184878",
+    "text": "As-Sabkha Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024167",
+    "parent": "184878",
+    "text": "Al-Karama Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024169",
+    "parent": "184878",
+    "text": "Suluk Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024170",
+    "parent": "184878",
+    "text": "Ar-Raqqa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024172",
+    "parent": "184878",
+    "text": "Al-Mansoura Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024173",
+    "parent": "184878",
+    "text": "Ath-Thawra Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11024174",
+    "parent": "184878",
+    "text": "Al-Jurniya Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11025602",
+    "parent": "184878",
+    "text": "Ain Isa Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "11025603",
+    "parent": "184878",
+    "text": "Tell Abyad Subdistrict",
+    "admin_level": "6"
+  },
+  {
+    "id": "13288168",
+    "parent": "15897746",
+    "text": "Rukn ad-Din Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13288841",
+    "parent": "15897746",
+    "text": "Al-Muhajerin Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13297125",
+    "parent": "15897746",
+    "text": "Barza Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13333333",
+    "parent": "15897746",
+    "text": "Al-Qaboun Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13338559",
+    "parent": "15897746",
+    "text": "Sarouja Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13338693",
+    "parent": "15897746",
+    "text": "As-Salihiya Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13359358",
+    "parent": "15897746",
+    "text": "Al-Mazza Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13360835",
+    "parent": "15897746",
+    "text": "Dummar Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13384159",
+    "parent": "15897746",
+    "text": "Al-Qanawat Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13433886",
+    "parent": "15897746",
+    "text": "Ash-Shaghour Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13438168",
+    "parent": "15897746",
+    "text": "Joubar Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "13442508",
+    "parent": "15897746",
+    "text": "Ancient City of Damascus Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "14041927",
+    "parent": "15897746",
+    "text": "Kafr Sousa Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "14041958",
+    "parent": "15897746",
+    "text": "Al-Midan Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "14043006",
+    "parent": "15897746",
+    "text": "Al-Qadam Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "15045342",
+    "parent": "15897746",
+    "text": "Al-Yarmuk",
+    "admin_level": "8"
+  }
+]

@@ -1,0 +1,3692 @@
+[
+  {
+    "id": "82636",
+    "parent": "80500",
+    "text": "Cocos (Keeling) Islands",
+    "admin_level": "4"
+  },
+  {
+    "id": "2177207",
+    "parent": "80500",
+    "text": "Christmas Island",
+    "admin_level": "4"
+  },
+  {
+    "id": "2177227",
+    "parent": "80500",
+    "text": "Heard Island and McDonald Islands",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316593",
+    "parent": "80500",
+    "text": "New South Wales",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316594",
+    "parent": "80500",
+    "text": "Northern Territory",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316595",
+    "parent": "80500",
+    "text": "Queensland",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316596",
+    "parent": "80500",
+    "text": "South Australia",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316598",
+    "parent": "80500",
+    "text": "Western Australia",
+    "admin_level": "4"
+  },
+  {
+    "id": "2316741",
+    "parent": "80500",
+    "text": "Victoria",
+    "admin_level": "4"
+  },
+  {
+    "id": "2354197",
+    "parent": "80500",
+    "text": "Australian Capital Territory",
+    "admin_level": "4"
+  },
+  {
+    "id": "2357330",
+    "parent": "80500",
+    "text": "Jervis Bay Territory",
+    "admin_level": "4"
+  },
+  {
+    "id": "2369652",
+    "parent": "80500",
+    "text": "Tasmania",
+    "admin_level": "4"
+  },
+  {
+    "id": "2559345",
+    "parent": "80500",
+    "text": "Ashmore and Cartier Islands",
+    "admin_level": "4"
+  },
+  {
+    "id": "2574988",
+    "parent": "80500",
+    "text": "Norfolk Island",
+    "admin_level": "4"
+  },
+  {
+    "id": "3225677",
+    "parent": "80500",
+    "text": "Coral Sea Islands",
+    "admin_level": "4"
+  },
+  {
+    "id": "11716757",
+    "parent": "82636",
+    "text": "Shire of Cocos (Keeling) Islands",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716751",
+    "parent": "2177207",
+    "text": "Shire of Christmas Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "3093825",
+    "parent": "2316596",
+    "text": "Adelaide City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "3395908",
+    "parent": "2316596",
+    "text": "The District Council of Grant",
+    "admin_level": "6"
+  },
+  {
+    "id": "3395909",
+    "parent": "2316596",
+    "text": "City of Mount Gambier",
+    "admin_level": "6"
+  },
+  {
+    "id": "3795329",
+    "parent": "2316596",
+    "text": "Wattle Range Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6671370",
+    "parent": "2316596",
+    "text": "Kangaroo Island Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6673799",
+    "parent": "2316596",
+    "text": "Yorke Peninsula Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6704735",
+    "parent": "2316596",
+    "text": "Renmark Paringa Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6704840",
+    "parent": "2316596",
+    "text": "The District Council of Loxton Waikerie",
+    "admin_level": "6"
+  },
+  {
+    "id": "6706319",
+    "parent": "2316596",
+    "text": "Southern Mallee District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6706440",
+    "parent": "2316596",
+    "text": "Tatiara District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6711653",
+    "parent": "2316596",
+    "text": "Naracoorte Lucindale Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6738647",
+    "parent": "2316596",
+    "text": "District Council of Robe",
+    "admin_level": "6"
+  },
+  {
+    "id": "6738739",
+    "parent": "2316596",
+    "text": "Kingston District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6792088",
+    "parent": "2316596",
+    "text": "Anangu Pitjantjatjara Yankunytjatjara",
+    "admin_level": "6"
+  },
+  {
+    "id": "6794421",
+    "parent": "2316596",
+    "text": "Maralinga Tjarutja",
+    "admin_level": "6"
+  },
+  {
+    "id": "6799901",
+    "parent": "2316596",
+    "text": "The District Council of Coober Pedy",
+    "admin_level": "6"
+  },
+  {
+    "id": "6799906",
+    "parent": "2316596",
+    "text": "Municipal Council of Roxby Downs",
+    "admin_level": "6"
+  },
+  {
+    "id": "6799963",
+    "parent": "2316596",
+    "text": "Unincorporated Area Riverland",
+    "admin_level": "6"
+  },
+  {
+    "id": "6802509",
+    "parent": "2316596",
+    "text": "The Berri Barmera Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6804541",
+    "parent": "2316596",
+    "text": "Pastoral Unincorporated Area",
+    "admin_level": "6"
+  },
+  {
+    "id": "6805282",
+    "parent": "2316596",
+    "text": "Port Augusta City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6805430",
+    "parent": "2316596",
+    "text": "The Flinders Ranges Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6808108",
+    "parent": "2316596",
+    "text": "The District Council of Orroroo Carrieton",
+    "admin_level": "6"
+  },
+  {
+    "id": "6808228",
+    "parent": "2316596",
+    "text": "The District Council of Peterborough",
+    "admin_level": "6"
+  },
+  {
+    "id": "6811114",
+    "parent": "2316596",
+    "text": "Mid Murray Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7062764",
+    "parent": "2316596",
+    "text": "Coorong District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7071397",
+    "parent": "2316596",
+    "text": "The District Council of Karoonda East Murray",
+    "admin_level": "6"
+  },
+  {
+    "id": "7071420",
+    "parent": "2316596",
+    "text": "The Rural City of Murray Bridge",
+    "admin_level": "6"
+  },
+  {
+    "id": "7106028",
+    "parent": "2316596",
+    "text": "The District Council of Ceduna",
+    "admin_level": "6"
+  },
+  {
+    "id": "7109329",
+    "parent": "2316596",
+    "text": "The District Council of Streaky Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "7122479",
+    "parent": "2316596",
+    "text": "Wudinna District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7125331",
+    "parent": "2316596",
+    "text": "District Council of Elliston",
+    "admin_level": "6"
+  },
+  {
+    "id": "7231567",
+    "parent": "2316596",
+    "text": "Alexandrina Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7246311",
+    "parent": "2316596",
+    "text": "City of Victor Harbor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7250425",
+    "parent": "2316596",
+    "text": "The District Council of Yankalilla",
+    "admin_level": "6"
+  },
+  {
+    "id": "7262204",
+    "parent": "2316596",
+    "text": "City of Onkaparinga",
+    "admin_level": "6"
+  },
+  {
+    "id": "7294250",
+    "parent": "2316596",
+    "text": "Mount Barker District Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9102763",
+    "parent": "2316596",
+    "text": "City of Holdfast Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "9102764",
+    "parent": "2316596",
+    "text": "City of Marion",
+    "admin_level": "6"
+  },
+  {
+    "id": "9102859",
+    "parent": "2316596",
+    "text": "City of Mitcham",
+    "admin_level": "6"
+  },
+  {
+    "id": "9105810",
+    "parent": "2316596",
+    "text": "City of Burnside",
+    "admin_level": "6"
+  },
+  {
+    "id": "9105845",
+    "parent": "2316596",
+    "text": "Adelaide Hills Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9105938",
+    "parent": "2316596",
+    "text": "The Barossa Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9106057",
+    "parent": "2316596",
+    "text": "Town of Gawler",
+    "admin_level": "6"
+  },
+  {
+    "id": "9106078",
+    "parent": "2316596",
+    "text": "City of Unley",
+    "admin_level": "6"
+  },
+  {
+    "id": "9106092",
+    "parent": "2316596",
+    "text": "City of West Torrens",
+    "admin_level": "6"
+  },
+  {
+    "id": "9107444",
+    "parent": "2316596",
+    "text": "The City of Norwood Payneham and St Peters",
+    "admin_level": "6"
+  },
+  {
+    "id": "9107457",
+    "parent": "2316596",
+    "text": "Campbelltown City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9107506",
+    "parent": "2316596",
+    "text": "City of Tea Tree Gully",
+    "admin_level": "6"
+  },
+  {
+    "id": "9107816",
+    "parent": "2316596",
+    "text": "The Regional Council of Goyder",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108013",
+    "parent": "2316596",
+    "text": "City of Charles Sturt",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108032",
+    "parent": "2316596",
+    "text": "City of Prospect",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108033",
+    "parent": "2316596",
+    "text": "The Corporation of the Town of Walkerville",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108064",
+    "parent": "2316596",
+    "text": "City of Port Adelaide Enfield",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108068",
+    "parent": "2316596",
+    "text": "City of Salisbury",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108093",
+    "parent": "2316596",
+    "text": "City of Playford",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108116",
+    "parent": "2316596",
+    "text": "Clare and Gilbert Valleys Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108117",
+    "parent": "2316596",
+    "text": "Light Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108122",
+    "parent": "2316596",
+    "text": "Adelaide Plains Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108133",
+    "parent": "2316596",
+    "text": "Wakefield Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108139",
+    "parent": "2316596",
+    "text": "Copper Coast Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108140",
+    "parent": "2316596",
+    "text": "Barunga West Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108160",
+    "parent": "2316596",
+    "text": "Port Pirie Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108167",
+    "parent": "2316596",
+    "text": "Northern Areas Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108168",
+    "parent": "2316596",
+    "text": "The District Council of Mount Remarkable",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108325",
+    "parent": "2316596",
+    "text": "The District Council of Kimba",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108326",
+    "parent": "2316596",
+    "text": "The Corporation of the City of Whyalla",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108327",
+    "parent": "2316596",
+    "text": "Unincorporated Area Whyalla",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108354",
+    "parent": "2316596",
+    "text": "The District Council of Franklin Harbour",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108362",
+    "parent": "2316596",
+    "text": "The District Council of Cleve",
+    "admin_level": "6"
+  },
+  {
+    "id": "9108371",
+    "parent": "2316596",
+    "text": "The District Council of Tumby Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "9110111",
+    "parent": "2316596",
+    "text": "City of Port Lincoln",
+    "admin_level": "6"
+  },
+  {
+    "id": "9110112",
+    "parent": "2316596",
+    "text": "The District Council of Lower Eyre Peninsula",
+    "admin_level": "6"
+  },
+  {
+    "id": "11703807",
+    "parent": "2316596",
+    "text": "Unincorporated Area Torrens Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "10565120",
+    "parent": "2369652",
+    "text": "King Island Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "10565253",
+    "parent": "2369652",
+    "text": "Flinders Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "10577618",
+    "parent": "2369652",
+    "text": "Break O'Day",
+    "admin_level": "6"
+  },
+  {
+    "id": "10578020",
+    "parent": "2369652",
+    "text": "Dorset",
+    "admin_level": "6"
+  },
+  {
+    "id": "10579575",
+    "parent": "2369652",
+    "text": "George Town",
+    "admin_level": "6"
+  },
+  {
+    "id": "10581631",
+    "parent": "2369652",
+    "text": "City of Launceston",
+    "admin_level": "6"
+  },
+  {
+    "id": "10585650",
+    "parent": "2369652",
+    "text": "West Tamar",
+    "admin_level": "6"
+  },
+  {
+    "id": "10586170",
+    "parent": "2369652",
+    "text": "Latrobe",
+    "admin_level": "6"
+  },
+  {
+    "id": "10586315",
+    "parent": "2369652",
+    "text": "City of Devonport",
+    "admin_level": "6"
+  },
+  {
+    "id": "10590161",
+    "parent": "2369652",
+    "text": "Central Coast",
+    "admin_level": "6"
+  },
+  {
+    "id": "10590496",
+    "parent": "2369652",
+    "text": "City of Burnie",
+    "admin_level": "6"
+  },
+  {
+    "id": "10593034",
+    "parent": "2369652",
+    "text": "Waratah-Wynyard",
+    "admin_level": "6"
+  },
+  {
+    "id": "10593534",
+    "parent": "2369652",
+    "text": "Circular Head",
+    "admin_level": "6"
+  },
+  {
+    "id": "10594916",
+    "parent": "2369652",
+    "text": "West Coast",
+    "admin_level": "6"
+  },
+  {
+    "id": "10597614",
+    "parent": "2369652",
+    "text": "Kentish",
+    "admin_level": "6"
+  },
+  {
+    "id": "10598717",
+    "parent": "2369652",
+    "text": "Meander Valley",
+    "admin_level": "6"
+  },
+  {
+    "id": "10603742",
+    "parent": "2369652",
+    "text": "Derwent Valley",
+    "admin_level": "6"
+  },
+  {
+    "id": "10604255",
+    "parent": "2369652",
+    "text": "Northern Midlands",
+    "admin_level": "6"
+  },
+  {
+    "id": "10621831",
+    "parent": "2369652",
+    "text": "Glamorgan-Spring Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "10622305",
+    "parent": "2369652",
+    "text": "Central Highlands",
+    "admin_level": "6"
+  },
+  {
+    "id": "10624828",
+    "parent": "2369652",
+    "text": "Southern Midlands",
+    "admin_level": "6"
+  },
+  {
+    "id": "10624975",
+    "parent": "2369652",
+    "text": "Sorell",
+    "admin_level": "6"
+  },
+  {
+    "id": "10625162",
+    "parent": "2369652",
+    "text": "Tasman",
+    "admin_level": "6"
+  },
+  {
+    "id": "10625238",
+    "parent": "2369652",
+    "text": "Brighton",
+    "admin_level": "6"
+  },
+  {
+    "id": "10625382",
+    "parent": "2369652",
+    "text": "City of Glenorchy",
+    "admin_level": "6"
+  },
+  {
+    "id": "10625466",
+    "parent": "2369652",
+    "text": "City of Hobart",
+    "admin_level": "6"
+  },
+  {
+    "id": "10625764",
+    "parent": "2369652",
+    "text": "City of Clarence",
+    "admin_level": "6"
+  },
+  {
+    "id": "10627315",
+    "parent": "2369652",
+    "text": "Huon Valley",
+    "admin_level": "6"
+  },
+  {
+    "id": "10627577",
+    "parent": "2369652",
+    "text": "Kingborough",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251053",
+    "parent": "2316593",
+    "text": "Inner West Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251066",
+    "parent": "2316593",
+    "text": "Council of the City of Sydney",
+    "admin_level": "6"
+  },
+  {
+    "id": "2161967",
+    "parent": "2316593",
+    "text": "Burwood Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "2162244",
+    "parent": "2316593",
+    "text": "Canterbury-Bankstown Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "2978550",
+    "parent": "2316593",
+    "text": "Northern Beaches Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "3487773",
+    "parent": "2316593",
+    "text": "Albury City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "3487850",
+    "parent": "2316593",
+    "text": "Greater Hume Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "5884892",
+    "parent": "2316593",
+    "text": "Wentworth Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "5885448",
+    "parent": "2316593",
+    "text": "Central Darling Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "5892186",
+    "parent": "2316593",
+    "text": "Bourke Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "5892296",
+    "parent": "2316593",
+    "text": "Broken Hill City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "5897433",
+    "parent": "2316593",
+    "text": "Balranald Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6076330",
+    "parent": "2316593",
+    "text": "Brewarrina Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6079201",
+    "parent": "2316593",
+    "text": "Walgett Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6083910",
+    "parent": "2316593",
+    "text": "Cobar Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6086047",
+    "parent": "2316593",
+    "text": "Bogan Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6088821",
+    "parent": "2316593",
+    "text": "Moree Plains Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6092948",
+    "parent": "2316593",
+    "text": "Hay Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6095007",
+    "parent": "2316593",
+    "text": "Carrathool Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6100934",
+    "parent": "2316593",
+    "text": "Warren Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6106054",
+    "parent": "2316593",
+    "text": "Lachlan Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6134295",
+    "parent": "2316593",
+    "text": "Murray River Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6137309",
+    "parent": "2316593",
+    "text": "Queanbeyan-Palerang Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6139012",
+    "parent": "2316593",
+    "text": "Edward River Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6143220",
+    "parent": "2316593",
+    "text": "Clarence Valley Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6143221",
+    "parent": "2316593",
+    "text": "Richmond Valley Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6149251",
+    "parent": "2316593",
+    "text": "Griffith City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6163138",
+    "parent": "2316593",
+    "text": "Kyogle Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6163155",
+    "parent": "2316593",
+    "text": "Tenterfield Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6163165",
+    "parent": "2316593",
+    "text": "Glen Innes Severn Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6165969",
+    "parent": "2316593",
+    "text": "Armidale Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6165979",
+    "parent": "2316593",
+    "text": "Nambucca Valley Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6165980",
+    "parent": "2316593",
+    "text": "Bellingen Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6165983",
+    "parent": "2316593",
+    "text": "Coffs Harbour City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6168485",
+    "parent": "2316593",
+    "text": "Lismore City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6168644",
+    "parent": "2316593",
+    "text": "Ballina Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6170302",
+    "parent": "2316593",
+    "text": "Tweed Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6170304",
+    "parent": "2316593",
+    "text": "Byron Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6178731",
+    "parent": "2316593",
+    "text": "Kempsey Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6180603",
+    "parent": "2316593",
+    "text": "Walcha Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6180709",
+    "parent": "2316593",
+    "text": "Port Macquarie-Hastings Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6185449",
+    "parent": "2316593",
+    "text": "Dungog Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6185732",
+    "parent": "2316593",
+    "text": "Port Stephens Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6186848",
+    "parent": "2316593",
+    "text": "Upper Hunter Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6189782",
+    "parent": "2316593",
+    "text": "Maitland City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6189831",
+    "parent": "2316593",
+    "text": "City of Newcastle",
+    "admin_level": "6"
+  },
+  {
+    "id": "6191219",
+    "parent": "2316593",
+    "text": "Cessnock City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6191221",
+    "parent": "2316593",
+    "text": "City of Lake Macquarie",
+    "admin_level": "6"
+  },
+  {
+    "id": "6191883",
+    "parent": "2316593",
+    "text": "Singleton Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6195194",
+    "parent": "2316593",
+    "text": "Inverell Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6195207",
+    "parent": "2316593",
+    "text": "Central Coast Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6201664",
+    "parent": "2316593",
+    "text": "Randwick City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6203556",
+    "parent": "2316593",
+    "text": "Waverley Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6203650",
+    "parent": "2316593",
+    "text": "Woollahra Municipal Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6205809",
+    "parent": "2316593",
+    "text": "Georges River Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6206752",
+    "parent": "2316593",
+    "text": "Sutherland Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6210847",
+    "parent": "2316593",
+    "text": "Strathfield Municipal Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6210859",
+    "parent": "2316593",
+    "text": "Cumberland City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6212438",
+    "parent": "2316593",
+    "text": "Fairfield City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6212442",
+    "parent": "2316593",
+    "text": "Liverpool City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6217262",
+    "parent": "2316593",
+    "text": "City of Parramatta Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6217271",
+    "parent": "2316593",
+    "text": "City of Canada Bay Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6217858",
+    "parent": "2316593",
+    "text": "Blacktown City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6218884",
+    "parent": "2316593",
+    "text": "Council of the City of Ryde",
+    "admin_level": "6"
+  },
+  {
+    "id": "6218957",
+    "parent": "2316593",
+    "text": "The Council of the Shire of Hornsby",
+    "admin_level": "6"
+  },
+  {
+    "id": "6219220",
+    "parent": "2316593",
+    "text": "The Hills Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6222206",
+    "parent": "2316593",
+    "text": "Hawkesbury City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6228261",
+    "parent": "2316593",
+    "text": "Ku-ring-gai Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6230051",
+    "parent": "2316593",
+    "text": "Willoughby City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6230406",
+    "parent": "2316593",
+    "text": "Berrigan Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6231900",
+    "parent": "2316593",
+    "text": "Murrumbidgee Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6232188",
+    "parent": "2316593",
+    "text": "Federation Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6239422",
+    "parent": "2316593",
+    "text": "Snowy Monaro Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6239423",
+    "parent": "2316593",
+    "text": "Snowy Valleys Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6239661",
+    "parent": "2316593",
+    "text": "Eurobodalla Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6239664",
+    "parent": "2316593",
+    "text": "Bega Valley Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6247060",
+    "parent": "2316593",
+    "text": "Wagga Wagga City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6247073",
+    "parent": "2316593",
+    "text": "Cootamundra-Gundagai Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6247446",
+    "parent": "2316593",
+    "text": "Yass Valley Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6249291",
+    "parent": "2316593",
+    "text": "Mid-Coast Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6252194",
+    "parent": "2316593",
+    "text": "Junee Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6252224",
+    "parent": "2316593",
+    "text": "Temora Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6256597",
+    "parent": "2316593",
+    "text": "Hilltops Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6257747",
+    "parent": "2316593",
+    "text": "Bland Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6257772",
+    "parent": "2316593",
+    "text": "Weddin Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6257796",
+    "parent": "2316593",
+    "text": "Cowra Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6257920",
+    "parent": "2316593",
+    "text": "Upper Lachlan Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6260188",
+    "parent": "2316593",
+    "text": "Uralla Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6260771",
+    "parent": "2316593",
+    "text": "Gwydir Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6268488",
+    "parent": "2316593",
+    "text": "Gilgandra Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6268489",
+    "parent": "2316593",
+    "text": "Dubbo Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6268496",
+    "parent": "2316593",
+    "text": "Warrumbungle Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6268502",
+    "parent": "2316593",
+    "text": "Mid-Western Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6268804",
+    "parent": "2316593",
+    "text": "Cabonne Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6271674",
+    "parent": "2316593",
+    "text": "Parkes Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6271676",
+    "parent": "2316593",
+    "text": "Narromine Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6273237",
+    "parent": "2316593",
+    "text": "The Council of the Municipality of Hunters Hill",
+    "admin_level": "6"
+  },
+  {
+    "id": "6275976",
+    "parent": "2316593",
+    "text": "North Sydney Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6275980",
+    "parent": "2316593",
+    "text": "Lane Cove Municipal Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6276645",
+    "parent": "2316593",
+    "text": "Mosman Municipal Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6282698",
+    "parent": "2316593",
+    "text": "Penrith City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6287823",
+    "parent": "2316593",
+    "text": "Wollondilly Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6290069",
+    "parent": "2316593",
+    "text": "Camden Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6290704",
+    "parent": "2316593",
+    "text": "Campbelltown City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6299566",
+    "parent": "2316593",
+    "text": "Lithgow City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6299568",
+    "parent": "2316593",
+    "text": "Blue Mountains City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6303077",
+    "parent": "2316593",
+    "text": "Wollongong City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6304530",
+    "parent": "2316593",
+    "text": "Wingecarribee Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6304532",
+    "parent": "2316593",
+    "text": "Shellharbour City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6307911",
+    "parent": "2316593",
+    "text": "Oberon Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6310493",
+    "parent": "2316593",
+    "text": "Goulburn Mulwaree Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6311642",
+    "parent": "2316593",
+    "text": "The Council of the Municipality of Kiama",
+    "admin_level": "6"
+  },
+  {
+    "id": "6311648",
+    "parent": "2316593",
+    "text": "Shoalhaven City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6321566",
+    "parent": "2316593",
+    "text": "Coolamon Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6322034",
+    "parent": "2316593",
+    "text": "Narrandera Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6322050",
+    "parent": "2316593",
+    "text": "Lockhart Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6330866",
+    "parent": "2316593",
+    "text": "Bathurst Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6343182",
+    "parent": "2316593",
+    "text": "Muswellbrook Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6364998",
+    "parent": "2316593",
+    "text": "Liverpool Plains Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6365595",
+    "parent": "2316593",
+    "text": "Tamworth Regional Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6389900",
+    "parent": "2316593",
+    "text": "Narrabri Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6389934",
+    "parent": "2316593",
+    "text": "Gunnedah Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6411154",
+    "parent": "2316593",
+    "text": "Leeton Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6413174",
+    "parent": "2316593",
+    "text": "Forbes Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6423630",
+    "parent": "2316593",
+    "text": "Blayney Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "6427044",
+    "parent": "2316593",
+    "text": "Orange City Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7032873",
+    "parent": "2316593",
+    "text": "Unincorporated Far West Area",
+    "admin_level": "6"
+  },
+  {
+    "id": "7038238",
+    "parent": "2316593",
+    "text": "Bayside Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "7145506",
+    "parent": "2316593",
+    "text": "Coonamble Shire Council",
+    "admin_level": "6"
+  },
+  {
+    "id": "18179628",
+    "parent": "2316593",
+    "text": "Kyeemagh Breakwater",
+    "admin_level": "6"
+  },
+  {
+    "id": "18179629",
+    "parent": "2316593",
+    "text": "Towra Point",
+    "admin_level": "6"
+  },
+  {
+    "id": "18179630",
+    "parent": "2316593",
+    "text": "Bare Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18179631",
+    "parent": "2316593",
+    "text": "Unincorporated Botany Bay Area",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183644",
+    "parent": "2316593",
+    "text": "Parrawi Head",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183645",
+    "parent": "2316593",
+    "text": "Manly Wharf",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183646",
+    "parent": "2316593",
+    "text": "Manly Cove Pavillion",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183647",
+    "parent": "2316593",
+    "text": "Dalbora Marina",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183648",
+    "parent": "2316593",
+    "text": "Bradleys Head",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183649",
+    "parent": "2316593",
+    "text": "Mosman Bay Marina",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183650",
+    "parent": "2316593",
+    "text": "Hunters Hill Wharf",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183651",
+    "parent": "2316593",
+    "text": "Pyrmont Bay Park",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183652",
+    "parent": "2316593",
+    "text": "Australian National Maritime Museum",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183653",
+    "parent": "2316593",
+    "text": "Cockle Bay Wharf",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183654",
+    "parent": "2316593",
+    "text": "Walsh Bay Wharves",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183655",
+    "parent": "2316593",
+    "text": "Circular Quay",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183656",
+    "parent": "2316593",
+    "text": "Finger Wharf",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183657",
+    "parent": "2316593",
+    "text": "Double Bay Marina",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183658",
+    "parent": "2316593",
+    "text": "Royal Motor Yacht Club",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183659",
+    "parent": "2316593",
+    "text": "Bottle and Glass Rocks",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183660",
+    "parent": "2316593",
+    "text": "Shark Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183661",
+    "parent": "2316593",
+    "text": "Billong-Olo-Lah / Clark Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183662",
+    "parent": "2316593",
+    "text": "Pinchgut Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183663",
+    "parent": "2316593",
+    "text": "Goat Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183664",
+    "parent": "2316593",
+    "text": "Cockatoo Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183665",
+    "parent": "2316593",
+    "text": "Spectacle Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183666",
+    "parent": "2316593",
+    "text": "Rodd Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183667",
+    "parent": "2316593",
+    "text": "Unincorporated Sydney Harbour",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183682",
+    "parent": "2316593",
+    "text": "Snapper Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18183905",
+    "parent": "2316593",
+    "text": "Unincorporated New South Wales",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194871",
+    "parent": "2316593",
+    "text": "Tollgate Islands",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194872",
+    "parent": "2316593",
+    "text": "Snapper Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194873",
+    "parent": "2316593",
+    "text": "Flat Rock Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194874",
+    "parent": "2316593",
+    "text": "Grasshopper Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194875",
+    "parent": "2316593",
+    "text": "Dawsons Islands",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194876",
+    "parent": "2316593",
+    "text": "O'Hara Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194877",
+    "parent": "2316593",
+    "text": "Belowla Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194878",
+    "parent": "2316593",
+    "text": "Brush Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194879",
+    "parent": "2316593",
+    "text": "Lobster Rock",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194880",
+    "parent": "2316593",
+    "text": "Unincorporated South Coast",
+    "admin_level": "6"
+  },
+  {
+    "id": "18194883",
+    "parent": "2316593",
+    "text": "Wasp Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "2403625",
+    "parent": "2316741",
+    "text": "City of Banyule",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404379",
+    "parent": "2316741",
+    "text": "City of Darebin",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404473",
+    "parent": "2316741",
+    "text": "City of Boroondara",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404491",
+    "parent": "2316741",
+    "text": "City of Yarra",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404870",
+    "parent": "2316741",
+    "text": "City of Melbourne",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404889",
+    "parent": "2316741",
+    "text": "City of Port Phillip",
+    "admin_level": "6"
+  },
+  {
+    "id": "2404995",
+    "parent": "2316741",
+    "text": "City of Stonnington",
+    "admin_level": "6"
+  },
+  {
+    "id": "2405038",
+    "parent": "2316741",
+    "text": "City of Manningham",
+    "admin_level": "6"
+  },
+  {
+    "id": "2406273",
+    "parent": "2316741",
+    "text": "City of Whitehorse",
+    "admin_level": "6"
+  },
+  {
+    "id": "2432415",
+    "parent": "2316741",
+    "text": "City of Hobsons Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "2432416",
+    "parent": "2316741",
+    "text": "City of Wyndham",
+    "admin_level": "6"
+  },
+  {
+    "id": "2646730",
+    "parent": "2316741",
+    "text": "City of Greater Geelong",
+    "admin_level": "6"
+  },
+  {
+    "id": "2905535",
+    "parent": "2316741",
+    "text": "City of Monash",
+    "admin_level": "6"
+  },
+  {
+    "id": "3290265",
+    "parent": "2316741",
+    "text": "Borough of Queenscliffe",
+    "admin_level": "6"
+  },
+  {
+    "id": "3290432",
+    "parent": "2316741",
+    "text": "Surf Coast Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "3290692",
+    "parent": "2316741",
+    "text": "Golden Plains Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "3291847",
+    "parent": "2316741",
+    "text": "Shire of Colac Otway",
+    "admin_level": "6"
+  },
+  {
+    "id": "3291894",
+    "parent": "2316741",
+    "text": "Shire of Corangamite",
+    "admin_level": "6"
+  },
+  {
+    "id": "3291903",
+    "parent": "2316741",
+    "text": "Shire of Pyrenees",
+    "admin_level": "6"
+  },
+  {
+    "id": "3291925",
+    "parent": "2316741",
+    "text": "City of Ballarat",
+    "admin_level": "6"
+  },
+  {
+    "id": "3291957",
+    "parent": "2316741",
+    "text": "Shire of Moorabool",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327545",
+    "parent": "2316741",
+    "text": "City of Melton",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327554",
+    "parent": "2316741",
+    "text": "City of Brimbank",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327634",
+    "parent": "2316741",
+    "text": "City of Hume",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327683",
+    "parent": "2316741",
+    "text": "Shire of Macedon Ranges",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327767",
+    "parent": "2316741",
+    "text": "City of Merri-bek",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327768",
+    "parent": "2316741",
+    "text": "City of Whittlesea",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327815",
+    "parent": "2316741",
+    "text": "Shire of Mitchell",
+    "admin_level": "6"
+  },
+  {
+    "id": "3327844",
+    "parent": "2316741",
+    "text": "Shire of Hepburn",
+    "admin_level": "6"
+  },
+  {
+    "id": "3329056",
+    "parent": "2316741",
+    "text": "City of Moonee Valley",
+    "admin_level": "6"
+  },
+  {
+    "id": "3330965",
+    "parent": "2316741",
+    "text": "City of Maribyrnong",
+    "admin_level": "6"
+  },
+  {
+    "id": "3331023",
+    "parent": "2316741",
+    "text": "Shire of Nillumbik",
+    "admin_level": "6"
+  },
+  {
+    "id": "3331087",
+    "parent": "2316741",
+    "text": "City of Glen Eira",
+    "admin_level": "6"
+  },
+  {
+    "id": "3332647",
+    "parent": "2316741",
+    "text": "Shire of Murrindindi",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333042",
+    "parent": "2316741",
+    "text": "City of Bayside",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333046",
+    "parent": "2316741",
+    "text": "City of Kingston",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333235",
+    "parent": "2316741",
+    "text": "City of Greater Dandenong",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333252",
+    "parent": "2316741",
+    "text": "City of Frankston",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333276",
+    "parent": "2316741",
+    "text": "City of Casey",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333281",
+    "parent": "2316741",
+    "text": "Shire of Mornington Peninsula",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333971",
+    "parent": "2316741",
+    "text": "City of Knox",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333992",
+    "parent": "2316741",
+    "text": "City of Maroondah",
+    "admin_level": "6"
+  },
+  {
+    "id": "3333996",
+    "parent": "2316741",
+    "text": "Shire of Yarra Ranges",
+    "admin_level": "6"
+  },
+  {
+    "id": "3335652",
+    "parent": "2316741",
+    "text": "Shire of Cardinia",
+    "admin_level": "6"
+  },
+  {
+    "id": "3335695",
+    "parent": "2316741",
+    "text": "Shire of Baw Baw",
+    "admin_level": "6"
+  },
+  {
+    "id": "3335917",
+    "parent": "2316741",
+    "text": "Shire of South Gippsland",
+    "admin_level": "6"
+  },
+  {
+    "id": "3335921",
+    "parent": "2316741",
+    "text": "Bass Coast Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "3339104",
+    "parent": "2316741",
+    "text": "Shire of Mount Alexander",
+    "admin_level": "6"
+  },
+  {
+    "id": "3343791",
+    "parent": "2316741",
+    "text": "City of Greater Bendigo",
+    "admin_level": "6"
+  },
+  {
+    "id": "3344106",
+    "parent": "2316741",
+    "text": "Shire of Loddon",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345519",
+    "parent": "2316741",
+    "text": "Rural City of Mildura",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345520",
+    "parent": "2316741",
+    "text": "Shire of West Wimmera",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345532",
+    "parent": "2316741",
+    "text": "Shire of Hindmarsh",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345545",
+    "parent": "2316741",
+    "text": "Shire of Yarriambiack",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345547",
+    "parent": "2316741",
+    "text": "Shire of Buloke",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345551",
+    "parent": "2316741",
+    "text": "Rural City of Swan Hill",
+    "admin_level": "6"
+  },
+  {
+    "id": "3345839",
+    "parent": "2316741",
+    "text": "Shire of Strathbogie",
+    "admin_level": "6"
+  },
+  {
+    "id": "3347273",
+    "parent": "2316741",
+    "text": "Shire of Campaspe",
+    "admin_level": "6"
+  },
+  {
+    "id": "3347614",
+    "parent": "2316741",
+    "text": "Rural City of Ararat",
+    "admin_level": "6"
+  },
+  {
+    "id": "3347615",
+    "parent": "2316741",
+    "text": "Shire of Moyne",
+    "admin_level": "6"
+  },
+  {
+    "id": "3347796",
+    "parent": "2316741",
+    "text": "City of Warrnambool",
+    "admin_level": "6"
+  },
+  {
+    "id": "3348880",
+    "parent": "2316741",
+    "text": "Shire of Northern Grampians",
+    "admin_level": "6"
+  },
+  {
+    "id": "3349959",
+    "parent": "2316741",
+    "text": "Shire of Southern Grampians",
+    "admin_level": "6"
+  },
+  {
+    "id": "3350291",
+    "parent": "2316741",
+    "text": "Shire of Mansfield",
+    "admin_level": "6"
+  },
+  {
+    "id": "3351397",
+    "parent": "2316741",
+    "text": "Shire of Central Goldfields",
+    "admin_level": "6"
+  },
+  {
+    "id": "3351438",
+    "parent": "2316741",
+    "text": "Shire of Wellington",
+    "admin_level": "6"
+  },
+  {
+    "id": "3351439",
+    "parent": "2316741",
+    "text": "Rural City of Wangaratta",
+    "admin_level": "6"
+  },
+  {
+    "id": "3351593",
+    "parent": "2316741",
+    "text": "Rural City of Benalla",
+    "admin_level": "6"
+  },
+  {
+    "id": "3355071",
+    "parent": "2316741",
+    "text": "City of Latrobe",
+    "admin_level": "6"
+  },
+  {
+    "id": "3357380",
+    "parent": "2316741",
+    "text": "Shire of Glenelg",
+    "admin_level": "6"
+  },
+  {
+    "id": "3359337",
+    "parent": "2316741",
+    "text": "Rural City of Horsham",
+    "admin_level": "6"
+  },
+  {
+    "id": "3359756",
+    "parent": "2316741",
+    "text": "Shire of East Gippsland",
+    "admin_level": "6"
+  },
+  {
+    "id": "3361217",
+    "parent": "2316741",
+    "text": "Alpine Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "3361220",
+    "parent": "2316741",
+    "text": "Shire of Towong",
+    "admin_level": "6"
+  },
+  {
+    "id": "3363585",
+    "parent": "2316741",
+    "text": "Shire of Gannawarra",
+    "admin_level": "6"
+  },
+  {
+    "id": "3365116",
+    "parent": "2316741",
+    "text": "City of Greater Shepparton",
+    "admin_level": "6"
+  },
+  {
+    "id": "3365119",
+    "parent": "2316741",
+    "text": "Shire of Moira",
+    "admin_level": "6"
+  },
+  {
+    "id": "3365369",
+    "parent": "2316741",
+    "text": "Shire of Indigo",
+    "admin_level": "6"
+  },
+  {
+    "id": "3365492",
+    "parent": "2316741",
+    "text": "City of Wodonga",
+    "admin_level": "6"
+  },
+  {
+    "id": "12467013",
+    "parent": "2316741",
+    "text": "Deen Maar",
+    "admin_level": "6"
+  },
+  {
+    "id": "12467015",
+    "parent": "2316741",
+    "text": "Gabo Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "12467016",
+    "parent": "2316741",
+    "text": "Sandstone Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "14135897",
+    "parent": "2316741",
+    "text": "Mount Hotham Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "14135908",
+    "parent": "2316741",
+    "text": "Falls Creek Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "14135927",
+    "parent": "2316741",
+    "text": "Mount Baw Baw Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "14135958",
+    "parent": "2316741",
+    "text": "Lake Mountain Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "16694830",
+    "parent": "2316741",
+    "text": "French Island",
+    "admin_level": "6"
+  },
+  {
+    "id": "16918861",
+    "parent": "2316741",
+    "text": "Mount Stirling Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "16918862",
+    "parent": "2316741",
+    "text": "Mount Buller Alpine Resort",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045367",
+    "parent": "2316598",
+    "text": "Shire of Kent",
+    "admin_level": "6"
+  },
+  {
+    "id": "11311129",
+    "parent": "2316598",
+    "text": "City of Belmont",
+    "admin_level": "6"
+  },
+  {
+    "id": "11318562",
+    "parent": "2316598",
+    "text": "Town of Victoria Park",
+    "admin_level": "6"
+  },
+  {
+    "id": "11334981",
+    "parent": "2316598",
+    "text": "City of South Perth",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343559",
+    "parent": "2316598",
+    "text": "Town of Cottesloe",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343560",
+    "parent": "2316598",
+    "text": "Town of Mosman Park",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343561",
+    "parent": "2316598",
+    "text": "Shire of Peppermint Grove",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343562",
+    "parent": "2316598",
+    "text": "Town of Claremont",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343563",
+    "parent": "2316598",
+    "text": "City of Nedlands",
+    "admin_level": "6"
+  },
+  {
+    "id": "11343564",
+    "parent": "2316598",
+    "text": "City of Perth",
+    "admin_level": "6"
+  },
+  {
+    "id": "11346296",
+    "parent": "2316598",
+    "text": "City of Fremantle",
+    "admin_level": "6"
+  },
+  {
+    "id": "11349414",
+    "parent": "2316598",
+    "text": "City of Subiaco",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688657",
+    "parent": "2316598",
+    "text": "Shire Of Augusta Margaret River",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688682",
+    "parent": "2316598",
+    "text": "City Of Busselton",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688751",
+    "parent": "2316598",
+    "text": "Shire Of Donnybrook-Balingup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688780",
+    "parent": "2316598",
+    "text": "Shire Of Nannup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688794",
+    "parent": "2316598",
+    "text": "Shire Of Capel",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688799",
+    "parent": "2316598",
+    "text": "City Of Bunbury",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688826",
+    "parent": "2316598",
+    "text": "Shire Of Dardanup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688837",
+    "parent": "2316598",
+    "text": "Shire Of Collie",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688847",
+    "parent": "2316598",
+    "text": "Shire Of Bridgetown-Greenbushes",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688861",
+    "parent": "2316598",
+    "text": "Shire Of Boyup Brook",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688868",
+    "parent": "2316598",
+    "text": "Shire Of West Arthur",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688873",
+    "parent": "2316598",
+    "text": "Shire Of Woodanilling",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688886",
+    "parent": "2316598",
+    "text": "Shire Of Broomehill-Tambellup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688904",
+    "parent": "2316598",
+    "text": "Shire Of Katanning",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688916",
+    "parent": "2316598",
+    "text": "Shire Of Dumbleyung",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688936",
+    "parent": "2316598",
+    "text": "Shire Of Wickepin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688948",
+    "parent": "2316598",
+    "text": "Shire Of Narrogin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688953",
+    "parent": "2316598",
+    "text": "Shire Of Wagin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688971",
+    "parent": "2316598",
+    "text": "Shire Of Lake Grace",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688974",
+    "parent": "2316598",
+    "text": "Shire Of Kulin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688990",
+    "parent": "2316598",
+    "text": "Shire Of Jerramungup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11688994",
+    "parent": "2316598",
+    "text": "Shire Of Ravensthorpe",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689020",
+    "parent": "2316598",
+    "text": "Shire Of Esperance",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689039",
+    "parent": "2316598",
+    "text": "Shire Of Merredin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689046",
+    "parent": "2316598",
+    "text": "Shire Of Bruce Rock",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689064",
+    "parent": "2316598",
+    "text": "Shire Of Pingelly",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689070",
+    "parent": "2316598",
+    "text": "Shire Of Wandering",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689079",
+    "parent": "2316598",
+    "text": "Shire Of Cuballing",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689095",
+    "parent": "2316598",
+    "text": "Shire Of Boddington",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689145",
+    "parent": "2316598",
+    "text": "City of Kwinana",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689175",
+    "parent": "2316598",
+    "text": "City of Cockburn",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689220",
+    "parent": "2316598",
+    "text": "City of Vincent",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689232",
+    "parent": "2316598",
+    "text": "Town of Cambridge",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689256",
+    "parent": "2316598",
+    "text": "City of Stirling",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689261",
+    "parent": "2316598",
+    "text": "City of Bayswater",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689280",
+    "parent": "2316598",
+    "text": "Town of Bassendean",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689336",
+    "parent": "2316598",
+    "text": "City of Swan",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689370",
+    "parent": "2316598",
+    "text": "City of Gosnells",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689373",
+    "parent": "2316598",
+    "text": "City of Canning",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689377",
+    "parent": "2316598",
+    "text": "City of Melville",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689397",
+    "parent": "2316598",
+    "text": "Town of East Fremantle",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689408",
+    "parent": "2316598",
+    "text": "City of Rockingham",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689420",
+    "parent": "2316598",
+    "text": "Shire of Serpentine-Jarrahdale",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689426",
+    "parent": "2316598",
+    "text": "City Of Armadale",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689431",
+    "parent": "2316598",
+    "text": "City Of Kalamunda",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689451",
+    "parent": "2316598",
+    "text": "Shire Of Northam",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689465",
+    "parent": "2316598",
+    "text": "Shire Of Beverley",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689474",
+    "parent": "2316598",
+    "text": "Shire Of Quairading",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689484",
+    "parent": "2316598",
+    "text": "Shire Of Tammin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689499",
+    "parent": "2316598",
+    "text": "Shire Of Nungarin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689515",
+    "parent": "2316598",
+    "text": "Shire Of Trayning",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689523",
+    "parent": "2316598",
+    "text": "Shire Of Kellerberrin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689526",
+    "parent": "2316598",
+    "text": "Shire Of Corrigin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689533",
+    "parent": "2316598",
+    "text": "Shire Of Cunderdin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689544",
+    "parent": "2316598",
+    "text": "Shire Of Toodyay",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689578",
+    "parent": "2316598",
+    "text": "Shire Of Gingin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689595",
+    "parent": "2316598",
+    "text": "Shire Of Dandaragan",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689602",
+    "parent": "2316598",
+    "text": "Shire Of Chittering",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689618",
+    "parent": "2316598",
+    "text": "City of Joondalup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689642",
+    "parent": "2316598",
+    "text": "City of Wanneroo",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689676",
+    "parent": "2316598",
+    "text": "Shire of Mundaring",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689681",
+    "parent": "2316598",
+    "text": "Shire Of York",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689704",
+    "parent": "2316598",
+    "text": "Shire Of Goomalling",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689712",
+    "parent": "2316598",
+    "text": "Shire Of Victoria Plains",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689731",
+    "parent": "2316598",
+    "text": "Shire Of Moora",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689744",
+    "parent": "2316598",
+    "text": "Shire of Mingenew",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689752",
+    "parent": "2316598",
+    "text": "Shire Of Three Springs",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689755",
+    "parent": "2316598",
+    "text": "Shire Of Carnamah",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689760",
+    "parent": "2316598",
+    "text": "Shire Of Coorow",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689780",
+    "parent": "2316598",
+    "text": "Shire Of Wongan-Ballidu",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689797",
+    "parent": "2316598",
+    "text": "Shire Of Dowerin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689801",
+    "parent": "2316598",
+    "text": "Shire Of Wyalkatchem",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689805",
+    "parent": "2316598",
+    "text": "Shire Of Koorda",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689810",
+    "parent": "2316598",
+    "text": "Shire Of Dalwallinu",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689822",
+    "parent": "2316598",
+    "text": "Shire Of Perenjori",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689827",
+    "parent": "2316598",
+    "text": "Shire of Morawa",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689854",
+    "parent": "2316598",
+    "text": "Shire of Northampton",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689909",
+    "parent": "2316598",
+    "text": "Shire of Irwin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689919",
+    "parent": "2316598",
+    "text": "City Of Greater Geraldton",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689924",
+    "parent": "2316598",
+    "text": "Shire Of Chapman Valley",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689946",
+    "parent": "2316598",
+    "text": "Shire Of Shark Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689991",
+    "parent": "2316598",
+    "text": "Shire Of Carnarvon",
+    "admin_level": "6"
+  },
+  {
+    "id": "11689997",
+    "parent": "2316598",
+    "text": "Shire Of Exmouth",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690012",
+    "parent": "2316598",
+    "text": "Shire Of Ashburton",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690037",
+    "parent": "2316598",
+    "text": "City Of Karratha",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690043",
+    "parent": "2316598",
+    "text": "Town Of Port Hedland",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690051",
+    "parent": "2316598",
+    "text": "Shire Of Upper Gascoyne",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690055",
+    "parent": "2316598",
+    "text": "Shire Of Cue",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690060",
+    "parent": "2316598",
+    "text": "Shire Of Mount Magnet",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690064",
+    "parent": "2316598",
+    "text": "Shire Of Yalgoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690070",
+    "parent": "2316598",
+    "text": "Shire Of Mount Marshall",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690078",
+    "parent": "2316598",
+    "text": "Shire Of Westonia",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690085",
+    "parent": "2316598",
+    "text": "Shire Of Yilgarn",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690099",
+    "parent": "2316598",
+    "text": "Shire Of Coolgardie",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690139",
+    "parent": "2316598",
+    "text": "Shire Of Kondinin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690142",
+    "parent": "2316598",
+    "text": "Shire Of Narembeen",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690148",
+    "parent": "2316598",
+    "text": "Shire Of Mukinbudin",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690164",
+    "parent": "2316598",
+    "text": "Shire Of Leonora",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690170",
+    "parent": "2316598",
+    "text": "Shire Of Wiluna",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690199",
+    "parent": "2316598",
+    "text": "Shire Of Murchison",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690204",
+    "parent": "2316598",
+    "text": "Shire of Meekatharra",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690206",
+    "parent": "2316598",
+    "text": "Shire Of Sandstone",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690211",
+    "parent": "2316598",
+    "text": "Shire Of Menzies",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690214",
+    "parent": "2316598",
+    "text": "City Of Kalgoorlie-Boulder",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690221",
+    "parent": "2316598",
+    "text": "Shire Of Dundas",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690240",
+    "parent": "2316598",
+    "text": "Shire Of Laverton",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690243",
+    "parent": "2316598",
+    "text": "Shire Of Ngaanyatjarraku",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690247",
+    "parent": "2316598",
+    "text": "Shire of East Pilbara",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690277",
+    "parent": "2316598",
+    "text": "Shire Of Broome",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690289",
+    "parent": "2316598",
+    "text": "Shire Of Wyndham-East Kimberley",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690291",
+    "parent": "2316598",
+    "text": "Shire Of Derby-West Kimberley",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690294",
+    "parent": "2316598",
+    "text": "Shire of Halls Creek",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690325",
+    "parent": "2316598",
+    "text": "Shire Of Gnowangerup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690341",
+    "parent": "2316598",
+    "text": "City Of Albany",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690400",
+    "parent": "2316598",
+    "text": "Shire Of Plantagenet",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690414",
+    "parent": "2316598",
+    "text": "Shire Of Denmark",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690439",
+    "parent": "2316598",
+    "text": "Shire Of Manjimup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690464",
+    "parent": "2316598",
+    "text": "Shire Of Kojonup",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690470",
+    "parent": "2316598",
+    "text": "Shire Of Cranbrook",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690476",
+    "parent": "2316598",
+    "text": "Shire Of Williams",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690485",
+    "parent": "2316598",
+    "text": "Shire of Murray",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690490",
+    "parent": "2316598",
+    "text": "City of Mandurah",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690511",
+    "parent": "2316598",
+    "text": "Shire Of Waroona",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690516",
+    "parent": "2316598",
+    "text": "Shire Of Harvey",
+    "admin_level": "6"
+  },
+  {
+    "id": "11690525",
+    "parent": "2316598",
+    "text": "Shire Of Brookton",
+    "admin_level": "6"
+  },
+  {
+    "id": "16694855",
+    "parent": "2316598",
+    "text": "Kings Park",
+    "admin_level": "6"
+  },
+  {
+    "id": "5514633",
+    "parent": "2316594",
+    "text": "Victoria Daly Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "5515884",
+    "parent": "2316594",
+    "text": "City of Darwin",
+    "admin_level": "6"
+  },
+  {
+    "id": "8878328",
+    "parent": "2316594",
+    "text": "Central Desert Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "8878329",
+    "parent": "2316594",
+    "text": "Barkly Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045373",
+    "parent": "2316594",
+    "text": "Town of Katherine",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045374",
+    "parent": "2316594",
+    "text": "City of Palmerston",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045375",
+    "parent": "2316594",
+    "text": "Litchfield Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045376",
+    "parent": "2316594",
+    "text": "Coomalie Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045377",
+    "parent": "2316594",
+    "text": "Wagait Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045378",
+    "parent": "2316594",
+    "text": "Town of Alice Springs",
+    "admin_level": "6"
+  },
+  {
+    "id": "9045379",
+    "parent": "2316594",
+    "text": "Belyuen Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716437",
+    "parent": "2316594",
+    "text": "Roper Gulf Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716450",
+    "parent": "2316594",
+    "text": "West Arnhem Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716544",
+    "parent": "2316594",
+    "text": "Darwin Waterfront Precinct Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716591",
+    "parent": "2316594",
+    "text": "West Daly Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716620",
+    "parent": "2316594",
+    "text": "East Arnhem Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716630",
+    "parent": "2316594",
+    "text": "Tiwi Islands Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "11716646",
+    "parent": "2316594",
+    "text": "Macdonnell Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "18962228",
+    "parent": "2316594",
+    "text": "Groote Archipelago Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "5656285",
+    "parent": "2316595",
+    "text": "Bundaberg Region",
+    "admin_level": "6"
+  },
+  {
+    "id": "10921477",
+    "parent": "2316595",
+    "text": "Doomadgee Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674821",
+    "parent": "2316595",
+    "text": "Western Downs Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674848",
+    "parent": "2316595",
+    "text": "Goondiwindi Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674851",
+    "parent": "2316595",
+    "text": "Balonne Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674862",
+    "parent": "2316595",
+    "text": "Maranoa Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674869",
+    "parent": "2316595",
+    "text": "Paroo Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674879",
+    "parent": "2316595",
+    "text": "Murweh Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674900",
+    "parent": "2316595",
+    "text": "Blackall Tambo Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11674950",
+    "parent": "2316595",
+    "text": "Banana Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675024",
+    "parent": "2316595",
+    "text": "South Burnett Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675079",
+    "parent": "2316595",
+    "text": "Gympie Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675096",
+    "parent": "2316595",
+    "text": "Cherbourg Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675192",
+    "parent": "2316595",
+    "text": "Sunshine Coast Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675411",
+    "parent": "2316595",
+    "text": "Logan City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675459",
+    "parent": "2316595",
+    "text": "Gold Coast City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675525",
+    "parent": "2316595",
+    "text": "Scenic Rim Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675604",
+    "parent": "2316595",
+    "text": "Ipswich City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675710",
+    "parent": "2316595",
+    "text": "Lockyer Valley Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11675821",
+    "parent": "2316595",
+    "text": "Toowoomba Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676093",
+    "parent": "2316595",
+    "text": "North Burnett Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676212",
+    "parent": "2316595",
+    "text": "Noosa Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676269",
+    "parent": "2316595",
+    "text": "Fraser Coast Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676351",
+    "parent": "2316595",
+    "text": "Gladstone Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676441",
+    "parent": "2316595",
+    "text": "Rockhampton Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676571",
+    "parent": "2316595",
+    "text": "Central Highlands Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676584",
+    "parent": "2316595",
+    "text": "Isaac Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676670",
+    "parent": "2316595",
+    "text": "Whitsunday Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676690",
+    "parent": "2316595",
+    "text": "Barcaldine Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676693",
+    "parent": "2316595",
+    "text": "Longreach Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676698",
+    "parent": "2316595",
+    "text": "Barcoo Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676703",
+    "parent": "2316595",
+    "text": "Quilpie Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676708",
+    "parent": "2316595",
+    "text": "Bulloo Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676713",
+    "parent": "2316595",
+    "text": "Winton Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676721",
+    "parent": "2316595",
+    "text": "Boulia Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676755",
+    "parent": "2316595",
+    "text": "Diamantina Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676765",
+    "parent": "2316595",
+    "text": "Flinders Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676769",
+    "parent": "2316595",
+    "text": "Charters Towers Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676862",
+    "parent": "2316595",
+    "text": "Townsville City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676894",
+    "parent": "2316595",
+    "text": "Hinchinbrook Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676958",
+    "parent": "2316595",
+    "text": "Cassowary Coast Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676960",
+    "parent": "2316595",
+    "text": "Palm Island Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676973",
+    "parent": "2316595",
+    "text": "Etheridge Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676976",
+    "parent": "2316595",
+    "text": "Croydon Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11676981",
+    "parent": "2316595",
+    "text": "Richmond Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677016",
+    "parent": "2316595",
+    "text": "Burdekin Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677105",
+    "parent": "2316595",
+    "text": "Yarrabah Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677109",
+    "parent": "2316595",
+    "text": "Cairns Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677293",
+    "parent": "2316595",
+    "text": "Tablelands Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677337",
+    "parent": "2316595",
+    "text": "Mareeba Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677358",
+    "parent": "2316595",
+    "text": "Wujal Wujal Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677364",
+    "parent": "2316595",
+    "text": "Hope Vale Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677391",
+    "parent": "2316595",
+    "text": "McKinlay Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677395",
+    "parent": "2316595",
+    "text": "Cloncurry Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677400",
+    "parent": "2316595",
+    "text": "Mount Isa City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677403",
+    "parent": "2316595",
+    "text": "Burke Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677406",
+    "parent": "2316595",
+    "text": "Mornington Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677417",
+    "parent": "2316595",
+    "text": "Carpentaria Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677418",
+    "parent": "2316595",
+    "text": "Kowanyama Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677422",
+    "parent": "2316595",
+    "text": "Pormpuraaw Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677425",
+    "parent": "2316595",
+    "text": "Aurukun Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677428",
+    "parent": "2316595",
+    "text": "Weipa Town",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677433",
+    "parent": "2316595",
+    "text": "Napranum Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677436",
+    "parent": "2316595",
+    "text": "Mapoon Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677441",
+    "parent": "2316595",
+    "text": "Cook Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677446",
+    "parent": "2316595",
+    "text": "Lockhart River Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677448",
+    "parent": "2316595",
+    "text": "Northern Peninsula Area Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677470",
+    "parent": "2316595",
+    "text": "Torres Strait Island Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677474",
+    "parent": "2316595",
+    "text": "Torres Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677495",
+    "parent": "2316595",
+    "text": "Douglas Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677520",
+    "parent": "2316595",
+    "text": "Livingstone Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677533",
+    "parent": "2316595",
+    "text": "Woorabinda Aboriginal Shire",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677563",
+    "parent": "2316595",
+    "text": "Mackay Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677661",
+    "parent": "2316595",
+    "text": "Somerset Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677711",
+    "parent": "2316595",
+    "text": "City of Moreton Bay",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677792",
+    "parent": "2316595",
+    "text": "City of Brisbane",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677885",
+    "parent": "2316595",
+    "text": "Redland City",
+    "admin_level": "6"
+  },
+  {
+    "id": "11677975",
+    "parent": "2316595",
+    "text": "Southern Downs Regional",
+    "admin_level": "6"
+  },
+  {
+    "id": "18179343",
+    "parent": "2316595",
+    "text": "Unincorporated Queensland",
+    "admin_level": "6"
+  }
+]

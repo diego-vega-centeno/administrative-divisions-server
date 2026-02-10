@@ -1,0 +1,7136 @@
+[
+  {
+    "id": "3899602",
+    "parent": "184629",
+    "text": "Bumthang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899603",
+    "parent": "184629",
+    "text": "Chukha",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899605",
+    "parent": "184629",
+    "text": "Dagana District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899606",
+    "parent": "184629",
+    "text": "Gasa District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899607",
+    "parent": "184629",
+    "text": "Haa District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899608",
+    "parent": "184629",
+    "text": "Lhuntse District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899609",
+    "parent": "184629",
+    "text": "Mongar District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899610",
+    "parent": "184629",
+    "text": "Paro District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899611",
+    "parent": "184629",
+    "text": "Pemagatshel District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899612",
+    "parent": "184629",
+    "text": "Punakha District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899613",
+    "parent": "184629",
+    "text": "Samdrup Jongkhar District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899614",
+    "parent": "184629",
+    "text": "Samtse District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899615",
+    "parent": "184629",
+    "text": "Sarpang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899616",
+    "parent": "184629",
+    "text": "Thimphu District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899617",
+    "parent": "184629",
+    "text": "Trashigang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899618",
+    "parent": "184629",
+    "text": "Trashiyangtse District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899619",
+    "parent": "184629",
+    "text": "Trongsa District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899620",
+    "parent": "184629",
+    "text": "Tsirang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899621",
+    "parent": "184629",
+    "text": "Wangdue Phodrang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "3899622",
+    "parent": "184629",
+    "text": "Zhemgang District",
+    "admin_level": "4"
+  },
+  {
+    "id": "12183112",
+    "parent": "3899621",
+    "text": "Saephu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183113",
+    "parent": "3899621",
+    "text": "Dangchhu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183114",
+    "parent": "3899621",
+    "text": "Nyishog Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183115",
+    "parent": "3899621",
+    "text": "Phangyuel Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183116",
+    "parent": "3899621",
+    "text": "Thedtsho Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183117",
+    "parent": "3899621",
+    "text": "Nahi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183119",
+    "parent": "3899621",
+    "text": "Gase Tshowogm Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183120",
+    "parent": "3899621",
+    "text": "Ruebisa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183121",
+    "parent": "3899621",
+    "text": "Bjenag Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183122",
+    "parent": "3899621",
+    "text": "Gangteng Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183123",
+    "parent": "3899621",
+    "text": "Phobji Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183124",
+    "parent": "3899621",
+    "text": "Athang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12183125",
+    "parent": "3899621",
+    "text": "Darkar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13388751",
+    "parent": "3899621",
+    "text": "Kazhi",
+    "admin_level": "6"
+  },
+  {
+    "id": "13405820",
+    "parent": "3899621",
+    "text": "Gase Tshogongm Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165765",
+    "parent": "3899614",
+    "text": "Norgaygang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165766",
+    "parent": "3899614",
+    "text": "Tendu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165767",
+    "parent": "3899614",
+    "text": "Namgyalchhoeling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165768",
+    "parent": "3899614",
+    "text": "Pemaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165769",
+    "parent": "3899614",
+    "text": "Tashichhoeling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165770",
+    "parent": "3899614",
+    "text": "Sang-Ngag-Chhoeling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165771",
+    "parent": "3899614",
+    "text": "Norboogang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165772",
+    "parent": "3899614",
+    "text": "Ugyentse Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165773",
+    "parent": "3899614",
+    "text": "Doomtoed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165774",
+    "parent": "3899614",
+    "text": "Dophuchen Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165775",
+    "parent": "3899614",
+    "text": "Duenchhukha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165776",
+    "parent": "3899614",
+    "text": "Tading Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165777",
+    "parent": "3899614",
+    "text": "Phuentshogpelri Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165778",
+    "parent": "3899614",
+    "text": "Samtse Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165779",
+    "parent": "3899614",
+    "text": "Yoeseltse Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317210",
+    "parent": "3899603",
+    "text": "Samphelling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317236",
+    "parent": "3899603",
+    "text": "Bjagchhog Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317274",
+    "parent": "3899603",
+    "text": "Bongo Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317281",
+    "parent": "3899603",
+    "text": "Chaapchha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317302",
+    "parent": "3899603",
+    "text": "Darla Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317309",
+    "parent": "3899603",
+    "text": "Doongna Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317318",
+    "parent": "3899603",
+    "text": "Geling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317325",
+    "parent": "3899603",
+    "text": "Getana Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317336",
+    "parent": "3899603",
+    "text": "Loggchina Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317345",
+    "parent": "3899603",
+    "text": "Metabkha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8317348",
+    "parent": "3899603",
+    "text": "Phuentshogling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "9246392",
+    "parent": "3899605",
+    "text": "Lhamoyzingkha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "9246393",
+    "parent": "3899605",
+    "text": "Tseza Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188000",
+    "parent": "3899605",
+    "text": "Karna Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188001",
+    "parent": "3899605",
+    "text": "Khebisa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188002",
+    "parent": "3899605",
+    "text": "Largyab Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188003",
+    "parent": "3899605",
+    "text": "Drukjeygang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188004",
+    "parent": "3899605",
+    "text": "Tsangkha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188005",
+    "parent": "3899605",
+    "text": "Tsenda-Gang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188006",
+    "parent": "3899605",
+    "text": "Nichula Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188007",
+    "parent": "3899605",
+    "text": "Tashiding Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188008",
+    "parent": "3899605",
+    "text": "Dorona Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188009",
+    "parent": "3899605",
+    "text": "Karmaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188010",
+    "parent": "3899605",
+    "text": "Gesarling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188011",
+    "parent": "3899605",
+    "text": "Gozhi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8308538",
+    "parent": "3899607",
+    "text": "Bji Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8310807",
+    "parent": "3899607",
+    "text": "Gakiling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8310883",
+    "parent": "3899607",
+    "text": "Samar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8310884",
+    "parent": "3899607",
+    "text": "Sangbay Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8310890",
+    "parent": "3899607",
+    "text": "Uesu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "8310892",
+    "parent": "3899607",
+    "text": "Katsho Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171649",
+    "parent": "3899610",
+    "text": "Tsento Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171654",
+    "parent": "3899610",
+    "text": "Doteng Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171655",
+    "parent": "3899610",
+    "text": "Lamgong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171656",
+    "parent": "3899610",
+    "text": "Loong-nyi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171657",
+    "parent": "3899610",
+    "text": "Sharpa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171658",
+    "parent": "3899610",
+    "text": "Dopshar-ri Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171659",
+    "parent": "3899610",
+    "text": "Hoongrel Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171660",
+    "parent": "3899610",
+    "text": "Wangchang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171661",
+    "parent": "3899610",
+    "text": "Nagya Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171662",
+    "parent": "3899610",
+    "text": "Dokar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171893",
+    "parent": "3899616",
+    "text": "Soe Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171899",
+    "parent": "3899616",
+    "text": "Lingzhi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171905",
+    "parent": "3899616",
+    "text": "Naro Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171906",
+    "parent": "3899616",
+    "text": "Kawang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171907",
+    "parent": "3899616",
+    "text": "Chang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171908",
+    "parent": "3899616",
+    "text": "Darkarla Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171909",
+    "parent": "3899616",
+    "text": "Ge-Nyen Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12171910",
+    "parent": "3899616",
+    "text": "Maedwang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188738",
+    "parent": "3899615",
+    "text": "Jigme Chhoeling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188739",
+    "parent": "3899615",
+    "text": "Chhudzom Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188742",
+    "parent": "3899615",
+    "text": "Dekidling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188743",
+    "parent": "3899615",
+    "text": "Shompangkha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188744",
+    "parent": "3899615",
+    "text": "Gakidling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188745",
+    "parent": "3899615",
+    "text": "Gelegphu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188746",
+    "parent": "3899615",
+    "text": "Serzhong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188747",
+    "parent": "3899615",
+    "text": "Chhuzanggang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188748",
+    "parent": "3899615",
+    "text": "Umling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12188749",
+    "parent": "3899615",
+    "text": "Tareythang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13456095",
+    "parent": "3899615",
+    "text": "Samtenling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13457343",
+    "parent": "3899615",
+    "text": "Seng-Gey Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192344",
+    "parent": "3899619",
+    "text": "Nubi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192345",
+    "parent": "3899619",
+    "text": "Tangsibji Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192346",
+    "parent": "3899619",
+    "text": "Langthil Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192347",
+    "parent": "3899619",
+    "text": "Draagteng Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192348",
+    "parent": "3899619",
+    "text": "Korphu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192239",
+    "parent": "3899620",
+    "text": "Sergithang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192240",
+    "parent": "3899620",
+    "text": "Tsirang Toed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192241",
+    "parent": "3899620",
+    "text": "Pungtenchhu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192242",
+    "parent": "3899620",
+    "text": "Semjong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192243",
+    "parent": "3899620",
+    "text": "Gosarling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192244",
+    "parent": "3899620",
+    "text": "Tsholingkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192245",
+    "parent": "3899620",
+    "text": "Kilkhorthang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192246",
+    "parent": "3899620",
+    "text": "Doonglagang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192247",
+    "parent": "3899620",
+    "text": "Patshaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192248",
+    "parent": "3899620",
+    "text": "Mendrelgang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192249",
+    "parent": "3899620",
+    "text": "Rangthangling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192250",
+    "parent": "3899620",
+    "text": "Barshong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192689",
+    "parent": "3899622",
+    "text": "Trong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192690",
+    "parent": "3899622",
+    "text": "Phangkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192691",
+    "parent": "3899622",
+    "text": "Ngangla Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192692",
+    "parent": "3899622",
+    "text": "Goshing Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192693",
+    "parent": "3899622",
+    "text": "Bardo Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192694",
+    "parent": "3899622",
+    "text": "Bjoka Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192695",
+    "parent": "3899622",
+    "text": "Nangkor Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12192696",
+    "parent": "3899622",
+    "text": "Shingkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165464",
+    "parent": "3899606",
+    "text": "Laya Gewogs",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165470",
+    "parent": "3899606",
+    "text": "Lunana Gewogs",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165476",
+    "parent": "3899606",
+    "text": "Khatoed Gewogs",
+    "admin_level": "6"
+  },
+  {
+    "id": "12165482",
+    "parent": "3899606",
+    "text": "Khamaed Gewogs",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182769",
+    "parent": "3899612",
+    "text": "Barp Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182770",
+    "parent": "3899612",
+    "text": "Lingmukha Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182772",
+    "parent": "3899612",
+    "text": "Chhuboog Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182773",
+    "parent": "3899612",
+    "text": "Toedpaisa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182774",
+    "parent": "3899612",
+    "text": "Kabisa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182775",
+    "parent": "3899612",
+    "text": "Goenshari Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182776",
+    "parent": "3899612",
+    "text": "Toedwang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182777",
+    "parent": "3899612",
+    "text": "Dzomi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182778",
+    "parent": "3899612",
+    "text": "Shelnga-Bjemi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12182779",
+    "parent": "3899612",
+    "text": "Talog Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13410112",
+    "parent": "3899612",
+    "text": "Guma Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12088300",
+    "parent": "3899602",
+    "text": "Chhoekhor Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12088471",
+    "parent": "3899602",
+    "text": "Ura Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12088472",
+    "parent": "3899602",
+    "text": "Tang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12088545",
+    "parent": "3899602",
+    "text": "Chhumig Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193044",
+    "parent": "3899609",
+    "text": "Saling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193045",
+    "parent": "3899609",
+    "text": "Tsamang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193046",
+    "parent": "3899609",
+    "text": "Tsakaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193047",
+    "parent": "3899609",
+    "text": "Chhaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193048",
+    "parent": "3899609",
+    "text": "Ngatshang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193049",
+    "parent": "3899609",
+    "text": "Shermuhoong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193050",
+    "parent": "3899609",
+    "text": "Dramedtse Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193051",
+    "parent": "3899609",
+    "text": "Balam Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193052",
+    "parent": "3899609",
+    "text": "Na-Rang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193053",
+    "parent": "3899609",
+    "text": "Chagsakhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193054",
+    "parent": "3899609",
+    "text": "Monggar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193055",
+    "parent": "3899609",
+    "text": "Drepoong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193056",
+    "parent": "3899609",
+    "text": "Thang-Rong Gweog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193057",
+    "parent": "3899609",
+    "text": "Kengkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193058",
+    "parent": "3899609",
+    "text": "Jurmed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193059",
+    "parent": "3899609",
+    "text": "Gongdue Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12193060",
+    "parent": "3899609",
+    "text": "Silambi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098109",
+    "parent": "3899611",
+    "text": "Norboogang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098110",
+    "parent": "3899611",
+    "text": "Dechhenling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098111",
+    "parent": "3899611",
+    "text": "Chhoekhorling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098112",
+    "parent": "3899611",
+    "text": "Khar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098113",
+    "parent": "3899611",
+    "text": "Nanong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098114",
+    "parent": "3899611",
+    "text": "Zobel Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12098115",
+    "parent": "3899611",
+    "text": "Shumar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12099783",
+    "parent": "3899611",
+    "text": "Dungmaed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12099784",
+    "parent": "3899611",
+    "text": "Chongshing Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12099785",
+    "parent": "3899611",
+    "text": "Chhimoong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12099786",
+    "parent": "3899611",
+    "text": "Yurung Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097692",
+    "parent": "3899613",
+    "text": "Lauri Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097693",
+    "parent": "3899613",
+    "text": "Serthig Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097694",
+    "parent": "3899613",
+    "text": "Langchenphu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097695",
+    "parent": "3899613",
+    "text": "Samrang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097696",
+    "parent": "3899613",
+    "text": "Martshala Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097697",
+    "parent": "3899613",
+    "text": "Dewathang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097698",
+    "parent": "3899613",
+    "text": "Phuentshogthang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097699",
+    "parent": "3899613",
+    "text": "Pemathang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097700",
+    "parent": "3899613",
+    "text": "Orong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097701",
+    "parent": "3899613",
+    "text": "Gomdar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12097702",
+    "parent": "3899613",
+    "text": "Wangphu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100841",
+    "parent": "3899617",
+    "text": "Sagteng Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100842",
+    "parent": "3899617",
+    "text": "Merag Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100843",
+    "parent": "3899617",
+    "text": "Kangpar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100844",
+    "parent": "3899617",
+    "text": "Thrimshing Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100845",
+    "parent": "3899617",
+    "text": "Lumang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100846",
+    "parent": "3899617",
+    "text": "Khaling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100847",
+    "parent": "3899617",
+    "text": "Udzorong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100848",
+    "parent": "3899617",
+    "text": "Yangnyer Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100849",
+    "parent": "3899617",
+    "text": "Kanglung Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100850",
+    "parent": "3899617",
+    "text": "Samkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12100851",
+    "parent": "3899617",
+    "text": "Shongphu Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12101123",
+    "parent": "3899617",
+    "text": "Bartsham Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12101124",
+    "parent": "3899617",
+    "text": "Bidoong Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12101125",
+    "parent": "3899617",
+    "text": "Phongmed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12101126",
+    "parent": "3899617",
+    "text": "Radhi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089052",
+    "parent": "3899608",
+    "text": "Khoma Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089053",
+    "parent": "3899608",
+    "text": "Kurtoed Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089054",
+    "parent": "3899608",
+    "text": "Gangzur Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089055",
+    "parent": "3899608",
+    "text": "Maenbi Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089056",
+    "parent": "3899608",
+    "text": "Minjay Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089057",
+    "parent": "3899608",
+    "text": "Tsaenkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089058",
+    "parent": "3899608",
+    "text": "Maedtsho Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12089059",
+    "parent": "3899608",
+    "text": "Jarey Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12101416",
+    "parent": "3899618",
+    "text": "Yangtse Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13423708",
+    "parent": "3899618",
+    "text": "Kamdang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13424990",
+    "parent": "3899618",
+    "text": "Jamkhar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13425226",
+    "parent": "3899618",
+    "text": "Yalang Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13425227",
+    "parent": "3899618",
+    "text": "Toedtsho Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13425580",
+    "parent": "3899618",
+    "text": "Ranjar Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13426263",
+    "parent": "3899618",
+    "text": "Tongmizhangsa Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "13698515",
+    "parent": "3899618",
+    "text": "Boomdeling Gewog",
+    "admin_level": "6"
+  },
+  {
+    "id": "12170915",
+    "parent": "12165767",
+    "text": "Gyalposhing_Sa-Tsangsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170916",
+    "parent": "12165767",
+    "text": "Sernyagang_Tsholingkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170917",
+    "parent": "12165767",
+    "text": "Chhunaggang_Chhoedeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170918",
+    "parent": "12165767",
+    "text": "Pagshingkha_Tshachhugang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170919",
+    "parent": "12165767",
+    "text": "Namgyalchhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170920",
+    "parent": "12165768",
+    "text": "Thangchhennang_Damtshangna",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170921",
+    "parent": "12165768",
+    "text": "Chhusilgang_Dramedsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170922",
+    "parent": "12165768",
+    "text": "Norgyeling_Shingdregang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170923",
+    "parent": "12165768",
+    "text": "Dizang-Gang _ Nakeyling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170924",
+    "parent": "12165768",
+    "text": "Manigang_Tashithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569611",
+    "parent": "12165769",
+    "text": "Tashichhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569612",
+    "parent": "12165769",
+    "text": "Norjangsa Peljorling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569613",
+    "parent": "12165769",
+    "text": "Baepoteng Kangdongphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569614",
+    "parent": "12165769",
+    "text": "Dewachen Zhiwaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569615",
+    "parent": "12165769",
+    "text": "Daangling Gangjoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170909",
+    "parent": "12165765",
+    "text": "Chongzhu Tshachhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170910",
+    "parent": "12165765",
+    "text": "Chhu-Goo_Phendegang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170911",
+    "parent": "12165765",
+    "text": "Khabaabgang_Noryog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170913",
+    "parent": "12165765",
+    "text": "Dangreybu_Patshaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170914",
+    "parent": "12165765",
+    "text": "Miphelgang_Samphelgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170904",
+    "parent": "12165766",
+    "text": "Miglamthang_Thagpzosa Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170905",
+    "parent": "12165766",
+    "text": "Kachhen_Kuchhen Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170906",
+    "parent": "12165766",
+    "text": "Dawathang_Kuengaling Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170907",
+    "parent": "12165766",
+    "text": "Nyizergang_Tendruk Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12170908",
+    "parent": "12165766",
+    "text": "Khengtong_Targothang Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092638",
+    "parent": "8310807",
+    "text": "Rangtse_Ta-Nga_Yokha Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092639",
+    "parent": "8310807",
+    "text": "Dorithasa_Kowkha_Yangtse",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092640",
+    "parent": "8310807",
+    "text": "Fentena_Sertena Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092641",
+    "parent": "8310807",
+    "text": "Phootsena_Ngatse",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092642",
+    "parent": "8310807",
+    "text": "Sai-dzong_Thangdokha Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089558",
+    "parent": "8310883",
+    "text": "Langpa_Norbugang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089559",
+    "parent": "8310883",
+    "text": "Jenkanang_Pudunang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089560",
+    "parent": "8310883",
+    "text": "Dorikha_Langjogang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089561",
+    "parent": "8310883",
+    "text": "Shar-ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089562",
+    "parent": "8310883",
+    "text": "Balamnang",
+    "admin_level": "8"
+  },
+  {
+    "id": "9663808",
+    "parent": "8310884",
+    "text": "Shema-Yaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "9663832",
+    "parent": "8310884",
+    "text": "Mochhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "9663900",
+    "parent": "8310884",
+    "text": "Nakha-Tashigang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089556",
+    "parent": "8310884",
+    "text": "Sangbay Ama",
+    "admin_level": "8"
+  },
+  {
+    "id": "12089557",
+    "parent": "8310884",
+    "text": "Anakha_Shepji Chiwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555414",
+    "parent": "8317236",
+    "text": "Bjagchhog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555415",
+    "parent": "8317236",
+    "text": "Tsimakha Tsimashysham",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555416",
+    "parent": "8317236",
+    "text": "Mebisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555417",
+    "parent": "8317236",
+    "text": "Tashi Gatshel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555418",
+    "parent": "8317236",
+    "text": "Wangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551483",
+    "parent": "8317274",
+    "text": "Togtokha Togtogongm",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551484",
+    "parent": "8317274",
+    "text": "Choongkha Chhasilakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551485",
+    "parent": "8317274",
+    "text": "Gedu Miritsemo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551486",
+    "parent": "8317274",
+    "text": "Ketogkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551487",
+    "parent": "8317274",
+    "text": "Bongao Phasooma",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551488",
+    "parent": "8317274",
+    "text": "Baeyuel Kunzang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551823",
+    "parent": "8317302",
+    "text": "Sharphug",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551824",
+    "parent": "8317302",
+    "text": "Tagp-Thang-Boog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551825",
+    "parent": "8317302",
+    "text": "Nyimgang Tabji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551826",
+    "parent": "8317302",
+    "text": "Gengu Yagang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551827",
+    "parent": "8317302",
+    "text": "Samarchen Sinchul",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551828",
+    "parent": "8317302",
+    "text": "Gamanang Kalzang-Ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13559226",
+    "parent": "8317309",
+    "text": "Damchhekha Uezhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13559227",
+    "parent": "8317309",
+    "text": "Drukdingsa Khori",
+    "admin_level": "8"
+  },
+  {
+    "id": "13559228",
+    "parent": "8317309",
+    "text": "Doongna Paksel-Lhakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13559229",
+    "parent": "8317309",
+    "text": "Chhulakha Mangdokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13559230",
+    "parent": "8317309",
+    "text": "Babana Papaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555278",
+    "parent": "8317318",
+    "text": "Gelingkha Tsanglina",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555279",
+    "parent": "8317318",
+    "text": "Dagoa Sorchen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555280",
+    "parent": "8317318",
+    "text": "Geling Geygoen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555281",
+    "parent": "8317318",
+    "text": "Kamji Na-Yekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13555282",
+    "parent": "8317318",
+    "text": "Dilibkha Lamjokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551085",
+    "parent": "8317325",
+    "text": "Darga Tshebji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551086",
+    "parent": "8317325",
+    "text": "Tashigang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551087",
+    "parent": "8317325",
+    "text": "Janamo Phootsha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551088",
+    "parent": "8317325",
+    "text": "Bachhu Getana",
+    "admin_level": "8"
+  },
+  {
+    "id": "13551089",
+    "parent": "8317325",
+    "text": "Chiyuel Getag",
+    "admin_level": "8"
+  },
+  {
+    "id": "13556991",
+    "parent": "8317345",
+    "text": "Maedtab-Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13556992",
+    "parent": "8317345",
+    "text": "Uekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13556993",
+    "parent": "8317345",
+    "text": "Gumina Tenchhukha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13556994",
+    "parent": "8317345",
+    "text": "Jozhingkha Maedtab-Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13556995",
+    "parent": "8317345",
+    "text": "Pangu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13462073",
+    "parent": "9246393",
+    "text": "Samaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13462074",
+    "parent": "9246393",
+    "text": "Pel-Ling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13462075",
+    "parent": "9246393",
+    "text": "Tashigang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13462076",
+    "parent": "9246393",
+    "text": "Karlingzingkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13462077",
+    "parent": "9246393",
+    "text": "Tsangleykha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482950",
+    "parent": "12171908",
+    "text": "Gyalta",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482951",
+    "parent": "12171908",
+    "text": "Wangdrog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482952",
+    "parent": "12171908",
+    "text": "Doongdrog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482953",
+    "parent": "12171908",
+    "text": "Chamgang Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482954",
+    "parent": "12171908",
+    "text": "Chamgang Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406408",
+    "parent": "12183119",
+    "text": "Haebisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406409",
+    "parent": "12183119",
+    "text": "Medpaisa Taabchhaekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406410",
+    "parent": "12183119",
+    "text": "Shingkhey Khatoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406411",
+    "parent": "12183119",
+    "text": "Shingkhey Khamaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406412",
+    "parent": "12183119",
+    "text": "Haetshokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544608",
+    "parent": "12188000",
+    "text": "Bartsha Namgyalgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544609",
+    "parent": "12188000",
+    "text": "Lhaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544610",
+    "parent": "12188000",
+    "text": "Pungzhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544611",
+    "parent": "12188000",
+    "text": "Dalithang Gangjab Khagochen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544612",
+    "parent": "12188000",
+    "text": "Jurugang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565573",
+    "parent": "12165777",
+    "text": "Jangchhogling Lachhungthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565574",
+    "parent": "12165777",
+    "text": "Chhunag Doomshinggang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565575",
+    "parent": "12165777",
+    "text": "Tashilakha Uelgyalling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565576",
+    "parent": "12165777",
+    "text": "Gashingma Ketshael-Gang Thongjabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565577",
+    "parent": "12165777",
+    "text": "Nyoenpaling Tingtingma",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565935",
+    "parent": "12165778",
+    "text": "Dzongkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565936",
+    "parent": "12165778",
+    "text": "Damtshangma Khandothang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565937",
+    "parent": "12165778",
+    "text": "Dewathang Lamaithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565938",
+    "parent": "12165778",
+    "text": "Nyimaling Chhirlosgsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565939",
+    "parent": "12165778",
+    "text": "Sa-Tshamchhu Tshongdzom",
+    "admin_level": "8"
+  },
+  {
+    "id": "13565940",
+    "parent": "12165778",
+    "text": "Lingmaithang Taserpo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561574",
+    "parent": "8317348",
+    "text": "Dzongkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561575",
+    "parent": "8317348",
+    "text": "Chong-Geykha Dophulakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561576",
+    "parent": "8317348",
+    "text": "Dophugchen Wangduegatshel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561577",
+    "parent": "8317348",
+    "text": "Deling Marpji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561578",
+    "parent": "8317348",
+    "text": "Pachhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561579",
+    "parent": "8317348",
+    "text": "Lingdaen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13564449",
+    "parent": "12165776",
+    "text": "Tading Tenpaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13564450",
+    "parent": "12165776",
+    "text": "Thongsa Tobchenthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13564451",
+    "parent": "12165776",
+    "text": "Norjangsa Zochhaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13564452",
+    "parent": "12165776",
+    "text": "Khempagang Panzhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13564453",
+    "parent": "12165776",
+    "text": "Dangreyboog Nyindooglakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13554080",
+    "parent": "8317210",
+    "text": "Pekarling Rigzinling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13554081",
+    "parent": "8317210",
+    "text": "Sengyegang Tsho-Chhoongna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13554082",
+    "parent": "8317210",
+    "text": "Khenpaithang Sonamthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13554083",
+    "parent": "8317210",
+    "text": "Gongboogang Pangna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13554084",
+    "parent": "8317210",
+    "text": "Pedtshel-Nang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541663",
+    "parent": "9246392",
+    "text": "Tsham-Zhi-Gosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541664",
+    "parent": "9246392",
+    "text": "Chongsamling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541665",
+    "parent": "9246392",
+    "text": "Kuendrel Thang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541666",
+    "parent": "9246392",
+    "text": "Loongsilsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541667",
+    "parent": "9246392",
+    "text": "Lhamoi Dzingkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569371",
+    "parent": "12165770",
+    "text": "Chhuchhungsa Karseling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569372",
+    "parent": "12165770",
+    "text": "Joenlegsa Sang-Ngag-Chhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569373",
+    "parent": "12165770",
+    "text": "Dephellingmaed Khangzangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569374",
+    "parent": "12165770",
+    "text": "Dephellingtoed Namseling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569375",
+    "parent": "12165770",
+    "text": "Ngoedroobling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13567665",
+    "parent": "12165771",
+    "text": "Dawaling Yangpheltang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13567666",
+    "parent": "12165771",
+    "text": "Danzhagsa_Tsaphel Thang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13567667",
+    "parent": "12165771",
+    "text": "Khangduzhi Kyidsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13567668",
+    "parent": "12165771",
+    "text": "Dramzedang Maedgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13567669",
+    "parent": "12165771",
+    "text": "Lambi Lamjosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569141",
+    "parent": "12165772",
+    "text": "Nyimalung Tharpaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569142",
+    "parent": "12165772",
+    "text": "Jarithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569143",
+    "parent": "12165772",
+    "text": "Kardog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569144",
+    "parent": "12165772",
+    "text": "Dangkarling Dechhengang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569145",
+    "parent": "12165772",
+    "text": "Dangreyboog Rigpaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13573019",
+    "parent": "12165773",
+    "text": "Gebji Kuzhuggang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13573020",
+    "parent": "12165773",
+    "text": "Dongtoed Khaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13573021",
+    "parent": "12165773",
+    "text": "Doongtoed Chhewa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13573022",
+    "parent": "12165773",
+    "text": "Maedgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13573023",
+    "parent": "12165773",
+    "text": "Doongtoed Chhungwa_Jarikha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577937",
+    "parent": "12165774",
+    "text": "Aringgang Midzomsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577938",
+    "parent": "12165774",
+    "text": "Dangreyboog Ngagang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577939",
+    "parent": "12165774",
+    "text": "Manigang Thingyersa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577940",
+    "parent": "12165774",
+    "text": "Sangloong Senteng",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577941",
+    "parent": "12165774",
+    "text": "Melong-Gang Thuloong-Gang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13577942",
+    "parent": "12165774",
+    "text": "Singye",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569190",
+    "parent": "12165779",
+    "text": "Koenchhogling Soenakhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569191",
+    "parent": "12165779",
+    "text": "Rinchenphoog Samtenchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569192",
+    "parent": "12165779",
+    "text": "Dungkar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569193",
+    "parent": "12165779",
+    "text": "Pelkithang Rangjoongling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13569194",
+    "parent": "12165779",
+    "text": "Zurigang Jigmedthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561334",
+    "parent": "8317336",
+    "text": "Mongna Lha-Sarp",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561335",
+    "parent": "8317336",
+    "text": "Dzedokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561336",
+    "parent": "8317336",
+    "text": "Aamleg Dofam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561337",
+    "parent": "8317336",
+    "text": "Dolepchen Bjagchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13561338",
+    "parent": "8317336",
+    "text": "Chagdokha Damchekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13579401",
+    "parent": "12165775",
+    "text": "Biloong Poongthra",
+    "admin_level": "8"
+  },
+  {
+    "id": "13579402",
+    "parent": "12165775",
+    "text": "Gesarling Yomedling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13579403",
+    "parent": "12165775",
+    "text": "Dhuenchhukha Gabji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13579404",
+    "parent": "12165775",
+    "text": "Domchhukha Shitakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13579405",
+    "parent": "12165775",
+    "text": "Gawaling Karzhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839535",
+    "parent": "8317281",
+    "text": "Pagga",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839536",
+    "parent": "8317281",
+    "text": "Tshamdrag",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839537",
+    "parent": "8317281",
+    "text": "Gangkha_Shel-Yuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839538",
+    "parent": "8317281",
+    "text": "Bunakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839539",
+    "parent": "8317281",
+    "text": "Lang-Nyelsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "15839540",
+    "parent": "8317281",
+    "text": "Dokharchhu_Rimtekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482038",
+    "parent": "12171909",
+    "text": "Zang-Legkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482039",
+    "parent": "12171909",
+    "text": "Chizhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482040",
+    "parent": "12171909",
+    "text": "Tsho-Chhenkha Zamtog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482041",
+    "parent": "12171909",
+    "text": "DGe-Nyenkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13482042",
+    "parent": "12171909",
+    "text": "Wangbama",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403017",
+    "parent": "12183124",
+    "text": "Lophokha Phagtakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403018",
+    "parent": "12183124",
+    "text": "Lomtshokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403019",
+    "parent": "12183124",
+    "text": "Jaroggang Dzawa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403080",
+    "parent": "12183124",
+    "text": "Lawa Lamga",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403081",
+    "parent": "12183124",
+    "text": "Rookha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406063",
+    "parent": "12183125",
+    "text": "Uma Khatoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406064",
+    "parent": "12183125",
+    "text": "Kamichhu Uma Khamaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406065",
+    "parent": "12183125",
+    "text": "Kamina Wogyal",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406066",
+    "parent": "12183125",
+    "text": "Gyapakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13406067",
+    "parent": "12183125",
+    "text": "Sili Taagsha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13548014",
+    "parent": "12188002",
+    "text": "Baloong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13548015",
+    "parent": "12188002",
+    "text": "Thasa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13548016",
+    "parent": "12188002",
+    "text": "Kompa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13548017",
+    "parent": "12188002",
+    "text": "Barna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13548018",
+    "parent": "12188002",
+    "text": "Sidpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541603",
+    "parent": "12188006",
+    "text": "Gangtogkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541604",
+    "parent": "12188006",
+    "text": "Dangreyboog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541605",
+    "parent": "12188006",
+    "text": "Damze-Kesa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541606",
+    "parent": "12188006",
+    "text": "Yarphelling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541607",
+    "parent": "12188006",
+    "text": "Damchhunang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527218",
+    "parent": "12188738",
+    "text": "Samkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527219",
+    "parent": "12188738",
+    "text": "Khatoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527220",
+    "parent": "12188738",
+    "text": "Chhoetenkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527221",
+    "parent": "12188738",
+    "text": "Khamaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527222",
+    "parent": "12188738",
+    "text": "Gongtsekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527223",
+    "parent": "12188738",
+    "text": "Gongduegang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530049",
+    "parent": "12188748",
+    "text": "Tashithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530050",
+    "parent": "12188748",
+    "text": "Gaden",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530051",
+    "parent": "12188748",
+    "text": "Rijoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530052",
+    "parent": "12188748",
+    "text": "Doongmin",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530053",
+    "parent": "12188748",
+    "text": "Daangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530121",
+    "parent": "12188749",
+    "text": "Woongchhiloo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530122",
+    "parent": "12188749",
+    "text": "Dorjitse",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530123",
+    "parent": "12188749",
+    "text": "Pemachhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530124",
+    "parent": "12188749",
+    "text": "Tashichhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530125",
+    "parent": "12188749",
+    "text": "Yoed-Zergang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13536199",
+    "parent": "12192241",
+    "text": "Geonteg-Kha Tongshinggang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13536200",
+    "parent": "12192241",
+    "text": "Serzhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13536201",
+    "parent": "12192241",
+    "text": "Peljorling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13536202",
+    "parent": "12192241",
+    "text": "Norboothang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13536203",
+    "parent": "12192241",
+    "text": "Tashichhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13613033",
+    "parent": "12192346",
+    "text": "Jangbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13613034",
+    "parent": "12192346",
+    "text": "Yuendroongchhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13613035",
+    "parent": "12192346",
+    "text": "Baling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13613036",
+    "parent": "12192346",
+    "text": "Dangdoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13613037",
+    "parent": "12192346",
+    "text": "Langthil",
+    "admin_level": "8"
+  },
+  {
+    "id": "13617694",
+    "parent": "12192348",
+    "text": "Nyimzhong Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13617695",
+    "parent": "12192348",
+    "text": "Nyimzhong Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13617696",
+    "parent": "12192348",
+    "text": "Korphoog Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13617697",
+    "parent": "12192348",
+    "text": "Korphoog Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13617698",
+    "parent": "12192348",
+    "text": "Nabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13632847",
+    "parent": "12192689",
+    "text": "Gongphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13632848",
+    "parent": "12192689",
+    "text": "Soobdrang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13632849",
+    "parent": "12192689",
+    "text": "Tshanglajong Zurphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13632850",
+    "parent": "12192689",
+    "text": "Berti Tagma",
+    "admin_level": "8"
+  },
+  {
+    "id": "13632851",
+    "parent": "12192689",
+    "text": "Dangkhar Trong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543100",
+    "parent": "12188005",
+    "text": "Tsenda-Gang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543101",
+    "parent": "12188005",
+    "text": "Gangzur Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543102",
+    "parent": "12188005",
+    "text": "Gangzur Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543103",
+    "parent": "12188005",
+    "text": "Norbuzhingkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543104",
+    "parent": "12188005",
+    "text": "Samarchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13542526",
+    "parent": "12188008",
+    "text": "Maamedthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13542527",
+    "parent": "12188008",
+    "text": "Nyimtola",
+    "admin_level": "8"
+  },
+  {
+    "id": "13542528",
+    "parent": "12188008",
+    "text": "Dorona Chhoongwa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13542529",
+    "parent": "12188008",
+    "text": "Dorona Chhewa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13542530",
+    "parent": "12188008",
+    "text": "Tshalamji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541723",
+    "parent": "12188009",
+    "text": "Labtsakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541724",
+    "parent": "12188009",
+    "text": "Omchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541725",
+    "parent": "12188009",
+    "text": "Karmaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541726",
+    "parent": "12188009",
+    "text": "Senchumthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13541727",
+    "parent": "12188009",
+    "text": "Jemathang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531719",
+    "parent": "12192247",
+    "text": "Patshaling Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531720",
+    "parent": "12192247",
+    "text": "Patshaling Maed_Tsakaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531721",
+    "parent": "12192247",
+    "text": "Chhuzomsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531722",
+    "parent": "12192247",
+    "text": "Thakorling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532009",
+    "parent": "12192247",
+    "text": "Pangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530018",
+    "parent": "13457343",
+    "text": "Sangyethang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530019",
+    "parent": "13457343",
+    "text": "Nyenyul",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530020",
+    "parent": "13457343",
+    "text": "Labtsakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530021",
+    "parent": "13457343",
+    "text": "Yarpheling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13530022",
+    "parent": "13457343",
+    "text": "Rishong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527025",
+    "parent": "12188742",
+    "text": "Gawaithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527026",
+    "parent": "12188742",
+    "text": "Dekidling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527027",
+    "parent": "12188742",
+    "text": "Chhoe-Khorling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527028",
+    "parent": "12188742",
+    "text": "Nubgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527029",
+    "parent": "12188742",
+    "text": "Jigmed-Ling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527125",
+    "parent": "12188743",
+    "text": "Shompangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527126",
+    "parent": "12188743",
+    "text": "Dargyethang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527127",
+    "parent": "12188743",
+    "text": "Koenchhogling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527128",
+    "parent": "12188743",
+    "text": "Gomchola",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527129",
+    "parent": "12188743",
+    "text": "Risoomgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527108",
+    "parent": "12188744",
+    "text": "Gakidling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527109",
+    "parent": "12188744",
+    "text": "Getemkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527110",
+    "parent": "12188744",
+    "text": "Rilangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527111",
+    "parent": "12188744",
+    "text": "Sangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527112",
+    "parent": "12188744",
+    "text": "Maenchhulam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526482",
+    "parent": "12188745",
+    "text": "Dzongkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526483",
+    "parent": "12188745",
+    "text": "Lekidthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526484",
+    "parent": "12188745",
+    "text": "Pemathang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526485",
+    "parent": "12188745",
+    "text": "Dzamlingthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526486",
+    "parent": "12188745",
+    "text": "Pelrithang Khatoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526487",
+    "parent": "12188745",
+    "text": "Pelrithang Khamaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547296",
+    "parent": "12188001",
+    "text": "Gibsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547297",
+    "parent": "12188001",
+    "text": "Thomgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547298",
+    "parent": "12188001",
+    "text": "Akhochen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547299",
+    "parent": "12188001",
+    "text": "Pagser",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547300",
+    "parent": "12188001",
+    "text": "Pogtog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547190",
+    "parent": "12188007",
+    "text": "Shamdolay",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547191",
+    "parent": "12188007",
+    "text": "Tashiding",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547192",
+    "parent": "12188007",
+    "text": "Norbuling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547193",
+    "parent": "12188007",
+    "text": "Namchagla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547194",
+    "parent": "12188007",
+    "text": "Gangyab",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543377",
+    "parent": "12188010",
+    "text": "Tajoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543378",
+    "parent": "12188010",
+    "text": "Samtengang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543379",
+    "parent": "12188010",
+    "text": "Tashithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543380",
+    "parent": "12188010",
+    "text": "Puensoomgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13543381",
+    "parent": "12188010",
+    "text": "Gesarling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547760",
+    "parent": "12188003",
+    "text": "Pangserpo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547761",
+    "parent": "12188003",
+    "text": "Ambithang Pangserpo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547762",
+    "parent": "12188003",
+    "text": "Budepang Pangna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547763",
+    "parent": "12188003",
+    "text": "Thangna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547764",
+    "parent": "12188003",
+    "text": "Pangna Patala",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547973",
+    "parent": "12188004",
+    "text": "Gelegchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547974",
+    "parent": "12188004",
+    "text": "Tsangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547975",
+    "parent": "12188004",
+    "text": "Zinchila",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547976",
+    "parent": "12188004",
+    "text": "Pateykha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13547977",
+    "parent": "12188004",
+    "text": "Goongpa Soomchu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533719",
+    "parent": "12192240",
+    "text": "Tagthang Wangphoo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533720",
+    "parent": "12192240",
+    "text": "Soentabsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533721",
+    "parent": "12192240",
+    "text": "Tongshingnang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533722",
+    "parent": "12192240",
+    "text": "Tsirang Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533723",
+    "parent": "12192240",
+    "text": "Kabelzhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535650",
+    "parent": "12192243",
+    "text": "Dzamling Zor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535651",
+    "parent": "12192243",
+    "text": "Phuensoomgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535652",
+    "parent": "12192243",
+    "text": "Dzamlingthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535653",
+    "parent": "12192243",
+    "text": "Pelrithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535654",
+    "parent": "12192243",
+    "text": "Pemathang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533691",
+    "parent": "12192244",
+    "text": "Kapazhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533692",
+    "parent": "12192244",
+    "text": "Goomsoom",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533693",
+    "parent": "12192244",
+    "text": "Tsholingkhar Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533694",
+    "parent": "12192244",
+    "text": "Tsholingkhar Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533695",
+    "parent": "12192244",
+    "text": "Droobchhugang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533652",
+    "parent": "12192245",
+    "text": "Sa-Tsangma",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533653",
+    "parent": "12192245",
+    "text": "Nyizergang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533654",
+    "parent": "12192245",
+    "text": "Tashiyangjong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533655",
+    "parent": "12192245",
+    "text": "Dekidling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533656",
+    "parent": "12192245",
+    "text": "Dzongkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533657",
+    "parent": "12192245",
+    "text": "Maenchhana",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533771",
+    "parent": "12192246",
+    "text": "Norjangsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533772",
+    "parent": "12192246",
+    "text": "Dingrigang Lhamoiloongm",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533773",
+    "parent": "12192246",
+    "text": "Khirithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533774",
+    "parent": "12192246",
+    "text": "Dangreyboog Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13533775",
+    "parent": "12192246",
+    "text": "Dangreyboog Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531718",
+    "parent": "12192248",
+    "text": "Pemashong_Samshing Gaden",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532006",
+    "parent": "12192248",
+    "text": "Riserboo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532007",
+    "parent": "12192248",
+    "text": "Tashipang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532008",
+    "parent": "12192248",
+    "text": "Mendrelgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532010",
+    "parent": "12192248",
+    "text": "Dzamling Zor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532665",
+    "parent": "12192249",
+    "text": "Soonkosh",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532666",
+    "parent": "12192249",
+    "text": "Gagaling Nyimazor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532667",
+    "parent": "12192249",
+    "text": "Darchhargang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532668",
+    "parent": "12192249",
+    "text": "Neymedsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13532669",
+    "parent": "12192249",
+    "text": "Charingma Rangthangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531884",
+    "parent": "12192250",
+    "text": "Barshong Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531885",
+    "parent": "12192250",
+    "text": "Barshong Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531886",
+    "parent": "12192250",
+    "text": "Chunyikhang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531887",
+    "parent": "12192250",
+    "text": "Gangtokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13531888",
+    "parent": "12192250",
+    "text": "Toed-Sang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535817",
+    "parent": "12192242",
+    "text": "Tashiling Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535818",
+    "parent": "12192242",
+    "text": "Tashiling Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535819",
+    "parent": "12192242",
+    "text": "Dzomling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535820",
+    "parent": "12192242",
+    "text": "Dangreygang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13535821",
+    "parent": "12192242",
+    "text": "Dekidling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13537361",
+    "parent": "12192239",
+    "text": "Semdenjong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13537362",
+    "parent": "12192239",
+    "text": "Tashithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13537363",
+    "parent": "12192239",
+    "text": "Sergithang Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13537364",
+    "parent": "12192239",
+    "text": "Sergithang Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13537365",
+    "parent": "12192239",
+    "text": "Norboogang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527183",
+    "parent": "12188739",
+    "text": "Lhayuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527184",
+    "parent": "12188739",
+    "text": "Sherabling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527185",
+    "parent": "12188739",
+    "text": "Gaalegthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527186",
+    "parent": "12188739",
+    "text": "Jangchhubling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13527187",
+    "parent": "12188739",
+    "text": "Dragchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526574",
+    "parent": "12188746",
+    "text": "Norbuling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526575",
+    "parent": "12188746",
+    "text": "Tashiphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526576",
+    "parent": "12188746",
+    "text": "Pema-Yoedling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526577",
+    "parent": "12188746",
+    "text": "Barshong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526578",
+    "parent": "12188746",
+    "text": "Serzhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526965",
+    "parent": "13456095",
+    "text": "Khenpagang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526966",
+    "parent": "13456095",
+    "text": "Samtenling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526967",
+    "parent": "13456095",
+    "text": "Samtenthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526968",
+    "parent": "13456095",
+    "text": "Dechhen-Pelri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13526969",
+    "parent": "13456095",
+    "text": "Chhoekhorling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092298",
+    "parent": "8308538",
+    "text": "Chenpa_Geychhukha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092299",
+    "parent": "8308538",
+    "text": "Gensa_Tokey",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092300",
+    "parent": "8308538",
+    "text": "Yangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092301",
+    "parent": "8308538",
+    "text": "Tsenka_ Taloong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165459",
+    "parent": "12165464",
+    "text": "Gyalza_Loong-Go",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165460",
+    "parent": "12165464",
+    "text": "Neyloog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165461",
+    "parent": "12165464",
+    "text": "Toedkor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165462",
+    "parent": "12165464",
+    "text": "Pazhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165463",
+    "parent": "12165464",
+    "text": "Chongra_Loobcha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165465",
+    "parent": "12165470",
+    "text": "Raminang_Uesana",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165466",
+    "parent": "12165470",
+    "text": "Shang_Threlga_Wachey",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165467",
+    "parent": "12165470",
+    "text": "Lhedi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165468",
+    "parent": "12165470",
+    "text": "Tshozhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165469",
+    "parent": "12165470",
+    "text": "Thangza_Toenchoe",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165471",
+    "parent": "12165476",
+    "text": "Chhogley_Phulakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165472",
+    "parent": "12165476",
+    "text": "Rimi Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165473",
+    "parent": "12165476",
+    "text": "Mani",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165474",
+    "parent": "12165476",
+    "text": "Baychhu_Tshedpgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165475",
+    "parent": "12165476",
+    "text": "Tsheringkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171643",
+    "parent": "12171649",
+    "text": "Soe_Yagsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171644",
+    "parent": "12171649",
+    "text": "Mitshig_Shana",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171645",
+    "parent": "12171649",
+    "text": "Chhungjey_Zamsar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171646",
+    "parent": "12171649",
+    "text": "Nyamjey_Phangdo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171647",
+    "parent": "12171649",
+    "text": "Nyechhu_Shar-ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171648",
+    "parent": "12171654",
+    "text": "Joogar_Pachhu Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171650",
+    "parent": "12171654",
+    "text": "Phooshar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171651",
+    "parent": "12171654",
+    "text": "Aa-tsho_Phunoob",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171652",
+    "parent": "12171654",
+    "text": "Chhubar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171653",
+    "parent": "12171654",
+    "text": "Jabji_Loogchhoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171894",
+    "parent": "12171899",
+    "text": "Chakphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171895",
+    "parent": "12171899",
+    "text": "Shayuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171896",
+    "parent": "12171899",
+    "text": "Gangyuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171897",
+    "parent": "12171899",
+    "text": "Khangkiyuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171898",
+    "parent": "12171899",
+    "text": "Chhuzarkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13475916",
+    "parent": "12171906",
+    "text": "Boegarna_Dodennang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476090",
+    "parent": "12171906",
+    "text": "Kuzchugchen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476091",
+    "parent": "12171906",
+    "text": "Dazhi_Zhoshuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476092",
+    "parent": "12171906",
+    "text": "Chagminang_Choekhor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476093",
+    "parent": "12171906",
+    "text": "Chhanda-Gang_Chhoekhortse_Phajoding",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092643",
+    "parent": "8310890",
+    "text": "Betso_ Doomchhog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092644",
+    "parent": "8310890",
+    "text": "Kipri_Tagchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092645",
+    "parent": "8310890",
+    "text": "Tshaphel_Tsiloongkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092646",
+    "parent": "8310890",
+    "text": "Geyruna_Karnag",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092647",
+    "parent": "8310890",
+    "text": "Pajekha_Sangkiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092303",
+    "parent": "8310892",
+    "text": "Bali_Mombitshokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092304",
+    "parent": "8310892",
+    "text": "Kargoen_Hatam",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092306",
+    "parent": "8310892",
+    "text": "Wangtsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092307",
+    "parent": "8310892",
+    "text": "Ingo_Pharikha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092308",
+    "parent": "8310892",
+    "text": "Dragding_Karjena",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476085",
+    "parent": "12171910",
+    "text": "Jiminang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13480331",
+    "parent": "12171910",
+    "text": "Sisinang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13480332",
+    "parent": "12171910",
+    "text": "Khasadrapchu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13480333",
+    "parent": "12171910",
+    "text": "Danglo_Namsaeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13480334",
+    "parent": "12171910",
+    "text": "Tsha-long-na",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476086",
+    "parent": "12171907",
+    "text": "Ramtogtog_Tsangrina",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476087",
+    "parent": "12171907",
+    "text": "Gangchhe_Talakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476088",
+    "parent": "12171907",
+    "text": "Yoedselpang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13476089",
+    "parent": "12171907",
+    "text": "Lhoongtsho_Tashigang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13411579",
+    "parent": "12182773",
+    "text": "Goenmkha Mendrelgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13412350",
+    "parent": "12182773",
+    "text": "Bichekha Yuelhamo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13412351",
+    "parent": "12182773",
+    "text": "Damkhyi Rinakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13412352",
+    "parent": "12182773",
+    "text": "Dochogla Maenchhuna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13412353",
+    "parent": "12182773",
+    "text": "Lemjakha Thinleygang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405821",
+    "parent": "12183117",
+    "text": "Halued Uesawogm",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405822",
+    "parent": "12183117",
+    "text": "Nagbisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405823",
+    "parent": "12183117",
+    "text": "Uesagongmi Thabji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405824",
+    "parent": "12183117",
+    "text": "Haebisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405825",
+    "parent": "12183117",
+    "text": "Khoorjongla Langmizi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171900",
+    "parent": "12171905",
+    "text": "Moentsiphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171901",
+    "parent": "12171905",
+    "text": "Barshong _Nango",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171902",
+    "parent": "12171905",
+    "text": "Pagoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171903",
+    "parent": "12171905",
+    "text": "Zhomthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171904",
+    "parent": "12171905",
+    "text": "Tagsidthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171888",
+    "parent": "12171893",
+    "text": "Jangothang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171889",
+    "parent": "12171893",
+    "text": "Damgochong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171890",
+    "parent": "12171893",
+    "text": "Dotagpaithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171891",
+    "parent": "12171893",
+    "text": "Dozotoen",
+    "admin_level": "8"
+  },
+  {
+    "id": "12171892",
+    "parent": "12171893",
+    "text": "Jomphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165477",
+    "parent": "12165482",
+    "text": "Khailog_Tarshingthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165478",
+    "parent": "12165482",
+    "text": "Barsha_Panikong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165479",
+    "parent": "12165482",
+    "text": "Damji",
+    "admin_level": "8"
+  },
+  {
+    "id": "12165481",
+    "parent": "12165482",
+    "text": "Gayza_Zomina Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "13413220",
+    "parent": "12165482",
+    "text": "Jabisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13408517",
+    "parent": "12182769",
+    "text": "Chagsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13408518",
+    "parent": "12182769",
+    "text": "Sobsokha Yuwakha Zhika",
+    "admin_level": "8"
+  },
+  {
+    "id": "13408519",
+    "parent": "12182769",
+    "text": "Gamakha Sebtokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13408520",
+    "parent": "12182769",
+    "text": "Usakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13408521",
+    "parent": "12182769",
+    "text": "Tshogkorna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404625",
+    "parent": "12183115",
+    "text": "Chhungserkha Domkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404626",
+    "parent": "12183115",
+    "text": "Uesargang Wampoekhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404627",
+    "parent": "12183115",
+    "text": "Chhunggoen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404628",
+    "parent": "12183115",
+    "text": "Goenkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404629",
+    "parent": "12183115",
+    "text": "Koomchhi Phangyuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404867",
+    "parent": "12183116",
+    "text": "Wangjokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404868",
+    "parent": "12183116",
+    "text": "Thang-Goo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404869",
+    "parent": "12183116",
+    "text": "Martaloongchu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404870",
+    "parent": "12183116",
+    "text": "Dzonkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404871",
+    "parent": "12183116",
+    "text": "Jang Rinchhengang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404872",
+    "parent": "12183116",
+    "text": "Lho Rinchhengang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403362",
+    "parent": "12183120",
+    "text": "Zamding",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403363",
+    "parent": "12183120",
+    "text": "Bangtoedkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404630",
+    "parent": "12183120",
+    "text": "Oola",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404631",
+    "parent": "12183120",
+    "text": "Khothangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404632",
+    "parent": "12183120",
+    "text": "Gyala",
+    "admin_level": "8"
+  },
+  {
+    "id": "13404633",
+    "parent": "12183120",
+    "text": "Bjagphug",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402018",
+    "parent": "12183121",
+    "text": "Bjednagloongpa Thingmakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402120",
+    "parent": "12183121",
+    "text": "Ngawang Tongchennang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402121",
+    "parent": "12183121",
+    "text": "Garzhikha Omchheygang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402122",
+    "parent": "12183121",
+    "text": "Wachhey",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402123",
+    "parent": "12183121",
+    "text": "Tashi Tokha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405815",
+    "parent": "13405820",
+    "text": "Changche Mathsigpogto",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405816",
+    "parent": "13405820",
+    "text": "Khatoedkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405817",
+    "parent": "13405820",
+    "text": "Khamaedna",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405818",
+    "parent": "13405820",
+    "text": "Changkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13405819",
+    "parent": "13405820",
+    "text": "Dabchhaykha Matshigkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163541",
+    "parent": "12088300",
+    "text": "Nangsiphel_Zangling_ Zhabjethang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163542",
+    "parent": "12088300",
+    "text": "Dhur_ Lusibee",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163543",
+    "parent": "12088300",
+    "text": "Kharsa_Thangbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163544",
+    "parent": "12088300",
+    "text": "Pedtsheling_Tamzhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163545",
+    "parent": "12088300",
+    "text": "Dawathang_Dorjibi_ Kashingtsawa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163536",
+    "parent": "12088545",
+    "text": "Choongphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163537",
+    "parent": "12088545",
+    "text": "Zung-Ngae",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163538",
+    "parent": "12088545",
+    "text": "Phurjoen",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163539",
+    "parent": "12088545",
+    "text": "Domkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163540",
+    "parent": "12088545",
+    "text": "Gyaltsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13399054",
+    "parent": "12183112",
+    "text": "Booso Zeri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13399150",
+    "parent": "12183112",
+    "text": "Rukoobji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13399151",
+    "parent": "12183112",
+    "text": "Longtoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13399152",
+    "parent": "12183112",
+    "text": "Boommlog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13399153",
+    "parent": "12183112",
+    "text": "Nakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388236",
+    "parent": "12183114",
+    "text": "Geylegkha Kuenzangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388237",
+    "parent": "12183114",
+    "text": "Samtengang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388238",
+    "parent": "12183114",
+    "text": "Chhaebhakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388239",
+    "parent": "12183114",
+    "text": "Goensar Rajawog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388241",
+    "parent": "12183114",
+    "text": "Gangjab",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388242",
+    "parent": "12183114",
+    "text": "Chitokha Pangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403020",
+    "parent": "12183123",
+    "text": "Talachen Tawa Ta- Phoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403021",
+    "parent": "12183123",
+    "text": "Damchhoe Gangphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403022",
+    "parent": "12183123",
+    "text": "Kemdro Nemphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403023",
+    "parent": "12183123",
+    "text": "Drangpa Pangsar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13403024",
+    "parent": "12183123",
+    "text": "Dogsenang Gorphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13598825",
+    "parent": "12192344",
+    "text": "Gagar Kar-Zhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13598826",
+    "parent": "12192344",
+    "text": "Darbab Sinphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13598827",
+    "parent": "12192344",
+    "text": "Bemji Chela",
+    "admin_level": "8"
+  },
+  {
+    "id": "13598828",
+    "parent": "12192344",
+    "text": "Bji Saengbji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13598829",
+    "parent": "12192344",
+    "text": "Bagochen Boolingpang Ueling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13608581",
+    "parent": "12192345",
+    "text": "Kela",
+    "admin_level": "8"
+  },
+  {
+    "id": "13608582",
+    "parent": "12192345",
+    "text": "Chendenbji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13608583",
+    "parent": "12192345",
+    "text": "Nyala Drangla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13608584",
+    "parent": "12192345",
+    "text": "Tangsibji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13608585",
+    "parent": "12192345",
+    "text": "Tshangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12183111",
+    "parent": "13388751",
+    "text": "Baedrog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388752",
+    "parent": "13388751",
+    "text": "Kazhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388753",
+    "parent": "13388751",
+    "text": "Chegidp",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388754",
+    "parent": "13388751",
+    "text": "Komathrang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388755",
+    "parent": "13388751",
+    "text": "Lengbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13401403",
+    "parent": "12183122",
+    "text": "Gangteng",
+    "admin_level": "8"
+  },
+  {
+    "id": "13401404",
+    "parent": "12183122",
+    "text": "Jangchen Koomboo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402019",
+    "parent": "12183122",
+    "text": "Tapaiteng Uesa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402020",
+    "parent": "12183122",
+    "text": "Gorgoen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13402021",
+    "parent": "12183122",
+    "text": "Yaekorwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409474",
+    "parent": "12182770",
+    "text": "Oomtekha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409475",
+    "parent": "12182770",
+    "text": "Nabchhed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409476",
+    "parent": "12182770",
+    "text": "Lingmukha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409477",
+    "parent": "12182770",
+    "text": "Dompala",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409478",
+    "parent": "12182770",
+    "text": "Goomkarmo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410452",
+    "parent": "12182772",
+    "text": "Ngoe-Droob-Chhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410453",
+    "parent": "12182772",
+    "text": "Jangwakha Sewala",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410454",
+    "parent": "12182772",
+    "text": "Bumtakha Tenpakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410455",
+    "parent": "12182772",
+    "text": "Yebisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410456",
+    "parent": "12182772",
+    "text": "Bali",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409597",
+    "parent": "12182777",
+    "text": "Gubji Tseykakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409598",
+    "parent": "12182777",
+    "text": "Khilikhar Loongkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409599",
+    "parent": "12182777",
+    "text": "Tanag Uesa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409600",
+    "parent": "12182777",
+    "text": "Dzomisa Mendagang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13409601",
+    "parent": "12182777",
+    "text": "Jimithang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410188",
+    "parent": "12182779",
+    "text": "Dongkokhar Yong-Gu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410189",
+    "parent": "12182779",
+    "text": "Loongnangkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410190",
+    "parent": "12182779",
+    "text": "Norbugang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410191",
+    "parent": "12182779",
+    "text": "Talog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410192",
+    "parent": "12182779",
+    "text": "Gangthramo Labtsakha Soelwdrangsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410107",
+    "parent": "13410112",
+    "text": "Lakhu Tshowogm",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410108",
+    "parent": "13410112",
+    "text": "Baymenang Phulingsoom Wangwakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410109",
+    "parent": "13410112",
+    "text": "Dochhukha Dzomlingthang Ritsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410110",
+    "parent": "13410112",
+    "text": "Changyuel Loongsilgang Tashijong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13410111",
+    "parent": "13410112",
+    "text": "Guma Wolakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13395785",
+    "parent": "12183113",
+    "text": "Doongdoongnyelsa Norbooding",
+    "admin_level": "8"
+  },
+  {
+    "id": "13395786",
+    "parent": "12183113",
+    "text": "Uesagang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13395787",
+    "parent": "12183113",
+    "text": "Tashidingkha Zimi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13395788",
+    "parent": "12183113",
+    "text": "Tokaling Tomla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13395789",
+    "parent": "12183113",
+    "text": "Goodrang Taagsar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13606537",
+    "parent": "12192347",
+    "text": "Samling Khamaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13606538",
+    "parent": "12192347",
+    "text": "Samling Khatoed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13606539",
+    "parent": "12192347",
+    "text": "Kuenga Rabten",
+    "admin_level": "8"
+  },
+  {
+    "id": "13606540",
+    "parent": "12192347",
+    "text": "Uesar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13606541",
+    "parent": "12192347",
+    "text": "Tagtse Tashidingkha",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174862",
+    "parent": "12097697",
+    "text": "Chhenangri_Rishor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174863",
+    "parent": "12097697",
+    "text": "Rikhey",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174864",
+    "parent": "12097697",
+    "text": "Bangtsho",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174865",
+    "parent": "12097697",
+    "text": "Domphoog_Dungkarchhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174866",
+    "parent": "12097697",
+    "text": "Martang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193878",
+    "parent": "12098109",
+    "text": "Norboogang_Rinchhenzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193879",
+    "parent": "12098109",
+    "text": "Nyingshingborang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193880",
+    "parent": "12098109",
+    "text": "Tshaelshingzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193881",
+    "parent": "12098109",
+    "text": "Maenchhu_Nganglam",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193882",
+    "parent": "12098109",
+    "text": "Gashari",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193883",
+    "parent": "12098110",
+    "text": "Bidoongri_Yangmalashing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193884",
+    "parent": "12098110",
+    "text": "Goishing_Ridzommo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193885",
+    "parent": "12098110",
+    "text": "Dechhenling_Goenpawoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193886",
+    "parent": "12098110",
+    "text": "Namdagling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193887",
+    "parent": "12098110",
+    "text": "Doongphu_Shingchongri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193888",
+    "parent": "12098110",
+    "text": "Doongchhilo_Kholomri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13639845",
+    "parent": "12192690",
+    "text": "Chag-ngar-zam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13639846",
+    "parent": "12192690",
+    "text": "Panabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13639847",
+    "parent": "12192690",
+    "text": "Shalingtoed Tashibi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13639848",
+    "parent": "12192690",
+    "text": "Mamong Trong Pantang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13639849",
+    "parent": "12192690",
+    "text": "Pongchola Tadijong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13653565",
+    "parent": "12192693",
+    "text": "Bardo",
+    "admin_level": "8"
+  },
+  {
+    "id": "13653566",
+    "parent": "12192693",
+    "text": "Khomshar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13653567",
+    "parent": "12192693",
+    "text": "Phulabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13653568",
+    "parent": "12192693",
+    "text": "Langdorbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13653569",
+    "parent": "12192693",
+    "text": "Digala",
+    "admin_level": "8"
+  },
+  {
+    "id": "13658500",
+    "parent": "12192695",
+    "text": "Duenmang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13658501",
+    "parent": "12192695",
+    "text": "Nyakha",
+    "admin_level": "8"
+  },
+  {
+    "id": "13658502",
+    "parent": "12192695",
+    "text": "Goleng",
+    "admin_level": "8"
+  },
+  {
+    "id": "13658503",
+    "parent": "12192695",
+    "text": "Buli",
+    "admin_level": "8"
+  },
+  {
+    "id": "13658504",
+    "parent": "12192695",
+    "text": "Dakphel Tali",
+    "admin_level": "8"
+  },
+  {
+    "id": "13665928",
+    "parent": "12192696",
+    "text": "Nyimzhong Thajong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13665929",
+    "parent": "12192696",
+    "text": "Thrisa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13665930",
+    "parent": "12192696",
+    "text": "Wamling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13665931",
+    "parent": "12192696",
+    "text": "Radi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677660",
+    "parent": "12193044",
+    "text": "Seng-Gor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677661",
+    "parent": "12193044",
+    "text": "Saling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677662",
+    "parent": "12193044",
+    "text": "Thridangbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677663",
+    "parent": "12193044",
+    "text": "Tsenzabi Masangdaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677664",
+    "parent": "12193044",
+    "text": "Drogsar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677665",
+    "parent": "12193044",
+    "text": "Kalapang Resa",
+    "admin_level": "8"
+  },
+  {
+    "id": "13644978",
+    "parent": "12192691",
+    "text": "Panbang Sonamthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13644979",
+    "parent": "12192691",
+    "text": "Marangduet",
+    "admin_level": "8"
+  },
+  {
+    "id": "13644980",
+    "parent": "12192691",
+    "text": "Ribati",
+    "admin_level": "8"
+  },
+  {
+    "id": "13644981",
+    "parent": "12192691",
+    "text": "Ngangla Trong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13644982",
+    "parent": "12192691",
+    "text": "Kagtong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174878",
+    "parent": "12097700",
+    "text": "Nabar_Philooma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174879",
+    "parent": "12097700",
+    "text": "Jangchhubling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174880",
+    "parent": "12097700",
+    "text": "Bilam_Orong_Suzoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174881",
+    "parent": "12097700",
+    "text": "Nagzor_Wooling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174882",
+    "parent": "12097700",
+    "text": "Morong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174883",
+    "parent": "12097700",
+    "text": "Rimoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193868",
+    "parent": "12098111",
+    "text": "Dizama_Shoguri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193869",
+    "parent": "12098111",
+    "text": "Arden",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193870",
+    "parent": "12098111",
+    "text": "Chhoekhorling_Gazawong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193871",
+    "parent": "12098111",
+    "text": "Yargyewoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193872",
+    "parent": "12098111",
+    "text": "Kerong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13651577",
+    "parent": "12192692",
+    "text": "Mewangang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13651578",
+    "parent": "12192692",
+    "text": "Lichibi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13651579",
+    "parent": "12192692",
+    "text": "Lingmapong Samchhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13651580",
+    "parent": "12192692",
+    "text": "Lamthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13651581",
+    "parent": "12192692",
+    "text": "Budhashi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13646955",
+    "parent": "12192694",
+    "text": "Dali",
+    "admin_level": "8"
+  },
+  {
+    "id": "13646956",
+    "parent": "12192694",
+    "text": "Bjokar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13646957",
+    "parent": "12192694",
+    "text": "Kamati",
+    "admin_level": "8"
+  },
+  {
+    "id": "13646958",
+    "parent": "12192694",
+    "text": "Barpong Namirgang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13646959",
+    "parent": "12192694",
+    "text": "Chabdenba Dzarkabla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13666396",
+    "parent": "12193060",
+    "text": "Pang Nagor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13666397",
+    "parent": "12193060",
+    "text": "Gyalgong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13666398",
+    "parent": "12193060",
+    "text": "Kadag Silambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13666399",
+    "parent": "12193060",
+    "text": "Daag",
+    "admin_level": "8"
+  },
+  {
+    "id": "13666400",
+    "parent": "12193060",
+    "text": "Wama",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205875",
+    "parent": "12099783",
+    "text": "Bangyuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205876",
+    "parent": "12099783",
+    "text": "Serduwa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205877",
+    "parent": "12099783",
+    "text": "La-Nyiri_Thrumchoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205878",
+    "parent": "12099783",
+    "text": "Dungmaed_Zimzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205879",
+    "parent": "12099783",
+    "text": "Woongborang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205880",
+    "parent": "12099785",
+    "text": "Chhiphoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205881",
+    "parent": "12099785",
+    "text": "Nyasikhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205882",
+    "parent": "12099785",
+    "text": "Pangthang_Redingla",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205883",
+    "parent": "12099785",
+    "text": "Loongkholom",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205884",
+    "parent": "12099785",
+    "text": "Chhimoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13669765",
+    "parent": "12193058",
+    "text": "Moogtangkhar Tsangkhazor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13669766",
+    "parent": "12193058",
+    "text": "Moodoongkhar Tselam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13669767",
+    "parent": "12193058",
+    "text": "Kognala Ya-Ragla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13669768",
+    "parent": "12193058",
+    "text": "Bilam Dangkila",
+    "admin_level": "8"
+  },
+  {
+    "id": "13669769",
+    "parent": "12193058",
+    "text": "Ngamphoog Sangkama",
+    "admin_level": "8"
+  },
+  {
+    "id": "13667123",
+    "parent": "12193059",
+    "text": "Baagla Dengkaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13667124",
+    "parent": "12193059",
+    "text": "Pikari Yangbari",
+    "admin_level": "8"
+  },
+  {
+    "id": "13667125",
+    "parent": "12193059",
+    "text": "Daagsa Kumadzong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13667126",
+    "parent": "12193059",
+    "text": "Phadzong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13667127",
+    "parent": "12193059",
+    "text": "Damkar Weringla",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193873",
+    "parent": "12098112",
+    "text": "Khengzor_Labar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193874",
+    "parent": "12098112",
+    "text": "Nagtseri_Shemshem_Tsebargs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193875",
+    "parent": "12098112",
+    "text": "Shi-Nangri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193876",
+    "parent": "12098112",
+    "text": "Khar_Yagyur",
+    "admin_level": "8"
+  },
+  {
+    "id": "12193877",
+    "parent": "12098112",
+    "text": "Bongmaan",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174900",
+    "parent": "12098113",
+    "text": "Terphu_Woongchhiloo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174901",
+    "parent": "12098113",
+    "text": "Tokari",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174902",
+    "parent": "12098113",
+    "text": "Nanong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174903",
+    "parent": "12098113",
+    "text": "Gashigkhar_Tshatshi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174904",
+    "parent": "12098113",
+    "text": "Raling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205870",
+    "parent": "12098114",
+    "text": "Chhoongkhar_Pangthangdaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205871",
+    "parent": "12098114",
+    "text": "Ngangmalang_Zorjoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205872",
+    "parent": "12098114",
+    "text": "Zobel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205873",
+    "parent": "12098114",
+    "text": "Raysinang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205874",
+    "parent": "12098114",
+    "text": "Maan_Tshelinggor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205860",
+    "parent": "12098115",
+    "text": "Chongmashing_Dagor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205861",
+    "parent": "12098115",
+    "text": "Goenpoong_Shali",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205862",
+    "parent": "12098115",
+    "text": "Nangkor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205863",
+    "parent": "12098115",
+    "text": "Khothagpa_Yalang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205864",
+    "parent": "12098115",
+    "text": "Bartseri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205885",
+    "parent": "12099784",
+    "text": "Chongshing_Jorphoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205886",
+    "parent": "12099784",
+    "text": "Kamri_Yomzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205887",
+    "parent": "12099784",
+    "text": "Maendi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205888",
+    "parent": "12099784",
+    "text": "Thongsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205889",
+    "parent": "12099784",
+    "text": "Gooyoom_La-Nangzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205865",
+    "parent": "12099786",
+    "text": "Khangma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205866",
+    "parent": "12099786",
+    "text": "Bangdala",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205867",
+    "parent": "12099786",
+    "text": "Wanglakho_Thoong-Go",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205868",
+    "parent": "12099786",
+    "text": "Doongsingma_Thoongkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12205869",
+    "parent": "12099786",
+    "text": "Khominang_Yangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674635",
+    "parent": "12193057",
+    "text": "Kyidpari Yuldarig",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674636",
+    "parent": "12193057",
+    "text": "Tongla Zi-Tsibi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674637",
+    "parent": "12193057",
+    "text": "Dogtang Mooroong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674638",
+    "parent": "12193057",
+    "text": "Neykolog Warangborang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674639",
+    "parent": "12193057",
+    "text": "Phosothong Shingchongri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13674640",
+    "parent": "12193057",
+    "text": "Olokid Tsalabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703861",
+    "parent": "12193047",
+    "text": "Chhaling Dopang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703862",
+    "parent": "12193047",
+    "text": "Chulabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703863",
+    "parent": "12193047",
+    "text": "Shebchi Yangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703864",
+    "parent": "12193047",
+    "text": "Pangthang Thempang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703865",
+    "parent": "12193047",
+    "text": "Wangmakhar Khalangji",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703543",
+    "parent": "12193054",
+    "text": "Wengkhar Yagpoogang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703544",
+    "parent": "12193054",
+    "text": "Themnangbi Ketongri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703545",
+    "parent": "12193054",
+    "text": "Koenbar Tagchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703546",
+    "parent": "12193054",
+    "text": "Kidekhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703547",
+    "parent": "12193054",
+    "text": "Phosorong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13703548",
+    "parent": "12193054",
+    "text": "Gyalpoizhing Wangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677147",
+    "parent": "12193055",
+    "text": "Boompazor Drepoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677148",
+    "parent": "12193055",
+    "text": "Labtsa Shing-Gar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677149",
+    "parent": "12193055",
+    "text": "Bainangri Nyamla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677150",
+    "parent": "12193055",
+    "text": "Zunglen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13677151",
+    "parent": "12193055",
+    "text": "Chhagsuzor Tsangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110375",
+    "parent": "12100847",
+    "text": "Benshingmo_Jomtsang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110376",
+    "parent": "12100847",
+    "text": "Chhiya",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110377",
+    "parent": "12100847",
+    "text": "Rizor_Yerchhilo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110378",
+    "parent": "12100847",
+    "text": "Barkazor_Maenkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110379",
+    "parent": "12100847",
+    "text": "Baepam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13686959",
+    "parent": "12193048",
+    "text": "Yadi Yekhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13686960",
+    "parent": "12193048",
+    "text": "Pelshoob",
+    "admin_level": "8"
+  },
+  {
+    "id": "13686961",
+    "parent": "12193048",
+    "text": "Nyingala Phanasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13686962",
+    "parent": "12193048",
+    "text": "Thoombari Zangdari",
+    "admin_level": "8"
+  },
+  {
+    "id": "13686963",
+    "parent": "12193048",
+    "text": "Ngatshang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13692273",
+    "parent": "12193050",
+    "text": "Serkhagphoog Yenkhartshing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13692275",
+    "parent": "12193050",
+    "text": "Dramedtse Shapangma",
+    "admin_level": "8"
+  },
+  {
+    "id": "13692276",
+    "parent": "12193050",
+    "text": "Bikhar Thoongdari",
+    "admin_level": "8"
+  },
+  {
+    "id": "13692277",
+    "parent": "12193050",
+    "text": "Zangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13692278",
+    "parent": "12193050",
+    "text": "Ba-Ging Shadang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13695055",
+    "parent": "12193053",
+    "text": "Yetong Jarshingpogtor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13695056",
+    "parent": "12193053",
+    "text": "Borphai Chagsakhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13695057",
+    "parent": "12193053",
+    "text": "Doongsingma Pam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13695058",
+    "parent": "12193053",
+    "text": "Kharnang Kheshingra",
+    "admin_level": "8"
+  },
+  {
+    "id": "13695059",
+    "parent": "12193053",
+    "text": "Yangrapoongshing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13699068",
+    "parent": "12193056",
+    "text": "Bauchhoeling Panglen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13699069",
+    "parent": "12193056",
+    "text": "Ngaru Pongtang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13699070",
+    "parent": "12193056",
+    "text": "Lingkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13699071",
+    "parent": "12193056",
+    "text": "Atola",
+    "admin_level": "8"
+  },
+  {
+    "id": "13699072",
+    "parent": "12193056",
+    "text": "Changshing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117204",
+    "parent": "12097692",
+    "text": "Gonong_Zangthig",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117205",
+    "parent": "12097692",
+    "text": "Momring_Rolnang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117206",
+    "parent": "12097692",
+    "text": "Lauri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117207",
+    "parent": "12097692",
+    "text": "Betseling_Doongmanma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117208",
+    "parent": "12097692",
+    "text": "Tshothang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117209",
+    "parent": "12097693",
+    "text": "Khandophoog_Minjiwoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117210",
+    "parent": "12097693",
+    "text": "Drenphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117211",
+    "parent": "12097693",
+    "text": "Phagchhog_Suskar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117212",
+    "parent": "12097693",
+    "text": "Dangtsho_Serthig",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117213",
+    "parent": "12097693",
+    "text": "Monmola_Tashithang Gyed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117214",
+    "parent": "12097694",
+    "text": "Rongchhuthang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117215",
+    "parent": "12097694",
+    "text": "Agoorthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117216",
+    "parent": "12097694",
+    "text": "Jangsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117217",
+    "parent": "12097694",
+    "text": "Langchenphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117218",
+    "parent": "12097694",
+    "text": "Jampani",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174872",
+    "parent": "12097696",
+    "text": "Martshala",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174873",
+    "parent": "12097696",
+    "text": "Sarjoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174874",
+    "parent": "12097696",
+    "text": "Chhoedoong_Kakani",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174875",
+    "parent": "12097696",
+    "text": "Kaeptang_Tsholingkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174876",
+    "parent": "12097696",
+    "text": "Galingkhar_Wangphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174877",
+    "parent": "12097696",
+    "text": "Suzor_Tshotsalu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105730",
+    "parent": "12100841",
+    "text": "Pusa_Tenmang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105731",
+    "parent": "12100841",
+    "text": "Borangmang_Borangtse",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105732",
+    "parent": "12100841",
+    "text": "Sagteng",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105733",
+    "parent": "12100841",
+    "text": "Joenkhar_Moorbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105734",
+    "parent": "12100841",
+    "text": "Thrag Thri",
+    "admin_level": "8"
+  },
+  {
+    "id": "12101798",
+    "parent": "12100842",
+    "text": "Khiliphoo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12101799",
+    "parent": "12100842",
+    "text": "Merag Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12101800",
+    "parent": "12100842",
+    "text": "Merag Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12101801",
+    "parent": "12100842",
+    "text": "Gyengo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12101802",
+    "parent": "12100842",
+    "text": "Khashateng",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109766",
+    "parent": "12100843",
+    "text": "Bedengphoog_Merdag",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109767",
+    "parent": "12100843",
+    "text": "Kangpar_Lamyong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109768",
+    "parent": "12100843",
+    "text": "Zordoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109769",
+    "parent": "12100843",
+    "text": "Threlphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109770",
+    "parent": "12100843",
+    "text": "Passaphu_Peydoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174889",
+    "parent": "12097698",
+    "text": "Doongkarling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174890",
+    "parent": "12097698",
+    "text": "Samdrupchhoeling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174891",
+    "parent": "12097698",
+    "text": "Phuentshogthang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174892",
+    "parent": "12097698",
+    "text": "Minjigang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174893",
+    "parent": "12097698",
+    "text": "Baylamsharang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174894",
+    "parent": "12097698",
+    "text": "Khamaedthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117219",
+    "parent": "12097695",
+    "text": "Damsagang Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117220",
+    "parent": "12097695",
+    "text": "Ngangtshothang Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117221",
+    "parent": "12097695",
+    "text": "Ngangtshothang Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117222",
+    "parent": "12097695",
+    "text": "Tshoduen",
+    "admin_level": "8"
+  },
+  {
+    "id": "12117223",
+    "parent": "12097695",
+    "text": "Damsagang Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174884",
+    "parent": "12097699",
+    "text": "Uesarna_Warong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174885",
+    "parent": "12097699",
+    "text": "Pemathang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174886",
+    "parent": "12097699",
+    "text": "Chirtshosa_Loongminang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174887",
+    "parent": "12097699",
+    "text": "Kathoobdang_Shiling Gye",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174888",
+    "parent": "12097699",
+    "text": "Raling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174867",
+    "parent": "12097701",
+    "text": "Gomdar_Richhanglu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174868",
+    "parent": "12097701",
+    "text": "Narphoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174869",
+    "parent": "12097701",
+    "text": "Broomi_Chidoongkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174870",
+    "parent": "12097701",
+    "text": "Denchhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174871",
+    "parent": "12097701",
+    "text": "Khoyar Pangthang_Palroong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174895",
+    "parent": "12097702",
+    "text": "Sachhilo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174896",
+    "parent": "12097702",
+    "text": "Benporong_Yarphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174897",
+    "parent": "12097702",
+    "text": "Serchhenmo_Wangphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174898",
+    "parent": "12097702",
+    "text": "Bayuel_Pangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12174899",
+    "parent": "12097702",
+    "text": "Shogshi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12106035",
+    "parent": "12100844",
+    "text": "Thrimshing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12106036",
+    "parent": "12100844",
+    "text": "Doongsingma_Tsangpo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12106037",
+    "parent": "12100844",
+    "text": "Bongzor_Phegpari",
+    "admin_level": "8"
+  },
+  {
+    "id": "12106038",
+    "parent": "12100844",
+    "text": "Ramchongma_Yemkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12106039",
+    "parent": "12100844",
+    "text": "Berdoongma_Thoongkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110231",
+    "parent": "12100845",
+    "text": "Chhengri_Doongmanma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110232",
+    "parent": "12100845",
+    "text": "Dubkhang Lumang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110233",
+    "parent": "12100845",
+    "text": "Kharphoog_Kurchhilo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110234",
+    "parent": "12100845",
+    "text": "Riserboo_Tsangpo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110235",
+    "parent": "12100845",
+    "text": "Moochhu_Wakhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110236",
+    "parent": "12100845",
+    "text": "Tshogoenpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110237",
+    "parent": "12100846",
+    "text": "Barshong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110238",
+    "parent": "12100846",
+    "text": "Brekha_Meringzor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110239",
+    "parent": "12100846",
+    "text": "Bayphoog_Togkaphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110240",
+    "parent": "12100846",
+    "text": "Khaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110242",
+    "parent": "12100846",
+    "text": "Jiri_Lemi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13435777",
+    "parent": "12100846",
+    "text": "Gomchhu Kholdoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110597",
+    "parent": "12100849",
+    "text": "Rongthoong Shingchen",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110598",
+    "parent": "12100849",
+    "text": "Pangthang Ritsangdoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13431267",
+    "parent": "12100849",
+    "text": "Maanthong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13431268",
+    "parent": "12100849",
+    "text": "YonPhoogla",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110601",
+    "parent": "12100850",
+    "text": "Chagzam_Pam",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110602",
+    "parent": "12100850",
+    "text": "Maelphel_Samkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110603",
+    "parent": "12100850",
+    "text": "Rangzhikhar_ Sardang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110604",
+    "parent": "12100850",
+    "text": "Kapang_Yenangdrangsa Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110605",
+    "parent": "12100850",
+    "text": "Khabti_Lungtenzampa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12110606",
+    "parent": "12100850",
+    "text": "Bikhar_Domkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12112682",
+    "parent": "12100851",
+    "text": "Galing Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12112683",
+    "parent": "12100851",
+    "text": "Gongtsephangma_Yobinang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12112684",
+    "parent": "12100851",
+    "text": "Chhangmi_Rangjoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12112685",
+    "parent": "12100851",
+    "text": "Dramin_Shongphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12112686",
+    "parent": "12100851",
+    "text": "Chaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12152923",
+    "parent": "12088471",
+    "text": "Shing-Nyer",
+    "admin_level": "8"
+  },
+  {
+    "id": "12152924",
+    "parent": "12088471",
+    "text": "Tangsibi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12152925",
+    "parent": "12088471",
+    "text": "Ura-Dozhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12152926",
+    "parent": "12088471",
+    "text": "Beteng_Pangkhar_Somthrang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12152927",
+    "parent": "12088471",
+    "text": "Shingkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163531",
+    "parent": "12088472",
+    "text": "Tandingang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163532",
+    "parent": "12088472",
+    "text": "Kidzom_Nyimalung",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163533",
+    "parent": "12088472",
+    "text": "Khangrab",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163534",
+    "parent": "12088472",
+    "text": "Dazur",
+    "admin_level": "8"
+  },
+  {
+    "id": "12163535",
+    "parent": "12088472",
+    "text": "Bezur_Kuenzangdrag",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093242",
+    "parent": "12089052",
+    "text": "Rolmoteng _Tsang-Ngo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093243",
+    "parent": "12089052",
+    "text": "Babtong_Dragteng",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093244",
+    "parent": "12089052",
+    "text": "Berpa_Khoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093245",
+    "parent": "12089052",
+    "text": "Pangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093246",
+    "parent": "12089052",
+    "text": "Gangla_Kholma",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092756",
+    "parent": "12089053",
+    "text": "Jasabi_Ugyenphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "12092757",
+    "parent": "12089053",
+    "text": "Chagdzom_Chhusa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093234",
+    "parent": "12089053",
+    "text": "Tang-Roong_Wawel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093235",
+    "parent": "12089053",
+    "text": "Dungkar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093236",
+    "parent": "12089053",
+    "text": "Tabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093237",
+    "parent": "12089054",
+    "text": "Thrima_Shawa_Zhamling Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093238",
+    "parent": "12089054",
+    "text": "Kyidloong_Somshing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093239",
+    "parent": "12089054",
+    "text": "Ney Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093240",
+    "parent": "12089054",
+    "text": "Nyimzhong_Tongling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093241",
+    "parent": "12089054",
+    "text": "Jang_Ngar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096799",
+    "parent": "12089058",
+    "text": "Gortshom_Tshangthrom-Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096800",
+    "parent": "12089058",
+    "text": "Obi_Tongthrong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096801",
+    "parent": "12089058",
+    "text": "Bamdhir_Yurung Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096802",
+    "parent": "12089058",
+    "text": "Zhongmaed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096803",
+    "parent": "12089058",
+    "text": "Oong-gar Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096804",
+    "parent": "12089059",
+    "text": "Yumchhe",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096805",
+    "parent": "12089059",
+    "text": "Artobi_Ngang-Ngae",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096806",
+    "parent": "12089059",
+    "text": "Yabi_Zangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096807",
+    "parent": "12089059",
+    "text": "Kharchung",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096808",
+    "parent": "12089059",
+    "text": "Ladrong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423536",
+    "parent": "12101416",
+    "text": "Baney Bimkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423537",
+    "parent": "12101416",
+    "text": "Rabti",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423538",
+    "parent": "12101416",
+    "text": "Gangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423539",
+    "parent": "12101416",
+    "text": "Li-chen",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423540",
+    "parent": "12101416",
+    "text": "Bayling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13684925",
+    "parent": "12193049",
+    "text": "Soenakhar Yarab",
+    "admin_level": "8"
+  },
+  {
+    "id": "13684926",
+    "parent": "12193049",
+    "text": "Jabgang Thueling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13684927",
+    "parent": "12193049",
+    "text": "Muhoong Shiling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13684928",
+    "parent": "12193049",
+    "text": "Malang Serzhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13684929",
+    "parent": "12193049",
+    "text": "Gangmoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423236",
+    "parent": "13698515",
+    "text": "Bomdir Wogmanang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423237",
+    "parent": "13698515",
+    "text": "Dzongkhag Thromde",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423238",
+    "parent": "13698515",
+    "text": "Betsamang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423239",
+    "parent": "13698515",
+    "text": "Gangkhardoong Tshaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423240",
+    "parent": "13698515",
+    "text": "Ngalimang Phanteng",
+    "admin_level": "8"
+  },
+  {
+    "id": "13423241",
+    "parent": "13698515",
+    "text": "Pangkhar Taphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "12094118",
+    "parent": "12089057",
+    "text": "Go-Nyid_Wambur",
+    "admin_level": "8"
+  },
+  {
+    "id": "12094119",
+    "parent": "12089057",
+    "text": "Domkhar_Umling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12094120",
+    "parent": "12089057",
+    "text": "Dekaling_Tshochhen Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12094121",
+    "parent": "12089057",
+    "text": "Autsho_Chharbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12094122",
+    "parent": "12089057",
+    "text": "Artobadeb_Guendrang Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "13682933",
+    "parent": "12193045",
+    "text": "Ganglapong Toed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13682934",
+    "parent": "12193045",
+    "text": "Ganglapong Maed",
+    "admin_level": "8"
+  },
+  {
+    "id": "13682935",
+    "parent": "12193045",
+    "text": "Baanjar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13682936",
+    "parent": "12193045",
+    "text": "Thuenmong Tokari",
+    "admin_level": "8"
+  },
+  {
+    "id": "13682937",
+    "parent": "12193045",
+    "text": "Drangmaling Nanggor",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683865",
+    "parent": "12193046",
+    "text": "Tagkhambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683866",
+    "parent": "12193046",
+    "text": "Kaling Thoomling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683867",
+    "parent": "12193046",
+    "text": "Nyartsi Tsakaling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683868",
+    "parent": "12193046",
+    "text": "Drongtoed Tormazhong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683869",
+    "parent": "12193046",
+    "text": "Drengling Horong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109780",
+    "parent": "12100848",
+    "text": "Duroong Ngambinang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109781",
+    "parent": "12100848",
+    "text": "Dargyeling_Kharthoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109782",
+    "parent": "12100848",
+    "text": "Shokang_Tegtagpa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109783",
+    "parent": "12100848",
+    "text": "Daliphang_Ragshigo",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109784",
+    "parent": "12100848",
+    "text": "Kharza_Leyphoog",
+    "admin_level": "8"
+  },
+  {
+    "id": "13687272",
+    "parent": "12193051",
+    "text": "Doongmanma Selkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13687273",
+    "parent": "12193051",
+    "text": "Bakhaphai",
+    "admin_level": "8"
+  },
+  {
+    "id": "13687274",
+    "parent": "12193051",
+    "text": "Jadoong Yangbari",
+    "admin_level": "8"
+  },
+  {
+    "id": "13687275",
+    "parent": "12193051",
+    "text": "Balam Morphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13687276",
+    "parent": "12193051",
+    "text": "Khebishing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13688832",
+    "parent": "12193052",
+    "text": "Dongshoom Pangkhang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13688833",
+    "parent": "12193052",
+    "text": "Gomchhu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13688834",
+    "parent": "12193052",
+    "text": "Na-Rang Pangthang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13688835",
+    "parent": "12193052",
+    "text": "Thrinangphu",
+    "admin_level": "8"
+  },
+  {
+    "id": "13688836",
+    "parent": "12193052",
+    "text": "Khalong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424985",
+    "parent": "13426263",
+    "text": "Changmadoong Shoganang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424986",
+    "parent": "13426263",
+    "text": "Maenchhu Tsangdoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424987",
+    "parent": "13426263",
+    "text": "Pang-Lhauzhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424988",
+    "parent": "13426263",
+    "text": "Bagpa Kuenzangling",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424989",
+    "parent": "13426263",
+    "text": "Bainangkhar Gomkor",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093559",
+    "parent": "12089055",
+    "text": "Maenjabi Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093560",
+    "parent": "12089055",
+    "text": "Nyaibi_Zhungkhar Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093561",
+    "parent": "12089055",
+    "text": "Tagmochhu_Gorgan Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093562",
+    "parent": "12089055",
+    "text": "Phagidoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12093563",
+    "parent": "12089055",
+    "text": "Kamdhar_Moormo Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096809",
+    "parent": "12089056",
+    "text": "Boo-Dur_Kupi-Nyalsa",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096810",
+    "parent": "12089056",
+    "text": "Draag-Gong_Jalang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096811",
+    "parent": "12089056",
+    "text": "Minjey_Wazhing",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096812",
+    "parent": "12089056",
+    "text": "Chusa_Legshogang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12096813",
+    "parent": "12089056",
+    "text": "Amdrangchhu_Zham",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109776",
+    "parent": "12101123",
+    "text": "Trashang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109778",
+    "parent": "12101123",
+    "text": "Jamoong_Kumoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108687",
+    "parent": "12101123",
+    "text": "Moogthangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108688",
+    "parent": "12101123",
+    "text": "Dzong Thong Menchhari",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108689",
+    "parent": "12101123",
+    "text": "Bainangkhar Nangkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109771",
+    "parent": "12101124",
+    "text": "Khairi_Saling",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109772",
+    "parent": "12101124",
+    "text": "Tsigtoom",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109773",
+    "parent": "12101124",
+    "text": "Lemphang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109774",
+    "parent": "12101124",
+    "text": "Tshekhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12109775",
+    "parent": "12101124",
+    "text": "Kakaniwog",
+    "admin_level": "8"
+  },
+  {
+    "id": "12104789",
+    "parent": "13425226",
+    "text": "Phugyang_Yalang",
+    "admin_level": "8"
+  },
+  {
+    "id": "13425577",
+    "parent": "13425226",
+    "text": "Doogti Gashing",
+    "admin_level": "8"
+  },
+  {
+    "id": "13425578",
+    "parent": "13425226",
+    "text": "Chheema Melongkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13425579",
+    "parent": "13425226",
+    "text": "Rolam Thragom",
+    "admin_level": "8"
+  },
+  {
+    "id": "13425581",
+    "parent": "13425226",
+    "text": "Namthi Yarphel",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108522",
+    "parent": "13425580",
+    "text": "Bainang-Reb Romang",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108523",
+    "parent": "13425580",
+    "text": "Khalarangthang Tsang-Rong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108524",
+    "parent": "13425580",
+    "text": "Lengbartang Woongkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108525",
+    "parent": "13425580",
+    "text": "Domtshang Doongmaen",
+    "admin_level": "8"
+  },
+  {
+    "id": "14108526",
+    "parent": "13425580",
+    "text": "Bawoong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424991",
+    "parent": "13423708",
+    "text": "Khamdang Manla",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424992",
+    "parent": "13423708",
+    "text": "Nombaring Shazam",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424993",
+    "parent": "13423708",
+    "text": "Dungtse Lengkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424994",
+    "parent": "13423708",
+    "text": "Domshang Karmazom",
+    "admin_level": "8"
+  },
+  {
+    "id": "13424995",
+    "parent": "13423708",
+    "text": "Serpang Shalli",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105735",
+    "parent": "12101125",
+    "text": "Lem",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105736",
+    "parent": "12101125",
+    "text": "Phongmed",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105737",
+    "parent": "12101125",
+    "text": "Ya-Brang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105738",
+    "parent": "12101125",
+    "text": "Phimsong Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105739",
+    "parent": "12101125",
+    "text": "Thong-Rong",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105740",
+    "parent": "12101126",
+    "text": "Tongling Pam Chiwogs",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105741",
+    "parent": "12101126",
+    "text": "Dekiling_Tsenkhar",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105742",
+    "parent": "12101126",
+    "text": "Kadam",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105743",
+    "parent": "12101126",
+    "text": "Nagtshang_Togshingmang",
+    "admin_level": "8"
+  },
+  {
+    "id": "12105744",
+    "parent": "12101126",
+    "text": "Pakaling",
+    "admin_level": "8"
+  }
+]

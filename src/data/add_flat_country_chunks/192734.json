@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "356379",
+    "parent": "192734",
+    "text": "Ryanggang",
+    "admin_level": "4"
+  },
+  {
+    "id": "356386",
+    "parent": "192734",
+    "text": "South Hamgyong",
+    "admin_level": "4"
+  },
+  {
+    "id": "356392",
+    "parent": "192734",
+    "text": "Chagang",
+    "admin_level": "4"
+  },
+  {
+    "id": "356419",
+    "parent": "192734",
+    "text": "South Pyongan",
+    "admin_level": "4"
+  },
+  {
+    "id": "356442",
+    "parent": "192734",
+    "text": "North Hwanghae",
+    "admin_level": "4"
+  },
+  {
+    "id": "356443",
+    "parent": "192734",
+    "text": "P'y\u014fngyang",
+    "admin_level": "4"
+  },
+  {
+    "id": "356533",
+    "parent": "192734",
+    "text": "South Hwanghae",
+    "admin_level": "4"
+  },
+  {
+    "id": "356535",
+    "parent": "192734",
+    "text": "Kangwon",
+    "admin_level": "4"
+  },
+  {
+    "id": "356540",
+    "parent": "192734",
+    "text": "North Pyongan",
+    "admin_level": "4"
+  },
+  {
+    "id": "3781418",
+    "parent": "192734",
+    "text": "North Hamgyong",
+    "admin_level": "4"
+  },
+  {
+    "id": "5453650",
+    "parent": "192734",
+    "text": "Nampo",
+    "admin_level": "4"
+  },
+  {
+    "id": "5455268",
+    "parent": "192734",
+    "text": "Kaesong",
+    "admin_level": "4"
+  },
+  {
+    "id": "6648083",
+    "parent": "192734",
+    "text": "Rason",
+    "admin_level": "4"
+  },
+  {
+    "id": "8400379",
+    "parent": "356386",
+    "text": "Hamhung-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8407288",
+    "parent": "356386",
+    "text": "Hochon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8407289",
+    "parent": "356386",
+    "text": "Tanchon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8407676",
+    "parent": "356386",
+    "text": "Kumya County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8407677",
+    "parent": "356386",
+    "text": "Kowon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8408283",
+    "parent": "356386",
+    "text": "Ragwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8408284",
+    "parent": "356386",
+    "text": "Hamju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8408285",
+    "parent": "356386",
+    "text": "Chongpyong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8408286",
+    "parent": "356386",
+    "text": "Yodok County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8412736",
+    "parent": "356386",
+    "text": "Sinpo-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8412737",
+    "parent": "356386",
+    "text": "Pukchong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8412738",
+    "parent": "356386",
+    "text": "Kumho-gun",
+    "admin_level": "6"
+  },
+  {
+    "id": "8412739",
+    "parent": "356386",
+    "text": "Hongwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8413386",
+    "parent": "356386",
+    "text": "Toksong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8413387",
+    "parent": "356386",
+    "text": "Riwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8414550",
+    "parent": "356386",
+    "text": "Changjin County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8414552",
+    "parent": "356386",
+    "text": "Sinhung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8414553",
+    "parent": "356386",
+    "text": "Yonggwang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429874",
+    "parent": "356386",
+    "text": "Pujon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "356539",
+    "parent": "356540",
+    "text": "Sinuiju-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5405593",
+    "parent": "356540",
+    "text": "Yomju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5406211",
+    "parent": "356540",
+    "text": "Ryongchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5448288",
+    "parent": "356540",
+    "text": "Pihyon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5448332",
+    "parent": "356540",
+    "text": "Cholsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452592",
+    "parent": "356540",
+    "text": "Tongrim County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452597",
+    "parent": "356540",
+    "text": "Uiju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452696",
+    "parent": "356540",
+    "text": "Sonchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452717",
+    "parent": "356540",
+    "text": "Chonma County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452734",
+    "parent": "356540",
+    "text": "Kwaksan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452749",
+    "parent": "356540",
+    "text": "Sakju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452811",
+    "parent": "356540",
+    "text": "Chongju-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452823",
+    "parent": "356540",
+    "text": "Taegwan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452836",
+    "parent": "356540",
+    "text": "Kusong-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452898",
+    "parent": "356540",
+    "text": "Pyokdong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452899",
+    "parent": "356540",
+    "text": "Changsong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5452929",
+    "parent": "356540",
+    "text": "Unjon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453015",
+    "parent": "356540",
+    "text": "Taechon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453023",
+    "parent": "356540",
+    "text": "Tongchang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453088",
+    "parent": "356540",
+    "text": "Nyongbyon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453089",
+    "parent": "356540",
+    "text": "Pakchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453133",
+    "parent": "356540",
+    "text": "Unsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453151",
+    "parent": "356540",
+    "text": "Kujang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5470473",
+    "parent": "356540",
+    "text": "Sindo County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453397",
+    "parent": "356419",
+    "text": "Pyongsong-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453654",
+    "parent": "356419",
+    "text": "Anju-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453657",
+    "parent": "356419",
+    "text": "Kaechon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453660",
+    "parent": "356419",
+    "text": "Sunchon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453666",
+    "parent": "356419",
+    "text": "Tokchon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453678",
+    "parent": "356419",
+    "text": "Chongnam-gun",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454093",
+    "parent": "356419",
+    "text": "Ungok-chigu",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454101",
+    "parent": "356419",
+    "text": "Mundok County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454106",
+    "parent": "356419",
+    "text": "Sukchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454113",
+    "parent": "356419",
+    "text": "Pyongwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454141",
+    "parent": "356419",
+    "text": "Chungsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454281",
+    "parent": "356419",
+    "text": "Pukchang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454295",
+    "parent": "356419",
+    "text": "Unsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454307",
+    "parent": "356419",
+    "text": "Songchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454326",
+    "parent": "356419",
+    "text": "Hoechang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454334",
+    "parent": "356419",
+    "text": "Yangdok County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454342",
+    "parent": "356419",
+    "text": "Sinyang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454375",
+    "parent": "356419",
+    "text": "Maengsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454378",
+    "parent": "356419",
+    "text": "Nyongwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454385",
+    "parent": "356419",
+    "text": "Taehung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "10627378",
+    "parent": "356419",
+    "text": "Taedong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859544",
+    "parent": "356442",
+    "text": "Chunghwa County",
+    "admin_level": "6"
+  },
+  {
+    "id": "3860474",
+    "parent": "356442",
+    "text": "Sangwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "3860518",
+    "parent": "356442",
+    "text": "Sungho County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455231",
+    "parent": "356442",
+    "text": "Hwangju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455246",
+    "parent": "356442",
+    "text": "Sariwon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455401",
+    "parent": "356442",
+    "text": "Songnim-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455422",
+    "parent": "356442",
+    "text": "Yontan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455437",
+    "parent": "356442",
+    "text": "Yonsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5455454",
+    "parent": "356442",
+    "text": "Sinpyong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456099",
+    "parent": "356442",
+    "text": "Unpa County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456104",
+    "parent": "356442",
+    "text": "Rinsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456194",
+    "parent": "356442",
+    "text": "Pongsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456206",
+    "parent": "356442",
+    "text": "Suan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456248",
+    "parent": "356442",
+    "text": "Koksan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456274",
+    "parent": "356442",
+    "text": "Sonhung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456494",
+    "parent": "356442",
+    "text": "Singye County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456500",
+    "parent": "356442",
+    "text": "Pyongsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456504",
+    "parent": "356442",
+    "text": "Kumchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5456509",
+    "parent": "356442",
+    "text": "Tosan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469223",
+    "parent": "356533",
+    "text": "Paekchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469240",
+    "parent": "356533",
+    "text": "Pongchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469278",
+    "parent": "356533",
+    "text": "Yonan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469279",
+    "parent": "356533",
+    "text": "Chongdan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469296",
+    "parent": "356533",
+    "text": "Haeju-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469308",
+    "parent": "356533",
+    "text": "Kangnyong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469325",
+    "parent": "356533",
+    "text": "Onjin County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469362",
+    "parent": "356533",
+    "text": "Ryongyon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469380",
+    "parent": "356533",
+    "text": "Sinwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469393",
+    "parent": "356533",
+    "text": "Sinchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469394",
+    "parent": "356533",
+    "text": "Chaeryong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469410",
+    "parent": "356533",
+    "text": "Pyoksong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469411",
+    "parent": "356533",
+    "text": "Taetan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469425",
+    "parent": "356533",
+    "text": "Anak County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469428",
+    "parent": "356533",
+    "text": "Unchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469468",
+    "parent": "356533",
+    "text": "Samchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469475",
+    "parent": "356533",
+    "text": "Unnyun County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469483",
+    "parent": "356533",
+    "text": "Songhwa County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469504",
+    "parent": "356533",
+    "text": "Kwail County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5469505",
+    "parent": "356533",
+    "text": "Changyon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "2505635",
+    "parent": "356535",
+    "text": "Goseong-gun",
+    "admin_level": "6"
+  },
+  {
+    "id": "5486618",
+    "parent": "356535",
+    "text": "Kumgang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5488132",
+    "parent": "356535",
+    "text": "Kosong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5974099",
+    "parent": "356535",
+    "text": "Kosan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "7117363",
+    "parent": "356535",
+    "text": "Anbyon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8313358",
+    "parent": "356535",
+    "text": "Tongchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8314828",
+    "parent": "356535",
+    "text": "Changdo County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8315133",
+    "parent": "356535",
+    "text": "Hoeyang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8318609",
+    "parent": "356535",
+    "text": "Wonsan-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8319793",
+    "parent": "356535",
+    "text": "Munchon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8320618",
+    "parent": "356535",
+    "text": "Chonnae County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8321389",
+    "parent": "356535",
+    "text": "Poptong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8322192",
+    "parent": "356535",
+    "text": "Pangyo County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8323199",
+    "parent": "356535",
+    "text": "Ichon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8323448",
+    "parent": "356535",
+    "text": "Chorwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8323804",
+    "parent": "356535",
+    "text": "Sepo County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8323972",
+    "parent": "356535",
+    "text": "Kimhwa County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8323973",
+    "parent": "356535",
+    "text": "Pyonggang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8484462",
+    "parent": "5455268",
+    "text": "Jangphung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "12310800",
+    "parent": "5455268",
+    "text": "Phanmun-guyok",
+    "admin_level": "6"
+  },
+  {
+    "id": "13266178",
+    "parent": "5455268",
+    "text": "Kaepung-guyok",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454209",
+    "parent": "5453650",
+    "text": "Kangso",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454210",
+    "parent": "5453650",
+    "text": "Taean County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454211",
+    "parent": "5453650",
+    "text": "Chollima-guyok",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454212",
+    "parent": "5453650",
+    "text": "Ryonggang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5454213",
+    "parent": "5453650",
+    "text": "Onchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "13263307",
+    "parent": "5453650",
+    "text": "Waudo-guyok",
+    "admin_level": "6"
+  },
+  {
+    "id": "13263308",
+    "parent": "5453650",
+    "text": "Hanggu-guyok",
+    "admin_level": "6"
+  },
+  {
+    "id": "2636972",
+    "parent": "356443",
+    "text": "Central District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2637057",
+    "parent": "356443",
+    "text": "Phyongchon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2637105",
+    "parent": "356443",
+    "text": "Potonggang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3852359",
+    "parent": "356443",
+    "text": "Tongdaewon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3852767",
+    "parent": "356443",
+    "text": "Taedonggang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3852780",
+    "parent": "356443",
+    "text": "Songyo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859451",
+    "parent": "356443",
+    "text": "Sosong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859471",
+    "parent": "356443",
+    "text": "Moranbong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859480",
+    "parent": "356443",
+    "text": "Taesong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859482",
+    "parent": "356443",
+    "text": "Rangnang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859517",
+    "parent": "356443",
+    "text": "Kangnam County",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859555",
+    "parent": "356443",
+    "text": "Ryokpo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3859561",
+    "parent": "356443",
+    "text": "Sadong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3860523",
+    "parent": "356443",
+    "text": "Kangdong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "3860809",
+    "parent": "356443",
+    "text": "Mangyongdae District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3864554",
+    "parent": "356443",
+    "text": "Hyongjesan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3864568",
+    "parent": "356443",
+    "text": "Sunan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6889860",
+    "parent": "356443",
+    "text": "Ryongs\u014fng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6889890",
+    "parent": "356443",
+    "text": "Sams\u014fk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6889943",
+    "parent": "356443",
+    "text": "\u016cnj\u014fng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "14043568",
+    "parent": "356443",
+    "text": "Hwasong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6125006",
+    "parent": "356379",
+    "text": "Samjiyon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "6332276",
+    "parent": "356379",
+    "text": "Hyesan-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "6968705",
+    "parent": "356379",
+    "text": "Taehongdan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429865",
+    "parent": "356379",
+    "text": "Kimhyongjik County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429866",
+    "parent": "356379",
+    "text": "Kimj\u014fngsuk County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429867",
+    "parent": "356379",
+    "text": "Samsu County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429868",
+    "parent": "356379",
+    "text": "Kimhyonggwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429869",
+    "parent": "356379",
+    "text": "Pungso County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429870",
+    "parent": "356379",
+    "text": "Kapsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429871",
+    "parent": "356379",
+    "text": "Unh\u016dng County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429872",
+    "parent": "356379",
+    "text": "Paegam County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8429873",
+    "parent": "356379",
+    "text": "Pochon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5453152",
+    "parent": "356392",
+    "text": "Hyangsan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475043",
+    "parent": "356392",
+    "text": "Usi County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475058",
+    "parent": "356392",
+    "text": "Chosan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475091",
+    "parent": "356392",
+    "text": "Kopung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475105",
+    "parent": "356392",
+    "text": "Songwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475704",
+    "parent": "356392",
+    "text": "Kanggye-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475705",
+    "parent": "356392",
+    "text": "Manpo-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475706",
+    "parent": "356392",
+    "text": "Huichon-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475707",
+    "parent": "356392",
+    "text": "Wiwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475708",
+    "parent": "356392",
+    "text": "Ryongnim County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475709",
+    "parent": "356392",
+    "text": "Rangnim County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475710",
+    "parent": "356392",
+    "text": "Sijung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475711",
+    "parent": "356392",
+    "text": "Songgan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475712",
+    "parent": "356392",
+    "text": "Tongsin County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475713",
+    "parent": "356392",
+    "text": "Hwapyong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475714",
+    "parent": "356392",
+    "text": "Changgang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475715",
+    "parent": "356392",
+    "text": "Chasong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475716",
+    "parent": "356392",
+    "text": "Chonchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5475717",
+    "parent": "356392",
+    "text": "Chunggang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8400244",
+    "parent": "3781418",
+    "text": "Kimchaek-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8400380",
+    "parent": "3781418",
+    "text": "Chongjin-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8420621",
+    "parent": "3781418",
+    "text": "Onsong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8420622",
+    "parent": "3781418",
+    "text": "Hoeryong-si",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426156",
+    "parent": "3781418",
+    "text": "Hwadae County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426157",
+    "parent": "3781418",
+    "text": "Myongchon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426158",
+    "parent": "3781418",
+    "text": "Kilju County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426159",
+    "parent": "3781418",
+    "text": "Myonggan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426160",
+    "parent": "3781418",
+    "text": "Orang County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426161",
+    "parent": "3781418",
+    "text": "Kyongsong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426162",
+    "parent": "3781418",
+    "text": "Yonsa County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426163",
+    "parent": "3781418",
+    "text": "Musan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426164",
+    "parent": "3781418",
+    "text": "Puryong County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426165",
+    "parent": "3781418",
+    "text": "Kyonghung County",
+    "admin_level": "6"
+  },
+  {
+    "id": "8426166",
+    "parent": "3781418",
+    "text": "Kyongwon County",
+    "admin_level": "6"
+  },
+  {
+    "id": "13939187",
+    "parent": "13266178",
+    "text": "\uace0\ub0a8\ub9ac",
+    "admin_level": "8"
+  },
+  {
+    "id": "13299905",
+    "parent": "2636972",
+    "text": "Kyongsang-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303944",
+    "parent": "2636972",
+    "text": "Taedongmun-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303945",
+    "parent": "2636972",
+    "text": "Mansu-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303946",
+    "parent": "2636972",
+    "text": "Kyongru-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303947",
+    "parent": "2636972",
+    "text": "Potongmun-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13303948",
+    "parent": "2636972",
+    "text": "Chongno-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308595",
+    "parent": "2636972",
+    "text": "Somun-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308596",
+    "parent": "2636972",
+    "text": "Changgwang-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308597",
+    "parent": "2636972",
+    "text": "Tongsong-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308598",
+    "parent": "2636972",
+    "text": "Haebangsan-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308627",
+    "parent": "2636972",
+    "text": "Chungsong-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308628",
+    "parent": "2636972",
+    "text": "Kyongrim-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13308763",
+    "parent": "2636972",
+    "text": "Otan-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13312081",
+    "parent": "2636972",
+    "text": "Ryusong-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13312082",
+    "parent": "2636972",
+    "text": "Tongan-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13312310",
+    "parent": "2636972",
+    "text": "Oesong-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13312319",
+    "parent": "2636972",
+    "text": "Ryonhwa-1dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13499010",
+    "parent": "2636972",
+    "text": "Yokjon-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13505605",
+    "parent": "2636972",
+    "text": "Kyogu-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13506289",
+    "parent": "2636972",
+    "text": "Tonhung-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13506290",
+    "parent": "2636972",
+    "text": "Sochang-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13544459",
+    "parent": "2636972",
+    "text": "Ryonhwa-2dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942319",
+    "parent": "2637057",
+    "text": "Haeun 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942320",
+    "parent": "2637057",
+    "text": "P'y\u014fngch'\u014fn 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942321",
+    "parent": "2637057",
+    "text": "Haeun 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942322",
+    "parent": "2637057",
+    "text": "\ubbf8\ub798\ub3d9",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942323",
+    "parent": "2637057",
+    "text": "P'y\u014fngch'\u014fn 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942324",
+    "parent": "2637057",
+    "text": "Saema\u016dl 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942325",
+    "parent": "2637057",
+    "text": "Saema\u016dl 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942326",
+    "parent": "2637057",
+    "text": "\uc815\ud3c9\ub3d9",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942330",
+    "parent": "2637057",
+    "text": "Kans\u014fng-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942349",
+    "parent": "2637057",
+    "text": "Ryukkyo 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942350",
+    "parent": "2637057",
+    "text": "Ryukkyo 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942492",
+    "parent": "2637057",
+    "text": "Pongnam-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942493",
+    "parent": "2637057",
+    "text": "Pongji-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942494",
+    "parent": "2637057",
+    "text": "Ponghak-tong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942495",
+    "parent": "2637057",
+    "text": "Puks\u014fng 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942496",
+    "parent": "2637057",
+    "text": "Puks\u014fng 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942497",
+    "parent": "2637057",
+    "text": "Ansan 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13942498",
+    "parent": "2637057",
+    "text": "Ansan 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334676",
+    "parent": "2637105",
+    "text": "Kyonghung-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334677",
+    "parent": "2637105",
+    "text": "Sinwon-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334678",
+    "parent": "2637105",
+    "text": "Sojang-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334679",
+    "parent": "2637105",
+    "text": "Sokam-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334680",
+    "parent": "2637105",
+    "text": "Taebo-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334710",
+    "parent": "2637105",
+    "text": "Potonggang 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334711",
+    "parent": "2637105",
+    "text": "Potonggang 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334712",
+    "parent": "2637105",
+    "text": "Ryugyong 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6334713",
+    "parent": "2637105",
+    "text": "Ryugyong 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336482",
+    "parent": "2637105",
+    "text": "Rakwon-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336483",
+    "parent": "2637105",
+    "text": "Ponghwa-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336484",
+    "parent": "2637105",
+    "text": "Pugulgorii 3-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336485",
+    "parent": "2637105",
+    "text": "Segori-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336493",
+    "parent": "2637105",
+    "text": "Pugulgorii 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "6336494",
+    "parent": "2637105",
+    "text": "Pugulgorii 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13578595",
+    "parent": "2637105",
+    "text": "Unha Dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13968039",
+    "parent": "3859471",
+    "text": "Inh\u016dng 2-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13968040",
+    "parent": "3859471",
+    "text": "S\u014fh\u016dng-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13994929",
+    "parent": "3859471",
+    "text": "Puksae-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14034832",
+    "parent": "3859471",
+    "text": "Inh\u016dng 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14034833",
+    "parent": "3859471",
+    "text": "Changhy\u014fn-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14039190",
+    "parent": "3859471",
+    "text": "S\u014fngbuk-tong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14446477",
+    "parent": "3859471",
+    "text": "Pip'a 1-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "14446478",
+    "parent": "3859471",
+    "text": "Kimma\u016dl-dong",
+    "admin_level": "8"
+  },
+  {
+    "id": "13042607",
+    "parent": "8400379",
+    "text": "Raeil Workers' District",
+    "admin_level": "8"
+  },
+  {
+    "id": "7578955",
+    "parent": "2505635",
+    "text": "Toseong-myeon",
+    "admin_level": "8"
+  },
+  {
+    "id": "7578956",
+    "parent": "2505635",
+    "text": "Jugwang-myeon",
+    "admin_level": "8"
+  },
+  {
+    "id": "7578957",
+    "parent": "5488132",
+    "text": "Sudong-myeon",
+    "admin_level": "8"
+  },
+  {
+    "id": "7578958",
+    "parent": "2505635",
+    "text": "Ganseong-eup",
+    "admin_level": "8"
+  },
+  {
+    "id": "7578959",
+    "parent": "2505635",
+    "text": "Geojin-eup",
+    "admin_level": "8"
+  },
+  {
+    "id": "7890421",
+    "parent": "2505635",
+    "text": "Hyeonnae-myeon",
+    "admin_level": "8"
+  },
+  {
+    "id": "16886069",
+    "parent": "8407289",
+    "text": "Yangpyong-ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "16886070",
+    "parent": "8407289",
+    "text": "Songpa-ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "16886071",
+    "parent": "8407289",
+    "text": "Taljon-ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "13939434",
+    "parent": "6332276",
+    "text": "\uac15\uad6c\ub3d9",
+    "admin_level": "8"
+  },
+  {
+    "id": "15655062",
+    "parent": "8426158",
+    "text": "\ud48d\uacc4\ub9ac",
+    "admin_level": "8"
+  }
+]

@@ -23,7 +23,7 @@ const oauthErrorHandler = (err, req, res, next) => {
   if (!req.path.includes('/auth/')) {
     return next(err);
   }
-  
+
   console.error(`Auth error -> code: ${err.code}; message: ${err.message}`);
 
   const provider = req.path.split('/')[2];
@@ -33,6 +33,13 @@ const oauthErrorHandler = (err, req, res, next) => {
 //* Generic errors
 const generalErrorHandler = (err, req, res, next) => {
   console.error(`Generic error -> code: ${err.code}; message: ${err.message}`);
+
+  if (err.code === 'ENOENT') {
+    return res.status(404).json({
+      code: err.code,
+      message: err.message
+    });
+  }
 
   if (err.isOperational) {
     return res.status(err.statusCode || 500).json({

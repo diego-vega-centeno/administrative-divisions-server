@@ -1,0 +1,4124 @@
+[
+  {
+    "id": "54882",
+    "parent": "59470",
+    "text": "Esp\u00edrito Santo",
+    "admin_level": "4"
+  },
+  {
+    "id": "57963",
+    "parent": "59470",
+    "text": "Rio de Janeiro",
+    "admin_level": "4"
+  },
+  {
+    "id": "185579",
+    "parent": "59470",
+    "text": "Par\u00e1",
+    "admin_level": "4"
+  },
+  {
+    "id": "242620",
+    "parent": "59470",
+    "text": "Rio Grande do Sul",
+    "admin_level": "4"
+  },
+  {
+    "id": "296584",
+    "parent": "59470",
+    "text": "Santa Catarina",
+    "admin_level": "4"
+  },
+  {
+    "id": "297640",
+    "parent": "59470",
+    "text": "Paran\u00e1",
+    "admin_level": "4"
+  },
+  {
+    "id": "298204",
+    "parent": "59470",
+    "text": "S\u00e3o Paulo",
+    "admin_level": "4"
+  },
+  {
+    "id": "301079",
+    "parent": "59470",
+    "text": "Rio Grande do Norte",
+    "admin_level": "4"
+  },
+  {
+    "id": "301464",
+    "parent": "59470",
+    "text": "Para\u00edba",
+    "admin_level": "4"
+  },
+  {
+    "id": "302635",
+    "parent": "59470",
+    "text": "Cear\u00e1",
+    "admin_level": "4"
+  },
+  {
+    "id": "302819",
+    "parent": "59470",
+    "text": "Piau\u00ed",
+    "admin_level": "4"
+  },
+  {
+    "id": "303702",
+    "parent": "59470",
+    "text": "Pernambuco",
+    "admin_level": "4"
+  },
+  {
+    "id": "303781",
+    "parent": "59470",
+    "text": "Alagoas",
+    "admin_level": "4"
+  },
+  {
+    "id": "303940",
+    "parent": "59470",
+    "text": "Sergipe",
+    "admin_level": "4"
+  },
+  {
+    "id": "315173",
+    "parent": "59470",
+    "text": "Minas Gerais",
+    "admin_level": "4"
+  },
+  {
+    "id": "325866",
+    "parent": "59470",
+    "text": "Rond\u00f4nia",
+    "admin_level": "4"
+  },
+  {
+    "id": "326266",
+    "parent": "59470",
+    "text": "Acre",
+    "admin_level": "4"
+  },
+  {
+    "id": "326287",
+    "parent": "59470",
+    "text": "Roraima",
+    "admin_level": "4"
+  },
+  {
+    "id": "331463",
+    "parent": "59470",
+    "text": "Amap\u00e1",
+    "admin_level": "4"
+  },
+  {
+    "id": "332476",
+    "parent": "59470",
+    "text": "Amazonas",
+    "admin_level": "4"
+  },
+  {
+    "id": "332924",
+    "parent": "59470",
+    "text": "Maranh\u00e3o",
+    "admin_level": "4"
+  },
+  {
+    "id": "333597",
+    "parent": "59470",
+    "text": "Mato Grosso",
+    "admin_level": "4"
+  },
+  {
+    "id": "334051",
+    "parent": "59470",
+    "text": "Mato Grosso do Sul",
+    "admin_level": "4"
+  },
+  {
+    "id": "334443",
+    "parent": "59470",
+    "text": "Goi\u00e1s",
+    "admin_level": "4"
+  },
+  {
+    "id": "336819",
+    "parent": "59470",
+    "text": "Tocantins",
+    "admin_level": "4"
+  },
+  {
+    "id": "362413",
+    "parent": "59470",
+    "text": "Bahia",
+    "admin_level": "4"
+  },
+  {
+    "id": "421151",
+    "parent": "59470",
+    "text": "Federal District",
+    "admin_level": "4"
+  },
+  {
+    "id": "2662001",
+    "parent": "242620",
+    "text": "Aglomera\u00e7\u00e3o Urbana do Litoral Norte",
+    "admin_level": "6"
+  },
+  {
+    "id": "2662002",
+    "parent": "242620",
+    "text": "Aglomera\u00e7\u00e3o Urbana do Sul",
+    "admin_level": "6"
+  },
+  {
+    "id": "2843209",
+    "parent": "242620",
+    "text": "Metropolitan Region of Porto Alegre",
+    "admin_level": "6"
+  },
+  {
+    "id": "6256035",
+    "parent": "297640",
+    "text": "Regi\u00e3o Metropolitana de Curitiba",
+    "admin_level": "6"
+  },
+  {
+    "id": "12829441",
+    "parent": "297640",
+    "text": "Regi\u00e3o Metropolitana de Umuarama",
+    "admin_level": "6"
+  },
+  {
+    "id": "17940254",
+    "parent": "333597",
+    "text": "Regi\u00e3o Metropolitana do Vale do Rio Cuiab\u00e1",
+    "admin_level": "6"
+  },
+  {
+    "id": "2661853",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana da Baixada Santista",
+    "admin_level": "6"
+  },
+  {
+    "id": "2661854",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de Campinas",
+    "admin_level": "6"
+  },
+  {
+    "id": "2661855",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de S\u00e3o Paulo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2661856",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana do Vale do Para\u00edba e Litoral Norte",
+    "admin_level": "6"
+  },
+  {
+    "id": "4807763",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de Sorocaba",
+    "admin_level": "6"
+  },
+  {
+    "id": "9363716",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de Ribeir\u00e3o Preto",
+    "admin_level": "6"
+  },
+  {
+    "id": "13340457",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de S\u00e3o Jos\u00e9 do Rio Preto",
+    "admin_level": "6"
+  },
+  {
+    "id": "13799725",
+    "parent": "298204",
+    "text": "Regi\u00e3o Metropolitana de Piracicaba",
+    "admin_level": "6"
+  },
+  {
+    "id": "2662003",
+    "parent": "303702",
+    "text": "Regi\u00e3o Administrativa Integrada de Desenvolvimento do Polo Petrolina e Juazeiro",
+    "admin_level": "6"
+  },
+  {
+    "id": "4555378",
+    "parent": "362413",
+    "text": "Regi\u00e3o Metropolitana de Salvador",
+    "admin_level": "6"
+  },
+  {
+    "id": "4558124",
+    "parent": "362413",
+    "text": "Regi\u00e3o Metropolitana de Feira de Santana",
+    "admin_level": "6"
+  },
+  {
+    "id": "1843576",
+    "parent": "54882",
+    "text": "Greater Vit\u00f3ria",
+    "admin_level": "6"
+  },
+  {
+    "id": "10588599",
+    "parent": "57963",
+    "text": "Regi\u00e3o Metropolitana do Rio de Janeiro",
+    "admin_level": "6"
+  },
+  {
+    "id": "2662004",
+    "parent": "302819",
+    "text": "Regi\u00e3o Integrada de Desenvolvimento da Grande Teresina",
+    "admin_level": "6"
+  },
+  {
+    "id": "2662005",
+    "parent": "315173",
+    "text": "Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno",
+    "admin_level": "6"
+  },
+  {
+    "id": "2954503",
+    "parent": "315173",
+    "text": "Regi\u00e3o Metropolitana do Vale do A\u00e7o",
+    "admin_level": "6"
+  },
+  {
+    "id": "2954515",
+    "parent": "315173",
+    "text": "Regi\u00e3o Metropolitana de Belo Horizonte",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738617",
+    "parent": "303940",
+    "text": "Regi\u00e3o Metropolitana de Aracaju",
+    "admin_level": "6"
+  },
+  {
+    "id": "2750810",
+    "parent": "303702",
+    "text": "Regi\u00e3o Metropolitana do Recife",
+    "admin_level": "6"
+  },
+  {
+    "id": "4504152",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Campina Grande",
+    "admin_level": "6"
+  },
+  {
+    "id": "4504153",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Jo\u00e3o Pessoa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4504528",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Guarabira",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510780",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Araruna",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510781",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Barra de Santa Rosa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510782",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Cajazeiras",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510783",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Esperan\u00e7a",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510784",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Itabaiana",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510785",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Patos",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510786",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana de Sousa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510787",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana do Vale do Mamanguape",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510788",
+    "parent": "301464",
+    "text": "Regi\u00e3o Metropolitana do Vale do Pianc\u00f3",
+    "admin_level": "6"
+  },
+  {
+    "id": "297467",
+    "parent": "12829441",
+    "text": "Francisco Alves",
+    "admin_level": "8"
+  },
+  {
+    "id": "297490",
+    "parent": "12829441",
+    "text": "Nova Ol\u00edmpia",
+    "admin_level": "8"
+  },
+  {
+    "id": "297522",
+    "parent": "12829441",
+    "text": "Perobal",
+    "admin_level": "8"
+  },
+  {
+    "id": "297540",
+    "parent": "12829441",
+    "text": "Alto Para\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "297551",
+    "parent": "12829441",
+    "text": "Xambr\u00ea",
+    "admin_level": "8"
+  },
+  {
+    "id": "297571",
+    "parent": "12829441",
+    "text": "Alto Piquiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "297584",
+    "parent": "12829441",
+    "text": "Maria Helena",
+    "admin_level": "8"
+  },
+  {
+    "id": "297604",
+    "parent": "12829441",
+    "text": "Esperan\u00e7a Nova",
+    "admin_level": "8"
+  },
+  {
+    "id": "297607",
+    "parent": "12829441",
+    "text": "Umuarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "297613",
+    "parent": "12829441",
+    "text": "Mariluz",
+    "admin_level": "8"
+  },
+  {
+    "id": "297657",
+    "parent": "12829441",
+    "text": "Ivat\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "297698",
+    "parent": "12829441",
+    "text": "Tuneiras do Oeste",
+    "admin_level": "8"
+  },
+  {
+    "id": "297700",
+    "parent": "12829441",
+    "text": "Alt\u00f4nia",
+    "admin_level": "8"
+  },
+  {
+    "id": "297716",
+    "parent": "12829441",
+    "text": "Cidade Ga\u00facha",
+    "admin_level": "8"
+  },
+  {
+    "id": "297765",
+    "parent": "12829441",
+    "text": "P\u00e9rola",
+    "admin_level": "8"
+  },
+  {
+    "id": "297784",
+    "parent": "12829441",
+    "text": "Cafezal do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297790",
+    "parent": "12829441",
+    "text": "Tapira",
+    "admin_level": "8"
+  },
+  {
+    "id": "297822",
+    "parent": "12829441",
+    "text": "Douradina",
+    "admin_level": "8"
+  },
+  {
+    "id": "297829",
+    "parent": "12829441",
+    "text": "Tapejara",
+    "admin_level": "8"
+  },
+  {
+    "id": "297831",
+    "parent": "12829441",
+    "text": "Ipor\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "297833",
+    "parent": "12829441",
+    "text": "S\u00e3o Jorge do Patroc\u00ednio",
+    "admin_level": "8"
+  },
+  {
+    "id": "297843",
+    "parent": "12829441",
+    "text": "Cruzeiro do Oeste",
+    "admin_level": "8"
+  },
+  {
+    "id": "297857",
+    "parent": "12829441",
+    "text": "Brasil\u00e2ndia do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297864",
+    "parent": "12829441",
+    "text": "Icara\u00edma",
+    "admin_level": "8"
+  },
+  {
+    "id": "333615",
+    "parent": "17940254",
+    "text": "Nossa Senhora do Livramento",
+    "admin_level": "8"
+  },
+  {
+    "id": "333622",
+    "parent": "17940254",
+    "text": "V\u00e1rzea Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "333644",
+    "parent": "17940254",
+    "text": "Chapada dos Guimar\u00e3es",
+    "admin_level": "8"
+  },
+  {
+    "id": "333677",
+    "parent": "17940254",
+    "text": "Campo Verde",
+    "admin_level": "8"
+  },
+  {
+    "id": "333683",
+    "parent": "17940254",
+    "text": "Acorizal",
+    "admin_level": "8"
+  },
+  {
+    "id": "333729",
+    "parent": "17940254",
+    "text": "Santo Ant\u00f4nio de Leverger",
+    "admin_level": "8"
+  },
+  {
+    "id": "333734",
+    "parent": "17940254",
+    "text": "Cuiab\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "242336",
+    "parent": "2662002",
+    "text": "Arroio do Padre",
+    "admin_level": "8"
+  },
+  {
+    "id": "242366",
+    "parent": "2662002",
+    "text": "S\u00e3o Jos\u00e9 do Norte",
+    "admin_level": "8"
+  },
+  {
+    "id": "242377",
+    "parent": "2662002",
+    "text": "Cap\u00e3o do Le\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "242762",
+    "parent": "2662002",
+    "text": "Rio Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "361756",
+    "parent": "2662002",
+    "text": "Pelotas",
+    "admin_level": "8"
+  },
+  {
+    "id": "242291",
+    "parent": "2843209",
+    "text": "Capela de Santana",
+    "admin_level": "8"
+  },
+  {
+    "id": "242324",
+    "parent": "2843209",
+    "text": "Gravata\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "242348",
+    "parent": "2843209",
+    "text": "S\u00e3o Jer\u00f4nimo",
+    "admin_level": "8"
+  },
+  {
+    "id": "242368",
+    "parent": "2843209",
+    "text": "Gua\u00edba",
+    "admin_level": "8"
+  },
+  {
+    "id": "242397",
+    "parent": "2843209",
+    "text": "Porto Alegre",
+    "admin_level": "8"
+  },
+  {
+    "id": "242399",
+    "parent": "2843209",
+    "text": "S\u00e3o Leopoldo",
+    "admin_level": "8"
+  },
+  {
+    "id": "242443",
+    "parent": "2843209",
+    "text": "Port\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "242471",
+    "parent": "2843209",
+    "text": "Sapucaia do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "242484",
+    "parent": "2843209",
+    "text": "Glorinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "242498",
+    "parent": "2843209",
+    "text": "Igrejinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "242501",
+    "parent": "2843209",
+    "text": "Parob\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "242515",
+    "parent": "2843209",
+    "text": "Cachoeirinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "242531",
+    "parent": "2843209",
+    "text": "Triunfo",
+    "admin_level": "8"
+  },
+  {
+    "id": "242538",
+    "parent": "2843209",
+    "text": "Araric\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "242539",
+    "parent": "2843209",
+    "text": "Taquara",
+    "admin_level": "8"
+  },
+  {
+    "id": "242541",
+    "parent": "2843209",
+    "text": "Charqueadas",
+    "admin_level": "8"
+  },
+  {
+    "id": "242566",
+    "parent": "2843209",
+    "text": "Sapiranga",
+    "admin_level": "8"
+  },
+  {
+    "id": "242574",
+    "parent": "2843209",
+    "text": "Canoas",
+    "admin_level": "8"
+  },
+  {
+    "id": "242581",
+    "parent": "2843209",
+    "text": "Viam\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "242612",
+    "parent": "2843209",
+    "text": "Arroio dos Ratos",
+    "admin_level": "8"
+  },
+  {
+    "id": "242613",
+    "parent": "2843209",
+    "text": "Campo Bom",
+    "admin_level": "8"
+  },
+  {
+    "id": "242616",
+    "parent": "2843209",
+    "text": "Novo Hamburgo",
+    "admin_level": "8"
+  },
+  {
+    "id": "242647",
+    "parent": "2843209",
+    "text": "Est\u00e2ncia Velha",
+    "admin_level": "8"
+  },
+  {
+    "id": "242652",
+    "parent": "2843209",
+    "text": "Dois Irm\u00e3os",
+    "admin_level": "8"
+  },
+  {
+    "id": "242691",
+    "parent": "2843209",
+    "text": "Eldorado do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "242694",
+    "parent": "2843209",
+    "text": "Nova Hartz",
+    "admin_level": "8"
+  },
+  {
+    "id": "242695",
+    "parent": "2843209",
+    "text": "Montenegro",
+    "admin_level": "8"
+  },
+  {
+    "id": "242711",
+    "parent": "2843209",
+    "text": "Alvorada",
+    "admin_level": "8"
+  },
+  {
+    "id": "242719",
+    "parent": "2843209",
+    "text": "Santo Ant\u00f4nio da Patrulha",
+    "admin_level": "8"
+  },
+  {
+    "id": "242738",
+    "parent": "2843209",
+    "text": "Nova Santa Rita",
+    "admin_level": "8"
+  },
+  {
+    "id": "242747",
+    "parent": "2843209",
+    "text": "Rolante",
+    "admin_level": "8"
+  },
+  {
+    "id": "242778",
+    "parent": "2843209",
+    "text": "Esteio",
+    "admin_level": "8"
+  },
+  {
+    "id": "242783",
+    "parent": "2843209",
+    "text": "Ivoti",
+    "admin_level": "8"
+  },
+  {
+    "id": "242310",
+    "parent": "2662001",
+    "text": "Morrinhos do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "242315",
+    "parent": "2662001",
+    "text": "Itati",
+    "admin_level": "8"
+  },
+  {
+    "id": "242335",
+    "parent": "2662001",
+    "text": "Cara\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "242344",
+    "parent": "2662001",
+    "text": "Maquin\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "242347",
+    "parent": "2662001",
+    "text": "Xangri-l\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "242376",
+    "parent": "2662001",
+    "text": "Capivari do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "242407",
+    "parent": "2662001",
+    "text": "Cidreira",
+    "admin_level": "8"
+  },
+  {
+    "id": "242423",
+    "parent": "2662001",
+    "text": "Arroio do Sal",
+    "admin_level": "8"
+  },
+  {
+    "id": "242436",
+    "parent": "2662001",
+    "text": "Torres",
+    "admin_level": "8"
+  },
+  {
+    "id": "242469",
+    "parent": "2662001",
+    "text": "Palmares do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "242544",
+    "parent": "2662001",
+    "text": "Terra de Areia",
+    "admin_level": "8"
+  },
+  {
+    "id": "242558",
+    "parent": "2662001",
+    "text": "Imb\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "242561",
+    "parent": "2662001",
+    "text": "Tr\u00eas Cachoeiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "242573",
+    "parent": "2662001",
+    "text": "Tr\u00eas Forquilhas",
+    "admin_level": "8"
+  },
+  {
+    "id": "242590",
+    "parent": "2662001",
+    "text": "Mampituba",
+    "admin_level": "8"
+  },
+  {
+    "id": "242623",
+    "parent": "2662001",
+    "text": "Dom Pedro de Alc\u00e2ntara",
+    "admin_level": "8"
+  },
+  {
+    "id": "242681",
+    "parent": "2662001",
+    "text": "Balne\u00e1rio Pinhal",
+    "admin_level": "8"
+  },
+  {
+    "id": "242700",
+    "parent": "2662001",
+    "text": "Cap\u00e3o da Canoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "242710",
+    "parent": "2662001",
+    "text": "Tramanda\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "242718",
+    "parent": "2662001",
+    "text": "Os\u00f3rio",
+    "admin_level": "8"
+  },
+  {
+    "id": "297935",
+    "parent": "2661853",
+    "text": "Bertioga",
+    "admin_level": "8"
+  },
+  {
+    "id": "297939",
+    "parent": "2661853",
+    "text": "Mongagu\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297995",
+    "parent": "2661853",
+    "text": "S\u00e3o Vicente",
+    "admin_level": "8"
+  },
+  {
+    "id": "298298",
+    "parent": "2661853",
+    "text": "Itanha\u00e9m",
+    "admin_level": "8"
+  },
+  {
+    "id": "298316",
+    "parent": "2661853",
+    "text": "Praia Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "298437",
+    "parent": "2661853",
+    "text": "Cubat\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "298442",
+    "parent": "2661853",
+    "text": "Santos",
+    "admin_level": "8"
+  },
+  {
+    "id": "298456",
+    "parent": "2661853",
+    "text": "Peru\u00edbe",
+    "admin_level": "8"
+  },
+  {
+    "id": "298463",
+    "parent": "2661853",
+    "text": "Guaruj\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297922",
+    "parent": "2661855",
+    "text": "Mau\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297934",
+    "parent": "2661855",
+    "text": "Aruj\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297968",
+    "parent": "2661855",
+    "text": "S\u00e3o Bernardo do Campo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298008",
+    "parent": "2661855",
+    "text": "Vargem Grande Paulista",
+    "admin_level": "8"
+  },
+  {
+    "id": "298021",
+    "parent": "2661855",
+    "text": "Barueri",
+    "admin_level": "8"
+  },
+  {
+    "id": "298057",
+    "parent": "2661855",
+    "text": "Francisco Morato",
+    "admin_level": "8"
+  },
+  {
+    "id": "298071",
+    "parent": "2661855",
+    "text": "Itaquaquecetuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298074",
+    "parent": "2661855",
+    "text": "Ribeir\u00e3o Pires",
+    "admin_level": "8"
+  },
+  {
+    "id": "298085",
+    "parent": "2661855",
+    "text": "Suzano",
+    "admin_level": "8"
+  },
+  {
+    "id": "298086",
+    "parent": "2661855",
+    "text": "Santo Andr\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "298097",
+    "parent": "2661855",
+    "text": "Rio Grande da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298165",
+    "parent": "2661855",
+    "text": "Guarulhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "298166",
+    "parent": "2661855",
+    "text": "Juquitiba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298169",
+    "parent": "2661855",
+    "text": "Mairipor\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "298170",
+    "parent": "2661855",
+    "text": "S\u00e3o Caetano do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "298176",
+    "parent": "2661855",
+    "text": "Caieiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "298226",
+    "parent": "2661855",
+    "text": "Jandira",
+    "admin_level": "8"
+  },
+  {
+    "id": "298242",
+    "parent": "2661855",
+    "text": "Diadema",
+    "admin_level": "8"
+  },
+  {
+    "id": "298250",
+    "parent": "2661855",
+    "text": "Santa Isabel",
+    "admin_level": "8"
+  },
+  {
+    "id": "298252",
+    "parent": "2661855",
+    "text": "Cotia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298265",
+    "parent": "2661855",
+    "text": "Ferraz de Vasconcelos",
+    "admin_level": "8"
+  },
+  {
+    "id": "298284",
+    "parent": "2661855",
+    "text": "Sales\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298285",
+    "parent": "2661855",
+    "text": "S\u00e3o Paulo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298304",
+    "parent": "2661855",
+    "text": "Santana de Parna\u00edba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298311",
+    "parent": "2661855",
+    "text": "Itapecerica da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298334",
+    "parent": "2661855",
+    "text": "Pirapora do Bom Jesus",
+    "admin_level": "8"
+  },
+  {
+    "id": "298340",
+    "parent": "2661855",
+    "text": "Po\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "298353",
+    "parent": "2661855",
+    "text": "Itapevi",
+    "admin_level": "8"
+  },
+  {
+    "id": "298363",
+    "parent": "2661855",
+    "text": "Guararema",
+    "admin_level": "8"
+  },
+  {
+    "id": "298389",
+    "parent": "2661855",
+    "text": "Tabo\u00e3o da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298405",
+    "parent": "2661855",
+    "text": "Biritiba Mirim",
+    "admin_level": "8"
+  },
+  {
+    "id": "298411",
+    "parent": "2661855",
+    "text": "Franco da Rocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "298415",
+    "parent": "2661855",
+    "text": "Mogi das Cruzes",
+    "admin_level": "8"
+  },
+  {
+    "id": "298444",
+    "parent": "2661855",
+    "text": "S\u00e3o Louren\u00e7o da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298462",
+    "parent": "2661855",
+    "text": "Cajamar",
+    "admin_level": "8"
+  },
+  {
+    "id": "298470",
+    "parent": "2661855",
+    "text": "Osasco",
+    "admin_level": "8"
+  },
+  {
+    "id": "298480",
+    "parent": "2661855",
+    "text": "Carapicu\u00edba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298498",
+    "parent": "2661855",
+    "text": "Embu das Artes",
+    "admin_level": "8"
+  },
+  {
+    "id": "298523",
+    "parent": "2661855",
+    "text": "Embu-Gua\u00e7u",
+    "admin_level": "8"
+  },
+  {
+    "id": "297909",
+    "parent": "4807763",
+    "text": "Votorantim",
+    "admin_level": "8"
+  },
+  {
+    "id": "297916",
+    "parent": "4807763",
+    "text": "Ibi\u00fana",
+    "admin_level": "8"
+  },
+  {
+    "id": "297944",
+    "parent": "4807763",
+    "text": "Cerquilho",
+    "admin_level": "8"
+  },
+  {
+    "id": "297957",
+    "parent": "4807763",
+    "text": "Jumirim",
+    "admin_level": "8"
+  },
+  {
+    "id": "297958",
+    "parent": "4807763",
+    "text": "Pilar do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "298000",
+    "parent": "4807763",
+    "text": "Boituva",
+    "admin_level": "8"
+  },
+  {
+    "id": "298110",
+    "parent": "4807763",
+    "text": "Ces\u00e1rio Lange",
+    "admin_level": "8"
+  },
+  {
+    "id": "298114",
+    "parent": "4807763",
+    "text": "Alum\u00ednio",
+    "admin_level": "8"
+  },
+  {
+    "id": "298120",
+    "parent": "4807763",
+    "text": "Alambari",
+    "admin_level": "8"
+  },
+  {
+    "id": "298124",
+    "parent": "4807763",
+    "text": "S\u00e3o Roque",
+    "admin_level": "8"
+  },
+  {
+    "id": "298142",
+    "parent": "4807763",
+    "text": "Tatu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "298143",
+    "parent": "4807763",
+    "text": "Capela do Alto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298181",
+    "parent": "4807763",
+    "text": "Mairinque",
+    "admin_level": "8"
+  },
+  {
+    "id": "298216",
+    "parent": "4807763",
+    "text": "Itu",
+    "admin_level": "8"
+  },
+  {
+    "id": "298236",
+    "parent": "4807763",
+    "text": "Iper\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "298280",
+    "parent": "4807763",
+    "text": "Tiet\u00ea",
+    "admin_level": "8"
+  },
+  {
+    "id": "298287",
+    "parent": "4807763",
+    "text": "Ara\u00e7ariguama",
+    "admin_level": "8"
+  },
+  {
+    "id": "298289",
+    "parent": "4807763",
+    "text": "Itapetininga",
+    "admin_level": "8"
+  },
+  {
+    "id": "298360",
+    "parent": "4807763",
+    "text": "Tapira\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "298424",
+    "parent": "4807763",
+    "text": "Sorocaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298441",
+    "parent": "4807763",
+    "text": "Piedade",
+    "admin_level": "8"
+  },
+  {
+    "id": "298446",
+    "parent": "4807763",
+    "text": "Ara\u00e7oiaba da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298476",
+    "parent": "4807763",
+    "text": "Salto de Pirapora",
+    "admin_level": "8"
+  },
+  {
+    "id": "298485",
+    "parent": "4807763",
+    "text": "Porto Feliz",
+    "admin_level": "8"
+  },
+  {
+    "id": "298520",
+    "parent": "4807763",
+    "text": "Salto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298522",
+    "parent": "4807763",
+    "text": "S\u00e3o Miguel Arcanjo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298535",
+    "parent": "4807763",
+    "text": "Sarapu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "297479",
+    "parent": "6256035",
+    "text": "Lapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "297481",
+    "parent": "6256035",
+    "text": "Cerro Azul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297482",
+    "parent": "6256035",
+    "text": "Bocai\u00fava do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297496",
+    "parent": "6256035",
+    "text": "Tijucas do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297507",
+    "parent": "6256035",
+    "text": "Contenda",
+    "admin_level": "8"
+  },
+  {
+    "id": "297514",
+    "parent": "6256035",
+    "text": "Curitiba",
+    "admin_level": "8"
+  },
+  {
+    "id": "297516",
+    "parent": "6256035",
+    "text": "Mandirituba",
+    "admin_level": "8"
+  },
+  {
+    "id": "297519",
+    "parent": "6256035",
+    "text": "Quitandinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "297533",
+    "parent": "6256035",
+    "text": "S\u00e3o Jos\u00e9 dos Pinhais",
+    "admin_level": "8"
+  },
+  {
+    "id": "297609",
+    "parent": "6256035",
+    "text": "Balsa Nova",
+    "admin_level": "8"
+  },
+  {
+    "id": "297611",
+    "parent": "6256035",
+    "text": "Pinhais",
+    "admin_level": "8"
+  },
+  {
+    "id": "297617",
+    "parent": "6256035",
+    "text": "Doutor Ulysses",
+    "admin_level": "8"
+  },
+  {
+    "id": "297632",
+    "parent": "6256035",
+    "text": "Itaperu\u00e7u",
+    "admin_level": "8"
+  },
+  {
+    "id": "297633",
+    "parent": "6256035",
+    "text": "Campina Grande do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297651",
+    "parent": "6256035",
+    "text": "Piraquara",
+    "admin_level": "8"
+  },
+  {
+    "id": "297692",
+    "parent": "6256035",
+    "text": "Tunas do Paran\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297693",
+    "parent": "6256035",
+    "text": "Almirante Tamandar\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "297699",
+    "parent": "6256035",
+    "text": "Quatro Barras",
+    "admin_level": "8"
+  },
+  {
+    "id": "297737",
+    "parent": "6256035",
+    "text": "Adrian\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "297764",
+    "parent": "6256035",
+    "text": "Campo Largo",
+    "admin_level": "8"
+  },
+  {
+    "id": "297778",
+    "parent": "6256035",
+    "text": "Arauc\u00e1ria",
+    "admin_level": "8"
+  },
+  {
+    "id": "297781",
+    "parent": "6256035",
+    "text": "Campo Magro",
+    "admin_level": "8"
+  },
+  {
+    "id": "297809",
+    "parent": "6256035",
+    "text": "Colombo",
+    "admin_level": "8"
+  },
+  {
+    "id": "297811",
+    "parent": "6256035",
+    "text": "Fazenda Rio Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "297823",
+    "parent": "6256035",
+    "text": "Rio Branco do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297862",
+    "parent": "6256035",
+    "text": "Agudos do Sul",
+    "admin_level": "8"
+  },
+  {
+    "id": "297895",
+    "parent": "2661856",
+    "text": "Cunha",
+    "admin_level": "8"
+  },
+  {
+    "id": "297911",
+    "parent": "2661856",
+    "text": "Lorena",
+    "admin_level": "8"
+  },
+  {
+    "id": "297932",
+    "parent": "2661856",
+    "text": "Paraibuna",
+    "admin_level": "8"
+  },
+  {
+    "id": "297943",
+    "parent": "2661856",
+    "text": "Lavrinhas",
+    "admin_level": "8"
+  },
+  {
+    "id": "297966",
+    "parent": "2661856",
+    "text": "Igarat\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297981",
+    "parent": "2661856",
+    "text": "S\u00e3o Luiz do Paraitinga",
+    "admin_level": "8"
+  },
+  {
+    "id": "298005",
+    "parent": "2661856",
+    "text": "Canas",
+    "admin_level": "8"
+  },
+  {
+    "id": "298009",
+    "parent": "2661856",
+    "text": "Santo Ant\u00f4nio do Pinhal",
+    "admin_level": "8"
+  },
+  {
+    "id": "298013",
+    "parent": "2661856",
+    "text": "Reden\u00e7\u00e3o da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298019",
+    "parent": "2661856",
+    "text": "S\u00e3o Jos\u00e9 dos Campos",
+    "admin_level": "8"
+  },
+  {
+    "id": "298038",
+    "parent": "2661856",
+    "text": "Campos do Jord\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "298039",
+    "parent": "2661856",
+    "text": "Taubat\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "298076",
+    "parent": "2661856",
+    "text": "Guaratinguet\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "298081",
+    "parent": "2661856",
+    "text": "Bananal",
+    "admin_level": "8"
+  },
+  {
+    "id": "298092",
+    "parent": "2661856",
+    "text": "Silveiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "298125",
+    "parent": "2661856",
+    "text": "Areias",
+    "admin_level": "8"
+  },
+  {
+    "id": "298129",
+    "parent": "2661856",
+    "text": "Jambeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "298155",
+    "parent": "2661856",
+    "text": "Roseira",
+    "admin_level": "8"
+  },
+  {
+    "id": "298158",
+    "parent": "2661856",
+    "text": "Lagoinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "298160",
+    "parent": "2661856",
+    "text": "Aparecida",
+    "admin_level": "8"
+  },
+  {
+    "id": "298172",
+    "parent": "2661856",
+    "text": "S\u00e3o Jos\u00e9 do Barreiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "298189",
+    "parent": "2661856",
+    "text": "Pindamonhangaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298199",
+    "parent": "2661856",
+    "text": "Queluz",
+    "admin_level": "8"
+  },
+  {
+    "id": "298203",
+    "parent": "2661856",
+    "text": "Ubatuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298228",
+    "parent": "2661856",
+    "text": "Piquete",
+    "admin_level": "8"
+  },
+  {
+    "id": "298234",
+    "parent": "2661856",
+    "text": "Jacare\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "298245",
+    "parent": "2661856",
+    "text": "Potim",
+    "admin_level": "8"
+  },
+  {
+    "id": "298255",
+    "parent": "2661856",
+    "text": "Trememb\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "298259",
+    "parent": "2661856",
+    "text": "Caraguatatuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298342",
+    "parent": "2661856",
+    "text": "S\u00e3o Bento do Sapuca\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "298379",
+    "parent": "2661856",
+    "text": "Ilhabela",
+    "admin_level": "8"
+  },
+  {
+    "id": "298401",
+    "parent": "2661856",
+    "text": "Cachoeira Paulista",
+    "admin_level": "8"
+  },
+  {
+    "id": "298425",
+    "parent": "2661856",
+    "text": "Natividade da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "298443",
+    "parent": "2661856",
+    "text": "Ca\u00e7apava",
+    "admin_level": "8"
+  },
+  {
+    "id": "298450",
+    "parent": "2661856",
+    "text": "Monteiro Lobato",
+    "admin_level": "8"
+  },
+  {
+    "id": "298459",
+    "parent": "2661856",
+    "text": "Cruzeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "298468",
+    "parent": "2661856",
+    "text": "Arape\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "298504",
+    "parent": "2661856",
+    "text": "S\u00e3o Sebasti\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "2709127",
+    "parent": "2661856",
+    "text": "Santa Branca",
+    "admin_level": "8"
+  },
+  {
+    "id": "297912",
+    "parent": "9363716",
+    "text": "Jaboticabal",
+    "admin_level": "8"
+  },
+  {
+    "id": "297920",
+    "parent": "9363716",
+    "text": "Luiz Ant\u00f4nio",
+    "admin_level": "8"
+  },
+  {
+    "id": "297929",
+    "parent": "9363716",
+    "text": "Morro Agudo",
+    "admin_level": "8"
+  },
+  {
+    "id": "297946",
+    "parent": "9363716",
+    "text": "Cravinhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "297952",
+    "parent": "9363716",
+    "text": "Guatapar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "297992",
+    "parent": "9363716",
+    "text": "C\u00e1ssia dos Coqueiros",
+    "admin_level": "8"
+  },
+  {
+    "id": "298025",
+    "parent": "9363716",
+    "text": "Tamba\u00fa",
+    "admin_level": "8"
+  },
+  {
+    "id": "298029",
+    "parent": "9363716",
+    "text": "Pontal",
+    "admin_level": "8"
+  },
+  {
+    "id": "298033",
+    "parent": "9363716",
+    "text": "Prad\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298083",
+    "parent": "9363716",
+    "text": "Pitangueiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "298127",
+    "parent": "9363716",
+    "text": "Barrinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "298137",
+    "parent": "9363716",
+    "text": "Brodowski",
+    "admin_level": "8"
+  },
+  {
+    "id": "298156",
+    "parent": "9363716",
+    "text": "Ribeir\u00e3o Preto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298173",
+    "parent": "9363716",
+    "text": "Santa Rita do Passa Quatro",
+    "admin_level": "8"
+  },
+  {
+    "id": "298232",
+    "parent": "9363716",
+    "text": "Cajuru",
+    "admin_level": "8"
+  },
+  {
+    "id": "298237",
+    "parent": "9363716",
+    "text": "Serrana",
+    "admin_level": "8"
+  },
+  {
+    "id": "298263",
+    "parent": "9363716",
+    "text": "Monte Alto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298266",
+    "parent": "9363716",
+    "text": "Batatais",
+    "admin_level": "8"
+  },
+  {
+    "id": "298273",
+    "parent": "9363716",
+    "text": "Taquaral",
+    "admin_level": "8"
+  },
+  {
+    "id": "298286",
+    "parent": "9363716",
+    "text": "Mococa",
+    "admin_level": "8"
+  },
+  {
+    "id": "298295",
+    "parent": "9363716",
+    "text": "Santo Ant\u00f4nio da Alegria",
+    "admin_level": "8"
+  },
+  {
+    "id": "298300",
+    "parent": "9363716",
+    "text": "Guariba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298307",
+    "parent": "9363716",
+    "text": "Santa Rosa de Viterbo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298328",
+    "parent": "9363716",
+    "text": "Nuporanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "298338",
+    "parent": "9363716",
+    "text": "Santa Cruz da Esperan\u00e7a",
+    "admin_level": "8"
+  },
+  {
+    "id": "298361",
+    "parent": "9363716",
+    "text": "Jardin\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298365",
+    "parent": "9363716",
+    "text": "S\u00e3o Sim\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "298422",
+    "parent": "9363716",
+    "text": "Altin\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298436",
+    "parent": "9363716",
+    "text": "Dumont",
+    "admin_level": "8"
+  },
+  {
+    "id": "298466",
+    "parent": "9363716",
+    "text": "Orl\u00e2ndia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298488",
+    "parent": "9363716",
+    "text": "Serra Azul",
+    "admin_level": "8"
+  },
+  {
+    "id": "298503",
+    "parent": "9363716",
+    "text": "Sales Oliveira",
+    "admin_level": "8"
+  },
+  {
+    "id": "298516",
+    "parent": "9363716",
+    "text": "Tai\u00fava",
+    "admin_level": "8"
+  },
+  {
+    "id": "298517",
+    "parent": "9363716",
+    "text": "Sert\u00e3ozinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "297894",
+    "parent": "13340457",
+    "text": "Urup\u00eas",
+    "admin_level": "8"
+  },
+  {
+    "id": "297902",
+    "parent": "13340457",
+    "text": "Nova Alian\u00e7a",
+    "admin_level": "8"
+  },
+  {
+    "id": "297915",
+    "parent": "13340457",
+    "text": "Ubarana",
+    "admin_level": "8"
+  },
+  {
+    "id": "297951",
+    "parent": "13340457",
+    "text": "Mirassol\u00e2ndia",
+    "admin_level": "8"
+  },
+  {
+    "id": "297959",
+    "parent": "13340457",
+    "text": "Palestina",
+    "admin_level": "8"
+  },
+  {
+    "id": "298007",
+    "parent": "13340457",
+    "text": "Guapia\u00e7u",
+    "admin_level": "8"
+  },
+  {
+    "id": "298065",
+    "parent": "13340457",
+    "text": "Potirendaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298089",
+    "parent": "13340457",
+    "text": "Zacarias",
+    "admin_level": "8"
+  },
+  {
+    "id": "298093",
+    "parent": "13340457",
+    "text": "Orindi\u00fava",
+    "admin_level": "8"
+  },
+  {
+    "id": "298095",
+    "parent": "13340457",
+    "text": "Jos\u00e9 Bonif\u00e1cio",
+    "admin_level": "8"
+  },
+  {
+    "id": "298119",
+    "parent": "13340457",
+    "text": "Ol\u00edmpia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298122",
+    "parent": "13340457",
+    "text": "Macaubal",
+    "admin_level": "8"
+  },
+  {
+    "id": "298126",
+    "parent": "13340457",
+    "text": "Sever\u00ednia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298130",
+    "parent": "13340457",
+    "text": "Tanabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "298135",
+    "parent": "13340457",
+    "text": "Irapu\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "298150",
+    "parent": "13340457",
+    "text": "Sales",
+    "admin_level": "8"
+  },
+  {
+    "id": "298200",
+    "parent": "13340457",
+    "text": "Mirassol",
+    "admin_level": "8"
+  },
+  {
+    "id": "298220",
+    "parent": "13340457",
+    "text": "Paulo de Faria",
+    "admin_level": "8"
+  },
+  {
+    "id": "298233",
+    "parent": "13340457",
+    "text": "Uni\u00e3o Paulista",
+    "admin_level": "8"
+  },
+  {
+    "id": "298260",
+    "parent": "13340457",
+    "text": "Jaci",
+    "admin_level": "8"
+  },
+  {
+    "id": "298272",
+    "parent": "13340457",
+    "text": "Ipigu\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "298279",
+    "parent": "13340457",
+    "text": "Bady Bassitt",
+    "admin_level": "8"
+  },
+  {
+    "id": "298297",
+    "parent": "13340457",
+    "text": "B\u00e1lsamo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298301",
+    "parent": "13340457",
+    "text": "Cedral",
+    "admin_level": "8"
+  },
+  {
+    "id": "298302",
+    "parent": "13340457",
+    "text": "Adolfo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298308",
+    "parent": "13340457",
+    "text": "Ibir\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "298344",
+    "parent": "13340457",
+    "text": "S\u00e3o Jos\u00e9 do Rio Preto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298350",
+    "parent": "13340457",
+    "text": "Planalto",
+    "admin_level": "8"
+  },
+  {
+    "id": "298380",
+    "parent": "13340457",
+    "text": "Uchoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "298392",
+    "parent": "13340457",
+    "text": "Monte Apraz\u00edvel",
+    "admin_level": "8"
+  },
+  {
+    "id": "298477",
+    "parent": "13340457",
+    "text": "Onda Verde",
+    "admin_level": "8"
+  },
+  {
+    "id": "298509",
+    "parent": "13340457",
+    "text": "Neves Paulista",
+    "admin_level": "8"
+  },
+  {
+    "id": "298515",
+    "parent": "13340457",
+    "text": "Nipo\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "298518",
+    "parent": "13340457",
+    "text": "Poloni",
+    "admin_level": "8"
+  },
+  {
+    "id": "298529",
+    "parent": "13340457",
+    "text": "Nova Granada",
+    "admin_level": "8"
+  },
+  {
+    "id": "298531",
+    "parent": "13340457",
+    "text": "Ic\u00e9m",
+    "admin_level": "8"
+  },
+  {
+    "id": "298534",
+    "parent": "13340457",
+    "text": "Mendon\u00e7a",
+    "admin_level": "8"
+  },
+  {
+    "id": "297918",
+    "parent": "13799725",
+    "text": "\u00c1guas de S\u00e3o Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "297919",
+    "parent": "13799725",
+    "text": "Limeira",
+    "admin_level": "8"
+  },
+  {
+    "id": "297926",
+    "parent": "13799725",
+    "text": "Cordeir\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "297931",
+    "parent": "13799725",
+    "text": "Rafard",
+    "admin_level": "8"
+  },
+  {
+    "id": "297933",
+    "parent": "13799725",
+    "text": "Corumbata\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "297950",
+    "parent": "13799725",
+    "text": "Elias Fausto",
+    "admin_level": "8"
+  },
+  {
+    "id": "297974",
+    "parent": "13799725",
+    "text": "Leme",
+    "admin_level": "8"
+  },
+  {
+    "id": "297979",
+    "parent": "13799725",
+    "text": "Santa Maria da Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "297984",
+    "parent": "13799725",
+    "text": "Anal\u00e2ndia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298141",
+    "parent": "13799725",
+    "text": "Santa Cruz da Concei\u00e7\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "298184",
+    "parent": "13799725",
+    "text": "Ipe\u00fana",
+    "admin_level": "8"
+  },
+  {
+    "id": "298197",
+    "parent": "13799725",
+    "text": "Santa Gertrudes",
+    "admin_level": "8"
+  },
+  {
+    "id": "298222",
+    "parent": "13799725",
+    "text": "Rio das Pedras",
+    "admin_level": "8"
+  },
+  {
+    "id": "298223",
+    "parent": "13799725",
+    "text": "Capivari",
+    "admin_level": "8"
+  },
+  {
+    "id": "298240",
+    "parent": "13799725",
+    "text": "Iracem\u00e1polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298276",
+    "parent": "13799725",
+    "text": "Mombuca",
+    "admin_level": "8"
+  },
+  {
+    "id": "298346",
+    "parent": "13799725",
+    "text": "Pirassununga",
+    "admin_level": "8"
+  },
+  {
+    "id": "298356",
+    "parent": "13799725",
+    "text": "Charqueada",
+    "admin_level": "8"
+  },
+  {
+    "id": "298410",
+    "parent": "13799725",
+    "text": "Conchal",
+    "admin_level": "8"
+  },
+  {
+    "id": "298413",
+    "parent": "13799725",
+    "text": "Piracicaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298435",
+    "parent": "13799725",
+    "text": "Rio Claro",
+    "admin_level": "8"
+  },
+  {
+    "id": "298464",
+    "parent": "13799725",
+    "text": "Saltinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "298532",
+    "parent": "13799725",
+    "text": "Araras",
+    "admin_level": "8"
+  },
+  {
+    "id": "1692965",
+    "parent": "13799725",
+    "text": "S\u00e3o Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "297900",
+    "parent": "2661854",
+    "text": "Jaguari\u00fana",
+    "admin_level": "8"
+  },
+  {
+    "id": "297914",
+    "parent": "2661854",
+    "text": "Holambra",
+    "admin_level": "8"
+  },
+  {
+    "id": "297927",
+    "parent": "2661854",
+    "text": "Santa B\u00e1rbara d'Oeste",
+    "admin_level": "8"
+  },
+  {
+    "id": "297938",
+    "parent": "2661854",
+    "text": "Paul\u00ednia",
+    "admin_level": "8"
+  },
+  {
+    "id": "297965",
+    "parent": "2661854",
+    "text": "Itatiba",
+    "admin_level": "8"
+  },
+  {
+    "id": "297977",
+    "parent": "2661854",
+    "text": "Americana",
+    "admin_level": "8"
+  },
+  {
+    "id": "298037",
+    "parent": "2661854",
+    "text": "Vinhedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "298077",
+    "parent": "2661854",
+    "text": "Nova Odessa",
+    "admin_level": "8"
+  },
+  {
+    "id": "298117",
+    "parent": "2661854",
+    "text": "Engenheiro Coelho",
+    "admin_level": "8"
+  },
+  {
+    "id": "298136",
+    "parent": "2661854",
+    "text": "Morungaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298138",
+    "parent": "2661854",
+    "text": "Santo Ant\u00f4nio de Posse",
+    "admin_level": "8"
+  },
+  {
+    "id": "298163",
+    "parent": "2661854",
+    "text": "Artur Nogueira",
+    "admin_level": "8"
+  },
+  {
+    "id": "298210",
+    "parent": "2661854",
+    "text": "Cosm\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "298227",
+    "parent": "2661854",
+    "text": "Campinas",
+    "admin_level": "8"
+  },
+  {
+    "id": "298256",
+    "parent": "2661854",
+    "text": "Indaiatuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "298278",
+    "parent": "2661854",
+    "text": "Sumar\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "298283",
+    "parent": "2661854",
+    "text": "Pedreira",
+    "admin_level": "8"
+  },
+  {
+    "id": "298319",
+    "parent": "2661854",
+    "text": "Valinhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "298407",
+    "parent": "2661854",
+    "text": "Hortol\u00e2ndia",
+    "admin_level": "8"
+  },
+  {
+    "id": "298449",
+    "parent": "2661854",
+    "text": "Monte Mor",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219086",
+    "parent": "10588599",
+    "text": "Cachoeiras de Macacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219088",
+    "parent": "10588599",
+    "text": "Itagua\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219092",
+    "parent": "10588599",
+    "text": "Paracambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219094",
+    "parent": "10588599",
+    "text": "Petr\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219095",
+    "parent": "10588599",
+    "text": "Rio Bonito",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219096",
+    "parent": "10588599",
+    "text": "Serop\u00e9dica",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220781",
+    "parent": "10588599",
+    "text": "Belford Roxo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220782",
+    "parent": "10588599",
+    "text": "Duque de Caxias",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220783",
+    "parent": "10588599",
+    "text": "Guapimirim",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220784",
+    "parent": "10588599",
+    "text": "Itabora\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220785",
+    "parent": "10588599",
+    "text": "Japeri",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220786",
+    "parent": "10588599",
+    "text": "Mag\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220787",
+    "parent": "10588599",
+    "text": "Maric\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220788",
+    "parent": "10588599",
+    "text": "Nil\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220789",
+    "parent": "10588599",
+    "text": "Niter\u00f3i",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220791",
+    "parent": "10588599",
+    "text": "Queimados",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220792",
+    "parent": "10588599",
+    "text": "S\u00e3o Gon\u00e7alo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220793",
+    "parent": "10588599",
+    "text": "S\u00e3o Jo\u00e3o de Meriti",
+    "admin_level": "8"
+  },
+  {
+    "id": "2220794",
+    "parent": "10588599",
+    "text": "Tangu\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "2697338",
+    "parent": "10588599",
+    "text": "Rio de Janeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2709108",
+    "parent": "10588599",
+    "text": "Mesquita",
+    "admin_level": "8"
+  },
+  {
+    "id": "2709115",
+    "parent": "10588599",
+    "text": "Nova Igua\u00e7u",
+    "admin_level": "8"
+  },
+  {
+    "id": "1823223",
+    "parent": "1843576",
+    "text": "Guarapari",
+    "admin_level": "8"
+  },
+  {
+    "id": "1825815",
+    "parent": "1843576",
+    "text": "Vila Velha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1825817",
+    "parent": "1843576",
+    "text": "Vit\u00f3ria",
+    "admin_level": "8"
+  },
+  {
+    "id": "1825818",
+    "parent": "1843576",
+    "text": "Viana",
+    "admin_level": "8"
+  },
+  {
+    "id": "1825819",
+    "parent": "1843576",
+    "text": "Cariacica",
+    "admin_level": "8"
+  },
+  {
+    "id": "1826737",
+    "parent": "1843576",
+    "text": "Serra",
+    "admin_level": "8"
+  },
+  {
+    "id": "1842951",
+    "parent": "1843576",
+    "text": "Fund\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "314644",
+    "parent": "2954515",
+    "text": "Rio Manso",
+    "admin_level": "8"
+  },
+  {
+    "id": "314675",
+    "parent": "2954515",
+    "text": "Jaboticatubas",
+    "admin_level": "8"
+  },
+  {
+    "id": "314751",
+    "parent": "2954515",
+    "text": "Baldim",
+    "admin_level": "8"
+  },
+  {
+    "id": "314762",
+    "parent": "2954515",
+    "text": "Brumadinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "314846",
+    "parent": "2954515",
+    "text": "Itaguara",
+    "admin_level": "8"
+  },
+  {
+    "id": "314916",
+    "parent": "2954515",
+    "text": "Florestal",
+    "admin_level": "8"
+  },
+  {
+    "id": "315115",
+    "parent": "2954515",
+    "text": "Mateus Leme",
+    "admin_level": "8"
+  },
+  {
+    "id": "315275",
+    "parent": "2954515",
+    "text": "Matozinhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "315407",
+    "parent": "2954515",
+    "text": "Itatiaiu\u00e7u",
+    "admin_level": "8"
+  },
+  {
+    "id": "368768",
+    "parent": "2954515",
+    "text": "S\u00e3o Joaquim de Bicas",
+    "admin_level": "8"
+  },
+  {
+    "id": "368770",
+    "parent": "2954515",
+    "text": "Ibirit\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "368772",
+    "parent": "2954515",
+    "text": "Nova Lima",
+    "admin_level": "8"
+  },
+  {
+    "id": "368774",
+    "parent": "2954515",
+    "text": "Taquara\u00e7u de Minas",
+    "admin_level": "8"
+  },
+  {
+    "id": "368775",
+    "parent": "2954515",
+    "text": "M\u00e1rio Campos",
+    "admin_level": "8"
+  },
+  {
+    "id": "368777",
+    "parent": "2954515",
+    "text": "Confins",
+    "admin_level": "8"
+  },
+  {
+    "id": "368778",
+    "parent": "2954515",
+    "text": "Vespasiano",
+    "admin_level": "8"
+  },
+  {
+    "id": "368780",
+    "parent": "2954515",
+    "text": "Ribeir\u00e3o das Neves",
+    "admin_level": "8"
+  },
+  {
+    "id": "368782",
+    "parent": "2954515",
+    "text": "Belo Horizonte",
+    "admin_level": "8"
+  },
+  {
+    "id": "368786",
+    "parent": "2954515",
+    "text": "Contagem",
+    "admin_level": "8"
+  },
+  {
+    "id": "368789",
+    "parent": "2954515",
+    "text": "Nova Uni\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "368793",
+    "parent": "2954515",
+    "text": "Pedro Leopoldo",
+    "admin_level": "8"
+  },
+  {
+    "id": "368794",
+    "parent": "2954515",
+    "text": "Caet\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "368797",
+    "parent": "2954515",
+    "text": "S\u00e3o Jos\u00e9 da Lapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "368800",
+    "parent": "2954515",
+    "text": "Rio Acima",
+    "admin_level": "8"
+  },
+  {
+    "id": "368801",
+    "parent": "2954515",
+    "text": "Sarzedo",
+    "admin_level": "8"
+  },
+  {
+    "id": "368808",
+    "parent": "2954515",
+    "text": "Sabar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "368811",
+    "parent": "2954515",
+    "text": "Juatuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "368812",
+    "parent": "2954515",
+    "text": "Betim",
+    "admin_level": "8"
+  },
+  {
+    "id": "368819",
+    "parent": "2954515",
+    "text": "Esmeraldas",
+    "admin_level": "8"
+  },
+  {
+    "id": "368823",
+    "parent": "2954515",
+    "text": "Raposos",
+    "admin_level": "8"
+  },
+  {
+    "id": "368826",
+    "parent": "2954515",
+    "text": "Capim Branco",
+    "admin_level": "8"
+  },
+  {
+    "id": "368830",
+    "parent": "2954515",
+    "text": "Igarap\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "368831",
+    "parent": "2954515",
+    "text": "Lagoa Santa",
+    "admin_level": "8"
+  },
+  {
+    "id": "368834",
+    "parent": "2954515",
+    "text": "Santa Luzia",
+    "admin_level": "8"
+  },
+  {
+    "id": "314626",
+    "parent": "2954503",
+    "text": "Tim\u00f3teo",
+    "admin_level": "8"
+  },
+  {
+    "id": "314741",
+    "parent": "2954503",
+    "text": "Ipatinga",
+    "admin_level": "8"
+  },
+  {
+    "id": "314867",
+    "parent": "2954503",
+    "text": "Coronel Fabriciano",
+    "admin_level": "8"
+  },
+  {
+    "id": "315227",
+    "parent": "2954503",
+    "text": "Santana do Para\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "362140",
+    "parent": "4555378",
+    "text": "Pojuca",
+    "admin_level": "8"
+  },
+  {
+    "id": "362195",
+    "parent": "4555378",
+    "text": "S\u00e3o Francisco do Conde",
+    "admin_level": "8"
+  },
+  {
+    "id": "362221",
+    "parent": "4555378",
+    "text": "S\u00e3o Sebasti\u00e3o do Pass\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "362276",
+    "parent": "4555378",
+    "text": "Sim\u00f5es Filho",
+    "admin_level": "8"
+  },
+  {
+    "id": "362285",
+    "parent": "4555378",
+    "text": "Candeias",
+    "admin_level": "8"
+  },
+  {
+    "id": "362286",
+    "parent": "4555378",
+    "text": "Mata de S\u00e3o Jo\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "362362",
+    "parent": "4555378",
+    "text": "Salvador",
+    "admin_level": "8"
+  },
+  {
+    "id": "362428",
+    "parent": "4555378",
+    "text": "Vera Cruz",
+    "admin_level": "8"
+  },
+  {
+    "id": "362461",
+    "parent": "4555378",
+    "text": "Madre de Deus",
+    "admin_level": "8"
+  },
+  {
+    "id": "362483",
+    "parent": "4555378",
+    "text": "Dias d'\u00c1vila",
+    "admin_level": "8"
+  },
+  {
+    "id": "362505",
+    "parent": "4555378",
+    "text": "Cama\u00e7ari",
+    "admin_level": "8"
+  },
+  {
+    "id": "362508",
+    "parent": "4555378",
+    "text": "Itaparica",
+    "admin_level": "8"
+  },
+  {
+    "id": "362529",
+    "parent": "4555378",
+    "text": "Lauro de Freitas",
+    "admin_level": "8"
+  },
+  {
+    "id": "362144",
+    "parent": "4558124",
+    "text": "Santan\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "362196",
+    "parent": "4558124",
+    "text": "S\u00e3o Gon\u00e7alo dos Campos",
+    "admin_level": "8"
+  },
+  {
+    "id": "362247",
+    "parent": "4558124",
+    "text": "Candeal",
+    "admin_level": "8"
+  },
+  {
+    "id": "362254",
+    "parent": "4558124",
+    "text": "Serra Preta",
+    "admin_level": "8"
+  },
+  {
+    "id": "362281",
+    "parent": "4558124",
+    "text": "Tanquinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "362287",
+    "parent": "4558124",
+    "text": "Anguera",
+    "admin_level": "8"
+  },
+  {
+    "id": "362294",
+    "parent": "4558124",
+    "text": "Feira de Santana",
+    "admin_level": "8"
+  },
+  {
+    "id": "362339",
+    "parent": "4558124",
+    "text": "Ipecaet\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "362346",
+    "parent": "4558124",
+    "text": "Ant\u00f4nio Cardoso",
+    "admin_level": "8"
+  },
+  {
+    "id": "362390",
+    "parent": "4558124",
+    "text": "Concei\u00e7\u00e3o do Jacu\u00edpe",
+    "admin_level": "8"
+  },
+  {
+    "id": "362424",
+    "parent": "4558124",
+    "text": "Riach\u00e3o do Jacu\u00edpe",
+    "admin_level": "8"
+  },
+  {
+    "id": "362458",
+    "parent": "4558124",
+    "text": "Concei\u00e7\u00e3o da Feira",
+    "admin_level": "8"
+  },
+  {
+    "id": "362463",
+    "parent": "4558124",
+    "text": "Cora\u00e7\u00e3o de Maria",
+    "admin_level": "8"
+  },
+  {
+    "id": "362468",
+    "parent": "4558124",
+    "text": "Am\u00e9lia Rodrigues",
+    "admin_level": "8"
+  },
+  {
+    "id": "362522",
+    "parent": "4558124",
+    "text": "Irar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "362549",
+    "parent": "4558124",
+    "text": "Santa B\u00e1rbara",
+    "admin_level": "8"
+  },
+  {
+    "id": "303870",
+    "parent": "18738617",
+    "text": "Nossa Senhora do Socorro",
+    "admin_level": "8"
+  },
+  {
+    "id": "303886",
+    "parent": "18738617",
+    "text": "Barra dos Coqueiros",
+    "admin_level": "8"
+  },
+  {
+    "id": "303896",
+    "parent": "18738617",
+    "text": "S\u00e3o Crist\u00f3v\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "303928",
+    "parent": "18738617",
+    "text": "Aracaju",
+    "admin_level": "8"
+  },
+  {
+    "id": "303598",
+    "parent": "2662003",
+    "text": "Oroc\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "303629",
+    "parent": "2662003",
+    "text": "Petrolina",
+    "admin_level": "8"
+  },
+  {
+    "id": "303646",
+    "parent": "2662003",
+    "text": "Lagoa Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "303698",
+    "parent": "2662003",
+    "text": "Santa Maria da Boa Vista",
+    "admin_level": "8"
+  },
+  {
+    "id": "362271",
+    "parent": "2662003",
+    "text": "Sobradinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "362302",
+    "parent": "2662003",
+    "text": "Juazeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "362343",
+    "parent": "2662003",
+    "text": "Casa Nova",
+    "admin_level": "8"
+  },
+  {
+    "id": "362445",
+    "parent": "2662003",
+    "text": "Cura\u00e7\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "301262",
+    "parent": "4510782",
+    "text": "Monte Horebe",
+    "admin_level": "8"
+  },
+  {
+    "id": "301277",
+    "parent": "4510782",
+    "text": "S\u00e3o Jos\u00e9 de Piranhas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301287",
+    "parent": "4510782",
+    "text": "Po\u00e7o Dantas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301297",
+    "parent": "4510782",
+    "text": "Bonito de Santa F\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "301309",
+    "parent": "4510782",
+    "text": "Santa Helena",
+    "admin_level": "8"
+  },
+  {
+    "id": "301348",
+    "parent": "4510782",
+    "text": "S\u00e3o Jo\u00e3o do Rio do Peixe",
+    "admin_level": "8"
+  },
+  {
+    "id": "301350",
+    "parent": "4510782",
+    "text": "Carrapateira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301375",
+    "parent": "4510782",
+    "text": "Bernardino Batista",
+    "admin_level": "8"
+  },
+  {
+    "id": "301378",
+    "parent": "4510782",
+    "text": "Joca Claudino",
+    "admin_level": "8"
+  },
+  {
+    "id": "301395",
+    "parent": "4510782",
+    "text": "Cajazeiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "301406",
+    "parent": "4510782",
+    "text": "Bom Jesus",
+    "admin_level": "8"
+  },
+  {
+    "id": "301407",
+    "parent": "4510782",
+    "text": "Po\u00e7o de Jos\u00e9 de Moura",
+    "admin_level": "8"
+  },
+  {
+    "id": "301415",
+    "parent": "4510782",
+    "text": "Cachoeira dos \u00cdndios",
+    "admin_level": "8"
+  },
+  {
+    "id": "301449",
+    "parent": "4510782",
+    "text": "Triunfo",
+    "admin_level": "8"
+  },
+  {
+    "id": "301477",
+    "parent": "4510782",
+    "text": "Uira\u00fana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301260",
+    "parent": "4510785",
+    "text": "Cacimba de Areia",
+    "admin_level": "8"
+  },
+  {
+    "id": "301263",
+    "parent": "4510785",
+    "text": "Salgadinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "301268",
+    "parent": "4510785",
+    "text": "Santa Terezinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "301272",
+    "parent": "4510785",
+    "text": "Junco do Serid\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "301279",
+    "parent": "4510785",
+    "text": "Condado",
+    "admin_level": "8"
+  },
+  {
+    "id": "301283",
+    "parent": "4510785",
+    "text": "S\u00e3o Jos\u00e9 do Bonfim",
+    "admin_level": "8"
+  },
+  {
+    "id": "301284",
+    "parent": "4510785",
+    "text": "Santa Luzia",
+    "admin_level": "8"
+  },
+  {
+    "id": "301286",
+    "parent": "4510785",
+    "text": "S\u00e3o Jos\u00e9 do Sabugi",
+    "admin_level": "8"
+  },
+  {
+    "id": "301313",
+    "parent": "4510785",
+    "text": "Malta",
+    "admin_level": "8"
+  },
+  {
+    "id": "301321",
+    "parent": "4510785",
+    "text": "Vista Serrana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301333",
+    "parent": "4510785",
+    "text": "M\u00e3e d'\u00c1gua",
+    "admin_level": "8"
+  },
+  {
+    "id": "301334",
+    "parent": "4510785",
+    "text": "Quixaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "301372",
+    "parent": "4510785",
+    "text": "Emas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301379",
+    "parent": "4510785",
+    "text": "S\u00e3o Mamede",
+    "admin_level": "8"
+  },
+  {
+    "id": "301381",
+    "parent": "4510785",
+    "text": "S\u00e3o Jos\u00e9 de Espinharas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301383",
+    "parent": "4510785",
+    "text": "V\u00e1rzea",
+    "admin_level": "8"
+  },
+  {
+    "id": "301393",
+    "parent": "4510785",
+    "text": "Passagem",
+    "admin_level": "8"
+  },
+  {
+    "id": "301423",
+    "parent": "4510785",
+    "text": "Teixeira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301432",
+    "parent": "4510785",
+    "text": "Desterro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301459",
+    "parent": "4510785",
+    "text": "Patos",
+    "admin_level": "8"
+  },
+  {
+    "id": "301460",
+    "parent": "4510785",
+    "text": "Catingueira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301461",
+    "parent": "4510785",
+    "text": "Cacimbas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301474",
+    "parent": "4510785",
+    "text": "Areia de Bara\u00fanas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301480",
+    "parent": "4510785",
+    "text": "Matureia",
+    "admin_level": "8"
+  },
+  {
+    "id": "301282",
+    "parent": "4510788",
+    "text": "Curral Velho",
+    "admin_level": "8"
+  },
+  {
+    "id": "301293",
+    "parent": "4510788",
+    "text": "Serra Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "301299",
+    "parent": "4510788",
+    "text": "Concei\u00e7\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301318",
+    "parent": "4510788",
+    "text": "Santana de Mangueira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301322",
+    "parent": "4510788",
+    "text": "Santa In\u00eas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301326",
+    "parent": "4510788",
+    "text": "Boa Ventura",
+    "admin_level": "8"
+  },
+  {
+    "id": "301332",
+    "parent": "4510788",
+    "text": "Itaporanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "301335",
+    "parent": "4510788",
+    "text": "Santana dos Garrotes",
+    "admin_level": "8"
+  },
+  {
+    "id": "301347",
+    "parent": "4510788",
+    "text": "Pianc\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "301358",
+    "parent": "4510788",
+    "text": "Nova Olinda",
+    "admin_level": "8"
+  },
+  {
+    "id": "301366",
+    "parent": "4510788",
+    "text": "Coremas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301369",
+    "parent": "4510788",
+    "text": "S\u00e3o Jos\u00e9 de Caiana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301382",
+    "parent": "4510788",
+    "text": "Igaracy",
+    "admin_level": "8"
+  },
+  {
+    "id": "301388",
+    "parent": "4510788",
+    "text": "Olho d'\u00c1gua",
+    "admin_level": "8"
+  },
+  {
+    "id": "301394",
+    "parent": "4510788",
+    "text": "Pedra Branca",
+    "admin_level": "8"
+  },
+  {
+    "id": "301412",
+    "parent": "4510788",
+    "text": "Diamante",
+    "admin_level": "8"
+  },
+  {
+    "id": "301434",
+    "parent": "4510788",
+    "text": "Aguiar",
+    "admin_level": "8"
+  },
+  {
+    "id": "301472",
+    "parent": "4510788",
+    "text": "Ibiara",
+    "admin_level": "8"
+  },
+  {
+    "id": "303577",
+    "parent": "2750810",
+    "text": "Ipojuca",
+    "admin_level": "8"
+  },
+  {
+    "id": "303585",
+    "parent": "2750810",
+    "text": "Recife",
+    "admin_level": "8"
+  },
+  {
+    "id": "303591",
+    "parent": "2750810",
+    "text": "S\u00e3o Louren\u00e7o da Mata",
+    "admin_level": "8"
+  },
+  {
+    "id": "303613",
+    "parent": "2750810",
+    "text": "Ara\u00e7oiaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "303627",
+    "parent": "2750810",
+    "text": "Abreu e Lima",
+    "admin_level": "8"
+  },
+  {
+    "id": "303677",
+    "parent": "2750810",
+    "text": "Itapissuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "303682",
+    "parent": "2750810",
+    "text": "Igarassu",
+    "admin_level": "8"
+  },
+  {
+    "id": "303695",
+    "parent": "2750810",
+    "text": "Camaragibe",
+    "admin_level": "8"
+  },
+  {
+    "id": "303700",
+    "parent": "2750810",
+    "text": "Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "303709",
+    "parent": "2750810",
+    "text": "Jaboat\u00e3o dos Guararapes",
+    "admin_level": "8"
+  },
+  {
+    "id": "303716",
+    "parent": "2750810",
+    "text": "Ilha de Itamarac\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "303726",
+    "parent": "2750810",
+    "text": "Goiana",
+    "admin_level": "8"
+  },
+  {
+    "id": "303752",
+    "parent": "2750810",
+    "text": "Cabo de Santo Agostinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "303755",
+    "parent": "2750810",
+    "text": "Paulista",
+    "admin_level": "8"
+  },
+  {
+    "id": "2185940",
+    "parent": "2750810",
+    "text": "Olinda",
+    "admin_level": "8"
+  },
+  {
+    "id": "301261",
+    "parent": "4504152",
+    "text": "Gado Bravo",
+    "admin_level": "8"
+  },
+  {
+    "id": "301266",
+    "parent": "4504152",
+    "text": "Fagundes",
+    "admin_level": "8"
+  },
+  {
+    "id": "301278",
+    "parent": "4504152",
+    "text": "Itatuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "301280",
+    "parent": "4504152",
+    "text": "Puxinan\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "301281",
+    "parent": "4504152",
+    "text": "Santa Cec\u00edlia",
+    "admin_level": "8"
+  },
+  {
+    "id": "301330",
+    "parent": "4504152",
+    "text": "Alcantil",
+    "admin_level": "8"
+  },
+  {
+    "id": "301401",
+    "parent": "4504152",
+    "text": "Massaranduba",
+    "admin_level": "8"
+  },
+  {
+    "id": "301402",
+    "parent": "4504152",
+    "text": "Serra Redonda",
+    "admin_level": "8"
+  },
+  {
+    "id": "301425",
+    "parent": "4504152",
+    "text": "Aroeiras",
+    "admin_level": "8"
+  },
+  {
+    "id": "301431",
+    "parent": "4504152",
+    "text": "Boqueir\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301436",
+    "parent": "4504152",
+    "text": "Queimadas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301450",
+    "parent": "4504152",
+    "text": "Boa Vista",
+    "admin_level": "8"
+  },
+  {
+    "id": "301455",
+    "parent": "4504152",
+    "text": "Lagoa Seca",
+    "admin_level": "8"
+  },
+  {
+    "id": "301456",
+    "parent": "4504152",
+    "text": "Matinhas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301458",
+    "parent": "4504152",
+    "text": "Umbuzeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301462",
+    "parent": "4504152",
+    "text": "Campina Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "301465",
+    "parent": "4504152",
+    "text": "Caturit\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "301473",
+    "parent": "4504152",
+    "text": "Natuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "301475",
+    "parent": "4504152",
+    "text": "Barra de Santana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301325",
+    "parent": "4510783",
+    "text": "Pocinhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "301345",
+    "parent": "4510783",
+    "text": "S\u00e3o Sebasti\u00e3o de Lagoa de Ro\u00e7a",
+    "admin_level": "8"
+  },
+  {
+    "id": "301353",
+    "parent": "4510783",
+    "text": "Areial",
+    "admin_level": "8"
+  },
+  {
+    "id": "301367",
+    "parent": "4510783",
+    "text": "Montadas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301377",
+    "parent": "4510783",
+    "text": "Rem\u00edgio",
+    "admin_level": "8"
+  },
+  {
+    "id": "301430",
+    "parent": "4510783",
+    "text": "Algod\u00e3o de Janda\u00edra",
+    "admin_level": "8"
+  },
+  {
+    "id": "301447",
+    "parent": "4510783",
+    "text": "Alagoa Nova",
+    "admin_level": "8"
+  },
+  {
+    "id": "301476",
+    "parent": "4510783",
+    "text": "Esperan\u00e7a",
+    "admin_level": "8"
+  },
+  {
+    "id": "301478",
+    "parent": "4510783",
+    "text": "Areia",
+    "admin_level": "8"
+  },
+  {
+    "id": "301258",
+    "parent": "4510784",
+    "text": "Salgado de S\u00e3o F\u00e9lix",
+    "admin_level": "8"
+  },
+  {
+    "id": "301339",
+    "parent": "4510784",
+    "text": "Ing\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "301340",
+    "parent": "4510784",
+    "text": "Caldas Brand\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301343",
+    "parent": "4510784",
+    "text": "Juripiranga",
+    "admin_level": "8"
+  },
+  {
+    "id": "301362",
+    "parent": "4510784",
+    "text": "S\u00e3o Miguel de Taipu",
+    "admin_level": "8"
+  },
+  {
+    "id": "301368",
+    "parent": "4510784",
+    "text": "Riach\u00e3o do Bacamarte",
+    "admin_level": "8"
+  },
+  {
+    "id": "301403",
+    "parent": "4510784",
+    "text": "Juarez T\u00e1vora",
+    "admin_level": "8"
+  },
+  {
+    "id": "301416",
+    "parent": "4510784",
+    "text": "Pilar",
+    "admin_level": "8"
+  },
+  {
+    "id": "301420",
+    "parent": "4510784",
+    "text": "Itabaiana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301446",
+    "parent": "4510784",
+    "text": "S\u00e3o Jos\u00e9 dos Ramos",
+    "admin_level": "8"
+  },
+  {
+    "id": "301451",
+    "parent": "4510784",
+    "text": "Mogeiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301469",
+    "parent": "4510784",
+    "text": "Gurinh\u00e9m",
+    "admin_level": "8"
+  },
+  {
+    "id": "301285",
+    "parent": "4504153",
+    "text": "Conde",
+    "admin_level": "8"
+  },
+  {
+    "id": "301288",
+    "parent": "4504153",
+    "text": "Rio Tinto",
+    "admin_level": "8"
+  },
+  {
+    "id": "301292",
+    "parent": "4504153",
+    "text": "Cabedelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "301323",
+    "parent": "4504153",
+    "text": "Alhandra",
+    "admin_level": "8"
+  },
+  {
+    "id": "301351",
+    "parent": "4504153",
+    "text": "Cruz do Esp\u00edrito Santo",
+    "admin_level": "8"
+  },
+  {
+    "id": "301396",
+    "parent": "4504153",
+    "text": "Pedras de Fogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "301397",
+    "parent": "4504153",
+    "text": "Santa Rita",
+    "admin_level": "8"
+  },
+  {
+    "id": "301404",
+    "parent": "4504153",
+    "text": "Lucena",
+    "admin_level": "8"
+  },
+  {
+    "id": "301405",
+    "parent": "4504153",
+    "text": "Jo\u00e3o Pessoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "301421",
+    "parent": "4504153",
+    "text": "Bayeux",
+    "admin_level": "8"
+  },
+  {
+    "id": "301426",
+    "parent": "4504153",
+    "text": "Pitimbu",
+    "admin_level": "8"
+  },
+  {
+    "id": "301470",
+    "parent": "4504153",
+    "text": "Caapor\u00e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "301270",
+    "parent": "4510786",
+    "text": "S\u00e3o Francisco",
+    "admin_level": "8"
+  },
+  {
+    "id": "301271",
+    "parent": "4510786",
+    "text": "Aparecida",
+    "admin_level": "8"
+  },
+  {
+    "id": "301290",
+    "parent": "4510786",
+    "text": "Nazarezinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "301389",
+    "parent": "4510786",
+    "text": "Mariz\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "301410",
+    "parent": "4510786",
+    "text": "Sousa",
+    "admin_level": "8"
+  },
+  {
+    "id": "301419",
+    "parent": "4510786",
+    "text": "S\u00e3o Jos\u00e9 da Lagoa Tapada",
+    "admin_level": "8"
+  },
+  {
+    "id": "301435",
+    "parent": "4510786",
+    "text": "Lastro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301439",
+    "parent": "4510786",
+    "text": "Vieir\u00f3polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "301444",
+    "parent": "4510786",
+    "text": "Santa Cruz",
+    "admin_level": "8"
+  },
+  {
+    "id": "301296",
+    "parent": "4510781",
+    "text": "Picu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "301301",
+    "parent": "4510781",
+    "text": "Soss\u00eago",
+    "admin_level": "8"
+  },
+  {
+    "id": "301336",
+    "parent": "4510781",
+    "text": "Frei Martinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "301341",
+    "parent": "4510781",
+    "text": "Barra de Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "301344",
+    "parent": "4510781",
+    "text": "Nova Floresta",
+    "admin_level": "8"
+  },
+  {
+    "id": "301346",
+    "parent": "4510781",
+    "text": "Bara\u00fana",
+    "admin_level": "8"
+  },
+  {
+    "id": "301359",
+    "parent": "4510781",
+    "text": "Nova Palmeira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301390",
+    "parent": "4510781",
+    "text": "Cuit\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "301259",
+    "parent": "4504528",
+    "text": "Lagoa de Dentro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301274",
+    "parent": "4504528",
+    "text": "Serra da Raiz",
+    "admin_level": "8"
+  },
+  {
+    "id": "301306",
+    "parent": "4504528",
+    "text": "Alagoinha",
+    "admin_level": "8"
+  },
+  {
+    "id": "301308",
+    "parent": "4504528",
+    "text": "Duas Estradas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301314",
+    "parent": "4504528",
+    "text": "Guarabira",
+    "admin_level": "8"
+  },
+  {
+    "id": "301316",
+    "parent": "4504528",
+    "text": "Cuitegi",
+    "admin_level": "8"
+  },
+  {
+    "id": "301320",
+    "parent": "4504528",
+    "text": "Serraria",
+    "admin_level": "8"
+  },
+  {
+    "id": "301327",
+    "parent": "4504528",
+    "text": "Mulungu",
+    "admin_level": "8"
+  },
+  {
+    "id": "301342",
+    "parent": "4504528",
+    "text": "Bel\u00e9m",
+    "admin_level": "8"
+  },
+  {
+    "id": "301349",
+    "parent": "4504528",
+    "text": "Pil\u00f5ezinhos",
+    "admin_level": "8"
+  },
+  {
+    "id": "301364",
+    "parent": "4504528",
+    "text": "Ara\u00e7agi",
+    "admin_level": "8"
+  },
+  {
+    "id": "301365",
+    "parent": "4504528",
+    "text": "Logradouro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301440",
+    "parent": "4504528",
+    "text": "Borborema",
+    "admin_level": "8"
+  },
+  {
+    "id": "301443",
+    "parent": "4504528",
+    "text": "Pirpirituba",
+    "admin_level": "8"
+  },
+  {
+    "id": "301445",
+    "parent": "4504528",
+    "text": "Cai\u00e7ara",
+    "admin_level": "8"
+  },
+  {
+    "id": "301448",
+    "parent": "4504528",
+    "text": "Sert\u00e3ozinho",
+    "admin_level": "8"
+  },
+  {
+    "id": "301457",
+    "parent": "4504528",
+    "text": "Pil\u00f5es",
+    "admin_level": "8"
+  },
+  {
+    "id": "301310",
+    "parent": "4510780",
+    "text": "Tacima",
+    "admin_level": "8"
+  },
+  {
+    "id": "301328",
+    "parent": "4510780",
+    "text": "Dami\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301357",
+    "parent": "4510780",
+    "text": "Cacimba de Dentro",
+    "admin_level": "8"
+  },
+  {
+    "id": "301374",
+    "parent": "4510780",
+    "text": "Riach\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301424",
+    "parent": "4510780",
+    "text": "Dona In\u00eas",
+    "admin_level": "8"
+  },
+  {
+    "id": "301427",
+    "parent": "4510780",
+    "text": "Araruna",
+    "admin_level": "8"
+  },
+  {
+    "id": "301291",
+    "parent": "4510787",
+    "text": "Ba\u00eda da Trai\u00e7\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301295",
+    "parent": "4510787",
+    "text": "Curral de Cima",
+    "admin_level": "8"
+  },
+  {
+    "id": "301298",
+    "parent": "4510787",
+    "text": "Marca\u00e7\u00e3o",
+    "admin_level": "8"
+  },
+  {
+    "id": "301307",
+    "parent": "4510787",
+    "text": "Mamanguape",
+    "admin_level": "8"
+  },
+  {
+    "id": "301360",
+    "parent": "4510787",
+    "text": "Pedro R\u00e9gis",
+    "admin_level": "8"
+  },
+  {
+    "id": "301413",
+    "parent": "4510787",
+    "text": "Jacara\u00fa",
+    "admin_level": "8"
+  },
+  {
+    "id": "301433",
+    "parent": "4510787",
+    "text": "Mataraca",
+    "admin_level": "8"
+  }
+]

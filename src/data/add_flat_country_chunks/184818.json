@@ -1,0 +1,614 @@
+[
+  {
+    "id": "2925596",
+    "parent": "184818",
+    "text": "Balqa",
+    "admin_level": "4"
+  },
+  {
+    "id": "2925597",
+    "parent": "184818",
+    "text": "Zarqa",
+    "admin_level": "4"
+  },
+  {
+    "id": "2925599",
+    "parent": "184818",
+    "text": "Jarash",
+    "admin_level": "4"
+  },
+  {
+    "id": "2925608",
+    "parent": "184818",
+    "text": "Mafraq",
+    "admin_level": "4"
+  },
+  {
+    "id": "2925616",
+    "parent": "184818",
+    "text": "Ajlun",
+    "admin_level": "4"
+  },
+  {
+    "id": "2925617",
+    "parent": "184818",
+    "text": "Irbid",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926344",
+    "parent": "184818",
+    "text": "Amman",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926345",
+    "parent": "184818",
+    "text": "Aqaba",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926346",
+    "parent": "184818",
+    "text": "Karak",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926347",
+    "parent": "184818",
+    "text": "Maan",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926348",
+    "parent": "184818",
+    "text": "Madaba",
+    "admin_level": "4"
+  },
+  {
+    "id": "2926349",
+    "parent": "184818",
+    "text": "Tafilah",
+    "admin_level": "4"
+  },
+  {
+    "id": "13376082",
+    "parent": "2926345",
+    "text": "Diesah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376083",
+    "parent": "2926345",
+    "text": "Al Quairah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376084",
+    "parent": "2926345",
+    "text": "Wadi Araba Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376085",
+    "parent": "2926345",
+    "text": "Aqaba Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376072",
+    "parent": "2926347",
+    "text": "Udhruh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376073",
+    "parent": "2926347",
+    "text": "Al-Jafr Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376074",
+    "parent": "2926347",
+    "text": "Huseiniya Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376075",
+    "parent": "2926347",
+    "text": "Shobak Qasabah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376076",
+    "parent": "2926347",
+    "text": "Petra Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376077",
+    "parent": "2926347",
+    "text": "Ayl Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376078",
+    "parent": "2926347",
+    "text": "Mraighah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376079",
+    "parent": "2926347",
+    "text": "Ma'an Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376132",
+    "parent": "2925597",
+    "text": "Hashemiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376134",
+    "parent": "2925597",
+    "text": "Russeifa Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376135",
+    "parent": "2925597",
+    "text": "Azraq Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376137",
+    "parent": "2925597",
+    "text": "Bierain Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376139",
+    "parent": "2925597",
+    "text": "Zarqa Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376140",
+    "parent": "2925597",
+    "text": "Dhlail Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376112",
+    "parent": "2925608",
+    "text": "Rwaished Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376114",
+    "parent": "2925608",
+    "text": "Hosha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376115",
+    "parent": "2925608",
+    "text": "Serhan Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376117",
+    "parent": "2925608",
+    "text": "Badiah Shamaliyah Gharbiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376118",
+    "parent": "2925608",
+    "text": "Mafraq Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376119",
+    "parent": "2925608",
+    "text": "Bal'ama Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376120",
+    "parent": "2925608",
+    "text": "Irhab Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376121",
+    "parent": "2925608",
+    "text": "Manshiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376122",
+    "parent": "2925608",
+    "text": "Um Al-Jemal Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376123",
+    "parent": "2925608",
+    "text": "Sabha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376124",
+    "parent": "2925608",
+    "text": "Um-Elqotain Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376125",
+    "parent": "2925608",
+    "text": "Dair Al Kahf Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376126",
+    "parent": "2925608",
+    "text": "Salhiya Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376127",
+    "parent": "2925608",
+    "text": "Khaldiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376003",
+    "parent": "2926344",
+    "text": "Marka Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376004",
+    "parent": "2926344",
+    "text": "Amman Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376012",
+    "parent": "2926344",
+    "text": "Quaismeh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376013",
+    "parent": "2926344",
+    "text": "Wadi Essier Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376014",
+    "parent": "2926344",
+    "text": "Na'oor Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376015",
+    "parent": "2926344",
+    "text": "Hosba'n Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376016",
+    "parent": "2926344",
+    "text": "Um Elbasatien Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376017",
+    "parent": "2926344",
+    "text": "Al-Jami'ah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376018",
+    "parent": "2926344",
+    "text": "Jizah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376019",
+    "parent": "2926344",
+    "text": "Um Al-Rasas Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376020",
+    "parent": "2926344",
+    "text": "Rajm al-Shami Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376021",
+    "parent": "2926344",
+    "text": "Muaqqar Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376022",
+    "parent": "2926344",
+    "text": "Sahab Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376065",
+    "parent": "2926349",
+    "text": "At Tafila Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376066",
+    "parent": "2926349",
+    "text": "Busayra Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376067",
+    "parent": "2926349",
+    "text": "Al Hasa Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376050",
+    "parent": "2926346",
+    "text": "Faqo'e Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376055",
+    "parent": "2926346",
+    "text": "Qatraneh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376056",
+    "parent": "2926346",
+    "text": "Karak Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376057",
+    "parent": "2926346",
+    "text": "Ayy Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376058",
+    "parent": "2926346",
+    "text": "Mo'aab Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376059",
+    "parent": "2926346",
+    "text": "Mazar Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376060",
+    "parent": "2926346",
+    "text": "Safi Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376061",
+    "parent": "2926346",
+    "text": "Ghawr Almazra'a Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376062",
+    "parent": "2926346",
+    "text": "Mowjeb Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376064",
+    "parent": "2926346",
+    "text": "Qasr Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376024",
+    "parent": "2926348",
+    "text": "Jrainah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376039",
+    "parent": "2926348",
+    "text": "Faisaliah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376040",
+    "parent": "2926348",
+    "text": "Madaba Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376041",
+    "parent": "2926348",
+    "text": "Ma'in Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376042",
+    "parent": "2926348",
+    "text": "Mlaih Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376043",
+    "parent": "2926348",
+    "text": "Dieban Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376044",
+    "parent": "2926348",
+    "text": "Areedh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376031",
+    "parent": "2925596",
+    "text": "Shoonah Janoobiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376032",
+    "parent": "2925596",
+    "text": "Ain Albasha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376033",
+    "parent": "2925596",
+    "text": "Mahes and Fuhais Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376034",
+    "parent": "2925596",
+    "text": "Ira and Yargha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376035",
+    "parent": "2925596",
+    "text": "Al-Salt Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376036",
+    "parent": "2925596",
+    "text": "Allan and Zayy Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376037",
+    "parent": "2925596",
+    "text": "Al-Ardha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376038",
+    "parent": "2925596",
+    "text": "Dair Alla Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376129",
+    "parent": "2925599",
+    "text": "Jerash Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376130",
+    "parent": "2925599",
+    "text": "Borma Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376131",
+    "parent": "2925599",
+    "text": "Mestabah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376098",
+    "parent": "2925616",
+    "text": "Sakhrah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376099",
+    "parent": "2925616",
+    "text": "Orjan Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376100",
+    "parent": "2925616",
+    "text": "Ajloun Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376101",
+    "parent": "2925616",
+    "text": "Kufranjah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376088",
+    "parent": "2925617",
+    "text": "El-Wastiyyeh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376090",
+    "parent": "2925617",
+    "text": "Taybeh Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376091",
+    "parent": "2925617",
+    "text": "Mazar Shamali Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376092",
+    "parent": "2925617",
+    "text": "Bani Obeid Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376093",
+    "parent": "2925617",
+    "text": "Aghwar Janoobiyah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376095",
+    "parent": "2925617",
+    "text": "Koorah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376103",
+    "parent": "2925617",
+    "text": "Ramtha Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376105",
+    "parent": "2925617",
+    "text": "Bani Kenanah Sub-District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13376106",
+    "parent": "2925617",
+    "text": "\u062d\u0648\u0627\u0631\u0629",
+    "admin_level": "6"
+  },
+  {
+    "id": "9094108",
+    "parent": "13376032",
+    "text": "Sweileh",
+    "admin_level": "8"
+  }
+]

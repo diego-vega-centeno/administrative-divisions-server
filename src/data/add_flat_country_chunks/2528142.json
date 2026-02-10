@@ -1,0 +1,944 @@
+[
+  {
+    "id": "2528143",
+    "parent": "2528142",
+    "text": "Br\u010dko District",
+    "admin_level": "4"
+  },
+  {
+    "id": "2528144",
+    "parent": "2528142",
+    "text": "Federation of Bosnia and Herzegovina",
+    "admin_level": "4"
+  },
+  {
+    "id": "2528145",
+    "parent": "2528142",
+    "text": "Republika Srpska",
+    "admin_level": "4"
+  },
+  {
+    "id": "2528159",
+    "parent": "2528144",
+    "text": "City of Biha\u0107",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528164",
+    "parent": "2528144",
+    "text": "Town of Bosanska Krupa",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528176",
+    "parent": "2528144",
+    "text": "City of \u010capljina",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528177",
+    "parent": "2528144",
+    "text": "City of Cazin",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528200",
+    "parent": "2528144",
+    "text": "City of Gora\u017ede",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528202",
+    "parent": "2528144",
+    "text": "Town of Gra\u010danica",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528203",
+    "parent": "2528144",
+    "text": "Town of Grada\u010dac",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528219",
+    "parent": "2528144",
+    "text": "Town of Konjic",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528226",
+    "parent": "2528144",
+    "text": "City of Livno",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528228",
+    "parent": "2528144",
+    "text": "Grad Ljubu\u0161ki",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528230",
+    "parent": "2528144",
+    "text": "Town of Lukavac",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528234",
+    "parent": "2528144",
+    "text": "City of Mostar",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528241",
+    "parent": "2528144",
+    "text": "Town of Novi Travnik",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528245",
+    "parent": "2528144",
+    "text": "Town of Ora\u0161je",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528265",
+    "parent": "2528144",
+    "text": "City of \u0160iroki Brijeg",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528270",
+    "parent": "2528144",
+    "text": "Town of Srebrenik",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528271",
+    "parent": "2528144",
+    "text": "Town of Stolac",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528281",
+    "parent": "2528144",
+    "text": "City of Tuzla",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528288",
+    "parent": "2528144",
+    "text": "Grad Visoko",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528292",
+    "parent": "2528144",
+    "text": "Town of Zavidovi\u0107i",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528293",
+    "parent": "2528144",
+    "text": "City of Zenica",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528295",
+    "parent": "2528144",
+    "text": "Town of \u017divinice",
+    "admin_level": "6"
+  },
+  {
+    "id": "2567380",
+    "parent": "2528144",
+    "text": "City of Sarajevo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528156",
+    "parent": "2528145",
+    "text": "City of Banja Luka",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528160",
+    "parent": "2528145",
+    "text": "City of Bijeljina",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528162",
+    "parent": "2528145",
+    "text": "Town of Gradi\u0161ka",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528182",
+    "parent": "2528145",
+    "text": "Town of Derventa",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528185",
+    "parent": "2528145",
+    "text": "City of Doboj",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528225",
+    "parent": "2528145",
+    "text": "Town of Lakta\u0161i",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528255",
+    "parent": "2528145",
+    "text": "Town of Prnjavor",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528277",
+    "parent": "2528145",
+    "text": "City of Trebinje",
+    "admin_level": "6"
+  },
+  {
+    "id": "2528296",
+    "parent": "2528145",
+    "text": "City of Zvornik",
+    "admin_level": "6"
+  },
+  {
+    "id": "2567396",
+    "parent": "2528145",
+    "text": "City of Isto\u010dno Sarajevo",
+    "admin_level": "6"
+  },
+  {
+    "id": "5729592",
+    "parent": "2528145",
+    "text": "City of Prijedor",
+    "admin_level": "6"
+  },
+  {
+    "id": "11170603",
+    "parent": "2528234",
+    "text": "Local community Rondo",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170604",
+    "parent": "2528234",
+    "text": "Local community Bijeli brijeg II",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170605",
+    "parent": "2528234",
+    "text": "Local community Bijeli brijeg I",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170606",
+    "parent": "2528234",
+    "text": "Local community Podhum",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170607",
+    "parent": "2528234",
+    "text": "Local community Cernica-\u0160anti\u0107eva",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170608",
+    "parent": "2528234",
+    "text": "Local community Avenija Kralja Tomislava",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170925",
+    "parent": "2528234",
+    "text": "Local community Rodo\u010d II",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170926",
+    "parent": "2528234",
+    "text": "Local community Rodo\u010d I",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170927",
+    "parent": "2528234",
+    "text": "Local community Kru\u0161evo",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170928",
+    "parent": "2528234",
+    "text": "Local community Ra\u0161tani",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170929",
+    "parent": "2528234",
+    "text": "Local community Centar II",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170930",
+    "parent": "2528234",
+    "text": "Local community Rudnik",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170931",
+    "parent": "2528234",
+    "text": "Local community Zgoni",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170932",
+    "parent": "2528234",
+    "text": "Local community Miljkovi\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170933",
+    "parent": "2528234",
+    "text": "Local community Polog",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170934",
+    "parent": "2528234",
+    "text": "Local community Cim",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170935",
+    "parent": "2528234",
+    "text": "Local community Ili\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "11170936",
+    "parent": "2528234",
+    "text": "Local community Zahum",
+    "admin_level": "8"
+  },
+  {
+    "id": "11180994",
+    "parent": "2528234",
+    "text": "Local community Bogodol",
+    "admin_level": "8"
+  },
+  {
+    "id": "11181082",
+    "parent": "2528234",
+    "text": "Local community Vrdi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12245715",
+    "parent": "2528234",
+    "text": "MZ Donja Mahala",
+    "admin_level": "8"
+  },
+  {
+    "id": "12988884",
+    "parent": "2528234",
+    "text": "Local community Slip\u010di\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "12988886",
+    "parent": "2528234",
+    "text": "Local community Ba\u010devi\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "12988887",
+    "parent": "2528234",
+    "text": "Local community Jasenica",
+    "admin_level": "8"
+  },
+  {
+    "id": "12988888",
+    "parent": "2528234",
+    "text": "Local community Goranci",
+    "admin_level": "8"
+  },
+  {
+    "id": "12988889",
+    "parent": "2528234",
+    "text": "Local community Vihovi\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736396",
+    "parent": "5729592",
+    "text": "MZ Gomjenica",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736397",
+    "parent": "5729592",
+    "text": "MZ Gornji Orlovci",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736398",
+    "parent": "5729592",
+    "text": "MZ Donji Orlovci",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736399",
+    "parent": "5729592",
+    "text": "MZ Orlova\u010da",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736400",
+    "parent": "5729592",
+    "text": "MZ Prijedor II",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736401",
+    "parent": "5729592",
+    "text": "MZ Prijedor centar",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736402",
+    "parent": "5729592",
+    "text": "MZ \u010cirkin\u00a0Polje",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736523",
+    "parent": "5729592",
+    "text": "MZ Brezi\u010dani",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736524",
+    "parent": "5729592",
+    "text": "\u041c\u0417 \u010cejreci",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736574",
+    "parent": "5729592",
+    "text": "MZ Gornja Dragotinja",
+    "admin_level": "8"
+  },
+  {
+    "id": "5736575",
+    "parent": "5729592",
+    "text": "\u0414\u043e\u045a\u0430 \u0414\u0440\u0430\u0433\u043e\u0442\u0438\u045a\u0430 / Donja Dragotinja",
+    "admin_level": "8"
+  },
+  {
+    "id": "5737051",
+    "parent": "5729592",
+    "text": "MZ Trnopolje",
+    "admin_level": "8"
+  },
+  {
+    "id": "5738308",
+    "parent": "5729592",
+    "text": "MZ Jutrogo\u0161ta",
+    "admin_level": "8"
+  },
+  {
+    "id": "5738309",
+    "parent": "5729592",
+    "text": "MZ Gornji Jelovac",
+    "admin_level": "8"
+  },
+  {
+    "id": "5738322",
+    "parent": "5729592",
+    "text": "MZ Bo\u017ei\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "5738334",
+    "parent": "5729592",
+    "text": "MZ Petrovo",
+    "admin_level": "8"
+  },
+  {
+    "id": "5739688",
+    "parent": "5729592",
+    "text": "MZ Rasavci",
+    "admin_level": "8"
+  },
+  {
+    "id": "5740083",
+    "parent": "5729592",
+    "text": "MZ Zecovi",
+    "admin_level": "8"
+  },
+  {
+    "id": "5740633",
+    "parent": "5729592",
+    "text": "MZ Ljubija",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742090",
+    "parent": "5729592",
+    "text": "MZ Gornja Ravska",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742091",
+    "parent": "5729592",
+    "text": "MZ Donji Volar",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742092",
+    "parent": "5729592",
+    "text": "MZ Miska Glava",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742093",
+    "parent": "5729592",
+    "text": "MZ \u0160urkovac",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742105",
+    "parent": "5729592",
+    "text": "MZ Ljeskare i Kalajevo",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742106",
+    "parent": "5729592",
+    "text": "MZ Rakov\u010dani",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742107",
+    "parent": "5729592",
+    "text": "MZ Rizvanovi\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742108",
+    "parent": "5729592",
+    "text": "MZ Cikote",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742112",
+    "parent": "5729592",
+    "text": "MZ Bi\u0161\u0107ani",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742113",
+    "parent": "5729592",
+    "text": "MZ Hambarine",
+    "admin_level": "8"
+  },
+  {
+    "id": "5742114",
+    "parent": "5729592",
+    "text": "MZ \u010carakovo",
+    "admin_level": "8"
+  },
+  {
+    "id": "5743940",
+    "parent": "5729592",
+    "text": "MZ Donja Ljubija",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744406",
+    "parent": "5729592",
+    "text": "MZ Busnovi",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744407",
+    "parent": "5729592",
+    "text": "MZ Gradina",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744408",
+    "parent": "5729592",
+    "text": "MZ Mari\u0107ka",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744409",
+    "parent": "5729592",
+    "text": "MZ Rakeli\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744418",
+    "parent": "5729592",
+    "text": "MZ Bistrica",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744419",
+    "parent": "5729592",
+    "text": "MZ Kevljani",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744420",
+    "parent": "5729592",
+    "text": "MZ Lamovita",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744421",
+    "parent": "5729592",
+    "text": "MZ Omarska",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744460",
+    "parent": "5729592",
+    "text": "MZ Kozaru\u0161a",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744477",
+    "parent": "5729592",
+    "text": "MZ Kami\u010dani",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744478",
+    "parent": "5729592",
+    "text": "MZ Kozarac",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744486",
+    "parent": "5729592",
+    "text": "MZ Gornji Petrov Gaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "5744487",
+    "parent": "5729592",
+    "text": "MZ Petrov Gaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "19138410",
+    "parent": "5729592",
+    "text": "MZ \"Dr Mladen Stojanovi\u0107\" Palan\u010di\u0161te",
+    "admin_level": "8"
+  },
+  {
+    "id": "19138636",
+    "parent": "5729592",
+    "text": "MZ Tukovi",
+    "admin_level": "8"
+  },
+  {
+    "id": "19138785",
+    "parent": "5729592",
+    "text": "MZ Ra\u0161kovac",
+    "admin_level": "8"
+  },
+  {
+    "id": "19138786",
+    "parent": "5729592",
+    "text": "MZ Kokin grad",
+    "admin_level": "8"
+  },
+  {
+    "id": "19138787",
+    "parent": "5729592",
+    "text": "MZ Donja Puharska",
+    "admin_level": "8"
+  },
+  {
+    "id": "11384151",
+    "parent": "2528219",
+    "text": "MZ Bjelimi\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "5963513",
+    "parent": "2567396",
+    "text": "MZ Hre\u0161a",
+    "admin_level": "8"
+  },
+  {
+    "id": "5964497",
+    "parent": "2567396",
+    "text": "MZ Bulozi",
+    "admin_level": "8"
+  },
+  {
+    "id": "5964498",
+    "parent": "2567396",
+    "text": "MZ Vu\u010dija Luka",
+    "admin_level": "8"
+  },
+  {
+    "id": "5964499",
+    "parent": "2567396",
+    "text": "MZ Trebevi\u0107",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575283",
+    "parent": "2567380",
+    "text": "MZ \"Babi\u0107a ba\u0161\u010da\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575284",
+    "parent": "2567380",
+    "text": "MZ \"Ba\u0161\u010dar\u0161ija\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575285",
+    "parent": "2567380",
+    "text": "MZ \"Bistrik\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575286",
+    "parent": "2567380",
+    "text": "MZ \"Hrid-Jar\u010dedoli\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575287",
+    "parent": "2567380",
+    "text": "MZ \"Kova\u010di\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575288",
+    "parent": "2567380",
+    "text": "MZ \"Logavina\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575289",
+    "parent": "2567380",
+    "text": "MZ \"Mahmutovac\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575290",
+    "parent": "2567380",
+    "text": "MZ \"Medrese\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575291",
+    "parent": "2567380",
+    "text": "MZ \"Toka D\u017eeka\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575292",
+    "parent": "2567380",
+    "text": "MZ \"Vratnik\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575293",
+    "parent": "2567380",
+    "text": "MZ \"\u0160iroka\u010da\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575992",
+    "parent": "2567380",
+    "text": "MZ \"Ferhadija\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2575993",
+    "parent": "2567380",
+    "text": "MZ \"Mjedenica\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2576278",
+    "parent": "2567380",
+    "text": "MZ \"Mo\u0161\u0107anica\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2576279",
+    "parent": "2567380",
+    "text": "MZ \"Sedrenik\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "2576280",
+    "parent": "2567380",
+    "text": "MZ \"Sumbulu\u0161a\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969250",
+    "parent": "2567380",
+    "text": "Pofali\u0107i I",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969251",
+    "parent": "2567380",
+    "text": "\u017deljezni\u010dka",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969252",
+    "parent": "2567380",
+    "text": "Malta",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969253",
+    "parent": "2567380",
+    "text": "Trg heroja",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969254",
+    "parent": "2567380",
+    "text": "Grbavica II",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969255",
+    "parent": "2567380",
+    "text": "Grbavica I",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969256",
+    "parent": "2567380",
+    "text": "Kova\u010di\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969257",
+    "parent": "2567380",
+    "text": "Gornji Kova\u010di\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969258",
+    "parent": "2567380",
+    "text": "Vraca",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969259",
+    "parent": "2567380",
+    "text": "Hrasno Brdo",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969260",
+    "parent": "2567380",
+    "text": "Hrasno",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969261",
+    "parent": "2567380",
+    "text": "\u010cengi\u0107 Vila I",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969262",
+    "parent": "2567380",
+    "text": "\u010cengi\u0107 Vila II",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969263",
+    "parent": "2567380",
+    "text": "Kvadrant",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969264",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Pofali\u0107i II",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969265",
+    "parent": "2567380",
+    "text": "Gornji Vele\u0161i\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "6969266",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Vele\u0161i\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "17607493",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Ko\u0161evo II",
+    "admin_level": "8"
+  },
+  {
+    "id": "17607494",
+    "parent": "2567380",
+    "text": "Mjesna zajednica D\u017eid\u017eikovac-Ko\u0161evo I",
+    "admin_level": "8"
+  },
+  {
+    "id": "17607495",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Marijin Dvor",
+    "admin_level": "8"
+  },
+  {
+    "id": "17607496",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Park-Vi\u0161njik",
+    "admin_level": "8"
+  },
+  {
+    "id": "17607535",
+    "parent": "2567380",
+    "text": "Mjesna zajednica Trg oslobo\u0111enja-Centar",
+    "admin_level": "8"
+  },
+  {
+    "id": "9350340",
+    "parent": "2528200",
+    "text": "\u010covi\u010di\u0107i",
+    "admin_level": "8"
+  },
+  {
+    "id": "9350341",
+    "parent": "2528200",
+    "text": "Donja Brda",
+    "admin_level": "8"
+  }
+]

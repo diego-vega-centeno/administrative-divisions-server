@@ -1,0 +1,230 @@
+[
+  {
+    "id": "3214211",
+    "parent": "192774",
+    "text": "Banjul",
+    "admin_level": "4"
+  },
+  {
+    "id": "3774959",
+    "parent": "192774",
+    "text": "Kanifing Municipal Council",
+    "admin_level": "4"
+  },
+  {
+    "id": "7224883",
+    "parent": "192774",
+    "text": "Central River Division",
+    "admin_level": "4"
+  },
+  {
+    "id": "7224884",
+    "parent": "192774",
+    "text": "Upper River Division",
+    "admin_level": "4"
+  },
+  {
+    "id": "7224885",
+    "parent": "192774",
+    "text": "Lower River Division",
+    "admin_level": "4"
+  },
+  {
+    "id": "7224886",
+    "parent": "192774",
+    "text": "North Bank Division",
+    "admin_level": "4"
+  },
+  {
+    "id": "7224888",
+    "parent": "192774",
+    "text": "West Coast Division",
+    "admin_level": "4"
+  },
+  {
+    "id": "9260288",
+    "parent": "7224886",
+    "text": "Lower Badibu",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260289",
+    "parent": "7224886",
+    "text": "Central Badibu",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260290",
+    "parent": "7224886",
+    "text": "Illiasa",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260291",
+    "parent": "7224886",
+    "text": "Sabach Sanjal",
+    "admin_level": "6"
+  },
+  {
+    "id": "9264743",
+    "parent": "7224886",
+    "text": "Lower Niumi",
+    "admin_level": "6"
+  },
+  {
+    "id": "9264744",
+    "parent": "7224886",
+    "text": "Upper Niumi",
+    "admin_level": "6"
+  },
+  {
+    "id": "9264745",
+    "parent": "7224886",
+    "text": "Jokadu",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266274",
+    "parent": "7224885",
+    "text": "Kiang West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266275",
+    "parent": "7224885",
+    "text": "Kiang Central",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266276",
+    "parent": "7224885",
+    "text": "Kiang East",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266277",
+    "parent": "7224885",
+    "text": "Jarra West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266278",
+    "parent": "7224885",
+    "text": "Jarra Central",
+    "admin_level": "6"
+  },
+  {
+    "id": "9266279",
+    "parent": "7224885",
+    "text": "Jarra East",
+    "admin_level": "6"
+  },
+  {
+    "id": "9258622",
+    "parent": "7224883",
+    "text": "Janjanbureh",
+    "admin_level": "6"
+  },
+  {
+    "id": "9258623",
+    "parent": "7224883",
+    "text": "Upper Fuladu West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260136",
+    "parent": "7224883",
+    "text": "Lower Saloum",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260137",
+    "parent": "7224883",
+    "text": "Upper Saloum",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260138",
+    "parent": "7224883",
+    "text": "Nianija",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260139",
+    "parent": "7224883",
+    "text": "Niani",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260140",
+    "parent": "7224883",
+    "text": "Sami",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260141",
+    "parent": "7224883",
+    "text": "Niamina West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260142",
+    "parent": "7224883",
+    "text": "Niamina Dankunku",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260143",
+    "parent": "7224883",
+    "text": "Niamina East",
+    "admin_level": "6"
+  },
+  {
+    "id": "9260144",
+    "parent": "7224883",
+    "text": "Lower Fuladu West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9256973",
+    "parent": "7224884",
+    "text": "Jimara",
+    "admin_level": "6"
+  },
+  {
+    "id": "9256974",
+    "parent": "7224884",
+    "text": "Basse Fulladu East",
+    "admin_level": "6"
+  },
+  {
+    "id": "9256975",
+    "parent": "7224884",
+    "text": "Tumana",
+    "admin_level": "6"
+  },
+  {
+    "id": "9256976",
+    "parent": "7224884",
+    "text": "Kantora",
+    "admin_level": "6"
+  },
+  {
+    "id": "9258278",
+    "parent": "7224884",
+    "text": "Sandu",
+    "admin_level": "6"
+  },
+  {
+    "id": "9258279",
+    "parent": "7224884",
+    "text": "Wuli West",
+    "admin_level": "6"
+  },
+  {
+    "id": "9258280",
+    "parent": "7224884",
+    "text": "Wuli East",
+    "admin_level": "6"
+  }
+]
