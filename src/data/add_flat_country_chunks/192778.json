@@ -1,0 +1,506 @@
+[
+  {
+    "id": "3308839",
+    "parent": "192778",
+    "text": "Lab\u00e9 Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3308938",
+    "parent": "192778",
+    "text": "Mamou Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3309644",
+    "parent": "192778",
+    "text": "Bok\u00e9 Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3309805",
+    "parent": "192778",
+    "text": "Kindia Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3399113",
+    "parent": "192778",
+    "text": "Nz\u00e9r\u00e9kor\u00e9 Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3403910",
+    "parent": "192778",
+    "text": "Faranah Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3403911",
+    "parent": "192778",
+    "text": "Kankan Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3731500",
+    "parent": "192778",
+    "text": "Conakry",
+    "admin_level": "4"
+  },
+  {
+    "id": "19556385",
+    "parent": "3309805",
+    "text": "T\u00e9lim\u00e9l\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556442",
+    "parent": "3309805",
+    "text": "Kindia Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556630",
+    "parent": "3309805",
+    "text": "Dubr\u00e9ka Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556728",
+    "parent": "3309805",
+    "text": "Coyah Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556774",
+    "parent": "3309805",
+    "text": "For\u00e9cariah Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3308997",
+    "parent": "3309644",
+    "text": "Gaoual Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3309030",
+    "parent": "3309644",
+    "text": "Koundara Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556358",
+    "parent": "3309644",
+    "text": "Bok\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556372",
+    "parent": "3309644",
+    "text": "Fria Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19556376",
+    "parent": "3309644",
+    "text": "Boffa Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3839724",
+    "parent": "3403911",
+    "text": "Kouroussa Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19553068",
+    "parent": "3403911",
+    "text": "Siguiri Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19553157",
+    "parent": "3403911",
+    "text": "Mandiana Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19553251",
+    "parent": "3403911",
+    "text": "Kankan Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19553256",
+    "parent": "3403911",
+    "text": "K\u00e9rouan\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3400656",
+    "parent": "3399113",
+    "text": "Yomou Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3401335",
+    "parent": "3399113",
+    "text": "Macenta Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3401661",
+    "parent": "3399113",
+    "text": "Gu\u00e9ck\u00e9dou Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3401811",
+    "parent": "3399113",
+    "text": "Beyla Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3402447",
+    "parent": "3399113",
+    "text": "Lola Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3402448",
+    "parent": "3399113",
+    "text": "Nz\u00e9r\u00e9kor\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "12286515",
+    "parent": "3403910",
+    "text": "Dinguiraye",
+    "admin_level": "6"
+  },
+  {
+    "id": "19552942",
+    "parent": "3403910",
+    "text": "Kissidougou Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19552953",
+    "parent": "3403910",
+    "text": "Faranah Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3212273",
+    "parent": "3308839",
+    "text": "Mali Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3214784",
+    "parent": "3308839",
+    "text": "Tougu\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3308836",
+    "parent": "3308839",
+    "text": "Koubia Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3308837",
+    "parent": "3308839",
+    "text": "Lab\u00e9 Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3308838",
+    "parent": "3308839",
+    "text": "Lelouma Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3214322",
+    "parent": "3308938",
+    "text": "Dalaba Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "3308937",
+    "parent": "3308938",
+    "text": "Pita Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "19552461",
+    "parent": "3308938",
+    "text": "Mamou Prefecture",
+    "admin_level": "6"
+  },
+  {
+    "id": "6251938",
+    "parent": "19556630",
+    "text": "Dubr\u00e9ka",
+    "admin_level": "8"
+  },
+  {
+    "id": "6202900",
+    "parent": "19556728",
+    "text": "Coyah",
+    "admin_level": "8"
+  },
+  {
+    "id": "2697025",
+    "parent": "3308997",
+    "text": "Gaoual",
+    "admin_level": "8"
+  },
+  {
+    "id": "9256802",
+    "parent": "19556358",
+    "text": "Bok\u00e9-Centre",
+    "admin_level": "8"
+  },
+  {
+    "id": "9275304",
+    "parent": "19556358",
+    "text": "Kamsar",
+    "admin_level": "8"
+  },
+  {
+    "id": "7445392",
+    "parent": "3401661",
+    "text": "Gueckedou Centre",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591098",
+    "parent": "3401811",
+    "text": "Seydougou",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591105",
+    "parent": "3401811",
+    "text": "Sirana",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591107",
+    "parent": "3401811",
+    "text": "Gb\u00e9l\u00e9ban",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591112",
+    "parent": "3401811",
+    "text": "Bougousso",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591114",
+    "parent": "3401811",
+    "text": "Bako",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591269",
+    "parent": "3401811",
+    "text": "Touba",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591288",
+    "parent": "3401811",
+    "text": "Saboudougou",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591293",
+    "parent": "3401811",
+    "text": "F\u00e9rentella",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591295",
+    "parent": "3401811",
+    "text": "Mass\u00e9dougou",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591302",
+    "parent": "3401811",
+    "text": "Niokosso",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591303",
+    "parent": "3401811",
+    "text": "Dess\u00e9n\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591305",
+    "parent": "3401811",
+    "text": "Mahandougou",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591313",
+    "parent": "3401811",
+    "text": "Booko",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591315",
+    "parent": "3401811",
+    "text": "Massala-Barala",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591286",
+    "parent": "3402447",
+    "text": "Santa",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591291",
+    "parent": "3402447",
+    "text": "Tiahou\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591297",
+    "parent": "3402447",
+    "text": "Gou\u00e9kan",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630325",
+    "parent": "3402447",
+    "text": "Gopoupleu",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630330",
+    "parent": "3402447",
+    "text": "Danipleu",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630336",
+    "parent": "3402447",
+    "text": "Daleu",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630337",
+    "parent": "3402447",
+    "text": "Zoupleu",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630341",
+    "parent": "3402447",
+    "text": "Sipilou",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630342",
+    "parent": "3402447",
+    "text": "Glanl\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "19630343",
+    "parent": "3402447",
+    "text": "Koulal\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "5579276",
+    "parent": "3402448",
+    "text": "N'Z\u00e9r\u00e9kor\u00e9-Centre",
+    "admin_level": "8"
+  },
+  {
+    "id": "7682886",
+    "parent": "19553251",
+    "text": "Kankan-Centre",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591102",
+    "parent": "19553251",
+    "text": "Dabadougou-Maf\u00e9l\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3212272",
+    "parent": "3212273",
+    "text": "Balaki",
+    "admin_level": "8"
+  },
+  {
+    "id": "7657167",
+    "parent": "3308837",
+    "text": "Lab\u00e9-Centre",
+    "admin_level": "8"
+  },
+  {
+    "id": "9321460",
+    "parent": "19553068",
+    "text": "Kintinian",
+    "admin_level": "8"
+  },
+  {
+    "id": "15960713",
+    "parent": "19553068",
+    "text": "Nounkounkan",
+    "admin_level": "8"
+  },
+  {
+    "id": "15962609",
+    "parent": "19553068",
+    "text": "Tomba-kanssa",
+    "admin_level": "8"
+  },
+  {
+    "id": "16025518",
+    "parent": "19553068",
+    "text": "Didi",
+    "admin_level": "8"
+  },
+  {
+    "id": "8836171",
+    "parent": "3308838",
+    "text": "Lafou",
+    "admin_level": "8"
+  },
+  {
+    "id": "8836172",
+    "parent": "3308838",
+    "text": "Tyanguel-bori",
+    "admin_level": "8"
+  },
+  {
+    "id": "8836173",
+    "parent": "3308838",
+    "text": "Manda",
+    "admin_level": "8"
+  },
+  {
+    "id": "8836174",
+    "parent": "3308838",
+    "text": "Linsansaran",
+    "admin_level": "8"
+  },
+  {
+    "id": "19591125",
+    "parent": "19553157",
+    "text": "Gouenzou",
+    "admin_level": "8"
+  }
+]

@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "393562",
+    "parent": "252645",
+    "text": "Cochabamba",
+    "admin_level": "4"
+  },
+  {
+    "id": "395910",
+    "parent": "252645",
+    "text": "Oruro",
+    "admin_level": "4"
+  },
+  {
+    "id": "396197",
+    "parent": "252645",
+    "text": "Chuquisaca",
+    "admin_level": "4"
+  },
+  {
+    "id": "396198",
+    "parent": "252645",
+    "text": "Tarija",
+    "admin_level": "4"
+  },
+  {
+    "id": "400473",
+    "parent": "252645",
+    "text": "La Paz",
+    "admin_level": "4"
+  },
+  {
+    "id": "405935",
+    "parent": "252645",
+    "text": "Beni",
+    "admin_level": "4"
+  },
+  {
+    "id": "3358584",
+    "parent": "252645",
+    "text": "Pando",
+    "admin_level": "4"
+  },
+  {
+    "id": "3360565",
+    "parent": "252645",
+    "text": "Santa Cruz",
+    "admin_level": "4"
+  },
+  {
+    "id": "4509552",
+    "parent": "252645",
+    "text": "Potos\u00ed",
+    "admin_level": "4"
+  },
+  {
+    "id": "401406",
+    "parent": "400473",
+    "text": "Provincia de Eliodoro Camacho",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496894",
+    "parent": "400473",
+    "text": "Provincia Abel Iturralde",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496914",
+    "parent": "400473",
+    "text": "Provincia Franz Tamayo",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496919",
+    "parent": "400473",
+    "text": "Provincia Bautista Saavedra",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496949",
+    "parent": "400473",
+    "text": "Provincia Mu\u00f1ecas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496963",
+    "parent": "400473",
+    "text": "Provincia Omasuyos",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496974",
+    "parent": "400473",
+    "text": "Provincia Los Andes",
+    "admin_level": "6"
+  },
+  {
+    "id": "4496993",
+    "parent": "400473",
+    "text": "Provincia Manco Kapac",
+    "admin_level": "6"
+  },
+  {
+    "id": "4498827",
+    "parent": "400473",
+    "text": "Ingavi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499438",
+    "parent": "400473",
+    "text": "Provincia General Jos\u00e9 Manuel Pando",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499449",
+    "parent": "400473",
+    "text": "Provincia Pacajes",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499464",
+    "parent": "400473",
+    "text": "Provincia Larecaja",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499470",
+    "parent": "400473",
+    "text": "Caranavi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499472",
+    "parent": "400473",
+    "text": "Provincia Nor Yungas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499475",
+    "parent": "400473",
+    "text": "Pedro Domingo Murillo",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499483",
+    "parent": "400473",
+    "text": "Provincia Sud Yungas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499500",
+    "parent": "400473",
+    "text": "Provincia Inquisivi",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499504",
+    "parent": "400473",
+    "text": "Provincia Loayza",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499509",
+    "parent": "400473",
+    "text": "Provincia Aroma",
+    "admin_level": "6"
+  },
+  {
+    "id": "4499511",
+    "parent": "400473",
+    "text": "Provincia Gualberto Villaroel",
+    "admin_level": "6"
+  },
+  {
+    "id": "405934",
+    "parent": "405935",
+    "text": "General Jos\u00e9 Ballivi\u00e1n Segurola",
+    "admin_level": "6"
+  },
+  {
+    "id": "405971",
+    "parent": "405935",
+    "text": "Yacuma",
+    "admin_level": "6"
+  },
+  {
+    "id": "406273",
+    "parent": "405935",
+    "text": "Antonio Vaca D\u00edez",
+    "admin_level": "6"
+  },
+  {
+    "id": "408005",
+    "parent": "405935",
+    "text": "It\u00e9nez",
+    "admin_level": "6"
+  },
+  {
+    "id": "3366116",
+    "parent": "405935",
+    "text": "Moxos",
+    "admin_level": "6"
+  },
+  {
+    "id": "3366133",
+    "parent": "405935",
+    "text": "Marb\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "3366147",
+    "parent": "405935",
+    "text": "Cercado",
+    "admin_level": "6"
+  },
+  {
+    "id": "3366155",
+    "parent": "405935",
+    "text": "Mamor\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "4123548",
+    "parent": "4509552",
+    "text": "Provincia General Bernardino Bilbao Rioja",
+    "admin_level": "6"
+  },
+  {
+    "id": "4136012",
+    "parent": "4509552",
+    "text": "Daniel Campos",
+    "admin_level": "6"
+  },
+  {
+    "id": "4136041",
+    "parent": "4509552",
+    "text": "Provincia Nor L\u00edpez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4136337",
+    "parent": "4509552",
+    "text": "Provincia Enrique Baldivieso",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137021",
+    "parent": "4509552",
+    "text": "Provincia Alonso de Iba\u00f1ez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137022",
+    "parent": "4509552",
+    "text": "Provincia Charcas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137023",
+    "parent": "4509552",
+    "text": "Provincia Rafael Bustillo",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137030",
+    "parent": "4509552",
+    "text": "Provincia Chayanta",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137031",
+    "parent": "4509552",
+    "text": "Provincia Cornelio Saavedra",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137032",
+    "parent": "4509552",
+    "text": "Provincia Jos\u00e9 Maria Linares",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137033",
+    "parent": "4509552",
+    "text": "Provincia Tom\u00e1s Fr\u00edas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137062",
+    "parent": "4509552",
+    "text": "Antonio Quijarro",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137063",
+    "parent": "4509552",
+    "text": "Provincia Modesto Omiste",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137064",
+    "parent": "4509552",
+    "text": "Provincia Nor Chichas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137065",
+    "parent": "4509552",
+    "text": "Provincia Sur L\u00edpez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4137429",
+    "parent": "4509552",
+    "text": "Sur Chichas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4482317",
+    "parent": "395910",
+    "text": "Sajama",
+    "admin_level": "6"
+  },
+  {
+    "id": "4482361",
+    "parent": "395910",
+    "text": "Nor Carangas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493741",
+    "parent": "395910",
+    "text": "Carangas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493742",
+    "parent": "395910",
+    "text": "Provincia Tomas Barron",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493764",
+    "parent": "395910",
+    "text": "Provincia Mejillones",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493765",
+    "parent": "395910",
+    "text": "Provincia Sabaya",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493774",
+    "parent": "395910",
+    "text": "Ladislao Cabrera",
+    "admin_level": "6"
+  },
+  {
+    "id": "4493775",
+    "parent": "395910",
+    "text": "Provincia Sud Carangas",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494023",
+    "parent": "395910",
+    "text": "Provincia Litoral",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494350",
+    "parent": "395910",
+    "text": "Provincia Saucar\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494362",
+    "parent": "395910",
+    "text": "Provincia Cercado",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494367",
+    "parent": "395910",
+    "text": "Pantale\u00f3n Dalence",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494513",
+    "parent": "395910",
+    "text": "Provincia Poop\u00f3",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494545",
+    "parent": "395910",
+    "text": "Eduardo Abaroa",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494547",
+    "parent": "395910",
+    "text": "Provincia Sebasti\u00e1n Pagador",
+    "admin_level": "6"
+  },
+  {
+    "id": "4494588",
+    "parent": "395910",
+    "text": "San Pedro de Totora",
+    "admin_level": "6"
+  },
+  {
+    "id": "404934",
+    "parent": "3358584",
+    "text": "Provincia de Manuripi",
+    "admin_level": "6"
+  },
+  {
+    "id": "404938",
+    "parent": "3358584",
+    "text": "Nicol\u00e1s Su\u00e1rez",
+    "admin_level": "6"
+  },
+  {
+    "id": "405587",
+    "parent": "3358584",
+    "text": "Provincia de Madre de Dios",
+    "admin_level": "6"
+  },
+  {
+    "id": "3368690",
+    "parent": "3358584",
+    "text": "Provincia del General Federico Rom\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "3369462",
+    "parent": "3358584",
+    "text": "Provincia de Abun\u00e1",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506253",
+    "parent": "396197",
+    "text": "Provincia Oropeza",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506254",
+    "parent": "396197",
+    "text": "Provincia Yamparaez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506255",
+    "parent": "396197",
+    "text": "Provincia Jaime Zud\u00e1\u00f1ez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506356",
+    "parent": "396197",
+    "text": "Provincia Belisario Boeto",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506357",
+    "parent": "396197",
+    "text": "Provincia Hernando Siles",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506358",
+    "parent": "396197",
+    "text": "Provincia Luis Calvo",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506359",
+    "parent": "396197",
+    "text": "Provincia Tomina",
+    "admin_level": "6"
+  },
+  {
+    "id": "4506396",
+    "parent": "396197",
+    "text": "Sud Cinti",
+    "admin_level": "6"
+  },
+  {
+    "id": "4507132",
+    "parent": "396197",
+    "text": "Provincia Nor Cinti",
+    "admin_level": "6"
+  },
+  {
+    "id": "4507774",
+    "parent": "396197",
+    "text": "Provincia Azurduy",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509615",
+    "parent": "396198",
+    "text": "Provincia Arce",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509616",
+    "parent": "396198",
+    "text": "Provincia de Jos\u00e9 Mar\u00eda Avil\u00e9s",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509617",
+    "parent": "396198",
+    "text": "O'Connor",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509618",
+    "parent": "396198",
+    "text": "Provincia Cercado",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509619",
+    "parent": "396198",
+    "text": "Gran Chaco",
+    "admin_level": "6"
+  },
+  {
+    "id": "4509620",
+    "parent": "396198",
+    "text": "Eustaquio M\u00e9ndez",
+    "admin_level": "6"
+  },
+  {
+    "id": "412779",
+    "parent": "3360565",
+    "text": "Provincia Ichilo",
+    "admin_level": "6"
+  },
+  {
+    "id": "3371971",
+    "parent": "3360565",
+    "text": "Vallegrande",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510043",
+    "parent": "3360565",
+    "text": "Provincia Guarayos",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510095",
+    "parent": "3360565",
+    "text": "Provincia \u00d1uflo de Ch\u00e1vez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510154",
+    "parent": "3360565",
+    "text": "Velasco",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510161",
+    "parent": "3360565",
+    "text": "Provincia \u00c1ngel Sand\u00f3val",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510177",
+    "parent": "3360565",
+    "text": "Chiquitos",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510183",
+    "parent": "3360565",
+    "text": "Germ\u00e1n Busch",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510243",
+    "parent": "3360565",
+    "text": "Sara",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510265",
+    "parent": "3360565",
+    "text": "Provincia Obispo Santistevan",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510304",
+    "parent": "3360565",
+    "text": "Provincia Andr\u00e9s Ib\u00e1\u00f1ez",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510305",
+    "parent": "3360565",
+    "text": "Provincia Warnes",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510325",
+    "parent": "3360565",
+    "text": "Provincia Manuel M. Caballero",
+    "admin_level": "6"
+  },
+  {
+    "id": "4510333",
+    "parent": "3360565",
+    "text": "Provincia Florida",
+    "admin_level": "6"
+  },
+  {
+    "id": "4511221",
+    "parent": "3360565",
+    "text": "Provincia Cordillera",
+    "admin_level": "6"
+  },
+  {
+    "id": "4502776",
+    "parent": "393562",
+    "text": "Ayopaya",
+    "admin_level": "6"
+  },
+  {
+    "id": "4502808",
+    "parent": "393562",
+    "text": "Chapare",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503056",
+    "parent": "393562",
+    "text": "Carrasco",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503060",
+    "parent": "393562",
+    "text": "Campero",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503153",
+    "parent": "393562",
+    "text": "Tiraque",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503156",
+    "parent": "393562",
+    "text": "Mizque",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503203",
+    "parent": "393562",
+    "text": "Esteban Arze",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503225",
+    "parent": "393562",
+    "text": "Capinota",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503236",
+    "parent": "393562",
+    "text": "Arque",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503237",
+    "parent": "393562",
+    "text": "Bol\u00edvar",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503261",
+    "parent": "393562",
+    "text": "Quillacollo",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503262",
+    "parent": "393562",
+    "text": "Tapacar\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503307",
+    "parent": "393562",
+    "text": "Arani",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503308",
+    "parent": "393562",
+    "text": "Germ\u00e1n Jord\u00e1n",
+    "admin_level": "6"
+  },
+  {
+    "id": "4503309",
+    "parent": "393562",
+    "text": "Punata",
+    "admin_level": "6"
+  },
+  {
+    "id": "4505705",
+    "parent": "393562",
+    "text": "Cercado",
+    "admin_level": "6"
+  },
+  {
+    "id": "4055186",
+    "parent": "405934",
+    "text": "Rurrenabaque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4055188",
+    "parent": "405934",
+    "text": "Santa Rosa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4055250",
+    "parent": "405934",
+    "text": "Reyes",
+    "admin_level": "8"
+  },
+  {
+    "id": "10868035",
+    "parent": "405934",
+    "text": "San Borja",
+    "admin_level": "8"
+  },
+  {
+    "id": "4134802",
+    "parent": "4136012",
+    "text": "Municipio Llica",
+    "admin_level": "8"
+  },
+  {
+    "id": "4135011",
+    "parent": "4136012",
+    "text": "Tahua",
+    "admin_level": "8"
+  },
+  {
+    "id": "4136111",
+    "parent": "4136041",
+    "text": "Municipio San Pedro de Quemes",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137592",
+    "parent": "4136041",
+    "text": "Municipio Colcha K",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137629",
+    "parent": "4137062",
+    "text": "Municipio Porco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137631",
+    "parent": "4137062",
+    "text": "Municipio Tomave",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137633",
+    "parent": "4137062",
+    "text": "Uyuni",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137593",
+    "parent": "4137065",
+    "text": "Municipio Mojinete",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137594",
+    "parent": "4137065",
+    "text": "Municipio San Antonio de Esmoruco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137595",
+    "parent": "4137065",
+    "text": "Municipio San Pablo de Lipez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4482219",
+    "parent": "4482317",
+    "text": "Curahuara de Carangas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4482220",
+    "parent": "4482317",
+    "text": "Turco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494773",
+    "parent": "4493741",
+    "text": "Choquecota",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494774",
+    "parent": "4493741",
+    "text": "Corque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494864",
+    "parent": "4493765",
+    "text": "Municipio Chipaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494866",
+    "parent": "4493765",
+    "text": "Municipio Sabaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495038",
+    "parent": "4493774",
+    "text": "Municipio Aullagas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495039",
+    "parent": "4493774",
+    "text": "Salinas de Garc\u00ed Mendoza",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495026",
+    "parent": "4493775",
+    "text": "Municipio Bel\u00e9n de Andamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495027",
+    "parent": "4493775",
+    "text": "Municipio Santiago de Andamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494820",
+    "parent": "4494023",
+    "text": "Municipio Cruz de Machacamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494821",
+    "parent": "4494023",
+    "text": "Municipio Escara",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494822",
+    "parent": "4494023",
+    "text": "Municipio Esmeralda",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494823",
+    "parent": "4494023",
+    "text": "Municipio Huachacalla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494824",
+    "parent": "4494023",
+    "text": "Municipio Yunguyo del Litoral",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494694",
+    "parent": "4494362",
+    "text": "Municipio Caracollo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494711",
+    "parent": "4494362",
+    "text": "Municipio Soracachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494716",
+    "parent": "4494362",
+    "text": "Municipio El Choro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494717",
+    "parent": "4494362",
+    "text": "Municipio Oruro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500609",
+    "parent": "4499438",
+    "text": "Municipio Catacora",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500610",
+    "parent": "4499438",
+    "text": "Municipio Santiago de Machaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500783",
+    "parent": "4499449",
+    "text": "Municipio Calacoto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500784",
+    "parent": "4499449",
+    "text": "Municipio Caquiaviri",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500785",
+    "parent": "4499449",
+    "text": "Municipio Chara\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500786",
+    "parent": "4499449",
+    "text": "Municipio Comanche",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500787",
+    "parent": "4499449",
+    "text": "Municipio Coro Coro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500788",
+    "parent": "4499449",
+    "text": "Municipio Santiago de Callapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500789",
+    "parent": "4499449",
+    "text": "Municipio Waldo Ballivi\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502179",
+    "parent": "4499500",
+    "text": "Municipio Cajuata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502180",
+    "parent": "4499500",
+    "text": "Municipio Colquiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502181",
+    "parent": "4499500",
+    "text": "Municipio Ichoca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502182",
+    "parent": "4499500",
+    "text": "Municipio Inquisivi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502183",
+    "parent": "4499500",
+    "text": "Municipio Licoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502184",
+    "parent": "4499500",
+    "text": "Municipio Quime",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502103",
+    "parent": "4499504",
+    "text": "Municipio Cairoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502104",
+    "parent": "4499504",
+    "text": "Municipio Luribay",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502105",
+    "parent": "4499504",
+    "text": "Municipio Malla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502106",
+    "parent": "4499504",
+    "text": "Municipio Sapahaqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502107",
+    "parent": "4499504",
+    "text": "Municipio Yaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500831",
+    "parent": "4499509",
+    "text": "Municipio Calamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500832",
+    "parent": "4499509",
+    "text": "Municipio Collana",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500833",
+    "parent": "4499509",
+    "text": "Municipio Colquencha",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500834",
+    "parent": "4499509",
+    "text": "Municipio Ayo Ayo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500835",
+    "parent": "4499509",
+    "text": "Patacamaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500836",
+    "parent": "4499509",
+    "text": "Municipio Sica Sica",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500837",
+    "parent": "4499509",
+    "text": "Municipio Umala",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494971",
+    "parent": "4493764",
+    "text": "Municipio Todos Santos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494972",
+    "parent": "4493764",
+    "text": "Municipio Carangas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4494973",
+    "parent": "4493764",
+    "text": "Municipio La Rivera",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502215",
+    "parent": "4499511",
+    "text": "Municipio Chacarilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502216",
+    "parent": "4499511",
+    "text": "Municipio Papel Pampa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4502217",
+    "parent": "4499511",
+    "text": "Municipio San Pedro de Curahuara",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499583",
+    "parent": "4496894",
+    "text": "Municipio Ixiamas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499584",
+    "parent": "4496894",
+    "text": "Municipio San Buenaventura",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499594",
+    "parent": "4496914",
+    "text": "Municipio Apolo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499595",
+    "parent": "4496914",
+    "text": "Municipio Pelechuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500574",
+    "parent": "4498827",
+    "text": "Municipio Desaguadero",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500575",
+    "parent": "4498827",
+    "text": "Municipio Guaqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500576",
+    "parent": "4498827",
+    "text": "Municipio Jes\u00fas de Machaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500577",
+    "parent": "4498827",
+    "text": "Municipio San Andr\u00e9s de Machaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500578",
+    "parent": "4498827",
+    "text": "Municipio Taraco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500579",
+    "parent": "4498827",
+    "text": "Tiahuanacu",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500580",
+    "parent": "4498827",
+    "text": "Viacha",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499721",
+    "parent": "4499464",
+    "text": "Municipio Tacacoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499756",
+    "parent": "4499464",
+    "text": "Municipio Mapiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499780",
+    "parent": "4499464",
+    "text": "Municipio Combaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499781",
+    "parent": "4499464",
+    "text": "Municipio Guanay",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499782",
+    "parent": "4499464",
+    "text": "Municipio Quiabaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499783",
+    "parent": "4499464",
+    "text": "Municipio Sorata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499784",
+    "parent": "4499464",
+    "text": "Municipio Teoponte",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499785",
+    "parent": "4499464",
+    "text": "Municipio Tipuani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499823",
+    "parent": "4499472",
+    "text": "Municipio Coripata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499824",
+    "parent": "4499472",
+    "text": "Municipio Coroico",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499832",
+    "parent": "4499475",
+    "text": "El Alto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499868",
+    "parent": "4499475",
+    "text": "Achocalla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499869",
+    "parent": "4499475",
+    "text": "Mecapaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499870",
+    "parent": "4499475",
+    "text": "La Paz",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499871",
+    "parent": "4499475",
+    "text": "Palca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499811",
+    "parent": "4499483",
+    "text": "Municipio Chulumani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499812",
+    "parent": "4499483",
+    "text": "Municipio Irupana",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499813",
+    "parent": "4499483",
+    "text": "Municipio La Asunta",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499814",
+    "parent": "4499483",
+    "text": "Municipio Palos Blancos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500325",
+    "parent": "4499483",
+    "text": "Municipio Yanacachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499651",
+    "parent": "401406",
+    "text": "Municipio Escoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499652",
+    "parent": "401406",
+    "text": "Municipio Humanata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499653",
+    "parent": "401406",
+    "text": "Municipio Mocomoco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499654",
+    "parent": "401406",
+    "text": "Municipio Puerto Acosta",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499655",
+    "parent": "401406",
+    "text": "Municipio Puerto Carabuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499718",
+    "parent": "4496949",
+    "text": "Municipio Aucapata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499719",
+    "parent": "4496949",
+    "text": "Municipio Ayata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499720",
+    "parent": "4496949",
+    "text": "Municipio Chuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500356",
+    "parent": "4496963",
+    "text": "Municipio Achacachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500357",
+    "parent": "4496963",
+    "text": "Municipio Ancoraimes",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500358",
+    "parent": "4496963",
+    "text": "Municipio Chua Cocani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500359",
+    "parent": "4496963",
+    "text": "Municipio Huarina",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500360",
+    "parent": "4496963",
+    "text": "Municipio Huatajata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500361",
+    "parent": "4496963",
+    "text": "Municipio Santiago de Huata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500399",
+    "parent": "4496974",
+    "text": "Batallas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500400",
+    "parent": "4496974",
+    "text": "Laja",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500401",
+    "parent": "4496974",
+    "text": "Pucarani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4500402",
+    "parent": "4496974",
+    "text": "Municipio Puerto P\u00e9rez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499791",
+    "parent": "4499470",
+    "text": "Municipio Alto Beni",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499792",
+    "parent": "4499470",
+    "text": "Caranavi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499610",
+    "parent": "4496919",
+    "text": "Municipio Charazani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4499611",
+    "parent": "4496919",
+    "text": "Municipio Curva",
+    "admin_level": "8"
+  },
+  {
+    "id": "4050224",
+    "parent": "404934",
+    "text": "Municipio Filadelfia",
+    "admin_level": "8"
+  },
+  {
+    "id": "4051293",
+    "parent": "404934",
+    "text": "Municipio Puerto Rico",
+    "admin_level": "8"
+  },
+  {
+    "id": "4051294",
+    "parent": "404934",
+    "text": "Municipio San Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4050084",
+    "parent": "404938",
+    "text": "Municipio Bella Flor",
+    "admin_level": "8"
+  },
+  {
+    "id": "4050223",
+    "parent": "404938",
+    "text": "Cobija",
+    "admin_level": "8"
+  },
+  {
+    "id": "4050225",
+    "parent": "404938",
+    "text": "Municipio Porvenir",
+    "admin_level": "8"
+  },
+  {
+    "id": "4050264",
+    "parent": "404938",
+    "text": "Municipio Bolpebra",
+    "admin_level": "8"
+  },
+  {
+    "id": "4051384",
+    "parent": "405587",
+    "text": "Municipio Puerto Gonzalo Moreno",
+    "admin_level": "8"
+  },
+  {
+    "id": "4051385",
+    "parent": "405587",
+    "text": "Municipio San Lorenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4051386",
+    "parent": "405587",
+    "text": "Municipio Sena",
+    "admin_level": "8"
+  },
+  {
+    "id": "3369824",
+    "parent": "3369462",
+    "text": "Municipio Ingavi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4049843",
+    "parent": "3369462",
+    "text": "Municipio Santa Rosa del Abun\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137628",
+    "parent": "4137064",
+    "text": "Municipio Cotagaita",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137634",
+    "parent": "4137064",
+    "text": "Municipio Vitichi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137627",
+    "parent": "4137429",
+    "text": "Municipio Atocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137632",
+    "parent": "4137429",
+    "text": "Tupiza",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509408",
+    "parent": "4506357",
+    "text": "Municipio Monteagudo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509409",
+    "parent": "4506357",
+    "text": "Municipio San Pablo de Huacareta",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509405",
+    "parent": "4506358",
+    "text": "Municipio Huacaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509407",
+    "parent": "4506358",
+    "text": "Municipio Machareti",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509413",
+    "parent": "4506358",
+    "text": "Municipio Villa Vaca Guzman",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509404",
+    "parent": "4506396",
+    "text": "Municipio Culpina",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509406",
+    "parent": "4506396",
+    "text": "Municipio de Las Carreras",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509411",
+    "parent": "4506396",
+    "text": "Municipio Villa Abecia",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509375",
+    "parent": "4507132",
+    "text": "Municipio San Lucas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509376",
+    "parent": "4507132",
+    "text": "Municipio Camargo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509377",
+    "parent": "4507132",
+    "text": "Municipio Incahuasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509378",
+    "parent": "4507132",
+    "text": "Municipio Villa Charcas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509723",
+    "parent": "4509615",
+    "text": "Bermejo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509726",
+    "parent": "4509615",
+    "text": "Municipio Padcaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509724",
+    "parent": "4509619",
+    "text": "Municipio Carapar\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509731",
+    "parent": "4509619",
+    "text": "Villa Montes",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509732",
+    "parent": "4509619",
+    "text": "Yacu\u00edba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511254",
+    "parent": "4510095",
+    "text": "Municipio Concepci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511272",
+    "parent": "4510095",
+    "text": "Municipio Cuatro Ca\u00f1adas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511273",
+    "parent": "4510095",
+    "text": "Municipio San Antonio de Lomerio",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511274",
+    "parent": "4510095",
+    "text": "Municipio San Javier",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511275",
+    "parent": "4510095",
+    "text": "Municipio San Juli\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511276",
+    "parent": "4510095",
+    "text": "Municipio San Ram\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511303",
+    "parent": "4510154",
+    "text": "San Ignacio de Velasco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511304",
+    "parent": "4510154",
+    "text": "Municipio San Miguel de Velasco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511305",
+    "parent": "4510154",
+    "text": "Municipio San Rafael",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511356",
+    "parent": "4511221",
+    "text": "Municipio Boyuibe",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511357",
+    "parent": "4511221",
+    "text": "Municipio Cabezas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511358",
+    "parent": "4511221",
+    "text": "Camiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511359",
+    "parent": "4511221",
+    "text": "Municipio Charagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511360",
+    "parent": "4511221",
+    "text": "Municipio Cuevo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511361",
+    "parent": "4511221",
+    "text": "Municipio Guti\u00e9rrez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511362",
+    "parent": "4511221",
+    "text": "Municipio Lagunillas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4137626",
+    "parent": "4137063",
+    "text": "Villaz\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509729",
+    "parent": "4509616",
+    "text": "Municipio Uriondo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509733",
+    "parent": "4509616",
+    "text": "Municipio Yunchar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509728",
+    "parent": "4509620",
+    "text": "El Puente",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509730",
+    "parent": "4509620",
+    "text": "Municipio Villa San Lorenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3381198",
+    "parent": "412779",
+    "text": "Municipio Buena Vista",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511393",
+    "parent": "412779",
+    "text": "Municipio San Carlos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511394",
+    "parent": "412779",
+    "text": "Municipio San Juan",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511395",
+    "parent": "412779",
+    "text": "Municipio Yapacan\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511477",
+    "parent": "3371971",
+    "text": "Municipio Moro Moro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511478",
+    "parent": "3371971",
+    "text": "Municipio Postrer Valle",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511479",
+    "parent": "3371971",
+    "text": "Municipio Pucar\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511480",
+    "parent": "3371971",
+    "text": "Municipio Trigal",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511481",
+    "parent": "3371971",
+    "text": "Municipio Vallegrande",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126936",
+    "parent": "4137022",
+    "text": "Municipio San Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126937",
+    "parent": "4137022",
+    "text": "Municipio Toro Toro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126993",
+    "parent": "4137030",
+    "text": "Municipio Colquechaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126994",
+    "parent": "4137030",
+    "text": "Municipio Ocur\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126995",
+    "parent": "4137030",
+    "text": "Municipio Pocoata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126996",
+    "parent": "4137030",
+    "text": "Municipio Ravelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4128593",
+    "parent": "4137032",
+    "text": "Municipio Caiza \"D\"",
+    "admin_level": "8"
+  },
+  {
+    "id": "4128594",
+    "parent": "4137032",
+    "text": "Municipio Puna",
+    "admin_level": "8"
+  },
+  {
+    "id": "4127118",
+    "parent": "4137033",
+    "text": "Potos\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4127119",
+    "parent": "4137033",
+    "text": "Municipio Tinguipaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4127120",
+    "parent": "4137033",
+    "text": "Municipio Urmiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "4127121",
+    "parent": "4137033",
+    "text": "Municipio Yocalla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505603",
+    "parent": "4502776",
+    "text": "Municipio Cocapata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505604",
+    "parent": "4502776",
+    "text": "Municipio Ayopaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505605",
+    "parent": "4502776",
+    "text": "Municipio Morochata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505642",
+    "parent": "4502808",
+    "text": "Colomi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505643",
+    "parent": "4502808",
+    "text": "Sacaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505644",
+    "parent": "4502808",
+    "text": "Villa Tunari",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505884",
+    "parent": "4503056",
+    "text": "Municipio Entre R\u00edos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505885",
+    "parent": "4503056",
+    "text": "Municipio Chimore",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505886",
+    "parent": "4503056",
+    "text": "Municipio Pocona",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505887",
+    "parent": "4503056",
+    "text": "Municipio Pojo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505888",
+    "parent": "4503056",
+    "text": "Municipio Puerto Villarroel",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505889",
+    "parent": "4503056",
+    "text": "Municipio Totora",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505816",
+    "parent": "4503153",
+    "text": "Municipio Shinahota",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505817",
+    "parent": "4503153",
+    "text": "Municipio Tiraque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506107",
+    "parent": "4503156",
+    "text": "Municipio Alalay",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506108",
+    "parent": "4503156",
+    "text": "Municipio Mizque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506109",
+    "parent": "4503156",
+    "text": "Municipio Vila Vila",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507877",
+    "parent": "4506253",
+    "text": "Municipio Poroma",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507878",
+    "parent": "4506253",
+    "text": "Municipio Sucre",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507879",
+    "parent": "4506253",
+    "text": "Municipio Yotala",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507932",
+    "parent": "4506359",
+    "text": "Municipio El Villar",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507933",
+    "parent": "4506359",
+    "text": "Municipio Padilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507934",
+    "parent": "4506359",
+    "text": "Municipio Sopachuy",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507935",
+    "parent": "4506359",
+    "text": "Municipio Tomina",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507936",
+    "parent": "4506359",
+    "text": "Municipio Villa Alcala",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509410",
+    "parent": "4507774",
+    "text": "Municipio Tarvita (Villa Arias)",
+    "admin_level": "8"
+  },
+  {
+    "id": "4509412",
+    "parent": "4507774",
+    "text": "Municipio Villa Azurduy",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511496",
+    "parent": "4510243",
+    "text": "Colpa B\u00e9lgica",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511497",
+    "parent": "4510243",
+    "text": "Municipio Portachuelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511498",
+    "parent": "4510243",
+    "text": "Municipio Santa Rosa del Sara",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511508",
+    "parent": "4510265",
+    "text": "Municipio Fern\u00e1ndez Alonso",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511509",
+    "parent": "4510265",
+    "text": "Municipio General Saavedra",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511510",
+    "parent": "4510265",
+    "text": "Municipio Mineros",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511511",
+    "parent": "4510265",
+    "text": "Municipio Montero",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511512",
+    "parent": "4510265",
+    "text": "Municipio San Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511408",
+    "parent": "4510325",
+    "text": "Municipio Comarapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511409",
+    "parent": "4510325",
+    "text": "Municipio Saipina",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511437",
+    "parent": "4510333",
+    "text": "Municipio Mairana",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511438",
+    "parent": "4510333",
+    "text": "Municipio Pampa Grande",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511439",
+    "parent": "4510333",
+    "text": "Municipio Quirusillas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511440",
+    "parent": "4510333",
+    "text": "Municipio Samaipata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4128143",
+    "parent": "4137031",
+    "text": "Municipio Betanzos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4128144",
+    "parent": "4137031",
+    "text": "Municipio Chaqu\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "4128145",
+    "parent": "4137031",
+    "text": "Municipio Tacobamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495088",
+    "parent": "4494545",
+    "text": "Challapata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495090",
+    "parent": "4494547",
+    "text": "Municipio Santiago de Huari",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507914",
+    "parent": "4506254",
+    "text": "Municipio Tarabuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507915",
+    "parent": "4506254",
+    "text": "Municipio Yamparaez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507906",
+    "parent": "4506255",
+    "text": "Municipio Icla",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507907",
+    "parent": "4506255",
+    "text": "Municipio Presto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507908",
+    "parent": "4506255",
+    "text": "Municipio Villa Mojocoya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4507909",
+    "parent": "4506255",
+    "text": "Municipio Zuda\u00f1ez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4123465",
+    "parent": "4123548",
+    "text": "Municipio Arampampa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4123549",
+    "parent": "4123548",
+    "text": "Municipio Acasio",
+    "admin_level": "8"
+  },
+  {
+    "id": "4123687",
+    "parent": "4137021",
+    "text": "Municipio Sacaca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4123740",
+    "parent": "4137021",
+    "text": "Municipio Caripuyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126927",
+    "parent": "4137023",
+    "text": "Municipio Chayanta",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126928",
+    "parent": "4137023",
+    "text": "Llallagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "4126929",
+    "parent": "4137023",
+    "text": "Municipio Unc\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495051",
+    "parent": "4494367",
+    "text": "Municipio Machacamarca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495052",
+    "parent": "4494367",
+    "text": "Huanuni",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495077",
+    "parent": "4494513",
+    "text": "Municipio Antequera (Bolivar)",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495078",
+    "parent": "4494513",
+    "text": "Municipio Paz\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495079",
+    "parent": "4494513",
+    "text": "Municipio Poop\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505765",
+    "parent": "4503225",
+    "text": "Municipio Capinota",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505766",
+    "parent": "4503225",
+    "text": "Santiv\u00e1\u00f1ez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505767",
+    "parent": "4503225",
+    "text": "Municipio Sicaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505715",
+    "parent": "4503236",
+    "text": "Municipio Arque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505717",
+    "parent": "4503236",
+    "text": "Municipio Tacopaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505696",
+    "parent": "4503261",
+    "text": "Colcapirhua",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505697",
+    "parent": "4503261",
+    "text": "Quillacollo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505698",
+    "parent": "4503261",
+    "text": "Sipe Sipe",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505699",
+    "parent": "4503261",
+    "text": "Tiquipaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505700",
+    "parent": "4503261",
+    "text": "Vinto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4503297",
+    "parent": "4505705",
+    "text": "Cochabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505759",
+    "parent": "4503203",
+    "text": "Anzaldo",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505763",
+    "parent": "4503203",
+    "text": "Arbieto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505768",
+    "parent": "4503203",
+    "text": "Tarata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505813",
+    "parent": "4503203",
+    "text": "Municipio Sacabamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505812",
+    "parent": "4503307",
+    "text": "Municipio Arani",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505814",
+    "parent": "4503307",
+    "text": "Municipio Vacas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505781",
+    "parent": "4503308",
+    "text": "Cliza",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505782",
+    "parent": "4503308",
+    "text": "Toco",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505783",
+    "parent": "4503308",
+    "text": "Tolata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505799",
+    "parent": "4503309",
+    "text": "Villa Gualberto Villarroel",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505800",
+    "parent": "4503309",
+    "text": "Punata",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505801",
+    "parent": "4503309",
+    "text": "Villa Jos\u00e9 Quint\u00edn Mendoza",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505802",
+    "parent": "4503309",
+    "text": "Tacachi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4505803",
+    "parent": "4503309",
+    "text": "Villa Rivero",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506120",
+    "parent": "4503060",
+    "text": "Municipio Aiquile",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506121",
+    "parent": "4503060",
+    "text": "Municipio Omereque",
+    "admin_level": "8"
+  },
+  {
+    "id": "4506122",
+    "parent": "4503060",
+    "text": "Municipio Pasorapa",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511315",
+    "parent": "4510177",
+    "text": "Municipio Pail\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511316",
+    "parent": "4510177",
+    "text": "Robor\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511317",
+    "parent": "4510177",
+    "text": "San Jos\u00e9 de Chiquitos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511523",
+    "parent": "4510304",
+    "text": "Municipio Cotoca",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511524",
+    "parent": "4510304",
+    "text": "Municipio El Torno",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511525",
+    "parent": "4510304",
+    "text": "Municipio La Guardia",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511526",
+    "parent": "4510304",
+    "text": "Municipio Porongo (Ayacucho)",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511527",
+    "parent": "4510304",
+    "text": "Municipio Santa Cruz de la Sierra",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511520",
+    "parent": "4510305",
+    "text": "Municipio Okinawa Uno",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511521",
+    "parent": "4510305",
+    "text": "Municipio Warnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511329",
+    "parent": "4510161",
+    "text": "Municipio San Mat\u00edas",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511326",
+    "parent": "4510183",
+    "text": "El Carmen Rivero T\u00f3rrez",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511327",
+    "parent": "4510183",
+    "text": "Puerto Quijarro",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511328",
+    "parent": "4510183",
+    "text": "Puerto Su\u00e1rez",
+    "admin_level": "8"
+  },
+  {
+    "id": "3365921",
+    "parent": "405971",
+    "text": "Santa Ana del Yacuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3365948",
+    "parent": "405971",
+    "text": "Municipio Exaltaci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4056828",
+    "parent": "408005",
+    "text": "Municipio Magdalena",
+    "admin_level": "8"
+  },
+  {
+    "id": "4056838",
+    "parent": "408005",
+    "text": "Municipio Baures",
+    "admin_level": "8"
+  },
+  {
+    "id": "4056859",
+    "parent": "408005",
+    "text": "Municipio Huacaraje",
+    "admin_level": "8"
+  },
+  {
+    "id": "4058468",
+    "parent": "3366116",
+    "text": "San Ignacio de Moxos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4059613",
+    "parent": "3366133",
+    "text": "Municipio San Andres",
+    "admin_level": "8"
+  },
+  {
+    "id": "4059665",
+    "parent": "3366133",
+    "text": "Municipio Loreto",
+    "admin_level": "8"
+  },
+  {
+    "id": "4057054",
+    "parent": "3366147",
+    "text": "San Javier",
+    "admin_level": "8"
+  },
+  {
+    "id": "4057055",
+    "parent": "3366147",
+    "text": "Sant\u00edsima Trinidad",
+    "admin_level": "8"
+  },
+  {
+    "id": "4055848",
+    "parent": "3366155",
+    "text": "Municipio Puerto Siles",
+    "admin_level": "8"
+  },
+  {
+    "id": "4055849",
+    "parent": "3366155",
+    "text": "Municipio San Joaquin",
+    "admin_level": "8"
+  },
+  {
+    "id": "4055850",
+    "parent": "3366155",
+    "text": "Municipio San Ram\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511239",
+    "parent": "4510043",
+    "text": "Ascenci\u00f3n de Guarayos",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511240",
+    "parent": "4510043",
+    "text": "El Puente",
+    "admin_level": "8"
+  },
+  {
+    "id": "4511241",
+    "parent": "4510043",
+    "text": "Municipio Urubich\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "3368691",
+    "parent": "3368690",
+    "text": "Municipio Nueva Esperanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3369463",
+    "parent": "3368690",
+    "text": "Municipio Santos Mercado",
+    "admin_level": "8"
+  },
+  {
+    "id": "3369464",
+    "parent": "3368690",
+    "text": "Municipio Villa Nueva",
+    "admin_level": "8"
+  }
+]

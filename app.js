@@ -4,6 +4,7 @@ import passport from './src/config/passport.js'
 import userRoute from './src/routes/userRoute.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
+import countryRoute from './src/routes/countryRoute.js'
 import layerRoute from './src/routes/layers.js'
 import { rateLimit } from 'express-rate-limit'
 import cookieParser from 'cookie-parser'
@@ -48,6 +49,7 @@ app.use(passport.initialize());
 app.use('/auth/google', oauthGoogleRoute)
 app.use('/user', userRoute)
 app.use('/layer', layerRoute)
+app.use('/country', countryRoute)
 
 // health check
 app.get('/health', (req, res) => res.sendStatus(200));

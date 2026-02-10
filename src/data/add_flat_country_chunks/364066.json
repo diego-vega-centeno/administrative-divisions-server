@@ -1,0 +1,158 @@
+[
+  {
+    "id": "364077",
+    "parent": "364066",
+    "text": "Shirak Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364078",
+    "parent": "364066",
+    "text": "Lori Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364079",
+    "parent": "364066",
+    "text": "Tavush Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364080",
+    "parent": "364066",
+    "text": "Gegharkunik Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364081",
+    "parent": "364066",
+    "text": "Vayots Dzor Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364082",
+    "parent": "364066",
+    "text": "Syunik Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364083",
+    "parent": "364066",
+    "text": "Ararat Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364084",
+    "parent": "364066",
+    "text": "Kotayk Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364086",
+    "parent": "364066",
+    "text": "Armavir Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "364087",
+    "parent": "364066",
+    "text": "Yerevan",
+    "admin_level": "4"
+  },
+  {
+    "id": "3917110",
+    "parent": "364066",
+    "text": "Aragatsotn Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "7745403",
+    "parent": "364082",
+    "text": "Kapan",
+    "admin_level": "6"
+  },
+  {
+    "id": "9346800",
+    "parent": "364083",
+    "text": "Ararat",
+    "admin_level": "6"
+  },
+  {
+    "id": "14441909",
+    "parent": "364083",
+    "text": "Masis",
+    "admin_level": "6"
+  },
+  {
+    "id": "15092044",
+    "parent": "364083",
+    "text": "Artashat",
+    "admin_level": "6"
+  },
+  {
+    "id": "10255555",
+    "parent": "364081",
+    "text": "Yeghegnadzor",
+    "admin_level": "6"
+  },
+  {
+    "id": "16175158",
+    "parent": "3917110",
+    "text": "Ashtarak",
+    "admin_level": "6"
+  },
+  {
+    "id": "7843731",
+    "parent": "364084",
+    "text": "Tsakhkadzor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7846009",
+    "parent": "364084",
+    "text": "Abovyan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7857352",
+    "parent": "364084",
+    "text": "Garni",
+    "admin_level": "6"
+  },
+  {
+    "id": "9084333",
+    "parent": "364084",
+    "text": "Hrazdan",
+    "admin_level": "6"
+  },
+  {
+    "id": "16179400",
+    "parent": "364084",
+    "text": "Yeghvard",
+    "admin_level": "6"
+  },
+  {
+    "id": "7772201",
+    "parent": "364086",
+    "text": "Vagharshapat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7825883",
+    "parent": "364078",
+    "text": "Vanadzor",
+    "admin_level": "6"
+  },
+  {
+    "id": "8404520",
+    "parent": "364080",
+    "text": "Sevan",
+    "admin_level": "6"
+  },
+  {
+    "id": "8896914",
+    "parent": "364080",
+    "text": "Gavar",
+    "admin_level": "6"
+  }
+]

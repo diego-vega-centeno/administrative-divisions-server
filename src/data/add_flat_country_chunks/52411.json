@@ -1,0 +1,2984 @@
+[
+  {
+    "id": "53134",
+    "parent": "52411",
+    "text": "Flanders",
+    "admin_level": "4"
+  },
+  {
+    "id": "54094",
+    "parent": "52411",
+    "text": "Brussels-Capital",
+    "admin_level": "4"
+  },
+  {
+    "id": "90348",
+    "parent": "52411",
+    "text": "Wallonia",
+    "admin_level": "4"
+  },
+  {
+    "id": "78748",
+    "parent": "90348",
+    "text": "Walloon Brabant",
+    "admin_level": "6"
+  },
+  {
+    "id": "157559",
+    "parent": "90348",
+    "text": "Hainaut",
+    "admin_level": "6"
+  },
+  {
+    "id": "1311816",
+    "parent": "90348",
+    "text": "Namur",
+    "admin_level": "6"
+  },
+  {
+    "id": "1407192",
+    "parent": "90348",
+    "text": "Li\u00e8ge",
+    "admin_level": "6"
+  },
+  {
+    "id": "1412581",
+    "parent": "90348",
+    "text": "Luxembourg",
+    "admin_level": "6"
+  },
+  {
+    "id": "53114",
+    "parent": "53134",
+    "text": "Antwerp",
+    "admin_level": "6"
+  },
+  {
+    "id": "53135",
+    "parent": "53134",
+    "text": "East Flanders",
+    "admin_level": "6"
+  },
+  {
+    "id": "53142",
+    "parent": "53134",
+    "text": "Limburg",
+    "admin_level": "6"
+  },
+  {
+    "id": "58004",
+    "parent": "53134",
+    "text": "Flemish Brabant",
+    "admin_level": "6"
+  },
+  {
+    "id": "416271",
+    "parent": "53134",
+    "text": "West Flanders",
+    "admin_level": "6"
+  },
+  {
+    "id": "2248104",
+    "parent": "1412581",
+    "text": "Daverdisse",
+    "admin_level": "8"
+  },
+  {
+    "id": "2248105",
+    "parent": "1412581",
+    "text": "Paliseul",
+    "admin_level": "8"
+  },
+  {
+    "id": "2337964",
+    "parent": "1412581",
+    "text": "Aubange",
+    "admin_level": "8"
+  },
+  {
+    "id": "2345341",
+    "parent": "1412581",
+    "text": "Rouvroy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2347279",
+    "parent": "1412581",
+    "text": "Messancy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422706",
+    "parent": "1412581",
+    "text": "Musson",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422707",
+    "parent": "1412581",
+    "text": "Saint-L\u00e9ger",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422739",
+    "parent": "1412581",
+    "text": "Virton",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422742",
+    "parent": "1412581",
+    "text": "Meix-devant-Virton",
+    "admin_level": "8"
+  },
+  {
+    "id": "2424516",
+    "parent": "1412581",
+    "text": "\u00c9talle",
+    "admin_level": "8"
+  },
+  {
+    "id": "2426390",
+    "parent": "1412581",
+    "text": "Bastogne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2429916",
+    "parent": "1412581",
+    "text": "Martelange",
+    "admin_level": "8"
+  },
+  {
+    "id": "2429929",
+    "parent": "1412581",
+    "text": "Attert",
+    "admin_level": "8"
+  },
+  {
+    "id": "2429930",
+    "parent": "1412581",
+    "text": "L\u00e9glise",
+    "admin_level": "8"
+  },
+  {
+    "id": "2429931",
+    "parent": "1412581",
+    "text": "Habay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2429932",
+    "parent": "1412581",
+    "text": "Fauvillers",
+    "admin_level": "8"
+  },
+  {
+    "id": "2431399",
+    "parent": "1412581",
+    "text": "Arlon",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437396",
+    "parent": "1412581",
+    "text": "Marche-en-Famenne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437641",
+    "parent": "1412581",
+    "text": "Chiny",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437642",
+    "parent": "1412581",
+    "text": "Florenville",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437643",
+    "parent": "1412581",
+    "text": "Tintigny",
+    "admin_level": "8"
+  },
+  {
+    "id": "2440902",
+    "parent": "1412581",
+    "text": "Libin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2440914",
+    "parent": "1412581",
+    "text": "Bertrix",
+    "admin_level": "8"
+  },
+  {
+    "id": "2440951",
+    "parent": "1412581",
+    "text": "Bouillon",
+    "admin_level": "8"
+  },
+  {
+    "id": "2442852",
+    "parent": "1412581",
+    "text": "Gouvy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2448802",
+    "parent": "1412581",
+    "text": "Wellin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2449235",
+    "parent": "1412581",
+    "text": "Vielsalm",
+    "admin_level": "8"
+  },
+  {
+    "id": "2450509",
+    "parent": "1412581",
+    "text": "Manhay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2450567",
+    "parent": "1412581",
+    "text": "Durbuy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2450572",
+    "parent": "1412581",
+    "text": "Hotton",
+    "admin_level": "8"
+  },
+  {
+    "id": "2450579",
+    "parent": "1412581",
+    "text": "Nassogne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2450770",
+    "parent": "1412581",
+    "text": "Tellin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2452846",
+    "parent": "1412581",
+    "text": "\u00c9rez\u00e9e",
+    "admin_level": "8"
+  },
+  {
+    "id": "2453836",
+    "parent": "1412581",
+    "text": "Houffalize",
+    "admin_level": "8"
+  },
+  {
+    "id": "2453837",
+    "parent": "1412581",
+    "text": "Sainte-Ode",
+    "admin_level": "8"
+  },
+  {
+    "id": "2453951",
+    "parent": "1412581",
+    "text": "Vaux-sur-S\u00fbre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2455017",
+    "parent": "1412581",
+    "text": "Herbeumont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2455110",
+    "parent": "1412581",
+    "text": "Saint-Hubert",
+    "admin_level": "8"
+  },
+  {
+    "id": "2566321",
+    "parent": "1412581",
+    "text": "La Roche-en-Ardenne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2566322",
+    "parent": "1412581",
+    "text": "Rendeux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2566323",
+    "parent": "1412581",
+    "text": "Tenneville",
+    "admin_level": "8"
+  },
+  {
+    "id": "2571205",
+    "parent": "1412581",
+    "text": "Libramont-Chevigny",
+    "admin_level": "8"
+  },
+  {
+    "id": "2571206",
+    "parent": "1412581",
+    "text": "Neufch\u00e2teau",
+    "admin_level": "8"
+  },
+  {
+    "id": "1260359",
+    "parent": "1311816",
+    "text": "Philippeville",
+    "admin_level": "8"
+  },
+  {
+    "id": "1405439",
+    "parent": "1311816",
+    "text": "Namur",
+    "admin_level": "8"
+  },
+  {
+    "id": "1502008",
+    "parent": "1311816",
+    "text": "Couvin",
+    "admin_level": "8"
+  },
+  {
+    "id": "1604124",
+    "parent": "1311816",
+    "text": "Viroinval",
+    "admin_level": "8"
+  },
+  {
+    "id": "1604184",
+    "parent": "1311816",
+    "text": "Doische",
+    "admin_level": "8"
+  },
+  {
+    "id": "1879664",
+    "parent": "1311816",
+    "text": "Cerfontaine",
+    "admin_level": "8"
+  },
+  {
+    "id": "1894438",
+    "parent": "1311816",
+    "text": "Walcourt",
+    "admin_level": "8"
+  },
+  {
+    "id": "2048709",
+    "parent": "1311816",
+    "text": "Florennes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2200565",
+    "parent": "1311816",
+    "text": "Hasti\u00e8re",
+    "admin_level": "8"
+  },
+  {
+    "id": "2214226",
+    "parent": "1311816",
+    "text": "Onhaye",
+    "admin_level": "8"
+  },
+  {
+    "id": "2219471",
+    "parent": "1311816",
+    "text": "Mettet",
+    "admin_level": "8"
+  },
+  {
+    "id": "2223089",
+    "parent": "1311816",
+    "text": "Profondeville",
+    "admin_level": "8"
+  },
+  {
+    "id": "2230461",
+    "parent": "1311816",
+    "text": "Vresse-sur-Semois",
+    "admin_level": "8"
+  },
+  {
+    "id": "2234387",
+    "parent": "1311816",
+    "text": "Bi\u00e8vre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2238677",
+    "parent": "1311816",
+    "text": "Anh\u00e9e",
+    "admin_level": "8"
+  },
+  {
+    "id": "2245275",
+    "parent": "1311816",
+    "text": "Gedinne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2251076",
+    "parent": "1311816",
+    "text": "Beauraing",
+    "admin_level": "8"
+  },
+  {
+    "id": "2252998",
+    "parent": "1311816",
+    "text": "Rochefort",
+    "admin_level": "8"
+  },
+  {
+    "id": "2255291",
+    "parent": "1311816",
+    "text": "Somme-Leuze",
+    "admin_level": "8"
+  },
+  {
+    "id": "2255292",
+    "parent": "1311816",
+    "text": "Ciney",
+    "admin_level": "8"
+  },
+  {
+    "id": "2261105",
+    "parent": "1311816",
+    "text": "Houyet",
+    "admin_level": "8"
+  },
+  {
+    "id": "2268360",
+    "parent": "1311816",
+    "text": "Dinant",
+    "admin_level": "8"
+  },
+  {
+    "id": "2268384",
+    "parent": "1311816",
+    "text": "Yvoir",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282880",
+    "parent": "1311816",
+    "text": "Assesse",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282889",
+    "parent": "1311816",
+    "text": "Gesves",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282984",
+    "parent": "1311816",
+    "text": "Sambreville",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282985",
+    "parent": "1311816",
+    "text": "Jemeppe-sur-Sambre",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282987",
+    "parent": "1311816",
+    "text": "Floreffe",
+    "admin_level": "8"
+  },
+  {
+    "id": "2282988",
+    "parent": "1311816",
+    "text": "Fosses-la-Ville",
+    "admin_level": "8"
+  },
+  {
+    "id": "2304128",
+    "parent": "1311816",
+    "text": "Eghez\u00e9e",
+    "admin_level": "8"
+  },
+  {
+    "id": "2305699",
+    "parent": "1311816",
+    "text": "Fernelmont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2305700",
+    "parent": "1311816",
+    "text": "Andenne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2307330",
+    "parent": "1311816",
+    "text": "Sombreffe",
+    "admin_level": "8"
+  },
+  {
+    "id": "2313628",
+    "parent": "1311816",
+    "text": "Gembloux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2320775",
+    "parent": "1311816",
+    "text": "Hamois",
+    "admin_level": "8"
+  },
+  {
+    "id": "2327768",
+    "parent": "1311816",
+    "text": "La Bruy\u00e8re",
+    "admin_level": "8"
+  },
+  {
+    "id": "2330165",
+    "parent": "1311816",
+    "text": "Ohey",
+    "admin_level": "8"
+  },
+  {
+    "id": "2330186",
+    "parent": "1311816",
+    "text": "Havelange",
+    "admin_level": "8"
+  },
+  {
+    "id": "391146",
+    "parent": "53135",
+    "text": "Buggenhout",
+    "admin_level": "8"
+  },
+  {
+    "id": "391217",
+    "parent": "53135",
+    "text": "Temse",
+    "admin_level": "8"
+  },
+  {
+    "id": "398167",
+    "parent": "53135",
+    "text": "Brakel",
+    "admin_level": "8"
+  },
+  {
+    "id": "398179",
+    "parent": "53135",
+    "text": "Horebeke",
+    "admin_level": "8"
+  },
+  {
+    "id": "398189",
+    "parent": "53135",
+    "text": "Maarkedal",
+    "admin_level": "8"
+  },
+  {
+    "id": "398192",
+    "parent": "53135",
+    "text": "Ronse",
+    "admin_level": "8"
+  },
+  {
+    "id": "398193",
+    "parent": "53135",
+    "text": "Lierde",
+    "admin_level": "8"
+  },
+  {
+    "id": "408555",
+    "parent": "53135",
+    "text": "Herzele",
+    "admin_level": "8"
+  },
+  {
+    "id": "414561",
+    "parent": "53135",
+    "text": "Geraardsbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "414562",
+    "parent": "53135",
+    "text": "Zottegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "416206",
+    "parent": "53135",
+    "text": "Zwalm",
+    "admin_level": "8"
+  },
+  {
+    "id": "416207",
+    "parent": "53135",
+    "text": "Oudenaarde",
+    "admin_level": "8"
+  },
+  {
+    "id": "416454",
+    "parent": "53135",
+    "text": "Kluisbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "544529",
+    "parent": "53135",
+    "text": "Eeklo",
+    "admin_level": "8"
+  },
+  {
+    "id": "570088",
+    "parent": "53135",
+    "text": "Zulte",
+    "admin_level": "8"
+  },
+  {
+    "id": "571850",
+    "parent": "53135",
+    "text": "Sint-Martens-Latem",
+    "admin_level": "8"
+  },
+  {
+    "id": "611321",
+    "parent": "53135",
+    "text": "Deinze",
+    "admin_level": "8"
+  },
+  {
+    "id": "721879",
+    "parent": "53135",
+    "text": "Aalter",
+    "admin_level": "8"
+  },
+  {
+    "id": "812701",
+    "parent": "53135",
+    "text": "Gavere",
+    "admin_level": "8"
+  },
+  {
+    "id": "897671",
+    "parent": "53135",
+    "text": "Ghent",
+    "admin_level": "8"
+  },
+  {
+    "id": "906648",
+    "parent": "53135",
+    "text": "Kruisem",
+    "admin_level": "8"
+  },
+  {
+    "id": "912035",
+    "parent": "53135",
+    "text": "Ninove",
+    "admin_level": "8"
+  },
+  {
+    "id": "912036",
+    "parent": "53135",
+    "text": "Wortegem-Petegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "912312",
+    "parent": "53135",
+    "text": "Aalst",
+    "admin_level": "8"
+  },
+  {
+    "id": "913765",
+    "parent": "53135",
+    "text": "Dendermonde",
+    "admin_level": "8"
+  },
+  {
+    "id": "913767",
+    "parent": "53135",
+    "text": "Lebbeke",
+    "admin_level": "8"
+  },
+  {
+    "id": "913806",
+    "parent": "53135",
+    "text": "Waasmunster",
+    "admin_level": "8"
+  },
+  {
+    "id": "913860",
+    "parent": "53135",
+    "text": "Hamme",
+    "admin_level": "8"
+  },
+  {
+    "id": "913866",
+    "parent": "53135",
+    "text": "Sint-Niklaas",
+    "admin_level": "8"
+  },
+  {
+    "id": "913873",
+    "parent": "53135",
+    "text": "Sint-Gillis-Waas",
+    "admin_level": "8"
+  },
+  {
+    "id": "913874",
+    "parent": "53135",
+    "text": "Stekene",
+    "admin_level": "8"
+  },
+  {
+    "id": "973322",
+    "parent": "53135",
+    "text": "Zelzate",
+    "admin_level": "8"
+  },
+  {
+    "id": "1021359",
+    "parent": "53135",
+    "text": "Denderleeuw",
+    "admin_level": "8"
+  },
+  {
+    "id": "1021369",
+    "parent": "53135",
+    "text": "Haaltert",
+    "admin_level": "8"
+  },
+  {
+    "id": "1066186",
+    "parent": "53135",
+    "text": "Oosterzele",
+    "admin_level": "8"
+  },
+  {
+    "id": "1184308",
+    "parent": "53135",
+    "text": "Sint-Lievens-Houtem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1197961",
+    "parent": "53135",
+    "text": "Erpe-Mere",
+    "admin_level": "8"
+  },
+  {
+    "id": "1212060",
+    "parent": "53135",
+    "text": "Destelbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1260073",
+    "parent": "53135",
+    "text": "Wichelen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1260082",
+    "parent": "53135",
+    "text": "Berlare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1260083",
+    "parent": "53135",
+    "text": "Zele",
+    "admin_level": "8"
+  },
+  {
+    "id": "1260360",
+    "parent": "53135",
+    "text": "Assenede",
+    "admin_level": "8"
+  },
+  {
+    "id": "1266491",
+    "parent": "53135",
+    "text": "Lede",
+    "admin_level": "8"
+  },
+  {
+    "id": "1318948",
+    "parent": "53135",
+    "text": "Maldegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1325552",
+    "parent": "53135",
+    "text": "Lokeren",
+    "admin_level": "8"
+  },
+  {
+    "id": "1335100",
+    "parent": "53135",
+    "text": "Lochristi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1339015",
+    "parent": "53135",
+    "text": "Wetteren",
+    "admin_level": "8"
+  },
+  {
+    "id": "1341874",
+    "parent": "53135",
+    "text": "Laarne",
+    "admin_level": "8"
+  },
+  {
+    "id": "1351605",
+    "parent": "53135",
+    "text": "Lievegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1364591",
+    "parent": "53135",
+    "text": "Kaprijke",
+    "admin_level": "8"
+  },
+  {
+    "id": "1367403",
+    "parent": "53135",
+    "text": "Sint-Laureins",
+    "admin_level": "8"
+  },
+  {
+    "id": "1373256",
+    "parent": "53135",
+    "text": "Evergem",
+    "admin_level": "8"
+  },
+  {
+    "id": "18493532",
+    "parent": "53135",
+    "text": "Beveren-Kruibeke-Zwijndrecht",
+    "admin_level": "8"
+  },
+  {
+    "id": "18493642",
+    "parent": "53135",
+    "text": "Nazareth-De Pinte",
+    "admin_level": "8"
+  },
+  {
+    "id": "18493670",
+    "parent": "53135",
+    "text": "Merelbeke-Melle",
+    "admin_level": "8"
+  },
+  {
+    "id": "405621",
+    "parent": "157559",
+    "text": "Comines-Warneton",
+    "admin_level": "8"
+  },
+  {
+    "id": "1374657",
+    "parent": "157559",
+    "text": "Flobecq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1412058",
+    "parent": "157559",
+    "text": "Enghien",
+    "admin_level": "8"
+  },
+  {
+    "id": "1549983",
+    "parent": "157559",
+    "text": "Chimay",
+    "admin_level": "8"
+  },
+  {
+    "id": "1604416",
+    "parent": "157559",
+    "text": "Momignies",
+    "admin_level": "8"
+  },
+  {
+    "id": "1877567",
+    "parent": "157559",
+    "text": "Beaumont",
+    "admin_level": "8"
+  },
+  {
+    "id": "1877704",
+    "parent": "157559",
+    "text": "Sivry-Rance",
+    "admin_level": "8"
+  },
+  {
+    "id": "1878349",
+    "parent": "157559",
+    "text": "Froidchapelle",
+    "admin_level": "8"
+  },
+  {
+    "id": "1880659",
+    "parent": "157559",
+    "text": "Merbes-le-Ch\u00e2teau",
+    "admin_level": "8"
+  },
+  {
+    "id": "1881784",
+    "parent": "157559",
+    "text": "Erquelinnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "1903480",
+    "parent": "157559",
+    "text": "Frameries",
+    "admin_level": "8"
+  },
+  {
+    "id": "1904654",
+    "parent": "157559",
+    "text": "Qu\u00e9vy",
+    "admin_level": "8"
+  },
+  {
+    "id": "1917247",
+    "parent": "157559",
+    "text": "Estinnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "1919117",
+    "parent": "157559",
+    "text": "Honnelles",
+    "admin_level": "8"
+  },
+  {
+    "id": "1920616",
+    "parent": "157559",
+    "text": "Mouscron",
+    "admin_level": "8"
+  },
+  {
+    "id": "1924183",
+    "parent": "157559",
+    "text": "Lessines",
+    "admin_level": "8"
+  },
+  {
+    "id": "1942908",
+    "parent": "157559",
+    "text": "Ellezelles",
+    "admin_level": "8"
+  },
+  {
+    "id": "1946207",
+    "parent": "157559",
+    "text": "Silly",
+    "admin_level": "8"
+  },
+  {
+    "id": "1949374",
+    "parent": "157559",
+    "text": "Mons",
+    "admin_level": "8"
+  },
+  {
+    "id": "1998893",
+    "parent": "157559",
+    "text": "Thuin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002464",
+    "parent": "157559",
+    "text": "Frasnes-lez-Anvaing",
+    "admin_level": "8"
+  },
+  {
+    "id": "2018722",
+    "parent": "157559",
+    "text": "Ham-sur-Heure-Nalinnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2018746",
+    "parent": "157559",
+    "text": "Montigny-le-Tilleul",
+    "admin_level": "8"
+  },
+  {
+    "id": "2036429",
+    "parent": "157559",
+    "text": "Fontaine-l'\u00c9v\u00eaque",
+    "admin_level": "8"
+  },
+  {
+    "id": "2075616",
+    "parent": "157559",
+    "text": "Anderlues",
+    "admin_level": "8"
+  },
+  {
+    "id": "2075681",
+    "parent": "157559",
+    "text": "Lobbes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2077347",
+    "parent": "157559",
+    "text": "Binche",
+    "admin_level": "8"
+  },
+  {
+    "id": "2083031",
+    "parent": "157559",
+    "text": "La Louvi\u00e8re",
+    "admin_level": "8"
+  },
+  {
+    "id": "2113725",
+    "parent": "157559",
+    "text": "Charleroi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2125248",
+    "parent": "157559",
+    "text": "Pont-\u00e0-Celles",
+    "admin_level": "8"
+  },
+  {
+    "id": "2129466",
+    "parent": "157559",
+    "text": "Seneffe",
+    "admin_level": "8"
+  },
+  {
+    "id": "2132103",
+    "parent": "157559",
+    "text": "Les Bons Villers",
+    "admin_level": "8"
+  },
+  {
+    "id": "2132111",
+    "parent": "157559",
+    "text": "Fleurus",
+    "admin_level": "8"
+  },
+  {
+    "id": "2139840",
+    "parent": "157559",
+    "text": "Gerpinnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2147710",
+    "parent": "157559",
+    "text": "Farciennes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2147711",
+    "parent": "157559",
+    "text": "Ch\u00e2telet",
+    "admin_level": "8"
+  },
+  {
+    "id": "2147712",
+    "parent": "157559",
+    "text": "Aiseau-Presles",
+    "admin_level": "8"
+  },
+  {
+    "id": "2153672",
+    "parent": "157559",
+    "text": "Courcelles",
+    "admin_level": "8"
+  },
+  {
+    "id": "2153675",
+    "parent": "157559",
+    "text": "Chapelle-lez-Herlaimont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2153703",
+    "parent": "157559",
+    "text": "Manage",
+    "admin_level": "8"
+  },
+  {
+    "id": "2153704",
+    "parent": "157559",
+    "text": "Morlanwelz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2160319",
+    "parent": "157559",
+    "text": "Braine-le-Comte",
+    "admin_level": "8"
+  },
+  {
+    "id": "2160539",
+    "parent": "157559",
+    "text": "\u00c9caussinnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2160648",
+    "parent": "157559",
+    "text": "Le R\u0153ulx",
+    "admin_level": "8"
+  },
+  {
+    "id": "2162968",
+    "parent": "157559",
+    "text": "Rumes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2162969",
+    "parent": "157559",
+    "text": "Brunehaut",
+    "admin_level": "8"
+  },
+  {
+    "id": "2162970",
+    "parent": "157559",
+    "text": "Tournai",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163425",
+    "parent": "157559",
+    "text": "Antoing",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163651",
+    "parent": "157559",
+    "text": "P\u00e9ruwelz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163682",
+    "parent": "157559",
+    "text": "Leuze-en-Hainaut",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163688",
+    "parent": "157559",
+    "text": "Estaimpuis",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163689",
+    "parent": "157559",
+    "text": "Pecq",
+    "admin_level": "8"
+  },
+  {
+    "id": "2163690",
+    "parent": "157559",
+    "text": "Celles",
+    "admin_level": "8"
+  },
+  {
+    "id": "2164171",
+    "parent": "157559",
+    "text": "Mont-de-l'Enclus",
+    "admin_level": "8"
+  },
+  {
+    "id": "2165493",
+    "parent": "157559",
+    "text": "Ath",
+    "admin_level": "8"
+  },
+  {
+    "id": "2166829",
+    "parent": "157559",
+    "text": "Bel\u0153il",
+    "admin_level": "8"
+  },
+  {
+    "id": "2166830",
+    "parent": "157559",
+    "text": "Bernissart",
+    "admin_level": "8"
+  },
+  {
+    "id": "2170412",
+    "parent": "157559",
+    "text": "Chi\u00e8vres",
+    "admin_level": "8"
+  },
+  {
+    "id": "2170413",
+    "parent": "157559",
+    "text": "Brugelette",
+    "admin_level": "8"
+  },
+  {
+    "id": "2170568",
+    "parent": "157559",
+    "text": "Saint-Ghislain",
+    "admin_level": "8"
+  },
+  {
+    "id": "2170571",
+    "parent": "157559",
+    "text": "Hensies",
+    "admin_level": "8"
+  },
+  {
+    "id": "2175156",
+    "parent": "157559",
+    "text": "Qui\u00e9vrain",
+    "admin_level": "8"
+  },
+  {
+    "id": "2175157",
+    "parent": "157559",
+    "text": "Quaregnon",
+    "admin_level": "8"
+  },
+  {
+    "id": "2175517",
+    "parent": "157559",
+    "text": "Dour",
+    "admin_level": "8"
+  },
+  {
+    "id": "2175521",
+    "parent": "157559",
+    "text": "Colfontaine",
+    "admin_level": "8"
+  },
+  {
+    "id": "2175522",
+    "parent": "157559",
+    "text": "Boussu",
+    "admin_level": "8"
+  },
+  {
+    "id": "2178169",
+    "parent": "157559",
+    "text": "Jurbise",
+    "admin_level": "8"
+  },
+  {
+    "id": "2180484",
+    "parent": "157559",
+    "text": "Soignies",
+    "admin_level": "8"
+  },
+  {
+    "id": "2180490",
+    "parent": "157559",
+    "text": "Lens",
+    "admin_level": "8"
+  },
+  {
+    "id": "53137",
+    "parent": "53114",
+    "text": "Baarle-Hertog",
+    "admin_level": "8"
+  },
+  {
+    "id": "58333",
+    "parent": "53114",
+    "text": "Niel",
+    "admin_level": "8"
+  },
+  {
+    "id": "58364",
+    "parent": "53114",
+    "text": "Schelle",
+    "admin_level": "8"
+  },
+  {
+    "id": "58376",
+    "parent": "53114",
+    "text": "Hemiksem",
+    "admin_level": "8"
+  },
+  {
+    "id": "58545",
+    "parent": "53114",
+    "text": "Aartselaar",
+    "admin_level": "8"
+  },
+  {
+    "id": "58564",
+    "parent": "53114",
+    "text": "Kontich",
+    "admin_level": "8"
+  },
+  {
+    "id": "58565",
+    "parent": "53114",
+    "text": "Edegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "58641",
+    "parent": "53114",
+    "text": "Mortsel",
+    "admin_level": "8"
+  },
+  {
+    "id": "58642",
+    "parent": "53114",
+    "text": "Hove",
+    "admin_level": "8"
+  },
+  {
+    "id": "58656",
+    "parent": "53114",
+    "text": "Lint",
+    "admin_level": "8"
+  },
+  {
+    "id": "58824",
+    "parent": "53114",
+    "text": "Rumst",
+    "admin_level": "8"
+  },
+  {
+    "id": "58860",
+    "parent": "53114",
+    "text": "Boom",
+    "admin_level": "8"
+  },
+  {
+    "id": "59518",
+    "parent": "53114",
+    "text": "Antwerp",
+    "admin_level": "8"
+  },
+  {
+    "id": "60973",
+    "parent": "53114",
+    "text": "Stabroek",
+    "admin_level": "8"
+  },
+  {
+    "id": "61255",
+    "parent": "53114",
+    "text": "Kapellen",
+    "admin_level": "8"
+  },
+  {
+    "id": "76278",
+    "parent": "53114",
+    "text": "Boechout",
+    "admin_level": "8"
+  },
+  {
+    "id": "310363",
+    "parent": "53114",
+    "text": "Wijnegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "310381",
+    "parent": "53114",
+    "text": "Wommelgem",
+    "admin_level": "8"
+  },
+  {
+    "id": "391113",
+    "parent": "53114",
+    "text": "Bornem",
+    "admin_level": "8"
+  },
+  {
+    "id": "391117",
+    "parent": "53114",
+    "text": "Puurs-Sint-Amands",
+    "admin_level": "8"
+  },
+  {
+    "id": "398058",
+    "parent": "53114",
+    "text": "Putte",
+    "admin_level": "8"
+  },
+  {
+    "id": "398062",
+    "parent": "53114",
+    "text": "Bonheiden",
+    "admin_level": "8"
+  },
+  {
+    "id": "408294",
+    "parent": "53114",
+    "text": "Brasschaat",
+    "admin_level": "8"
+  },
+  {
+    "id": "408297",
+    "parent": "53114",
+    "text": "Schoten",
+    "admin_level": "8"
+  },
+  {
+    "id": "412864",
+    "parent": "53114",
+    "text": "Mechelen",
+    "admin_level": "8"
+  },
+  {
+    "id": "414233",
+    "parent": "53114",
+    "text": "Willebroek",
+    "admin_level": "8"
+  },
+  {
+    "id": "414402",
+    "parent": "53114",
+    "text": "Sint-Katelijne-Waver",
+    "admin_level": "8"
+  },
+  {
+    "id": "964003",
+    "parent": "53114",
+    "text": "Essen",
+    "admin_level": "8"
+  },
+  {
+    "id": "964195",
+    "parent": "53114",
+    "text": "Duffel",
+    "admin_level": "8"
+  },
+  {
+    "id": "964259",
+    "parent": "53114",
+    "text": "Lier",
+    "admin_level": "8"
+  },
+  {
+    "id": "1178384",
+    "parent": "53114",
+    "text": "Heist-op-den-Berg",
+    "admin_level": "8"
+  },
+  {
+    "id": "1186624",
+    "parent": "53114",
+    "text": "Berlaar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1263541",
+    "parent": "53114",
+    "text": "Geel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1263864",
+    "parent": "53114",
+    "text": "Mol",
+    "admin_level": "8"
+  },
+  {
+    "id": "1263915",
+    "parent": "53114",
+    "text": "Balen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1264080",
+    "parent": "53114",
+    "text": "Meerhout",
+    "admin_level": "8"
+  },
+  {
+    "id": "1264101",
+    "parent": "53114",
+    "text": "Laakdal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1265121",
+    "parent": "53114",
+    "text": "Dessel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1265126",
+    "parent": "53114",
+    "text": "Retie",
+    "admin_level": "8"
+  },
+  {
+    "id": "1274122",
+    "parent": "53114",
+    "text": "Turnhout",
+    "admin_level": "8"
+  },
+  {
+    "id": "1274221",
+    "parent": "53114",
+    "text": "Ravels",
+    "admin_level": "8"
+  },
+  {
+    "id": "1274222",
+    "parent": "53114",
+    "text": "Oud-Turnhout",
+    "admin_level": "8"
+  },
+  {
+    "id": "1274223",
+    "parent": "53114",
+    "text": "Arendonk",
+    "admin_level": "8"
+  },
+  {
+    "id": "1275056",
+    "parent": "53114",
+    "text": "Herentals",
+    "admin_level": "8"
+  },
+  {
+    "id": "1277900",
+    "parent": "53114",
+    "text": "Malle",
+    "admin_level": "8"
+  },
+  {
+    "id": "1277901",
+    "parent": "53114",
+    "text": "Zandhoven",
+    "admin_level": "8"
+  },
+  {
+    "id": "1277952",
+    "parent": "53114",
+    "text": "Rijkevorsel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1277957",
+    "parent": "53114",
+    "text": "Brecht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282302",
+    "parent": "53114",
+    "text": "Westerlo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282303",
+    "parent": "53114",
+    "text": "Herselt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282313",
+    "parent": "53114",
+    "text": "Hulshout",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282320",
+    "parent": "53114",
+    "text": "Olen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282971",
+    "parent": "53114",
+    "text": "Kasterlee",
+    "admin_level": "8"
+  },
+  {
+    "id": "1282972",
+    "parent": "53114",
+    "text": "Lille",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283041",
+    "parent": "53114",
+    "text": "Vosselaar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283042",
+    "parent": "53114",
+    "text": "Beerse",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283231",
+    "parent": "53114",
+    "text": "Vorselaar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283235",
+    "parent": "53114",
+    "text": "Grobbendonk",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283244",
+    "parent": "53114",
+    "text": "Herenthout",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283245",
+    "parent": "53114",
+    "text": "Nijlen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283354",
+    "parent": "53114",
+    "text": "Zoersel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283355",
+    "parent": "53114",
+    "text": "Ranst",
+    "admin_level": "8"
+  },
+  {
+    "id": "1283358",
+    "parent": "53114",
+    "text": "Schilde",
+    "admin_level": "8"
+  },
+  {
+    "id": "1284051",
+    "parent": "53114",
+    "text": "Merksplas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1284064",
+    "parent": "53114",
+    "text": "Hoogstraten",
+    "admin_level": "8"
+  },
+  {
+    "id": "1284088",
+    "parent": "53114",
+    "text": "Wuustwezel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1284337",
+    "parent": "53114",
+    "text": "Kalmthout",
+    "admin_level": "8"
+  },
+  {
+    "id": "404525",
+    "parent": "53142",
+    "text": "Voeren - Fourons",
+    "admin_level": "8"
+  },
+  {
+    "id": "405711",
+    "parent": "53142",
+    "text": "Genk",
+    "admin_level": "8"
+  },
+  {
+    "id": "965489",
+    "parent": "53142",
+    "text": "Maasmechelen",
+    "admin_level": "8"
+  },
+  {
+    "id": "965575",
+    "parent": "53142",
+    "text": "Maaseik",
+    "admin_level": "8"
+  },
+  {
+    "id": "965583",
+    "parent": "53142",
+    "text": "Dilsen-Stokkem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1204552",
+    "parent": "53142",
+    "text": "Halen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1225860",
+    "parent": "53142",
+    "text": "Lommel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1225886",
+    "parent": "53142",
+    "text": "Hechtel-Eksel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1225888",
+    "parent": "53142",
+    "text": "Pelt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1225919",
+    "parent": "53142",
+    "text": "Peer",
+    "admin_level": "8"
+  },
+  {
+    "id": "1229559",
+    "parent": "53142",
+    "text": "Beringen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1229644",
+    "parent": "53142",
+    "text": "Tessenderlo-Ham",
+    "admin_level": "8"
+  },
+  {
+    "id": "1229781",
+    "parent": "53142",
+    "text": "Leopoldsburg",
+    "admin_level": "8"
+  },
+  {
+    "id": "1230716",
+    "parent": "53142",
+    "text": "Hasselt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1243514",
+    "parent": "53142",
+    "text": "Wellen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1243777",
+    "parent": "53142",
+    "text": "Diepenbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "1244996",
+    "parent": "53142",
+    "text": "Tongeren-Borgloon",
+    "admin_level": "8"
+  },
+  {
+    "id": "1244997",
+    "parent": "53142",
+    "text": "Heers",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245010",
+    "parent": "53142",
+    "text": "Riemst",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245629",
+    "parent": "53142",
+    "text": "Alken",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245632",
+    "parent": "53142",
+    "text": "Herk-de-Stad",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245637",
+    "parent": "53142",
+    "text": "Zonhoven",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245638",
+    "parent": "53142",
+    "text": "Heusden-Zolder",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245642",
+    "parent": "53142",
+    "text": "Houthalen-Helchteren",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245870",
+    "parent": "53142",
+    "text": "Lummen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245883",
+    "parent": "53142",
+    "text": "Nieuwerkerken",
+    "admin_level": "8"
+  },
+  {
+    "id": "1245886",
+    "parent": "53142",
+    "text": "Sint-Truiden",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246112",
+    "parent": "53142",
+    "text": "Bilzen-Hoeselt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246115",
+    "parent": "53142",
+    "text": "Zutendaal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246116",
+    "parent": "53142",
+    "text": "Lanaken",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246147",
+    "parent": "53142",
+    "text": "As",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246264",
+    "parent": "53142",
+    "text": "Bocholt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246290",
+    "parent": "53142",
+    "text": "Kinrooi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246296",
+    "parent": "53142",
+    "text": "Bree",
+    "admin_level": "8"
+  },
+  {
+    "id": "1246374",
+    "parent": "53142",
+    "text": "Oudsbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1247306",
+    "parent": "53142",
+    "text": "Hamont-Achel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2129894",
+    "parent": "53142",
+    "text": "Herstappe",
+    "admin_level": "8"
+  },
+  {
+    "id": "4720762",
+    "parent": "53142",
+    "text": "Gingelom",
+    "admin_level": "8"
+  },
+  {
+    "id": "77186",
+    "parent": "58004",
+    "text": "Wemmel",
+    "admin_level": "8"
+  },
+  {
+    "id": "78796",
+    "parent": "58004",
+    "text": "Sint-Genesius-Rode - Rhode-Saint-Gen\u00e8se",
+    "admin_level": "8"
+  },
+  {
+    "id": "78808",
+    "parent": "58004",
+    "text": "Linkebeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "78953",
+    "parent": "58004",
+    "text": "Drogenbos",
+    "admin_level": "8"
+  },
+  {
+    "id": "78954",
+    "parent": "58004",
+    "text": "Kraainem",
+    "admin_level": "8"
+  },
+  {
+    "id": "78958",
+    "parent": "58004",
+    "text": "Wezembeek-Oppem",
+    "admin_level": "8"
+  },
+  {
+    "id": "111613",
+    "parent": "58004",
+    "text": "Beersel",
+    "admin_level": "8"
+  },
+  {
+    "id": "112011",
+    "parent": "58004",
+    "text": "Grimbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "120261",
+    "parent": "58004",
+    "text": "Haacht",
+    "admin_level": "8"
+  },
+  {
+    "id": "175138",
+    "parent": "58004",
+    "text": "Boortmeerbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "191698",
+    "parent": "58004",
+    "text": "Hoeilaart",
+    "admin_level": "8"
+  },
+  {
+    "id": "191699",
+    "parent": "58004",
+    "text": "Overijse",
+    "admin_level": "8"
+  },
+  {
+    "id": "195697",
+    "parent": "58004",
+    "text": "Vilvoorde",
+    "admin_level": "8"
+  },
+  {
+    "id": "196175",
+    "parent": "58004",
+    "text": "Zemst",
+    "admin_level": "8"
+  },
+  {
+    "id": "196184",
+    "parent": "58004",
+    "text": "Zaventem",
+    "admin_level": "8"
+  },
+  {
+    "id": "196185",
+    "parent": "58004",
+    "text": "Machelen",
+    "admin_level": "8"
+  },
+  {
+    "id": "196304",
+    "parent": "58004",
+    "text": "Oud-Heverlee",
+    "admin_level": "8"
+  },
+  {
+    "id": "196311",
+    "parent": "58004",
+    "text": "Leuven",
+    "admin_level": "8"
+  },
+  {
+    "id": "199135",
+    "parent": "58004",
+    "text": "Sint-Pieters-Leeuw",
+    "admin_level": "8"
+  },
+  {
+    "id": "206480",
+    "parent": "58004",
+    "text": "Halle",
+    "admin_level": "8"
+  },
+  {
+    "id": "207264",
+    "parent": "58004",
+    "text": "Tervuren",
+    "admin_level": "8"
+  },
+  {
+    "id": "214461",
+    "parent": "58004",
+    "text": "Herent",
+    "admin_level": "8"
+  },
+  {
+    "id": "214462",
+    "parent": "58004",
+    "text": "Rotselaar",
+    "admin_level": "8"
+  },
+  {
+    "id": "214464",
+    "parent": "58004",
+    "text": "Keerbergen",
+    "admin_level": "8"
+  },
+  {
+    "id": "225045",
+    "parent": "58004",
+    "text": "Dilbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "225173",
+    "parent": "58004",
+    "text": "Asse",
+    "admin_level": "8"
+  },
+  {
+    "id": "408312",
+    "parent": "58004",
+    "text": "Tremelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "414615",
+    "parent": "58004",
+    "text": "Kampenhout",
+    "admin_level": "8"
+  },
+  {
+    "id": "414918",
+    "parent": "58004",
+    "text": "Steenokkerzeel",
+    "admin_level": "8"
+  },
+  {
+    "id": "414919",
+    "parent": "58004",
+    "text": "Kortenberg",
+    "admin_level": "8"
+  },
+  {
+    "id": "415817",
+    "parent": "58004",
+    "text": "Bertem",
+    "admin_level": "8"
+  },
+  {
+    "id": "415851",
+    "parent": "58004",
+    "text": "Huldenberg",
+    "admin_level": "8"
+  },
+  {
+    "id": "415952",
+    "parent": "58004",
+    "text": "Bierbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "415955",
+    "parent": "58004",
+    "text": "Lubbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "416478",
+    "parent": "58004",
+    "text": "Boutersem",
+    "admin_level": "8"
+  },
+  {
+    "id": "416479",
+    "parent": "58004",
+    "text": "Hoegaarden",
+    "admin_level": "8"
+  },
+  {
+    "id": "454227",
+    "parent": "58004",
+    "text": "Tienen",
+    "admin_level": "8"
+  },
+  {
+    "id": "455293",
+    "parent": "58004",
+    "text": "Landen",
+    "admin_level": "8"
+  },
+  {
+    "id": "543500",
+    "parent": "58004",
+    "text": "Holsbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "912292",
+    "parent": "58004",
+    "text": "Londerzeel",
+    "admin_level": "8"
+  },
+  {
+    "id": "912314",
+    "parent": "58004",
+    "text": "Merchtem",
+    "admin_level": "8"
+  },
+  {
+    "id": "913885",
+    "parent": "58004",
+    "text": "Meise",
+    "admin_level": "8"
+  },
+  {
+    "id": "913906",
+    "parent": "58004",
+    "text": "Opwijk",
+    "admin_level": "8"
+  },
+  {
+    "id": "929868",
+    "parent": "58004",
+    "text": "Aarschot",
+    "admin_level": "8"
+  },
+  {
+    "id": "939421",
+    "parent": "58004",
+    "text": "Kapelle-op-den-Bos",
+    "admin_level": "8"
+  },
+  {
+    "id": "958941",
+    "parent": "58004",
+    "text": "Begijnendijk",
+    "admin_level": "8"
+  },
+  {
+    "id": "966718",
+    "parent": "58004",
+    "text": "Glabbeek",
+    "admin_level": "8"
+  },
+  {
+    "id": "966721",
+    "parent": "58004",
+    "text": "Kortenaken",
+    "admin_level": "8"
+  },
+  {
+    "id": "966731",
+    "parent": "58004",
+    "text": "Linter",
+    "admin_level": "8"
+  },
+  {
+    "id": "1069815",
+    "parent": "58004",
+    "text": "Affligem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1069836",
+    "parent": "58004",
+    "text": "Ternat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1069845",
+    "parent": "58004",
+    "text": "Roosdaal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1145697",
+    "parent": "58004",
+    "text": "Lennik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1161890",
+    "parent": "58004",
+    "text": "Scherpenheuvel-Zichem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1164871",
+    "parent": "58004",
+    "text": "Bekkevoort",
+    "admin_level": "8"
+  },
+  {
+    "id": "1172633",
+    "parent": "58004",
+    "text": "Diest",
+    "admin_level": "8"
+  },
+  {
+    "id": "1181075",
+    "parent": "58004",
+    "text": "Zoutleeuw",
+    "admin_level": "8"
+  },
+  {
+    "id": "1204549",
+    "parent": "58004",
+    "text": "Bever",
+    "admin_level": "8"
+  },
+  {
+    "id": "1208449",
+    "parent": "58004",
+    "text": "Tielt-Winge",
+    "admin_level": "8"
+  },
+  {
+    "id": "1221158",
+    "parent": "58004",
+    "text": "Geetbets",
+    "admin_level": "8"
+  },
+  {
+    "id": "1225361",
+    "parent": "58004",
+    "text": "Pepingen",
+    "admin_level": "8"
+  },
+  {
+    "id": "18491515",
+    "parent": "58004",
+    "text": "Pajottegem",
+    "admin_level": "8"
+  },
+  {
+    "id": "18690655",
+    "parent": "58004",
+    "text": "Liedekerke",
+    "admin_level": "8"
+  },
+  {
+    "id": "191582",
+    "parent": "78748",
+    "text": "La Hulpe",
+    "admin_level": "8"
+  },
+  {
+    "id": "191673",
+    "parent": "78748",
+    "text": "Waterloo",
+    "admin_level": "8"
+  },
+  {
+    "id": "193152",
+    "parent": "78748",
+    "text": "Rixensart",
+    "admin_level": "8"
+  },
+  {
+    "id": "193156",
+    "parent": "78748",
+    "text": "Lasne",
+    "admin_level": "8"
+  },
+  {
+    "id": "216218",
+    "parent": "78748",
+    "text": "Braine-l'Alleud",
+    "admin_level": "8"
+  },
+  {
+    "id": "222516",
+    "parent": "78748",
+    "text": "Ottignies-Louvain-la-Neuve",
+    "admin_level": "8"
+  },
+  {
+    "id": "224757",
+    "parent": "78748",
+    "text": "Wavre",
+    "admin_level": "8"
+  },
+  {
+    "id": "386970",
+    "parent": "78748",
+    "text": "Tubize",
+    "admin_level": "8"
+  },
+  {
+    "id": "388600",
+    "parent": "78748",
+    "text": "Braine-le-Ch\u00e2teau",
+    "admin_level": "8"
+  },
+  {
+    "id": "1104553",
+    "parent": "78748",
+    "text": "Ittre",
+    "admin_level": "8"
+  },
+  {
+    "id": "1149708",
+    "parent": "78748",
+    "text": "Genappe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1149724",
+    "parent": "78748",
+    "text": "Nivelles",
+    "admin_level": "8"
+  },
+  {
+    "id": "1150063",
+    "parent": "78748",
+    "text": "Villers-la-Ville",
+    "admin_level": "8"
+  },
+  {
+    "id": "1150064",
+    "parent": "78748",
+    "text": "Court-Saint-Etienne",
+    "admin_level": "8"
+  },
+  {
+    "id": "1157669",
+    "parent": "78748",
+    "text": "Rebecq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1321606",
+    "parent": "78748",
+    "text": "Jodoigne",
+    "admin_level": "8"
+  },
+  {
+    "id": "1384087",
+    "parent": "78748",
+    "text": "Beauvechain",
+    "admin_level": "8"
+  },
+  {
+    "id": "1940440",
+    "parent": "78748",
+    "text": "Grez-Doiceau",
+    "admin_level": "8"
+  },
+  {
+    "id": "2101225",
+    "parent": "78748",
+    "text": "Chaumont-Gistoux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2102543",
+    "parent": "78748",
+    "text": "Incourt",
+    "admin_level": "8"
+  },
+  {
+    "id": "2102788",
+    "parent": "78748",
+    "text": "H\u00e9l\u00e9cine",
+    "admin_level": "8"
+  },
+  {
+    "id": "2102839",
+    "parent": "78748",
+    "text": "Orp-Jauche",
+    "admin_level": "8"
+  },
+  {
+    "id": "2102840",
+    "parent": "78748",
+    "text": "Ramillies",
+    "admin_level": "8"
+  },
+  {
+    "id": "2105643",
+    "parent": "78748",
+    "text": "Perwez",
+    "admin_level": "8"
+  },
+  {
+    "id": "2105648",
+    "parent": "78748",
+    "text": "Walhain",
+    "admin_level": "8"
+  },
+  {
+    "id": "2105649",
+    "parent": "78748",
+    "text": "Mont-Saint-Guibert",
+    "admin_level": "8"
+  },
+  {
+    "id": "2106898",
+    "parent": "78748",
+    "text": "Chastre",
+    "admin_level": "8"
+  },
+  {
+    "id": "1681788",
+    "parent": "1407192",
+    "text": "Li\u00e8ge",
+    "admin_level": "8"
+  },
+  {
+    "id": "1997428",
+    "parent": "1407192",
+    "text": "Amay",
+    "admin_level": "8"
+  },
+  {
+    "id": "1997464",
+    "parent": "1407192",
+    "text": "Verlaine",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002539",
+    "parent": "1407192",
+    "text": "Villers-le-Bouillet",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002544",
+    "parent": "1407192",
+    "text": "Saint-Georges-sur-Meuse",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002636",
+    "parent": "1407192",
+    "text": "Wanze",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002638",
+    "parent": "1407192",
+    "text": "Huy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2002639",
+    "parent": "1407192",
+    "text": "Engis",
+    "admin_level": "8"
+  },
+  {
+    "id": "2005240",
+    "parent": "1407192",
+    "text": "Nandrin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2033704",
+    "parent": "1407192",
+    "text": "Modave",
+    "admin_level": "8"
+  },
+  {
+    "id": "2362038",
+    "parent": "1407192",
+    "text": "Hannut",
+    "admin_level": "8"
+  },
+  {
+    "id": "2362039",
+    "parent": "1407192",
+    "text": "Lincent",
+    "admin_level": "8"
+  },
+  {
+    "id": "2363329",
+    "parent": "1407192",
+    "text": "Burdinne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2363330",
+    "parent": "1407192",
+    "text": "Wasseiges",
+    "admin_level": "8"
+  },
+  {
+    "id": "2363375",
+    "parent": "1407192",
+    "text": "Braives",
+    "admin_level": "8"
+  },
+  {
+    "id": "2363376",
+    "parent": "1407192",
+    "text": "Geer",
+    "admin_level": "8"
+  },
+  {
+    "id": "2365412",
+    "parent": "1407192",
+    "text": "Donceel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2365413",
+    "parent": "1407192",
+    "text": "Faimes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2367142",
+    "parent": "1407192",
+    "text": "H\u00e9ron",
+    "admin_level": "8"
+  },
+  {
+    "id": "2369338",
+    "parent": "1407192",
+    "text": "Oreye",
+    "admin_level": "8"
+  },
+  {
+    "id": "2369339",
+    "parent": "1407192",
+    "text": "Crisn\u00e9e",
+    "admin_level": "8"
+  },
+  {
+    "id": "2369347",
+    "parent": "1407192",
+    "text": "Remicourt",
+    "admin_level": "8"
+  },
+  {
+    "id": "2369379",
+    "parent": "1407192",
+    "text": "Fexhe-le-Haut-Clocher",
+    "admin_level": "8"
+  },
+  {
+    "id": "2370577",
+    "parent": "1407192",
+    "text": "Gr\u00e2ce-Hollogne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2372449",
+    "parent": "1407192",
+    "text": "Fl\u00e9malle",
+    "admin_level": "8"
+  },
+  {
+    "id": "2374114",
+    "parent": "1407192",
+    "text": "Berloz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2374606",
+    "parent": "1407192",
+    "text": "Awans",
+    "admin_level": "8"
+  },
+  {
+    "id": "2375479",
+    "parent": "1407192",
+    "text": "Waremme",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377747",
+    "parent": "1407192",
+    "text": "Anthisnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377748",
+    "parent": "1407192",
+    "text": "Clavier",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377751",
+    "parent": "1407192",
+    "text": "Ouffet",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377752",
+    "parent": "1407192",
+    "text": "Tinlot",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377779",
+    "parent": "1407192",
+    "text": "Ferri\u00e8res",
+    "admin_level": "8"
+  },
+  {
+    "id": "2377780",
+    "parent": "1407192",
+    "text": "Hamoir",
+    "admin_level": "8"
+  },
+  {
+    "id": "2387590",
+    "parent": "1407192",
+    "text": "Ans",
+    "admin_level": "8"
+  },
+  {
+    "id": "2387591",
+    "parent": "1407192",
+    "text": "Juprelle",
+    "admin_level": "8"
+  },
+  {
+    "id": "2387623",
+    "parent": "1407192",
+    "text": "Bassenge",
+    "admin_level": "8"
+  },
+  {
+    "id": "2389229",
+    "parent": "1407192",
+    "text": "Saint-Nicolas",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396836",
+    "parent": "1407192",
+    "text": "Verviers",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396837",
+    "parent": "1407192",
+    "text": "Welkenraedt",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396838",
+    "parent": "1407192",
+    "text": "Dison",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396839",
+    "parent": "1407192",
+    "text": "Limbourg",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396840",
+    "parent": "1407192",
+    "text": "Herve",
+    "admin_level": "8"
+  },
+  {
+    "id": "2396841",
+    "parent": "1407192",
+    "text": "Thimister-Clermont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2399230",
+    "parent": "1407192",
+    "text": "Herstal",
+    "admin_level": "8"
+  },
+  {
+    "id": "2399277",
+    "parent": "1407192",
+    "text": "Aubel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2399367",
+    "parent": "1407192",
+    "text": "Plombi\u00e8res",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400114",
+    "parent": "1407192",
+    "text": "Lontzen",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400116",
+    "parent": "1407192",
+    "text": "Kelmis - La Calamine",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400181",
+    "parent": "1407192",
+    "text": "Raeren",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400207",
+    "parent": "1407192",
+    "text": "Eupen",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400888",
+    "parent": "1407192",
+    "text": "Baelen",
+    "admin_level": "8"
+  },
+  {
+    "id": "2400889",
+    "parent": "1407192",
+    "text": "Jalhay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2402052",
+    "parent": "1407192",
+    "text": "Vis\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "2402053",
+    "parent": "1407192",
+    "text": "Oupeye",
+    "admin_level": "8"
+  },
+  {
+    "id": "2402391",
+    "parent": "1407192",
+    "text": "Waimes",
+    "admin_level": "8"
+  },
+  {
+    "id": "2409000",
+    "parent": "1407192",
+    "text": "Malmedy",
+    "admin_level": "8"
+  },
+  {
+    "id": "2409290",
+    "parent": "1407192",
+    "text": "Stavelot",
+    "admin_level": "8"
+  },
+  {
+    "id": "2411680",
+    "parent": "1407192",
+    "text": "Marchin",
+    "admin_level": "8"
+  },
+  {
+    "id": "2413544",
+    "parent": "1407192",
+    "text": "Sprimont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2416075",
+    "parent": "1407192",
+    "text": "Olne",
+    "admin_level": "8"
+  },
+  {
+    "id": "2416084",
+    "parent": "1407192",
+    "text": "Theux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2417895",
+    "parent": "1407192",
+    "text": "Esneux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422527",
+    "parent": "1407192",
+    "text": "Stoumont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2422528",
+    "parent": "1407192",
+    "text": "Spa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2426389",
+    "parent": "1407192",
+    "text": "Aywaille",
+    "admin_level": "8"
+  },
+  {
+    "id": "2426391",
+    "parent": "1407192",
+    "text": "Comblain-au-Pont",
+    "admin_level": "8"
+  },
+  {
+    "id": "2431869",
+    "parent": "1407192",
+    "text": "Dalhem",
+    "admin_level": "8"
+  },
+  {
+    "id": "2431896",
+    "parent": "1407192",
+    "text": "Blegny",
+    "admin_level": "8"
+  },
+  {
+    "id": "2433429",
+    "parent": "1407192",
+    "text": "Amel",
+    "admin_level": "8"
+  },
+  {
+    "id": "2433430",
+    "parent": "1407192",
+    "text": "Saint Vith",
+    "admin_level": "8"
+  },
+  {
+    "id": "2435381",
+    "parent": "1407192",
+    "text": "B\u00fctgenbach",
+    "admin_level": "8"
+  },
+  {
+    "id": "2435409",
+    "parent": "1407192",
+    "text": "B\u00fcllingen",
+    "admin_level": "8"
+  },
+  {
+    "id": "2435417",
+    "parent": "1407192",
+    "text": "Seraing",
+    "admin_level": "8"
+  },
+  {
+    "id": "2435520",
+    "parent": "1407192",
+    "text": "Trooz",
+    "admin_level": "8"
+  },
+  {
+    "id": "2435591",
+    "parent": "1407192",
+    "text": "Chaudfontaine",
+    "admin_level": "8"
+  },
+  {
+    "id": "2436182",
+    "parent": "1407192",
+    "text": "Burg-Reuland",
+    "admin_level": "8"
+  },
+  {
+    "id": "2436183",
+    "parent": "1407192",
+    "text": "Lierneux",
+    "admin_level": "8"
+  },
+  {
+    "id": "2436184",
+    "parent": "1407192",
+    "text": "Pepinster",
+    "admin_level": "8"
+  },
+  {
+    "id": "2436185",
+    "parent": "1407192",
+    "text": "Trois-Ponts",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437273",
+    "parent": "1407192",
+    "text": "Beyne-Heusay",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437275",
+    "parent": "1407192",
+    "text": "Fl\u00e9ron",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437276",
+    "parent": "1407192",
+    "text": "Neupr\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "2437277",
+    "parent": "1407192",
+    "text": "Soumagne",
+    "admin_level": "8"
+  }
+]

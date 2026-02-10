@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3230988",
+    "parent": "192777",
+    "text": "Eastern Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "3230989",
+    "parent": "192777",
+    "text": "Northern Province, Sierra Leone",
+    "admin_level": "4"
+  },
+  {
+    "id": "3230990",
+    "parent": "192777",
+    "text": "Southern Province, Sierra Leone",
+    "admin_level": "4"
+  },
+  {
+    "id": "3242455",
+    "parent": "192777",
+    "text": "Western Area",
+    "admin_level": "4"
+  },
+  {
+    "id": "9636490",
+    "parent": "192777",
+    "text": "North West Province, Sierra Leone",
+    "admin_level": "4"
+  },
+  {
+    "id": "2541272",
+    "parent": "3230990",
+    "text": "Ribbi Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2608049",
+    "parent": "3230990",
+    "text": "Bagruwa Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2610121",
+    "parent": "3230990",
+    "text": "Kagboro Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2610122",
+    "parent": "3230990",
+    "text": "Timdale Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2655862",
+    "parent": "3230990",
+    "text": "Bum Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2655863",
+    "parent": "3230990",
+    "text": "Yawbeko Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2656414",
+    "parent": "3230990",
+    "text": "Kwamebai Krim Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2658602",
+    "parent": "3230990",
+    "text": "Upper Banta Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2610633",
+    "parent": "9636490",
+    "text": "Koya Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2612480",
+    "parent": "9636490",
+    "text": "Tambakha Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2615301",
+    "parent": "9636490",
+    "text": "Masimera Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2615302",
+    "parent": "9636490",
+    "text": "Sanda Magbolonto Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2636532",
+    "parent": "9636490",
+    "text": "Maforki Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2637561",
+    "parent": "9636490",
+    "text": "Marampa Chiefdom",
+    "admin_level": "6"
+  },
+  {
+    "id": "2654897",
+    "parent": "9636490",
+    "text": "Buya Romende Chiefdom",
+    "admin_level": "6"
+  }
+]

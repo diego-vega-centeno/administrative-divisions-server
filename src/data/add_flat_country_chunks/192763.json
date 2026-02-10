@@ -1,0 +1,152 @@
+[
+  {
+    "id": "3394986",
+    "parent": "192763",
+    "text": "Adrar",
+    "admin_level": "4"
+  },
+  {
+    "id": "3394987",
+    "parent": "192763",
+    "text": "Hodh Ech Chargui",
+    "admin_level": "4"
+  },
+  {
+    "id": "3394988",
+    "parent": "192763",
+    "text": "Tagant",
+    "admin_level": "4"
+  },
+  {
+    "id": "3394989",
+    "parent": "192763",
+    "text": "Tiris Zemmour",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395035",
+    "parent": "192763",
+    "text": "Dakhlet Nouadhibou",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395036",
+    "parent": "192763",
+    "text": "Hodh El Gharbi",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395037",
+    "parent": "192763",
+    "text": "Inchiri",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395130",
+    "parent": "192763",
+    "text": "Nouakchott-Nord Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395241",
+    "parent": "192763",
+    "text": "Assaba",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395242",
+    "parent": "192763",
+    "text": "Brakna",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395243",
+    "parent": "192763",
+    "text": "Gorgol",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395244",
+    "parent": "192763",
+    "text": "Guidimaka",
+    "admin_level": "4"
+  },
+  {
+    "id": "3395245",
+    "parent": "192763",
+    "text": "Trarza",
+    "admin_level": "4"
+  },
+  {
+    "id": "16510635",
+    "parent": "192763",
+    "text": "Nouakchott-Sud Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "16510636",
+    "parent": "192763",
+    "text": "Nouakchott-Ouest Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "6649937",
+    "parent": "3395245",
+    "text": "\u0627\u0644\u062f\u0627\u0626\u0631\u0629 \u0627\u0631\u0643\u064a\u0632",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510632",
+    "parent": "3395130",
+    "text": "Toujounine",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510633",
+    "parent": "3395130",
+    "text": "Dar Naim",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510634",
+    "parent": "3395130",
+    "text": "Teyarett",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510626",
+    "parent": "16510636",
+    "text": "Ksar",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510627",
+    "parent": "16510636",
+    "text": "Tevragh Zein",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510628",
+    "parent": "16510636",
+    "text": "Sebkha",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510629",
+    "parent": "16510635",
+    "text": "Arafat",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510630",
+    "parent": "16510635",
+    "text": "El Mina",
+    "admin_level": "6"
+  },
+  {
+    "id": "16510631",
+    "parent": "16510635",
+    "text": "Riyadh",
+    "admin_level": "6"
+  }
+]

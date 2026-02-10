@@ -1,0 +1,578 @@
+[
+  {
+    "id": "2803879",
+    "parent": "192784",
+    "text": "Alibori Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2803880",
+    "parent": "192784",
+    "text": "Borgou Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2845850",
+    "parent": "192784",
+    "text": "Atakora Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2845865",
+    "parent": "192784",
+    "text": "Donga Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2845888",
+    "parent": "192784",
+    "text": "Collines Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2846872",
+    "parent": "192784",
+    "text": "Plateau Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2846873",
+    "parent": "192784",
+    "text": "Zou Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2846891",
+    "parent": "192784",
+    "text": "Kouffo Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2848205",
+    "parent": "192784",
+    "text": "Atlantique Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2848206",
+    "parent": "192784",
+    "text": "Littoral Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2848207",
+    "parent": "192784",
+    "text": "Mono Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2848208",
+    "parent": "192784",
+    "text": "Ou\u00e9m\u00e9 Department",
+    "admin_level": "4"
+  },
+  {
+    "id": "2946143",
+    "parent": "2848205",
+    "text": "S\u00f4-Ava",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946172",
+    "parent": "2848205",
+    "text": "Abomey-Calavi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946173",
+    "parent": "2848205",
+    "text": "Ouidah",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946419",
+    "parent": "2848205",
+    "text": "Allada",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946426",
+    "parent": "2848205",
+    "text": "Kpomass\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946428",
+    "parent": "2848205",
+    "text": "Toffo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946429",
+    "parent": "2848205",
+    "text": "Tori-Bossito",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946430",
+    "parent": "2848205",
+    "text": "Z\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946420",
+    "parent": "2848207",
+    "text": "Athi\u00e9m\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946421",
+    "parent": "2848207",
+    "text": "Bopa",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946422",
+    "parent": "2848207",
+    "text": "Com\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946424",
+    "parent": "2848207",
+    "text": "Grand-Popo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946425",
+    "parent": "2848207",
+    "text": "Hou\u00e9yogb\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946427",
+    "parent": "2848207",
+    "text": "Lokossa",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859960",
+    "parent": "2803880",
+    "text": "Bemb\u00e8r\u00e8k\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859961",
+    "parent": "2803880",
+    "text": "Kalal\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859962",
+    "parent": "2803880",
+    "text": "N'Dali",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859963",
+    "parent": "2803880",
+    "text": "Nikki",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859964",
+    "parent": "2803880",
+    "text": "Parakou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859965",
+    "parent": "2803880",
+    "text": "P\u00e8r\u00e8r\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859966",
+    "parent": "2803880",
+    "text": "Sinend\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2859967",
+    "parent": "2803880",
+    "text": "Tchaourou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2851895",
+    "parent": "2845865",
+    "text": "Copargo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2851897",
+    "parent": "2845865",
+    "text": "Ouak\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2851901",
+    "parent": "2845865",
+    "text": "Djougou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2944694",
+    "parent": "2845865",
+    "text": "Bassila",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860037",
+    "parent": "2845888",
+    "text": "Savalou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860038",
+    "parent": "2845888",
+    "text": "Bant\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860039",
+    "parent": "2845888",
+    "text": "Dassa-Zoum\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860040",
+    "parent": "2845888",
+    "text": "Glazou\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860041",
+    "parent": "2845888",
+    "text": "Ou\u00e8ss\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2860042",
+    "parent": "2845888",
+    "text": "Sav\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945784",
+    "parent": "2846872",
+    "text": "Adja-Ou\u00e8r\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945788",
+    "parent": "2846872",
+    "text": "Ifangni",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945789",
+    "parent": "2846872",
+    "text": "K\u00e9tou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945790",
+    "parent": "2846872",
+    "text": "Pob\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945792",
+    "parent": "2846872",
+    "text": "Sak\u00e9t\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945973",
+    "parent": "2846873",
+    "text": "Ouinhi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945974",
+    "parent": "2846873",
+    "text": "Zangnanado",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945975",
+    "parent": "2846873",
+    "text": "Zogbodomey",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946027",
+    "parent": "2846873",
+    "text": "Abomey",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946028",
+    "parent": "2846873",
+    "text": "Agbangnizoun",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946029",
+    "parent": "2846873",
+    "text": "Bohicon",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946030",
+    "parent": "2846873",
+    "text": "Cov\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946031",
+    "parent": "2846873",
+    "text": "Djidja",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946032",
+    "parent": "2846873",
+    "text": "Za-Kpota",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946423",
+    "parent": "2846891",
+    "text": "Dogbo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946532",
+    "parent": "2846891",
+    "text": "Aplahou\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946533",
+    "parent": "2846891",
+    "text": "Djakotomey",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946534",
+    "parent": "2846891",
+    "text": "Klou\u00e9kanm\u00e8",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946535",
+    "parent": "2846891",
+    "text": "Lalo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2946536",
+    "parent": "2846891",
+    "text": "Toviklin",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945785",
+    "parent": "2848208",
+    "text": "Adjarra",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945786",
+    "parent": "2848208",
+    "text": "Agu\u00e9gu\u00e9s",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945787",
+    "parent": "2848208",
+    "text": "Avrankou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945791",
+    "parent": "2848208",
+    "text": "Porto Novo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945793",
+    "parent": "2848208",
+    "text": "S\u00e8m\u00e8-Kpodji",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945927",
+    "parent": "2848208",
+    "text": "Akpro-Miss\u00e9r\u00e9t\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945935",
+    "parent": "2848208",
+    "text": "Adjohoun",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945936",
+    "parent": "2848208",
+    "text": "Bonou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2945937",
+    "parent": "2848208",
+    "text": "Dangbo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2851879",
+    "parent": "2848206",
+    "text": "Cotonou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2848162",
+    "parent": "2803879",
+    "text": "Banikoara",
+    "admin_level": "6"
+  },
+  {
+    "id": "2848356",
+    "parent": "2803879",
+    "text": "Karimama",
+    "admin_level": "6"
+  },
+  {
+    "id": "2848470",
+    "parent": "2803879",
+    "text": "Malanville",
+    "admin_level": "6"
+  },
+  {
+    "id": "2850491",
+    "parent": "2803879",
+    "text": "Segbana",
+    "admin_level": "6"
+  },
+  {
+    "id": "2850527",
+    "parent": "2803879",
+    "text": "Gogounou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2850528",
+    "parent": "2803879",
+    "text": "Kandi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845145",
+    "parent": "2845850",
+    "text": "Boukomb\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845193",
+    "parent": "2845850",
+    "text": "Cobli",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845202",
+    "parent": "2845850",
+    "text": "Materi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845829",
+    "parent": "2845850",
+    "text": "Tangui\u00e8ta",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845842",
+    "parent": "2845850",
+    "text": "Kerou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845843",
+    "parent": "2845850",
+    "text": "Kouand\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845844",
+    "parent": "2845850",
+    "text": "Natitingou",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845846",
+    "parent": "2845850",
+    "text": "Toucountouna",
+    "admin_level": "6"
+  },
+  {
+    "id": "2845847",
+    "parent": "2845850",
+    "text": "Pehonko",
+    "admin_level": "6"
+  },
+  {
+    "id": "11342558",
+    "parent": "2851879",
+    "text": "Tokpl\u00e9gb\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "11342818",
+    "parent": "2851879",
+    "text": "Finagnon",
+    "admin_level": "8"
+  },
+  {
+    "id": "11343073",
+    "parent": "2851879",
+    "text": "Donaten",
+    "admin_level": "8"
+  },
+  {
+    "id": "11343378",
+    "parent": "2851879",
+    "text": "N'v\u00e8nam\u00e8d\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "11343902",
+    "parent": "2851879",
+    "text": "Yagb\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "11344334",
+    "parent": "2851879",
+    "text": "Tanto",
+    "admin_level": "8"
+  },
+  {
+    "id": "11344388",
+    "parent": "2851879",
+    "text": "Dandji",
+    "admin_level": "8"
+  }
+]

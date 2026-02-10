@@ -1,0 +1,2174 @@
+[
+  {
+    "id": "269874",
+    "parent": "161033",
+    "text": "S\u00fckhbaatar",
+    "admin_level": "4"
+  },
+  {
+    "id": "269885",
+    "parent": "161033",
+    "text": "Khentii",
+    "admin_level": "4"
+  },
+  {
+    "id": "269886",
+    "parent": "161033",
+    "text": "Dornod",
+    "admin_level": "4"
+  },
+  {
+    "id": "270050",
+    "parent": "161033",
+    "text": "Dornogovi",
+    "admin_level": "4"
+  },
+  {
+    "id": "270051",
+    "parent": "161033",
+    "text": "\u00d6mn\u00f6govi",
+    "admin_level": "4"
+  },
+  {
+    "id": "270052",
+    "parent": "161033",
+    "text": "Bayankhongor",
+    "admin_level": "4"
+  },
+  {
+    "id": "270054",
+    "parent": "161033",
+    "text": "Govi-Altai",
+    "admin_level": "4"
+  },
+  {
+    "id": "270055",
+    "parent": "161033",
+    "text": "Khovd",
+    "admin_level": "4"
+  },
+  {
+    "id": "270059",
+    "parent": "161033",
+    "text": "Uvs",
+    "admin_level": "4"
+  },
+  {
+    "id": "270072",
+    "parent": "161033",
+    "text": "Hovsgel",
+    "admin_level": "4"
+  },
+  {
+    "id": "270073",
+    "parent": "161033",
+    "text": "Bulgan",
+    "admin_level": "4"
+  },
+  {
+    "id": "270074",
+    "parent": "161033",
+    "text": "\u00d6v\u00f6rkhangai",
+    "admin_level": "4"
+  },
+  {
+    "id": "270075",
+    "parent": "161033",
+    "text": "Arkhangai",
+    "admin_level": "4"
+  },
+  {
+    "id": "270089",
+    "parent": "161033",
+    "text": "Selenge",
+    "admin_level": "4"
+  },
+  {
+    "id": "270090",
+    "parent": "161033",
+    "text": "Ulaanbaatar",
+    "admin_level": "4"
+  },
+  {
+    "id": "270091",
+    "parent": "161033",
+    "text": "Darkhan-Uul",
+    "admin_level": "4"
+  },
+  {
+    "id": "270092",
+    "parent": "161033",
+    "text": "Orkhon",
+    "admin_level": "4"
+  },
+  {
+    "id": "270094",
+    "parent": "161033",
+    "text": "Dundgovi",
+    "admin_level": "4"
+  },
+  {
+    "id": "270095",
+    "parent": "161033",
+    "text": "Govisumber",
+    "admin_level": "4"
+  },
+  {
+    "id": "3382266",
+    "parent": "161033",
+    "text": "Bayan-\u00d6lgii",
+    "admin_level": "4"
+  },
+  {
+    "id": "3382267",
+    "parent": "161033",
+    "text": "T\u00f6v",
+    "admin_level": "4"
+  },
+  {
+    "id": "4074177",
+    "parent": "161033",
+    "text": "Zavkhan",
+    "admin_level": "4"
+  },
+  {
+    "id": "7304781",
+    "parent": "270054",
+    "text": "Yes\u00f6nbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304782",
+    "parent": "270054",
+    "text": "Tsogt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304783",
+    "parent": "270054",
+    "text": "Tseel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304784",
+    "parent": "270054",
+    "text": "Tonkhil",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304785",
+    "parent": "270054",
+    "text": "T\u00f6gr\u00f6g",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304786",
+    "parent": "270054",
+    "text": "Taishir",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304787",
+    "parent": "270054",
+    "text": "Sharga",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304788",
+    "parent": "270054",
+    "text": "Jargalan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304789",
+    "parent": "270054",
+    "text": "Kh\u00f6kh morit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304790",
+    "parent": "270054",
+    "text": "Khaliun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304791",
+    "parent": "270054",
+    "text": "Erdene",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304792",
+    "parent": "270054",
+    "text": "Delger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304793",
+    "parent": "270054",
+    "text": "Darvi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304794",
+    "parent": "270054",
+    "text": "Chandmani",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304795",
+    "parent": "270054",
+    "text": "Bugat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304796",
+    "parent": "270054",
+    "text": "Biger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304797",
+    "parent": "270054",
+    "text": "Bayan-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304798",
+    "parent": "270054",
+    "text": "Altai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297546",
+    "parent": "270051",
+    "text": "Dalanzadgad",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297547",
+    "parent": "270051",
+    "text": "Khan khongor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297548",
+    "parent": "270051",
+    "text": "Nomgon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297549",
+    "parent": "270051",
+    "text": "Kh\u00fcrmen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297550",
+    "parent": "270051",
+    "text": "Bayandalai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297551",
+    "parent": "270051",
+    "text": "Noyon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297552",
+    "parent": "270051",
+    "text": "Sevrey",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297553",
+    "parent": "270051",
+    "text": "Gurvantes",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297554",
+    "parent": "270051",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297555",
+    "parent": "270051",
+    "text": "Mandal-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297556",
+    "parent": "270051",
+    "text": "Tsogt-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297557",
+    "parent": "270051",
+    "text": "Tsogttsetsii",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297558",
+    "parent": "270051",
+    "text": "Bayan-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297559",
+    "parent": "270051",
+    "text": "Khanbogd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297560",
+    "parent": "270051",
+    "text": "Manlai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304742",
+    "parent": "270052",
+    "text": "Zag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304743",
+    "parent": "270052",
+    "text": "Shinejinst",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304744",
+    "parent": "270052",
+    "text": "\u00d6lziit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304745",
+    "parent": "270052",
+    "text": "Kh\u00fcreemaral",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304746",
+    "parent": "270052",
+    "text": "Jinst",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304747",
+    "parent": "270052",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304748",
+    "parent": "270052",
+    "text": "Gurvanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304749",
+    "parent": "270052",
+    "text": "Galuut",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304750",
+    "parent": "270052",
+    "text": "Erdenetsogt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304751",
+    "parent": "270052",
+    "text": "Buutsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304752",
+    "parent": "270052",
+    "text": "B\u00f6mb\u00f6g\u00f6r",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304753",
+    "parent": "270052",
+    "text": "Bogd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304754",
+    "parent": "270052",
+    "text": "Bayantsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304755",
+    "parent": "270052",
+    "text": "Bayanlig",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304756",
+    "parent": "270052",
+    "text": "Bayankhongor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304757",
+    "parent": "270052",
+    "text": "Bayangovi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304758",
+    "parent": "270052",
+    "text": "Bayanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304759",
+    "parent": "270052",
+    "text": "Bayan-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304760",
+    "parent": "270052",
+    "text": "Bayan-\u00d6nd\u00f6r",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304761",
+    "parent": "270052",
+    "text": "Baatsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305279",
+    "parent": "270059",
+    "text": "Z\u00fc\u00fcnkhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305280",
+    "parent": "270059",
+    "text": "Zuungovi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305281",
+    "parent": "270059",
+    "text": "Zavkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305282",
+    "parent": "270059",
+    "text": "Ulaangom",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305283",
+    "parent": "270059",
+    "text": "Turgen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305284",
+    "parent": "270059",
+    "text": "Tsagaankhairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305285",
+    "parent": "270059",
+    "text": "Tes",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305286",
+    "parent": "270059",
+    "text": "Tarialan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305287",
+    "parent": "270059",
+    "text": "Sagil",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305288",
+    "parent": "270059",
+    "text": "\u00d6nd\u00f6rkhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305289",
+    "parent": "270059",
+    "text": "Umnugovi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305290",
+    "parent": "270059",
+    "text": "\u00d6lgii",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305291",
+    "parent": "270059",
+    "text": "Naranbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305292",
+    "parent": "270059",
+    "text": "Malchin",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305293",
+    "parent": "270059",
+    "text": "Khyargas",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305294",
+    "parent": "270059",
+    "text": "Khovd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305295",
+    "parent": "270059",
+    "text": "Davst",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305296",
+    "parent": "270059",
+    "text": "B\u00f6khm\u00f6r\u00f6n",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305297",
+    "parent": "270059",
+    "text": "Baruunturuun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305001",
+    "parent": "3382266",
+    "text": "Ulaankhus",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305002",
+    "parent": "3382266",
+    "text": "Tsengel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305003",
+    "parent": "3382266",
+    "text": "Tsagaannuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305004",
+    "parent": "3382266",
+    "text": "Tolbo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305005",
+    "parent": "3382266",
+    "text": "Sagsai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305006",
+    "parent": "3382266",
+    "text": "\u00d6lgii",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305007",
+    "parent": "3382266",
+    "text": "Nogoonnuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305008",
+    "parent": "3382266",
+    "text": "Deluun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305009",
+    "parent": "3382266",
+    "text": "Buyant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305010",
+    "parent": "3382266",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305011",
+    "parent": "3382266",
+    "text": "Bugat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305012",
+    "parent": "3382266",
+    "text": "Bayannuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305013",
+    "parent": "3382266",
+    "text": "Altai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305014",
+    "parent": "3382266",
+    "text": "Altantsugts",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304899",
+    "parent": "4074177",
+    "text": "Zavkhanmandal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304900",
+    "parent": "4074177",
+    "text": "Yaruu",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304901",
+    "parent": "4074177",
+    "text": "Urgamal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304902",
+    "parent": "4074177",
+    "text": "T\u00fcdevtei",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304903",
+    "parent": "4074177",
+    "text": "Tsetsen-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304904",
+    "parent": "4074177",
+    "text": "Tsagaanhairhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304905",
+    "parent": "4074177",
+    "text": "Tsagaanchuluut",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304906",
+    "parent": "4074177",
+    "text": "Tosontsengel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304907",
+    "parent": "4074177",
+    "text": "Tes",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304908",
+    "parent": "4074177",
+    "text": "Telmen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304909",
+    "parent": "4074177",
+    "text": "Songino",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304910",
+    "parent": "4074177",
+    "text": "Shiluustei",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304911",
+    "parent": "4074177",
+    "text": "Santmargats",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304912",
+    "parent": "4074177",
+    "text": "Otgon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304913",
+    "parent": "4074177",
+    "text": "N\u00f6mr\u00f6g",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304914",
+    "parent": "4074177",
+    "text": "Ikh-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304915",
+    "parent": "4074177",
+    "text": "Ider",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304916",
+    "parent": "4074177",
+    "text": "Erdenekhairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304917",
+    "parent": "4074177",
+    "text": "D\u00f6rv\u00f6ljin",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304918",
+    "parent": "4074177",
+    "text": "Bayantes",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304919",
+    "parent": "4074177",
+    "text": "Bayankhairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304920",
+    "parent": "4074177",
+    "text": "Asgat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304921",
+    "parent": "4074177",
+    "text": "Aldarkhaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "16006389",
+    "parent": "4074177",
+    "text": "Uliastai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304935",
+    "parent": "270055",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304936",
+    "parent": "270055",
+    "text": "Zereg",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304937",
+    "parent": "270055",
+    "text": "\u00dcyench",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304938",
+    "parent": "270055",
+    "text": "Tsetseg",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304939",
+    "parent": "270055",
+    "text": "Myangad",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304940",
+    "parent": "270055",
+    "text": "Most",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304941",
+    "parent": "270055",
+    "text": "M\u00f6nkhkhairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304942",
+    "parent": "270055",
+    "text": "Mankhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304943",
+    "parent": "270055",
+    "text": "Khovd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304944",
+    "parent": "270055",
+    "text": "Erdeneburen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304945",
+    "parent": "270055",
+    "text": "Duut",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304946",
+    "parent": "270055",
+    "text": "D\u00f6rg\u00f6n",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304947",
+    "parent": "270055",
+    "text": "Darvi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304948",
+    "parent": "270055",
+    "text": "Chandmani",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304949",
+    "parent": "270055",
+    "text": "Buyant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304950",
+    "parent": "270055",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304951",
+    "parent": "270055",
+    "text": "Altai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305527",
+    "parent": "270072",
+    "text": "Ulaan-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305528",
+    "parent": "270072",
+    "text": "Tunel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305529",
+    "parent": "270072",
+    "text": "Tsetserleg",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305530",
+    "parent": "270072",
+    "text": "Tsagaan-Uur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305531",
+    "parent": "270072",
+    "text": "Tsagaannuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305532",
+    "parent": "270072",
+    "text": "Tsagaan uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305533",
+    "parent": "270072",
+    "text": "Tosontsengel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305534",
+    "parent": "270072",
+    "text": "Tumurbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305535",
+    "parent": "270072",
+    "text": "Tarialan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305536",
+    "parent": "270072",
+    "text": "Shine-Ider",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305537",
+    "parent": "270072",
+    "text": "Renchinlkhumbe",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305538",
+    "parent": "270072",
+    "text": "Rashaant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305539",
+    "parent": "270072",
+    "text": "Murun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305540",
+    "parent": "270072",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305541",
+    "parent": "270072",
+    "text": "Ih-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305543",
+    "parent": "270072",
+    "text": "Khankh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305544",
+    "parent": "270072",
+    "text": "Galt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305545",
+    "parent": "270072",
+    "text": "Erdenebulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305546",
+    "parent": "270072",
+    "text": "Chandmani-Undur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305547",
+    "parent": "270072",
+    "text": "Burentogtoh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305548",
+    "parent": "270072",
+    "text": "Bayanzurkh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305549",
+    "parent": "270072",
+    "text": "Arbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7305550",
+    "parent": "270072",
+    "text": "Alag-Erdene",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297796",
+    "parent": "270094",
+    "text": "Saintsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297797",
+    "parent": "270094",
+    "text": "\u00d6lziit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297798",
+    "parent": "270094",
+    "text": "Gurvansaikhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297799",
+    "parent": "270094",
+    "text": "Govi-Ugtaal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297800",
+    "parent": "270094",
+    "text": "\u00d6nd\u00f6rshil",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297801",
+    "parent": "270094",
+    "text": "Bayanjargalan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297802",
+    "parent": "270094",
+    "text": "Tsagaandelger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297803",
+    "parent": "270094",
+    "text": "Deren",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297804",
+    "parent": "270094",
+    "text": "Delgertsogt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297805",
+    "parent": "270094",
+    "text": "Adaatsag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297806",
+    "parent": "270094",
+    "text": "Luus",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297807",
+    "parent": "270094",
+    "text": "Khuld",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297808",
+    "parent": "270094",
+    "text": "Delgerkhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297809",
+    "parent": "270094",
+    "text": "Erdenedalai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297810",
+    "parent": "270094",
+    "text": "Saikhan-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302453",
+    "parent": "3382267",
+    "text": "Zuunmod",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302454",
+    "parent": "3382267",
+    "text": "Zaamar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302455",
+    "parent": "3382267",
+    "text": "Ugtaaltsaidam",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302456",
+    "parent": "3382267",
+    "text": "Tseel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302457",
+    "parent": "3382267",
+    "text": "Sumber",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302458",
+    "parent": "3382267",
+    "text": "Sergelen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302459",
+    "parent": "3382267",
+    "text": "\u00d6nd\u00f6rshireet",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302460",
+    "parent": "3382267",
+    "text": "Mongonmorit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302461",
+    "parent": "3382267",
+    "text": "Lun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302462",
+    "parent": "3382267",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302463",
+    "parent": "3382267",
+    "text": "Erdenesant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302464",
+    "parent": "3382267",
+    "text": "Erdene",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302465",
+    "parent": "3382267",
+    "text": "Delgerkhaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302466",
+    "parent": "3382267",
+    "text": "Buren",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302467",
+    "parent": "3382267",
+    "text": "Bornuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302468",
+    "parent": "3382267",
+    "text": "Bayantsogt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302469",
+    "parent": "3382267",
+    "text": "Bayantsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302470",
+    "parent": "3382267",
+    "text": "Bayankhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302471",
+    "parent": "3382267",
+    "text": "Bayanjargalan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302472",
+    "parent": "3382267",
+    "text": "Bayandelger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302473",
+    "parent": "3382267",
+    "text": "Bayanchandmani",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302474",
+    "parent": "3382267",
+    "text": "Bayan-Unjuul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302475",
+    "parent": "3382267",
+    "text": "Bayan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302476",
+    "parent": "3382267",
+    "text": "Batsumber",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302477",
+    "parent": "3382267",
+    "text": "Arkhust",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302478",
+    "parent": "3382267",
+    "text": "Argalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302479",
+    "parent": "3382267",
+    "text": "Altanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302532",
+    "parent": "270075",
+    "text": "Tubshruulekh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302533",
+    "parent": "270075",
+    "text": "Tsetserleg sum",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302534",
+    "parent": "270075",
+    "text": "Tsenkher",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302535",
+    "parent": "270075",
+    "text": "Tsakhir",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302536",
+    "parent": "270075",
+    "text": "Tariat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302537",
+    "parent": "270075",
+    "text": "\u00d6nd\u00f6r-Ulaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302538",
+    "parent": "270075",
+    "text": "\u00d6lziit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302539",
+    "parent": "270075",
+    "text": "\u00d6giinuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302540",
+    "parent": "270075",
+    "text": "Khotont",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302541",
+    "parent": "270075",
+    "text": "Khairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302542",
+    "parent": "270075",
+    "text": "Khashaat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302543",
+    "parent": "270075",
+    "text": "Khangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302544",
+    "parent": "270075",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302545",
+    "parent": "270075",
+    "text": "Ikh-Tamir",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302546",
+    "parent": "270075",
+    "text": "Erdenemandal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302547",
+    "parent": "270075",
+    "text": "Erdenebulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302548",
+    "parent": "270075",
+    "text": "Chuluut",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302549",
+    "parent": "270075",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302550",
+    "parent": "270075",
+    "text": "Battsengel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297902",
+    "parent": "270074",
+    "text": "Arvaikheer",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297903",
+    "parent": "270074",
+    "text": "Taragt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297904",
+    "parent": "270074",
+    "text": "Khairkhandulaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297905",
+    "parent": "270074",
+    "text": "Nariinteel",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297906",
+    "parent": "270074",
+    "text": "Uyanga",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297907",
+    "parent": "270074",
+    "text": "Bat-\u00d6lzii",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297908",
+    "parent": "270074",
+    "text": "Z\u00fc\u00fcnbayan-Ulaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297909",
+    "parent": "270074",
+    "text": "\u00d6lziit",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297910",
+    "parent": "270074",
+    "text": "Yes\u00f6nz\u00fcil",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297911",
+    "parent": "270074",
+    "text": "Khujirt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297912",
+    "parent": "270074",
+    "text": "Kharkhorin",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297913",
+    "parent": "270074",
+    "text": "B\u00fcrd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297914",
+    "parent": "270074",
+    "text": "Bayan-Undur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297915",
+    "parent": "270074",
+    "text": "Sant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297916",
+    "parent": "270074",
+    "text": "Bayangol",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297917",
+    "parent": "270074",
+    "text": "T\u00f6gr\u00f6g",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297918",
+    "parent": "270074",
+    "text": "Guchin-Us",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297919",
+    "parent": "270074",
+    "text": "Baruunbayan-Ulaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297920",
+    "parent": "270074",
+    "text": "Bogd",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302584",
+    "parent": "270073",
+    "text": "Teshig",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302585",
+    "parent": "270073",
+    "text": "Selenge",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302586",
+    "parent": "270073",
+    "text": "Saikhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302587",
+    "parent": "270073",
+    "text": "Rashaant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302588",
+    "parent": "270073",
+    "text": "Orkhon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302589",
+    "parent": "270073",
+    "text": "Mogod",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302590",
+    "parent": "270073",
+    "text": "Khutag-Undur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302591",
+    "parent": "270073",
+    "text": "Khishig-\u00d6nd\u00f6r",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302592",
+    "parent": "270073",
+    "text": "Khangal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302593",
+    "parent": "270073",
+    "text": "Gurvanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302594",
+    "parent": "270073",
+    "text": "Dashinchilen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302595",
+    "parent": "270073",
+    "text": "Buregkhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302596",
+    "parent": "270073",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302597",
+    "parent": "270073",
+    "text": "Bugat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302598",
+    "parent": "270073",
+    "text": "Bayannuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302599",
+    "parent": "270073",
+    "text": "Bayan-Agt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302221",
+    "parent": "270092",
+    "text": "Jargalant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302222",
+    "parent": "270092",
+    "text": "Bayan-Ondor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302697",
+    "parent": "270089",
+    "text": "Zuunburen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302698",
+    "parent": "270089",
+    "text": "Yer\u00f6\u00f6",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302699",
+    "parent": "270089",
+    "text": "T\u00fcshig",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302700",
+    "parent": "270089",
+    "text": "Tsagaannuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302701",
+    "parent": "270089",
+    "text": "Shaamar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302702",
+    "parent": "270089",
+    "text": "Saikhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302704",
+    "parent": "270089",
+    "text": "Sant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302705",
+    "parent": "270089",
+    "text": "Orkhontuul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302706",
+    "parent": "270089",
+    "text": "Orkhon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302707",
+    "parent": "270089",
+    "text": "Mandal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302708",
+    "parent": "270089",
+    "text": "Khushaat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302709",
+    "parent": "270089",
+    "text": "Kh\u00fcder",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302710",
+    "parent": "270089",
+    "text": "Javkhlant",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302711",
+    "parent": "270089",
+    "text": "Bayangol",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302712",
+    "parent": "270089",
+    "text": "Baruunburen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302713",
+    "parent": "270089",
+    "text": "Altanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "16031519",
+    "parent": "270089",
+    "text": "Sukhbaatar",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669140",
+    "parent": "270090",
+    "text": "Baganuur",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669141",
+    "parent": "270090",
+    "text": "Bagakhangai",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669142",
+    "parent": "270090",
+    "text": "Nalaikh",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669143",
+    "parent": "270090",
+    "text": "Bayanz\u00fcrkh",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669144",
+    "parent": "270090",
+    "text": "S\u00fckhbaatar",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669145",
+    "parent": "270090",
+    "text": "Chingeltei",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669146",
+    "parent": "270090",
+    "text": "Bayangol",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669147",
+    "parent": "270090",
+    "text": "Songino Khairkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "14669148",
+    "parent": "270090",
+    "text": "Khan-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302212",
+    "parent": "270091",
+    "text": "Sharyn gol",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302213",
+    "parent": "270091",
+    "text": "Darkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302214",
+    "parent": "270091",
+    "text": "Orkhon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7302215",
+    "parent": "270091",
+    "text": "Khongor",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304607",
+    "parent": "270050",
+    "text": "Zamiin uud",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304608",
+    "parent": "270050",
+    "text": "Ulaanbadrakh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304609",
+    "parent": "270050",
+    "text": "Sainshand",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304610",
+    "parent": "270050",
+    "text": "Saikhandulaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304611",
+    "parent": "270050",
+    "text": "Orgon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304612",
+    "parent": "270050",
+    "text": "Mandakh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304613",
+    "parent": "270050",
+    "text": "Ikhkhet",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304614",
+    "parent": "270050",
+    "text": "Khovsgol",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304615",
+    "parent": "270050",
+    "text": "Khtanbulag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304616",
+    "parent": "270050",
+    "text": "Erdene",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304617",
+    "parent": "270050",
+    "text": "Delgerekh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304618",
+    "parent": "270050",
+    "text": "Dalanjargalan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304619",
+    "parent": "270050",
+    "text": "Airag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304620",
+    "parent": "270050",
+    "text": "Altanshiree",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297817",
+    "parent": "270095",
+    "text": "Sumber",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297818",
+    "parent": "270095",
+    "text": "Shiveegovi",
+    "admin_level": "6"
+  },
+  {
+    "id": "7297819",
+    "parent": "270095",
+    "text": "Bayantal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304581",
+    "parent": "269874",
+    "text": "Uulbayan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304582",
+    "parent": "269874",
+    "text": "Tumentsogt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304583",
+    "parent": "269874",
+    "text": "T\u00fcvshinshiree",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304584",
+    "parent": "269874",
+    "text": "Ongon",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304585",
+    "parent": "269874",
+    "text": "Naran",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304586",
+    "parent": "269874",
+    "text": "M\u00f6nkhkhaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304587",
+    "parent": "269874",
+    "text": "Khalzan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304588",
+    "parent": "269874",
+    "text": "Erdenetsagaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304589",
+    "parent": "269874",
+    "text": "Dariganga",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304590",
+    "parent": "269874",
+    "text": "Bayandelger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304591",
+    "parent": "269874",
+    "text": "Sukhbaatar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304592",
+    "parent": "269874",
+    "text": "Asgat",
+    "admin_level": "6"
+  },
+  {
+    "id": "7307122",
+    "parent": "269874",
+    "text": "Baruun-Urt",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304530",
+    "parent": "269885",
+    "text": "Kherlen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304531",
+    "parent": "269885",
+    "text": "Tsenkhermandal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304532",
+    "parent": "269885",
+    "text": "\u00d6mn\u00f6delger",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304533",
+    "parent": "269885",
+    "text": "Norovlin",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304534",
+    "parent": "269885",
+    "text": "M\u00f6r\u00f6n",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304535",
+    "parent": "269885",
+    "text": "Jargaltkhaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304536",
+    "parent": "269885",
+    "text": "Galshar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304537",
+    "parent": "269885",
+    "text": "Delgerkhaan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304538",
+    "parent": "269885",
+    "text": "Darkhan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304539",
+    "parent": "269885",
+    "text": "Dadal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304540",
+    "parent": "269885",
+    "text": "Binder",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304541",
+    "parent": "269885",
+    "text": "Bayan Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304542",
+    "parent": "269885",
+    "text": "Bayanm\u00f6nkh",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304543",
+    "parent": "269885",
+    "text": "Bayankhutag",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304544",
+    "parent": "269885",
+    "text": "Bayan-Adraga",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304545",
+    "parent": "269885",
+    "text": "Batshireet",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304546",
+    "parent": "269885",
+    "text": "Batnorov",
+    "admin_level": "6"
+  },
+  {
+    "id": "19596699",
+    "parent": "269885",
+    "text": "Bor-\u00d6nd\u00f6r sum",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304685",
+    "parent": "269886",
+    "text": "Tsagaan-Ovoo",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304686",
+    "parent": "269886",
+    "text": "Sergelen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304687",
+    "parent": "269886",
+    "text": "Matad",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304688",
+    "parent": "269886",
+    "text": "Kh\u00f6l\u00f6nbuir",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304689",
+    "parent": "269886",
+    "text": "Choibalsan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304690",
+    "parent": "269886",
+    "text": "Khalkhgol",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304691",
+    "parent": "269886",
+    "text": "Gurvanzagal",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304692",
+    "parent": "269886",
+    "text": "Dashbalbar",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304693",
+    "parent": "269886",
+    "text": "Chuluunkhoroot",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304695",
+    "parent": "269886",
+    "text": "Bulgan",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304696",
+    "parent": "269886",
+    "text": "Bayantumen",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304697",
+    "parent": "269886",
+    "text": "Bayandun",
+    "admin_level": "6"
+  },
+  {
+    "id": "7304698",
+    "parent": "269886",
+    "text": "Bayan-Uul",
+    "admin_level": "6"
+  },
+  {
+    "id": "7308140",
+    "parent": "269886",
+    "text": "Kherlen",
+    "admin_level": "6"
+  }
+]

@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "2198916",
+    "parent": "49898",
+    "text": "Stung Treng",
+    "admin_level": "4"
+  },
+  {
+    "id": "2198922",
+    "parent": "49898",
+    "text": "Preah Vihear",
+    "admin_level": "4"
+  },
+  {
+    "id": "2198944",
+    "parent": "49898",
+    "text": "Kampong Thom",
+    "admin_level": "4"
+  },
+  {
+    "id": "2199033",
+    "parent": "49898",
+    "text": "Phnom Penh",
+    "admin_level": "4"
+  },
+  {
+    "id": "2199066",
+    "parent": "49898",
+    "text": "Koh Kong",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200024",
+    "parent": "49898",
+    "text": "Kep",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200183",
+    "parent": "49898",
+    "text": "Kampot",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200220",
+    "parent": "49898",
+    "text": "Takeo",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200251",
+    "parent": "49898",
+    "text": "Kandal",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200278",
+    "parent": "49898",
+    "text": "Pursat",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200301",
+    "parent": "49898",
+    "text": "Ratanakiri",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200303",
+    "parent": "49898",
+    "text": "Kampong Chhnang",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200322",
+    "parent": "49898",
+    "text": "Pailin",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200390",
+    "parent": "49898",
+    "text": "Bantey Meanchey",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200393",
+    "parent": "49898",
+    "text": "Siem Reap",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200402",
+    "parent": "49898",
+    "text": "Oddar Meanchey",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200442",
+    "parent": "49898",
+    "text": "Kampong Cham",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200450",
+    "parent": "49898",
+    "text": "Mondulkiri",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200456",
+    "parent": "49898",
+    "text": "Kratie",
+    "admin_level": "4"
+  },
+  {
+    "id": "2200477",
+    "parent": "49898",
+    "text": "Prey Veng",
+    "admin_level": "4"
+  },
+  {
+    "id": "2215016",
+    "parent": "49898",
+    "text": "Kampong Speu",
+    "admin_level": "4"
+  },
+  {
+    "id": "2301441",
+    "parent": "49898",
+    "text": "Svay Rieng",
+    "admin_level": "4"
+  },
+  {
+    "id": "3279394",
+    "parent": "49898",
+    "text": "Khaet Preah Sihanouk",
+    "admin_level": "4"
+  },
+  {
+    "id": "3714841",
+    "parent": "49898",
+    "text": "Tbong Khmum",
+    "admin_level": "4"
+  },
+  {
+    "id": "6608542",
+    "parent": "49898",
+    "text": "Battambang",
+    "admin_level": "4"
+  },
+  {
+    "id": "5846608",
+    "parent": "3279394",
+    "text": "Kampong Seila",
+    "admin_level": "6"
+  },
+  {
+    "id": "5846609",
+    "parent": "3279394",
+    "text": "Preah Sihanouk Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "5846610",
+    "parent": "3279394",
+    "text": "Prey Nob District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5846611",
+    "parent": "3279394",
+    "text": "Stueng Hav",
+    "admin_level": "6"
+  },
+  {
+    "id": "17022994",
+    "parent": "3279394",
+    "text": "Koh Rong Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "18020858",
+    "parent": "3279394",
+    "text": "Kampong Saom Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "18393163",
+    "parent": "2199066",
+    "text": "Khemara Phoumin",
+    "admin_level": "6"
+  },
+  {
+    "id": "19357717",
+    "parent": "2199066",
+    "text": "Thma Bang",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361983",
+    "parent": "2200183",
+    "text": "Banteay Meas",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361984",
+    "parent": "2200183",
+    "text": "Chhuk",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361985",
+    "parent": "2200183",
+    "text": "Angkor Chey",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361986",
+    "parent": "2200183",
+    "text": "Chum Kiri",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379820",
+    "parent": "2200278",
+    "text": "Ta Lou Senchey",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379847",
+    "parent": "2200278",
+    "text": "Pursat",
+    "admin_level": "6"
+  },
+  {
+    "id": "18393121",
+    "parent": "2200278",
+    "text": "Veal Veaeng",
+    "admin_level": "6"
+  },
+  {
+    "id": "19357617",
+    "parent": "2200278",
+    "text": "Phnum Kravanh",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233280",
+    "parent": "2200393",
+    "text": "Srei Snam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233281",
+    "parent": "2200393",
+    "text": "Kralanh District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233282",
+    "parent": "2200393",
+    "text": "Puok District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233283",
+    "parent": "2200393",
+    "text": "Siem Reap Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233337",
+    "parent": "2200393",
+    "text": "Soutr Nikom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233338",
+    "parent": "2200393",
+    "text": "Prasat Bakong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233339",
+    "parent": "2200393",
+    "text": "Banteay Srei District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233340",
+    "parent": "2200393",
+    "text": "Varin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233341",
+    "parent": "2200393",
+    "text": "Angkor Chum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233348",
+    "parent": "2200393",
+    "text": "Svay Leu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233349",
+    "parent": "2200393",
+    "text": "Chi Kraeng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "13233358",
+    "parent": "2200393",
+    "text": "Angkor Thum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587063",
+    "parent": "2215016",
+    "text": "Borsedth",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587083",
+    "parent": "2215016",
+    "text": "Odongk Maechay Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587298",
+    "parent": "2215016",
+    "text": "Kong Pisei",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587333",
+    "parent": "2215016",
+    "text": "Samraong Tong",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587380",
+    "parent": "2215016",
+    "text": "Aoral",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587381",
+    "parent": "2215016",
+    "text": "Phnum Sruoch",
+    "admin_level": "6"
+  },
+  {
+    "id": "9587408",
+    "parent": "2215016",
+    "text": "Thpong",
+    "admin_level": "6"
+  },
+  {
+    "id": "9600344",
+    "parent": "2215016",
+    "text": "Chbar Mon City",
+    "admin_level": "6"
+  },
+  {
+    "id": "18380030",
+    "parent": "2215016",
+    "text": "Samkkei Munichay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738764",
+    "parent": "6608542",
+    "text": "Bavel",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738765",
+    "parent": "6608542",
+    "text": "Kamrieng",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738766",
+    "parent": "6608542",
+    "text": "Phnum Proek",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738767",
+    "parent": "6608542",
+    "text": "Sampov Lun",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738941",
+    "parent": "6608542",
+    "text": "Rotonak Mondol",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738942",
+    "parent": "6608542",
+    "text": "Banan",
+    "admin_level": "6"
+  },
+  {
+    "id": "14738943",
+    "parent": "6608542",
+    "text": "Battambang",
+    "admin_level": "6"
+  },
+  {
+    "id": "14741066",
+    "parent": "6608542",
+    "text": "Thma Koul",
+    "admin_level": "6"
+  },
+  {
+    "id": "14748409",
+    "parent": "6608542",
+    "text": "Rukh Kiri",
+    "admin_level": "6"
+  },
+  {
+    "id": "17613568",
+    "parent": "6608542",
+    "text": "Koas Krala",
+    "admin_level": "6"
+  },
+  {
+    "id": "17613569",
+    "parent": "6608542",
+    "text": "Samlout",
+    "admin_level": "6"
+  },
+  {
+    "id": "19355104",
+    "parent": "6608542",
+    "text": "Moung Ruessei",
+    "admin_level": "6"
+  },
+  {
+    "id": "19355105",
+    "parent": "6608542",
+    "text": "Sangkae",
+    "admin_level": "6"
+  },
+  {
+    "id": "19355106",
+    "parent": "6608542",
+    "text": "Aek Phnum",
+    "admin_level": "6"
+  },
+  {
+    "id": "14741082",
+    "parent": "2200322",
+    "text": "Pailin",
+    "admin_level": "6"
+  },
+  {
+    "id": "14741083",
+    "parent": "2200322",
+    "text": "Sala Krau",
+    "admin_level": "6"
+  },
+  {
+    "id": "18404655",
+    "parent": "2200024",
+    "text": "Kep Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "18404656",
+    "parent": "2200024",
+    "text": "Damnak Chang'aeur District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379942",
+    "parent": "2198944",
+    "text": "Taing Kouk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379943",
+    "parent": "2198944",
+    "text": "Baray District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361168",
+    "parent": "2198944",
+    "text": "Sandan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361185",
+    "parent": "2198944",
+    "text": "Stueng Saen Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361186",
+    "parent": "2198944",
+    "text": "Santuk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361199",
+    "parent": "2198944",
+    "text": "Prasat Ballangk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19361200",
+    "parent": "2198944",
+    "text": "Prasat Sambour District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171685",
+    "parent": "2200251",
+    "text": "S'ang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171686",
+    "parent": "2200251",
+    "text": "Kandal Stueng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171687",
+    "parent": "2200251",
+    "text": "Krong Ta Khmau",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171688",
+    "parent": "2200251",
+    "text": "Kaoh Thum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171689",
+    "parent": "2200251",
+    "text": "Leuk Daek District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171690",
+    "parent": "2200251",
+    "text": "Kien Svay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171691",
+    "parent": "2200251",
+    "text": "Lvea Aem District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171692",
+    "parent": "2200251",
+    "text": "Khsach Kandal District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171693",
+    "parent": "2200251",
+    "text": "Mukh Kampul District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171694",
+    "parent": "2200251",
+    "text": "Ponhea Lueu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "11171695",
+    "parent": "2200251",
+    "text": "Angk Snuol District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358166",
+    "parent": "2200303",
+    "text": "Sameakki Mean Chey",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358219",
+    "parent": "2200303",
+    "text": "Chol Kiri",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358220",
+    "parent": "2200303",
+    "text": "Kampong Tralach",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358221",
+    "parent": "2200303",
+    "text": "Kampong Chhnang",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358222",
+    "parent": "2200303",
+    "text": "Rolea B'ier",
+    "admin_level": "6"
+  },
+  {
+    "id": "19358240",
+    "parent": "2200303",
+    "text": "Tuek Phos",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351383",
+    "parent": "2200442",
+    "text": "Srei Santhor",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351384",
+    "parent": "2200442",
+    "text": "Kaoh Soutin",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351385",
+    "parent": "2200442",
+    "text": "Kampong Siem",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351386",
+    "parent": "2200442",
+    "text": "Kampong Cham",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351400",
+    "parent": "2200442",
+    "text": "Batheay",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351401",
+    "parent": "2200442",
+    "text": "Kang Meas",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351425",
+    "parent": "2200442",
+    "text": "Stueng Trang",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351426",
+    "parent": "2200442",
+    "text": "Chamkar Leu",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351427",
+    "parent": "2200442",
+    "text": "Prey Chhor",
+    "admin_level": "6"
+  },
+  {
+    "id": "19351428",
+    "parent": "2200442",
+    "text": "Cheung Prey",
+    "admin_level": "6"
+  },
+  {
+    "id": "17609918",
+    "parent": "2200450",
+    "text": "Saen Monourom",
+    "admin_level": "6"
+  },
+  {
+    "id": "17609965",
+    "parent": "2200450",
+    "text": "Ou Reang",
+    "admin_level": "6"
+  },
+  {
+    "id": "17609978",
+    "parent": "2200450",
+    "text": "Kaev Seima",
+    "admin_level": "6"
+  },
+  {
+    "id": "17610883",
+    "parent": "2200450",
+    "text": "Kaoh Nheaek",
+    "admin_level": "6"
+  },
+  {
+    "id": "17610884",
+    "parent": "2200450",
+    "text": "Pech Chreada",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375585",
+    "parent": "2200456",
+    "text": "Kracheh",
+    "admin_level": "6"
+  },
+  {
+    "id": "19338712",
+    "parent": "2200456",
+    "text": "Sambour",
+    "admin_level": "6"
+  },
+  {
+    "id": "19338905",
+    "parent": "2200456",
+    "text": "Prek Prasab",
+    "admin_level": "6"
+  },
+  {
+    "id": "19338917",
+    "parent": "2200456",
+    "text": "Chetr Borei",
+    "admin_level": "6"
+  },
+  {
+    "id": "19338928",
+    "parent": "2200456",
+    "text": "Ou Krieng Saenchey",
+    "admin_level": "6"
+  },
+  {
+    "id": "19349130",
+    "parent": "2200456",
+    "text": "Snuol",
+    "admin_level": "6"
+  },
+  {
+    "id": "19349131",
+    "parent": "2200456",
+    "text": "Chhloung",
+    "admin_level": "6"
+  },
+  {
+    "id": "19247374",
+    "parent": "3714841",
+    "text": "Memot",
+    "admin_level": "6"
+  },
+  {
+    "id": "19247438",
+    "parent": "3714841",
+    "text": "Tboung Khmum",
+    "admin_level": "6"
+  },
+  {
+    "id": "19247439",
+    "parent": "3714841",
+    "text": "Suong",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346634",
+    "parent": "3714841",
+    "text": "Krouch Chhmar",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346635",
+    "parent": "3714841",
+    "text": "Dambae",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346636",
+    "parent": "3714841",
+    "text": "Ponhea Kraek",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346637",
+    "parent": "3714841",
+    "text": "Ou Reang Ov",
+    "admin_level": "6"
+  },
+  {
+    "id": "17024571",
+    "parent": "2200220",
+    "text": "Angkor Borei District",
+    "admin_level": "6"
+  },
+  {
+    "id": "17024666",
+    "parent": "2200220",
+    "text": "Prey Kabbas District",
+    "admin_level": "6"
+  },
+  {
+    "id": "17036524",
+    "parent": "2200220",
+    "text": "Bati District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547386",
+    "parent": "2200220",
+    "text": "Samraong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547426",
+    "parent": "2200220",
+    "text": "Treang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547427",
+    "parent": "2200220",
+    "text": "Tram Kak District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547428",
+    "parent": "2200220",
+    "text": "Doun Kaev Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547440",
+    "parent": "2200220",
+    "text": "Borei Cholsar District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547452",
+    "parent": "2200220",
+    "text": "Kiri Vong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18547453",
+    "parent": "2200220",
+    "text": "Kaoh Andaet District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375914",
+    "parent": "2200477",
+    "text": "Prey Veng Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375925",
+    "parent": "2200477",
+    "text": "Peam Ro District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375939",
+    "parent": "2200477",
+    "text": "Ba Phnum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375968",
+    "parent": "2200477",
+    "text": "Me Sang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18393455",
+    "parent": "2200477",
+    "text": "Kampong Trabaek District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18393456",
+    "parent": "2200477",
+    "text": "Preah Sdach District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18393457",
+    "parent": "2200477",
+    "text": "Peam Chor District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346844",
+    "parent": "2200477",
+    "text": "Pea Reang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346845",
+    "parent": "2200477",
+    "text": "Pur Rieng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346846",
+    "parent": "2200477",
+    "text": "Svay Antor District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346847",
+    "parent": "2200477",
+    "text": "Kamchay Mear District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346848",
+    "parent": "2200477",
+    "text": "Kanhchriech District",
+    "admin_level": "6"
+  },
+  {
+    "id": "19346849",
+    "parent": "2200477",
+    "text": "Sithor Kandal District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375893",
+    "parent": "2301441",
+    "text": "Kampong Rou",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375894",
+    "parent": "2301441",
+    "text": "Chantrea",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375895",
+    "parent": "2301441",
+    "text": "Bavet",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375896",
+    "parent": "2301441",
+    "text": "Svay Teab",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375897",
+    "parent": "2301441",
+    "text": "Rumduol",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375898",
+    "parent": "2301441",
+    "text": "Svay Chrum",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375899",
+    "parent": "2301441",
+    "text": "Romeas Haek",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375900",
+    "parent": "2301441",
+    "text": "Svay Rieng",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259496",
+    "parent": "2199033",
+    "text": "Khan Prampir Makara",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259497",
+    "parent": "2199033",
+    "text": "Khan Chamkar Mon",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259498",
+    "parent": "2199033",
+    "text": "Khan Dangkao",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259499",
+    "parent": "2199033",
+    "text": "Khan Daun Penh",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259500",
+    "parent": "2199033",
+    "text": "Khan Mean Chey",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259502",
+    "parent": "2199033",
+    "text": "Khan Russey Keo",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259503",
+    "parent": "2199033",
+    "text": "Khan Sen Sok",
+    "admin_level": "6"
+  },
+  {
+    "id": "2259504",
+    "parent": "2199033",
+    "text": "Khan Toul Kork",
+    "admin_level": "6"
+  },
+  {
+    "id": "6076126",
+    "parent": "2199033",
+    "text": "Khan Chbar Ampov",
+    "admin_level": "6"
+  },
+  {
+    "id": "6076129",
+    "parent": "2199033",
+    "text": "Khan Chroy Changvar",
+    "admin_level": "6"
+  },
+  {
+    "id": "9590423",
+    "parent": "2199033",
+    "text": "Khan Pou Senchey",
+    "admin_level": "6"
+  },
+  {
+    "id": "11165697",
+    "parent": "2199033",
+    "text": "Khan Prek Pnov",
+    "admin_level": "6"
+  },
+  {
+    "id": "11165749",
+    "parent": "2199033",
+    "text": "Khan Boeng Keng Kang",
+    "admin_level": "6"
+  },
+  {
+    "id": "11166794",
+    "parent": "2199033",
+    "text": "Khan Kamboul",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374625",
+    "parent": "2200390",
+    "text": "Malai",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374714",
+    "parent": "2200390",
+    "text": "Paoy Paet",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374781",
+    "parent": "2200390",
+    "text": "Ou Chrov",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374815",
+    "parent": "2200390",
+    "text": "Serei Saophoan",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374860",
+    "parent": "2200390",
+    "text": "Svay Chek",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374867",
+    "parent": "2200390",
+    "text": "Thma Puok",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374874",
+    "parent": "2200390",
+    "text": "Phnum Srok",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374907",
+    "parent": "2200390",
+    "text": "Mongkol Borei",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374908",
+    "parent": "2200390",
+    "text": "Preah Netr Preah",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375746",
+    "parent": "2200402",
+    "text": "Trapeang Prasat",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375747",
+    "parent": "2200402",
+    "text": "Anlong Veaeng",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375748",
+    "parent": "2200402",
+    "text": "Chong Kal",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375749",
+    "parent": "2200402",
+    "text": "Samraong",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375750",
+    "parent": "2200402",
+    "text": "Banteay Ampil",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379544",
+    "parent": "2198916",
+    "text": "Borei Ou Svay Senchey",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379568",
+    "parent": "2198916",
+    "text": "Siem Pang",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379575",
+    "parent": "2198916",
+    "text": "Stueng Traeng",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379577",
+    "parent": "2198916",
+    "text": "Sesan",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379647",
+    "parent": "2198916",
+    "text": "Thala Barivat",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379648",
+    "parent": "2198916",
+    "text": "Siem Bouk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379659",
+    "parent": "2198922",
+    "text": "Preah Vihear",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379661",
+    "parent": "2198922",
+    "text": "Tbaeng Mean Chey",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379673",
+    "parent": "2198922",
+    "text": "Sangkum Thmei",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379689",
+    "parent": "2198922",
+    "text": "Kuleaen",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379699",
+    "parent": "2198922",
+    "text": "Choam Ksant",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379708",
+    "parent": "2198922",
+    "text": "Rovieng",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379709",
+    "parent": "2198922",
+    "text": "Chey Saen",
+    "admin_level": "6"
+  },
+  {
+    "id": "18379710",
+    "parent": "2198922",
+    "text": "Chhaeb",
+    "admin_level": "6"
+  },
+  {
+    "id": "18374952",
+    "parent": "2200301",
+    "text": "Ban Lung",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375087",
+    "parent": "2200301",
+    "text": "Bar Kaev",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375089",
+    "parent": "2200301",
+    "text": "Ou Chum",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375140",
+    "parent": "2200301",
+    "text": "Andoung Meas",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375160",
+    "parent": "2200301",
+    "text": "Ta Veaeng",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375165",
+    "parent": "2200301",
+    "text": "Veun Sai",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375195",
+    "parent": "2200301",
+    "text": "Koun Mom",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375205",
+    "parent": "2200301",
+    "text": "Ou Ya Dav",
+    "admin_level": "6"
+  },
+  {
+    "id": "18375206",
+    "parent": "2200301",
+    "text": "Lumphat",
+    "admin_level": "6"
+  },
+  {
+    "id": "18020853",
+    "parent": "18020858",
+    "text": "Bet Trang Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18020854",
+    "parent": "18020858",
+    "text": "Ream Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18020855",
+    "parent": "18020858",
+    "text": "Ou Oknha Heng Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18020856",
+    "parent": "18020858",
+    "text": "Boeng Ta Prum Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18020857",
+    "parent": "18020858",
+    "text": "Ou Chrov Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "17035152",
+    "parent": "5846610",
+    "text": "Teuk Thla Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "17035211",
+    "parent": "5846610",
+    "text": "Tuek L'ak Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18020921",
+    "parent": "5846609",
+    "text": "Quarter 1",
+    "admin_level": "8"
+  },
+  {
+    "id": "18021001",
+    "parent": "5846609",
+    "text": "Quarter 2",
+    "admin_level": "8"
+  },
+  {
+    "id": "18021002",
+    "parent": "5846609",
+    "text": "Quarter 3",
+    "admin_level": "8"
+  },
+  {
+    "id": "18021003",
+    "parent": "5846609",
+    "text": "Quarter 4",
+    "admin_level": "8"
+  },
+  {
+    "id": "18404650",
+    "parent": "18404655",
+    "text": "Kep Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18404651",
+    "parent": "18404655",
+    "text": "Ou Krasar Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18404652",
+    "parent": "18404655",
+    "text": "Prey Thum Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18404653",
+    "parent": "18404656",
+    "text": "Pong Toek Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18404654",
+    "parent": "18404656",
+    "text": "Angkoul Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385579",
+    "parent": "18375899",
+    "text": "Mream Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385580",
+    "parent": "18375899",
+    "text": "Mukh Da Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385581",
+    "parent": "18375899",
+    "text": "Chantrei Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385582",
+    "parent": "18375899",
+    "text": "Trapeang Sdau Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385583",
+    "parent": "18375899",
+    "text": "Angk Prasrae Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385584",
+    "parent": "18375899",
+    "text": "Andoung Pou Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385585",
+    "parent": "18375899",
+    "text": "Doung Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385586",
+    "parent": "18375899",
+    "text": "Kampong Trach Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385587",
+    "parent": "18375899",
+    "text": "Kokir Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385588",
+    "parent": "18375899",
+    "text": "Ampil Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385589",
+    "parent": "18375899",
+    "text": "Chrey Thum Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385590",
+    "parent": "18375899",
+    "text": "Sambatt Mean Chey Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385591",
+    "parent": "18375899",
+    "text": "Sambuor Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385592",
+    "parent": "18375899",
+    "text": "Krasang Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385593",
+    "parent": "18375899",
+    "text": "Andoung Trabaek Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18385594",
+    "parent": "18375899",
+    "text": "Tras Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395882",
+    "parent": "18375898",
+    "text": "Basak Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395883",
+    "parent": "18375898",
+    "text": "Doun Sa Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395884",
+    "parent": "18375898",
+    "text": "Thlok Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395885",
+    "parent": "18375898",
+    "text": "Angk Ta Sou Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395886",
+    "parent": "18375898",
+    "text": "Svay Yea Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395887",
+    "parent": "18375898",
+    "text": "Svay Angk Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395888",
+    "parent": "18375898",
+    "text": "Chheu Teal Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395889",
+    "parent": "18375898",
+    "text": "Svay Thum Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395890",
+    "parent": "18375898",
+    "text": "Pouthi Reach Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395891",
+    "parent": "18375898",
+    "text": "Kraol Kou Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395892",
+    "parent": "18375898",
+    "text": "Kouk Pring Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395893",
+    "parent": "18375898",
+    "text": "Svay Chrum Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395894",
+    "parent": "18375898",
+    "text": "Ta Suos Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395895",
+    "parent": "18375898",
+    "text": "Kampong Chamlang Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395896",
+    "parent": "18375898",
+    "text": "Chambak Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18395897",
+    "parent": "18375898",
+    "text": "Kruos Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382053",
+    "parent": "18375896",
+    "text": "Prasoutr Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382054",
+    "parent": "18375896",
+    "text": "Kandieng Reay Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382055",
+    "parent": "18375896",
+    "text": "Sambuor Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382056",
+    "parent": "18375896",
+    "text": "Romeang Thkaol Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382057",
+    "parent": "18375896",
+    "text": "Svay Rumpear Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382058",
+    "parent": "18375896",
+    "text": "Koki Saom Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382059",
+    "parent": "18375896",
+    "text": "Popeaet Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382060",
+    "parent": "18375896",
+    "text": "Prey Ta Ei Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382061",
+    "parent": "18375896",
+    "text": "Monourom Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381490",
+    "parent": "18375893",
+    "text": "Tnaot Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381491",
+    "parent": "18375893",
+    "text": "Samlei Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381492",
+    "parent": "18375893",
+    "text": "Svay Ta Yean Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381493",
+    "parent": "18375893",
+    "text": "Khsaetr Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381494",
+    "parent": "18375893",
+    "text": "Preah Ponlea Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381495",
+    "parent": "18375893",
+    "text": "Thmei Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381496",
+    "parent": "18375893",
+    "text": "Nhor Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381497",
+    "parent": "18375893",
+    "text": "Reach Montir Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381498",
+    "parent": "18375893",
+    "text": "Banteay Krang Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381499",
+    "parent": "18375893",
+    "text": "Samyaong Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381500",
+    "parent": "18375893",
+    "text": "Prey Thum Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381206",
+    "parent": "18375894",
+    "text": "Prey Kokir Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381207",
+    "parent": "18375894",
+    "text": "Me Sar Thngak Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381208",
+    "parent": "18375894",
+    "text": "Samraong Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381209",
+    "parent": "18375894",
+    "text": "Chres Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381210",
+    "parent": "18375894",
+    "text": "Chantrea Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381211",
+    "parent": "18375894",
+    "text": "Tuol Sdei Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396023",
+    "parent": "18375900",
+    "text": "Sangkhoar Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396024",
+    "parent": "18375900",
+    "text": "Chek Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396025",
+    "parent": "18375900",
+    "text": "Prey Chhlak Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396026",
+    "parent": "18375900",
+    "text": "Svay Rieng Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396027",
+    "parent": "18375900",
+    "text": "Pou Ta Hao Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396028",
+    "parent": "18375900",
+    "text": "Svay Toea Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18396029",
+    "parent": "18375900",
+    "text": "Koy Trabaek Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381087",
+    "parent": "18375895",
+    "text": "Bavet Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381088",
+    "parent": "18375895",
+    "text": "Prasat Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381089",
+    "parent": "18375895",
+    "text": "Bati Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381090",
+    "parent": "18375895",
+    "text": "Chrak Mtes Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18381091",
+    "parent": "18375895",
+    "text": "Prey Angkunh Quarter",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382432",
+    "parent": "18375897",
+    "text": "Thmea Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382433",
+    "parent": "18375897",
+    "text": "Meun Chey Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382434",
+    "parent": "18375897",
+    "text": "Svay Chek Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382435",
+    "parent": "18375897",
+    "text": "Kampong Chak Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382436",
+    "parent": "18375897",
+    "text": "Sangkae Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382437",
+    "parent": "18375897",
+    "text": "Chrung Popel Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382438",
+    "parent": "18375897",
+    "text": "Kampong Ampil Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382439",
+    "parent": "18375897",
+    "text": "Thna Thnong Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382440",
+    "parent": "18375897",
+    "text": "Bos Mon Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "18382441",
+    "parent": "18375897",
+    "text": "Pong Tuek Commune",
+    "admin_level": "8"
+  },
+  {
+    "id": "19354965",
+    "parent": "17609918",
+    "text": "Sokh Dom Sangkat",
+    "admin_level": "8"
+  },
+  {
+    "id": "19354966",
+    "parent": "17609918",
+    "text": "Spean Mean Chey Sangkat",
+    "admin_level": "8"
+  },
+  {
+    "id": "19354967",
+    "parent": "17609918",
+    "text": "Romonea Sangkat",
+    "admin_level": "8"
+  },
+  {
+    "id": "19354968",
+    "parent": "17609918",
+    "text": "Monourom Sangkat",
+    "admin_level": "8"
+  }
+]

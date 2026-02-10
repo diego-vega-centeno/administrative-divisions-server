@@ -1,0 +1,974 @@
+[
+  {
+    "id": "1995970",
+    "parent": "28699",
+    "text": "Autonomous Republic of Adjara",
+    "admin_level": "4"
+  },
+  {
+    "id": "1995971",
+    "parent": "28699",
+    "text": "Guria",
+    "admin_level": "4"
+  },
+  {
+    "id": "1996031",
+    "parent": "28699",
+    "text": "Samtskhe-Javakheti",
+    "admin_level": "4"
+  },
+  {
+    "id": "1996076",
+    "parent": "28699",
+    "text": "Samegrelo-Upper Svaneti",
+    "admin_level": "4"
+  },
+  {
+    "id": "1996871",
+    "parent": "28699",
+    "text": "Tbilisi",
+    "admin_level": "4"
+  },
+  {
+    "id": "1997284",
+    "parent": "28699",
+    "text": "Racha-Lechkhumi and Kvemo Svaneti",
+    "admin_level": "4"
+  },
+  {
+    "id": "1997289",
+    "parent": "28699",
+    "text": "Imereti",
+    "admin_level": "4"
+  },
+  {
+    "id": "2000040",
+    "parent": "28699",
+    "text": "Shida Kartli",
+    "admin_level": "4"
+  },
+  {
+    "id": "2000090",
+    "parent": "28699",
+    "text": "Mtskheta-Mtianeti",
+    "admin_level": "4"
+  },
+  {
+    "id": "2000091",
+    "parent": "28699",
+    "text": "Kakheti",
+    "admin_level": "4"
+  },
+  {
+    "id": "2000092",
+    "parent": "28699",
+    "text": "Lower Kartli",
+    "admin_level": "4"
+  },
+  {
+    "id": "3572912",
+    "parent": "28699",
+    "text": "Autonomous Republic of Abkhazia",
+    "admin_level": "4"
+  },
+  {
+    "id": "1245702",
+    "parent": "3572912",
+    "text": "Gagra District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027322",
+    "parent": "3572912",
+    "text": "Gudauta District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027323",
+    "parent": "3572912",
+    "text": "Sukhum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027324",
+    "parent": "3572912",
+    "text": "Sukhum",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027325",
+    "parent": "3572912",
+    "text": "Gulrypsh District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2624773",
+    "parent": "3572912",
+    "text": "Gal District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2624774",
+    "parent": "3572912",
+    "text": "Ochamchira District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2624775",
+    "parent": "3572912",
+    "text": "Tkuarchal District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013747",
+    "parent": "1996031",
+    "text": "Adigeni Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013748",
+    "parent": "1996031",
+    "text": "Akhaltsikhe Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013749",
+    "parent": "1996031",
+    "text": "Aspindza Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013750",
+    "parent": "1996031",
+    "text": "Akhalkalaki Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013751",
+    "parent": "1996031",
+    "text": "Ninotsminda Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2013752",
+    "parent": "1996031",
+    "text": "Borjomi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1995348",
+    "parent": "1996076",
+    "text": "Poti",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016161",
+    "parent": "1996076",
+    "text": "Zugdidi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016162",
+    "parent": "1996076",
+    "text": "Khobi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016163",
+    "parent": "1996076",
+    "text": "Senaki Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016164",
+    "parent": "1996076",
+    "text": "Abasha Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016165",
+    "parent": "1996076",
+    "text": "Martvili Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016166",
+    "parent": "1996076",
+    "text": "Chkhorotsqu Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016167",
+    "parent": "1996076",
+    "text": "Tsalenjikha Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2016168",
+    "parent": "1996076",
+    "text": "Mestia Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997285",
+    "parent": "1997284",
+    "text": "Lentekhi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997286",
+    "parent": "1997284",
+    "text": "Tsageri Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997287",
+    "parent": "1997284",
+    "text": "Ambrolauri Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997288",
+    "parent": "1997284",
+    "text": "Oni Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024536",
+    "parent": "1997289",
+    "text": "Khoni Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024537",
+    "parent": "1997289",
+    "text": "Samtredia Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024538",
+    "parent": "1997289",
+    "text": "Vani Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024539",
+    "parent": "1997289",
+    "text": "Baghdati Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024540",
+    "parent": "1997289",
+    "text": "Kharagauli Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024541",
+    "parent": "1997289",
+    "text": "Zestaponi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024542",
+    "parent": "1997289",
+    "text": "Terjola Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024543",
+    "parent": "1997289",
+    "text": "Chiatura Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024545",
+    "parent": "1997289",
+    "text": "Sachkhere Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024546",
+    "parent": "1997289",
+    "text": "Tqibuli Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024547",
+    "parent": "1997289",
+    "text": "Kutaisi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2024548",
+    "parent": "1997289",
+    "text": "Tskaltubo Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025546",
+    "parent": "2000040",
+    "text": "Khashuri Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025547",
+    "parent": "2000040",
+    "text": "Kareli Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025548",
+    "parent": "2000040",
+    "text": "Gori Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025549",
+    "parent": "2000040",
+    "text": "Kaspi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009237",
+    "parent": "1995970",
+    "text": "Batumi",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009238",
+    "parent": "1995970",
+    "text": "Khelvachauri Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009239",
+    "parent": "1995970",
+    "text": "Kobuleti Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009240",
+    "parent": "1995970",
+    "text": "Keda Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009241",
+    "parent": "1995970",
+    "text": "Shuakhevi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2009242",
+    "parent": "1995970",
+    "text": "Khulo Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1995403",
+    "parent": "1995971",
+    "text": "Ozurgeti Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1995783",
+    "parent": "1995971",
+    "text": "Lanchkhuti Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1995969",
+    "parent": "1995971",
+    "text": "Chokhatauri Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025550",
+    "parent": "2000090",
+    "text": "Mtskheta Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025551",
+    "parent": "2000090",
+    "text": "Tianeti Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025552",
+    "parent": "2000090",
+    "text": "Dusheti Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2025553",
+    "parent": "2000090",
+    "text": "Kazbegi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027328",
+    "parent": "2000091",
+    "text": "Akhmeta Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027329",
+    "parent": "2000091",
+    "text": "Telavi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027330",
+    "parent": "2000091",
+    "text": "Gurjaani Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027331",
+    "parent": "2000091",
+    "text": "Kvareli Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027332",
+    "parent": "2000091",
+    "text": "Lagodekhi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027333",
+    "parent": "2000091",
+    "text": "Signagi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027334",
+    "parent": "2000091",
+    "text": "Dedoplistsqaro Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2027335",
+    "parent": "2000091",
+    "text": "Sagarejo Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997305",
+    "parent": "2000092",
+    "text": "Rustavi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1997312",
+    "parent": "2000092",
+    "text": "Marneuli Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2014298",
+    "parent": "2000092",
+    "text": "Tsalka Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2014299",
+    "parent": "2000092",
+    "text": "Dmanisi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2014300",
+    "parent": "2000092",
+    "text": "Bolnisi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2014301",
+    "parent": "2000092",
+    "text": "Tetritskaro Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2014334",
+    "parent": "2000092",
+    "text": "Gardabani Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "8374177",
+    "parent": "1997287",
+    "text": "Ambrolauri",
+    "admin_level": "8"
+  },
+  {
+    "id": "15524075",
+    "parent": "2009238",
+    "text": "\u10db\u10dc\u10d0\u10d7\u10dd\u10d1\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15524076",
+    "parent": "2009238",
+    "text": "\u10db\u10d0\u10ee\u10d5\u10d8\u10da\u10d0\u10e3\u10e0\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15524077",
+    "parent": "2009238",
+    "text": "\u10e8\u10d0\u10e0\u10d0\u10d1\u10d8\u10eb\u10d4\u10d4\u10d1\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15610004",
+    "parent": "2009238",
+    "text": "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10e1\u10d0\u10db\u10d4\u10d1\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "15615287",
+    "parent": "2009238",
+    "text": "Sarpi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15617415",
+    "parent": "2009238",
+    "text": "\u10e5\u10d5\u10d4\u10d3\u10d0 \u10e1\u10d0\u10da\u10d8\u10d1\u10d0\u10e3\u10e0\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15617416",
+    "parent": "2009238",
+    "text": "\u10d0\u10d5\u10d2\u10d8\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "15640816",
+    "parent": "2009238",
+    "text": "\u10e1\u10d0\u10da\u10d8\u10d1\u10d0\u10e3\u10e0\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15641492",
+    "parent": "2009238",
+    "text": "Makhinjauri",
+    "admin_level": "8"
+  },
+  {
+    "id": "15672758",
+    "parent": "2009238",
+    "text": "\u10ee\u10d4\u10e0\u10d7\u10d5\u10d8\u10e1\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15672794",
+    "parent": "2009238",
+    "text": "\u10db\u10d0\u10ed\u10d0\u10ee\u10da\u10d8\u10e1\u10de\u10d8\u10e0\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15673055",
+    "parent": "2009238",
+    "text": "\u10d0\u10ed\u10d0\u10e0\u10d8\u10e1\u10ec\u10e7\u10d0\u10da\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15723574",
+    "parent": "2009238",
+    "text": "\u10d0\u10ee\u10d0\u10da\u10e8\u10d4\u10dc\u10d8\u10e1 \u10db\u10d4\u10e3\u10e0\u10dc\u10d4\u10dd\u10d1\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "15528002",
+    "parent": "2009241",
+    "text": "\u10e2\u10d0\u10d9\u10d8\u10eb\u10d4\u10d4\u10d1\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15528003",
+    "parent": "2009241",
+    "text": "\u10ee\u10d8\u10e9\u10d0\u10e3\u10e0\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374207",
+    "parent": "2013748",
+    "text": "Akhaltsikhe",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374107",
+    "parent": "1995403",
+    "text": "Ozurgeti",
+    "admin_level": "8"
+  },
+  {
+    "id": "15648312",
+    "parent": "1995403",
+    "text": "Village Ozurgeti",
+    "admin_level": "8"
+  },
+  {
+    "id": "16832399",
+    "parent": "1995403",
+    "text": "Ureki",
+    "admin_level": "8"
+  },
+  {
+    "id": "17366880",
+    "parent": "1995403",
+    "text": "Shekvetili",
+    "admin_level": "8"
+  },
+  {
+    "id": "17570263",
+    "parent": "1995403",
+    "text": "Kviriketi",
+    "admin_level": "8"
+  },
+  {
+    "id": "14276807",
+    "parent": "1995783",
+    "text": "Japana",
+    "admin_level": "8"
+  },
+  {
+    "id": "14281959",
+    "parent": "1995783",
+    "text": "Jikhetis Monasteri",
+    "admin_level": "8"
+  },
+  {
+    "id": "14281960",
+    "parent": "1995783",
+    "text": "Kviani",
+    "admin_level": "8"
+  },
+  {
+    "id": "14284649",
+    "parent": "1995783",
+    "text": "Machkhvareti",
+    "admin_level": "8"
+  },
+  {
+    "id": "15776707",
+    "parent": "1995783",
+    "text": "\u10d2\u10e0\u10d8\u10d2\u10dd\u10da\u10d4\u10d7\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "15776709",
+    "parent": "1995783",
+    "text": "\u10db\u10d0\u10da\u10d7\u10d0\u10e7\u10d5\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "15776728",
+    "parent": "1995783",
+    "text": "\u10ee\u10d8\u10d3\u10db\u10d0\u10e6\u10d0\u10da\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "16170926",
+    "parent": "1995783",
+    "text": "\u10da\u10d0\u10dc\u10e9\u10ee\u10e3\u10d7\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "13593738",
+    "parent": "2009239",
+    "text": "Kobuleti",
+    "admin_level": "8"
+  },
+  {
+    "id": "15061261",
+    "parent": "2009239",
+    "text": "Chakvi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15704082",
+    "parent": "2009239",
+    "text": "Ochkhamuri",
+    "admin_level": "8"
+  },
+  {
+    "id": "16717052",
+    "parent": "2009239",
+    "text": "Buknari",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374200",
+    "parent": "2016161",
+    "text": "Zugdidi",
+    "admin_level": "8"
+  },
+  {
+    "id": "17699750",
+    "parent": "2016161",
+    "text": "Ganarjiis Mukhuri",
+    "admin_level": "8"
+  },
+  {
+    "id": "17699751",
+    "parent": "2016161",
+    "text": "Anaklia",
+    "admin_level": "8"
+  },
+  {
+    "id": "14307686",
+    "parent": "2016162",
+    "text": "Kulevi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15841345",
+    "parent": "2016162",
+    "text": "\u10e1\u10d0\u10e9\u10d0\u10e9\u10dd\u10e3",
+    "admin_level": "8"
+  },
+  {
+    "id": "15842903",
+    "parent": "2016162",
+    "text": "\u10de\u10d0\u10e2\u10d0\u10e0\u10d0 \u10e4\u10dd\u10d7\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "2612381",
+    "parent": "2027322",
+    "text": "New Athos",
+    "admin_level": "8"
+  },
+  {
+    "id": "17078254",
+    "parent": "2624773",
+    "text": "Gal",
+    "admin_level": "8"
+  },
+  {
+    "id": "17550181",
+    "parent": "2624773",
+    "text": "\u041c\u0430\u0445\u04d9\u0438\u045f\u044c\u0440\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17554220",
+    "parent": "2624773",
+    "text": "\u0428\u044c\u0430\u0448\u044c\u0438\u043a\u04d9\u0430\u0440\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17555979",
+    "parent": "2624773",
+    "text": "\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0410\u043b\u0430\u043a\u0443\u043c\u0445\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17560832",
+    "parent": "2624773",
+    "text": "\u0420\u044c\u0430\u043f \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17568075",
+    "parent": "2624773",
+    "text": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a",
+    "admin_level": "8"
+  },
+  {
+    "id": "17569705",
+    "parent": "2624773",
+    "text": "\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u041d\u0438\u0436\u043d\u0438\u0439 \u0411\u0430\u0440\u0433\u044f\u043f",
+    "admin_level": "8"
+  },
+  {
+    "id": "17585710",
+    "parent": "2624773",
+    "text": "\u0421\u0438\u0434\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17585711",
+    "parent": "2624773",
+    "text": "\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0411\u0430\u0440\u0433\u044f\u043f",
+    "admin_level": "8"
+  },
+  {
+    "id": "17705274",
+    "parent": "2624773",
+    "text": "\u0414\u0438\u0445\u0430\u0437\u0443\u0440\u0433\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17705275",
+    "parent": "2624773",
+    "text": "\u0411\u0447\u0430\u0440\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17705276",
+    "parent": "2624773",
+    "text": "\u04b6\u0443\u0431\u0443\u0440\u0445\u044c\u044b\u043d\u045f\u044c \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17705277",
+    "parent": "2624773",
+    "text": "\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u041e\u0442\u043e\u0431\u0430\u044f \u0412\u0442\u043e\u0440\u0430\u044f",
+    "admin_level": "8"
+  },
+  {
+    "id": "17705278",
+    "parent": "2624773",
+    "text": "\u0524\u0430\u0525\u044b\u043d\u0440\u0445\u04d9\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17707272",
+    "parent": "2624773",
+    "text": "\u04ac\u0430\u04f7\u044c\u043b\u0430\u043d \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17711689",
+    "parent": "2624773",
+    "text": "\u041c\u0430\u0440\u0447\u0445\u0430\u043f\u043e\u043d \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17711940",
+    "parent": "2624773",
+    "text": "\u0411\u0430\u04ad\u0430\u0438\u0433\u04d9\u0430\u0440\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17711941",
+    "parent": "2624773",
+    "text": "\u0421\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u041e\u0442\u043e\u0431\u0430\u044f \u041f\u0435\u0440\u0432\u0430\u044f",
+    "admin_level": "8"
+  },
+  {
+    "id": "17711942",
+    "parent": "2624773",
+    "text": "\u0413\u0430\u0433\u0438\u0434\u0430 \u0430\u049b\u044b\u04ad\u0430 \u0430\u0445\u0430\u0434\u0430\u0440\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "17075197",
+    "parent": "2624775",
+    "text": "Tqwarchal",
+    "admin_level": "8"
+  },
+  {
+    "id": "14057963",
+    "parent": "1995969",
+    "text": "Chokhatauri",
+    "admin_level": "8"
+  },
+  {
+    "id": "14282784",
+    "parent": "2024537",
+    "text": "Melauri",
+    "admin_level": "8"
+  },
+  {
+    "id": "14282785",
+    "parent": "2024537",
+    "text": "Samtredia",
+    "admin_level": "8"
+  },
+  {
+    "id": "14282870",
+    "parent": "2024537",
+    "text": "\u10dd\u10e9\u10dd\u10de\u10d0",
+    "admin_level": "8"
+  },
+  {
+    "id": "17570143",
+    "parent": "2024537",
+    "text": "Kulashi",
+    "admin_level": "8"
+  },
+  {
+    "id": "17930091",
+    "parent": "2024537",
+    "text": "Bashi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15617773",
+    "parent": "2024548",
+    "text": "Tskaltubo",
+    "admin_level": "8"
+  },
+  {
+    "id": "17409709",
+    "parent": "2013752",
+    "text": "Borjomi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15842959",
+    "parent": "2024543",
+    "text": "Chiatura",
+    "admin_level": "8"
+  },
+  {
+    "id": "16430751",
+    "parent": "2024545",
+    "text": "Sachkhere",
+    "admin_level": "8"
+  },
+  {
+    "id": "17639369",
+    "parent": "2025546",
+    "text": "Surami",
+    "admin_level": "8"
+  },
+  {
+    "id": "15694560",
+    "parent": "1997286",
+    "text": "Tsageri",
+    "admin_level": "8"
+  },
+  {
+    "id": "15640920",
+    "parent": "2027328",
+    "text": "\u10d6\u10d4\u10db\u10dd \u10d0\u10da\u10d5\u10d0\u10dc\u10d8",
+    "admin_level": "8"
+  },
+  {
+    "id": "14281872",
+    "parent": "2014334",
+    "text": "Mtisdziri",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374250",
+    "parent": "2025548",
+    "text": "Gori",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374155",
+    "parent": "2025550",
+    "text": "Mtskheta",
+    "admin_level": "8"
+  },
+  {
+    "id": "8374133",
+    "parent": "2027329",
+    "text": "Telavi",
+    "admin_level": "8"
+  },
+  {
+    "id": "14273180",
+    "parent": "2027330",
+    "text": "Kakhipari",
+    "admin_level": "8"
+  }
+]

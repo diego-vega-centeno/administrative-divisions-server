@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2522303",
+    "parent": "378734",
+    "text": "Northern Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "2522430",
+    "parent": "378734",
+    "text": "Southern Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "3028094",
+    "parent": "378734",
+    "text": "Capital Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "3028095",
+    "parent": "378734",
+    "text": "Muharraq Governorate",
+    "admin_level": "4"
+  }
+]

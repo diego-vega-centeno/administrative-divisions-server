@@ -1,0 +1,38 @@
+[
+  {
+    "id": "962353",
+    "parent": "287827",
+    "text": "Stann Creek",
+    "admin_level": "4"
+  },
+  {
+    "id": "962354",
+    "parent": "287827",
+    "text": "Belize District",
+    "admin_level": "4"
+  },
+  {
+    "id": "962355",
+    "parent": "287827",
+    "text": "Orange Walk",
+    "admin_level": "4"
+  },
+  {
+    "id": "962356",
+    "parent": "287827",
+    "text": "Corozal",
+    "admin_level": "4"
+  },
+  {
+    "id": "962357",
+    "parent": "287827",
+    "text": "Cayo",
+    "admin_level": "4"
+  },
+  {
+    "id": "962358",
+    "parent": "287827",
+    "text": "Toledo",
+    "admin_level": "4"
+  }
+]
