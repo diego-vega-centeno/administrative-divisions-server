@@ -14,7 +14,7 @@ const router = express.Router();
 router.put('/', authenticateJWT, validate(layerSchema), async (req, res, next) => {
   try {
     const { title, relations } = req.body;
-    // relations : [{relId:String, relName: String},...]
+    // relations : [{relId:String, relName: String, adminLevel: String, parentsNames: String},...]
     const layerId = await saveLayer(req.user.id, title, relations);
     return res.status(201).json({
       message: 'Layer saved',

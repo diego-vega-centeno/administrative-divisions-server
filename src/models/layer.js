@@ -73,12 +73,14 @@ async function saveLayer(userId, title, relations) {
     // save relations from layer
     const relsIds = relations.map(rel => rel.relId);
     const relsNames = relations.map(rel => rel.relName);
+    const relsAdminLevels = relations.map(rel => rel.adminLevel);
+    const relsParentsNames = relations.map(rel => rel.parentsNames);
     const layersIds = new Array(relsIds.length).fill(layerId);
 
     await client.query(`
-      INSERT INTO layer_relations (layer_id, osm_relation_id, osm_relation_name)
-      SELECT * FROM unnest($1::uuid[], $2::varchar[], $3::varchar[])
-    `, [layersIds, relsIds, relsNames]);
+      INSERT INTO layer_relations (layer_id, osm_relation_id, osm_relation_name, parents_names, admin_level)
+      SELECT * FROM unnest($1::uuid[], $2::varchar[], $3::varchar[], $4::text[], $5::varchar[])
+    `, [layersIds, relsIds, relsNames, relsParentsNames, relsAdminLevels]);
 
     // commit and return successful layer
     await client.query('COMMIT');
