@@ -2,7 +2,7 @@ import pool from "../config/db.js";
 
 async function getUserLayersRelations(userId) {
   const response = await pool.query(`
-    SELECT lr.id, ly.id as layer_id, ly.title as layer_title, lr.osm_relation_id, lr.osm_relation_name 
+    SELECT lr.id, ly.id as layer_id, ly.title as layer_title, lr.osm_relation_id, lr.osm_relation_name, lr.parents_names, lr.admin_level
     FROM layers as ly
     JOIN users ON users.id = ly.user_id
     JOIN layer_relations as lr ON lr.layer_id = ly.id
