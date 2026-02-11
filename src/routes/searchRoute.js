@@ -22,6 +22,8 @@ class RelationSearch {
     const queryLower = query.toLowerCase();
     const result = [];
 
+    const startSearch = performance.now();
+
     // naive search approach
     for (const rel of this.data) {
       if (rel.text.toLowerCase().includes(queryLower)) {
@@ -36,6 +38,11 @@ class RelationSearch {
         if (result.length >= limit) break;
       }
     }
+
+
+    const searchTime = performance.now() - startSearch;
+
+    console.log(`Search time: ${searchTime.toFixed(2)} (ms)`);
 
     return result;
   }
@@ -75,7 +82,7 @@ router.get('/', (req, res, next) => {
     }
 
     // query with a limit of 100 results
-    const results = searchService.search(query, 100);
+    const results = searchService.search(query, 50);
     res.json({ data: results });
   } catch (error) {
     next(error);
