@@ -55,7 +55,7 @@ class RelationSearch {
       const curr = this.index[currId];
       if (!curr) break;
 
-      path.unshift({
+      path.push({
         id: curr.id,
         text: curr.text,
         admin_level: curr.admin_level,
@@ -64,6 +64,7 @@ class RelationSearch {
       currId = curr.parent;
     }
 
+    path.shift();
     return path;
   }
 
