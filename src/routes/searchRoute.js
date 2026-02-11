@@ -66,5 +66,20 @@ const searchService = new RelationSearch();
 
 const router = express.Router();
 
+router.get('/', (req, res, next) => {
+  try {
+    const query = (req.query.q || '').trim();
+
+    if (query.length < 2) {
+      return res.json({ data: [] });
+    }
+
+    // query with a limit of 100 results
+    const results = searchService.search(query, 100);
+    res.json({ data: results });
+  } catch (error) {
+    next(error);
+  }
+})
 
 export default router;
