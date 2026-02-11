@@ -6,6 +6,7 @@ import oauthGoogleRoute from './src/routes/oauthGoogle.js'
 import apiRoute from './src/routes/apiRoute.js'
 import countryRoute from './src/routes/countryRoute.js'
 import layerRoute from './src/routes/layers.js'
+import searchRoute from './src/routes/searchRoute.js'
 import { rateLimit } from 'express-rate-limit'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
@@ -50,6 +51,7 @@ app.use('/auth/google', oauthGoogleRoute)
 app.use('/user', userRoute)
 app.use('/layer', layerRoute)
 app.use('/country', countryRoute)
+app.use('/search', searchRoute)
 
 // health check
 app.get('/health', (req, res) => res.sendStatus(200));
