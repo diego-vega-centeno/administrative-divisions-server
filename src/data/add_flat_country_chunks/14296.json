@@ -1,69 +1,9 @@
 [
   {
-    "id": "388265",
-    "parent": "14296",
-    "text": "Region of Bratislava",
-    "admin_level": "4"
-  },
-  {
-    "id": "388266",
-    "parent": "14296",
-    "text": "Region of Trnava",
-    "admin_level": "4"
-  },
-  {
-    "id": "388267",
-    "parent": "14296",
-    "text": "Region of Tren\u010d\u00edn",
-    "admin_level": "4"
-  },
-  {
-    "id": "388268",
-    "parent": "14296",
-    "text": "Region of Nitra",
-    "admin_level": "4"
-  },
-  {
-    "id": "388269",
-    "parent": "14296",
-    "text": "Region of \u017dilina",
-    "admin_level": "4"
-  },
-  {
-    "id": "388270",
-    "parent": "14296",
-    "text": "Region of Bansk\u00e1 Bystrica",
-    "admin_level": "4"
-  },
-  {
-    "id": "388271",
-    "parent": "14296",
-    "text": "Region of Pre\u0161ov",
-    "admin_level": "4"
-  },
-  {
-    "id": "388272",
-    "parent": "14296",
-    "text": "Region of Ko\u0161ice",
-    "admin_level": "4"
-  },
-  {
     "id": "1702499",
     "parent": "388265",
     "text": "Bratislava",
     "admin_level": "6"
-  },
-  {
-    "id": "1690324",
-    "parent": "388272",
-    "text": "Ko\u0161ice",
-    "admin_level": "6"
-  },
-  {
-    "id": "388210",
-    "parent": "1702499",
-    "text": "District of Bratislava V",
-    "admin_level": "8"
   },
   {
     "id": "388234",
@@ -90,21 +30,21 @@
     "admin_level": "8"
   },
   {
+    "id": "388210",
+    "parent": "1702499",
+    "text": "District of Bratislava V",
+    "admin_level": "8"
+  },
+  {
     "id": "388209",
     "parent": "1690324",
     "text": "District of Ko\u0161ice - okolie",
     "admin_level": "8"
   },
   {
-    "id": "388214",
+    "id": "388220",
     "parent": "1690324",
-    "text": "District of Ko\u0161ice IV",
-    "admin_level": "8"
-  },
-  {
-    "id": "388215",
-    "parent": "1690324",
-    "text": "District of Ko\u0161ice III",
+    "text": "District of Ko\u0161ice I",
     "admin_level": "8"
   },
   {
@@ -114,9 +54,69 @@
     "admin_level": "8"
   },
   {
-    "id": "388220",
+    "id": "388215",
     "parent": "1690324",
-    "text": "District of Ko\u0161ice I",
+    "text": "District of Ko\u0161ice III",
     "admin_level": "8"
+  },
+  {
+    "id": "388214",
+    "parent": "1690324",
+    "text": "District of Ko\u0161ice IV",
+    "admin_level": "8"
+  },
+  {
+    "id": "1690324",
+    "parent": "388272",
+    "text": "Ko\u0161ice",
+    "admin_level": "6"
+  },
+  {
+    "id": "388270",
+    "parent": "14296",
+    "text": "Region of Bansk\u00e1 Bystrica",
+    "admin_level": "4"
+  },
+  {
+    "id": "388265",
+    "parent": "14296",
+    "text": "Region of Bratislava",
+    "admin_level": "4"
+  },
+  {
+    "id": "388272",
+    "parent": "14296",
+    "text": "Region of Ko\u0161ice",
+    "admin_level": "4"
+  },
+  {
+    "id": "388268",
+    "parent": "14296",
+    "text": "Region of Nitra",
+    "admin_level": "4"
+  },
+  {
+    "id": "388271",
+    "parent": "14296",
+    "text": "Region of Pre\u0161ov",
+    "admin_level": "4"
+  },
+  {
+    "id": "388267",
+    "parent": "14296",
+    "text": "Region of Tren\u010d\u00edn",
+    "admin_level": "4"
+  },
+  {
+    "id": "388266",
+    "parent": "14296",
+    "text": "Region of Trnava",
+    "admin_level": "4"
+  },
+  {
+    "id": "388269",
+    "parent": "14296",
+    "text": "Region of \u017dilina",
+    "admin_level": "4"
   }
 ]

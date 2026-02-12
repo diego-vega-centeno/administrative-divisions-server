@@ -1,5 +1,17 @@
 [
   {
+    "id": "13877612",
+    "parent": "285454",
+    "text": "Anegada",
+    "admin_level": "4"
+  },
+  {
+    "id": "13877610",
+    "parent": "285454",
+    "text": "Jost Van Dyke",
+    "admin_level": "4"
+  },
+  {
     "id": "13877608",
     "parent": "285454",
     "text": "Other British Virgin Islands",
@@ -12,21 +24,9 @@
     "admin_level": "4"
   },
   {
-    "id": "13877610",
-    "parent": "285454",
-    "text": "Jost Van Dyke",
-    "admin_level": "4"
-  },
-  {
     "id": "13877611",
     "parent": "285454",
     "text": "Virgin Gorda",
-    "admin_level": "4"
-  },
-  {
-    "id": "13877612",
-    "parent": "285454",
-    "text": "Anegada",
     "admin_level": "4"
   }
 ]

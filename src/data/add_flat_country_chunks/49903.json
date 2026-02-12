@@ -1,9 +1,39 @@
 [
   {
+    "id": "5831671",
+    "parent": "5831668",
+    "text": "Anouvong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831673",
+    "parent": "5831665",
+    "text": "Assaphone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831672",
+    "parent": "5831665",
+    "text": "Atsaphangthong District",
+    "admin_level": "6"
+  },
+  {
     "id": "5831653",
     "parent": "49903",
     "text": "Attapeu",
     "admin_level": "4"
+  },
+  {
+    "id": "5831674",
+    "parent": "5831656",
+    "text": "Bachiangchaleunsouk District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831675",
+    "parent": "5831661",
+    "text": "Beng District",
+    "admin_level": "6"
   },
   {
     "id": "5831654",
@@ -18,345 +48,9 @@
     "admin_level": "4"
   },
   {
-    "id": "5831656",
-    "parent": "49903",
-    "text": "Champasak Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831657",
-    "parent": "49903",
-    "text": "Houaphanh",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831658",
-    "parent": "49903",
-    "text": "Khammouane",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831659",
-    "parent": "49903",
-    "text": "Luang Namtha",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831660",
-    "parent": "49903",
-    "text": "Luang Prabang",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831661",
-    "parent": "49903",
-    "text": "Oudomxay",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831662",
-    "parent": "49903",
-    "text": "Phongsaly",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831663",
-    "parent": "49903",
-    "text": "Sainyabuli Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831664",
-    "parent": "49903",
-    "text": "Salavan Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831665",
-    "parent": "49903",
-    "text": "Savannakhet Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831666",
-    "parent": "49903",
-    "text": "Vientiane Prefecture",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831667",
-    "parent": "49903",
-    "text": "Vientiane Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831668",
-    "parent": "49903",
-    "text": "Xaisomboun Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831669",
-    "parent": "49903",
-    "text": "Sekong Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831670",
-    "parent": "49903",
-    "text": "Xiangkhouang Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "5831761",
-    "parent": "5831653",
-    "text": "Phouvong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831762",
-    "parent": "5831653",
-    "text": "Samakkhixay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831765",
-    "parent": "5831653",
-    "text": "Sanamxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831767",
-    "parent": "5831653",
-    "text": "Sanxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831769",
-    "parent": "5831653",
-    "text": "Saysetha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831674",
-    "parent": "5831656",
-    "text": "Bachiangchaleunsouk District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831681",
-    "parent": "5831656",
-    "text": "Champassack District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831706",
-    "parent": "5831656",
-    "text": "Khong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831724",
-    "parent": "5831656",
-    "text": "Mounlapamok District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831745",
-    "parent": "5831656",
-    "text": "Pak S\u00e9 District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831747",
-    "parent": "5831656",
-    "text": "Paksong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831748",
-    "parent": "5831656",
-    "text": "Pathouphone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831757",
-    "parent": "5831656",
-    "text": "Phonthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831775",
-    "parent": "5831656",
-    "text": "Soukhoumma District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831804",
-    "parent": "5831656",
-    "text": "Sanasomboun District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831707",
-    "parent": "5831664",
-    "text": "Khongsedone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831711",
-    "parent": "5831664",
-    "text": "Lakhonepheng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831713",
-    "parent": "5831664",
-    "text": "Lao Ngam District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831763",
-    "parent": "5831664",
-    "text": "Sa Mouay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831768",
-    "parent": "5831664",
-    "text": "Saravane District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831776",
-    "parent": "5831664",
-    "text": "Ta Oy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831785",
-    "parent": "5831664",
-    "text": "Toumlane District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831787",
-    "parent": "5831664",
-    "text": "Vapy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831672",
-    "parent": "5831665",
-    "text": "Atsaphangthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831673",
-    "parent": "5831665",
-    "text": "Assaphone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831682",
-    "parent": "5831665",
-    "text": "Champhone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831704",
-    "parent": "5831665",
-    "text": "Khanthaboury District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831734",
-    "parent": "5831665",
-    "text": "Nong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831737",
-    "parent": "5831665",
-    "text": "Outhoumphone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831751",
-    "parent": "5831665",
-    "text": "Thaphalanxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831754",
-    "parent": "5831665",
-    "text": "Phine District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831773",
-    "parent": "5831665",
-    "text": "Songkhone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831778",
-    "parent": "5831665",
-    "text": "Thapangthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831794",
-    "parent": "5831665",
-    "text": "Viraboury District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831797",
-    "parent": "5831665",
-    "text": "Xayboury District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831799",
-    "parent": "5831665",
-    "text": "Xaiphouthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831806",
-    "parent": "5831665",
-    "text": "Seponh District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831810",
-    "parent": "5831665",
-    "text": "Xonboury District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831685",
-    "parent": "5831669",
-    "text": "Dak Cheung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831698",
-    "parent": "5831669",
-    "text": "Kaleum District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831712",
-    "parent": "5831669",
-    "text": "Lam Mam District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831780",
-    "parent": "5831669",
-    "text": "Tha Teng District",
+    "id": "5831676",
+    "parent": "5831655",
+    "text": "Borikhane District",
     "admin_level": "6"
   },
   {
@@ -366,591 +60,9 @@
     "admin_level": "6"
   },
   {
-    "id": "5831694",
-    "parent": "5831663",
-    "text": "Hongsa District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831700",
-    "parent": "5831663",
-    "text": "Kenethao District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831708",
-    "parent": "5831663",
-    "text": "Khop District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831732",
-    "parent": "5831663",
-    "text": "Ngeun District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831742",
-    "parent": "5831663",
-    "text": "Paklai District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831753",
-    "parent": "5831663",
-    "text": "Phiang District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831782",
-    "parent": "5831663",
-    "text": "Thongmyxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831798",
-    "parent": "5831663",
-    "text": "Xayabury District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831808",
-    "parent": "5831663",
-    "text": "Xienghone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6980676",
-    "parent": "5831663",
-    "text": "Xaisathan District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831696",
-    "parent": "5831654",
-    "text": "Houaixai District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831722",
-    "parent": "5831654",
-    "text": "Meung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831743",
-    "parent": "5831654",
-    "text": "Paktha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831750",
-    "parent": "5831654",
-    "text": "Pha Oudom District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831784",
-    "parent": "5831654",
-    "text": "Tonpheung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831714",
-    "parent": "5831659",
-    "text": "Long District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831717",
-    "parent": "5831659",
-    "text": "Namtha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831726",
-    "parent": "5831659",
-    "text": "Nale District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831771",
-    "parent": "5831659",
-    "text": "Sing District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831789",
-    "parent": "5831659",
-    "text": "Viengphoukha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831676",
-    "parent": "5831655",
-    "text": "Borikhane District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831703",
-    "parent": "5831655",
-    "text": "Khamkeut District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831741",
-    "parent": "5831655",
-    "text": "Pakkading District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831744",
-    "parent": "5831655",
-    "text": "Paksane District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831779",
-    "parent": "5831655",
-    "text": "Thaphabath District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831793",
-    "parent": "5831655",
-    "text": "Viengthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6949871",
-    "parent": "5831655",
-    "text": "Xaichamphone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831686",
-    "parent": "5831657",
-    "text": "Et District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831695",
-    "parent": "5831657",
-    "text": "Houameuang District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831774",
-    "parent": "5831657",
-    "text": "Sop Bao District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831791",
-    "parent": "5831657",
-    "text": "Viengxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831802",
-    "parent": "5831657",
-    "text": "Xam Neua District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831803",
-    "parent": "5831657",
-    "text": "Samtay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831809",
-    "parent": "5831657",
-    "text": "Xiengkho District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6968079",
-    "parent": "5831657",
-    "text": "Xon District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6968971",
-    "parent": "5831657",
-    "text": "Kone District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6968984",
-    "parent": "5831657",
-    "text": "Hiam District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831684",
-    "parent": "5831660",
-    "text": "Chomphet District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831718",
-    "parent": "5831660",
-    "text": "Luang Prabang District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831727",
-    "parent": "5831660",
-    "text": "Nam Bak District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831729",
-    "parent": "5831660",
-    "text": "Nane District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831733",
-    "parent": "5831660",
-    "text": "Ngoy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831739",
-    "parent": "5831660",
-    "text": "Pak Ou District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831746",
-    "parent": "5831660",
-    "text": "Pak Seng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831758",
-    "parent": "5831660",
-    "text": "Phonxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831759",
-    "parent": "5831660",
-    "text": "Phoukhoune District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831788",
-    "parent": "5831660",
-    "text": "Viengkham District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831807",
-    "parent": "5831660",
-    "text": "Xiengngeun District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6986764",
-    "parent": "5831660",
-    "text": "Phonthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831683",
-    "parent": "5831666",
-    "text": "Chanthabuly District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831690",
-    "parent": "5831666",
-    "text": "Hadxayfong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831730",
-    "parent": "5831666",
-    "text": "Naxaithong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831738",
-    "parent": "5831666",
-    "text": "Parkngum District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831766",
-    "parent": "5831666",
-    "text": "Sangthong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831770",
-    "parent": "5831666",
-    "text": "Sikhottabong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831772",
-    "parent": "5831666",
-    "text": "Sisattanak District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831800",
-    "parent": "5831666",
-    "text": "Xaysetha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831801",
-    "parent": "5831666",
-    "text": "Xaythany District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831687",
-    "parent": "5831667",
-    "text": "Feuang District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831692",
-    "parent": "5831667",
-    "text": "Hinhurp District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831699",
-    "parent": "5831667",
-    "text": "Kasy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831701",
-    "parent": "5831667",
-    "text": "Keo Oudom District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831721",
-    "parent": "5831667",
-    "text": "Met District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831756",
-    "parent": "5831667",
-    "text": "Phonhong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831783",
-    "parent": "5831667",
-    "text": "Thoulakhom District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831786",
-    "parent": "5831667",
-    "text": "Vangvieng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831792",
-    "parent": "5831667",
-    "text": "Viengkham District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831811",
-    "parent": "5831667",
-    "text": "Xanakham District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6972971",
-    "parent": "5831667",
-    "text": "Meun District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831671",
-    "parent": "5831668",
-    "text": "Anouvong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831693",
-    "parent": "5831668",
-    "text": "Hom District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831715",
-    "parent": "5831668",
-    "text": "Longchaeng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831716",
-    "parent": "5831668",
-    "text": "Longxan District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831781",
-    "parent": "5831668",
-    "text": "Thathom District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831702",
-    "parent": "5831670",
-    "text": "Kham District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831709",
-    "parent": "5831670",
-    "text": "Khoune District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831723",
-    "parent": "5831670",
-    "text": "Mok May District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831736",
-    "parent": "5831670",
-    "text": "Nong Het District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831749",
-    "parent": "5831670",
-    "text": "Pek District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831752",
-    "parent": "5831670",
-    "text": "Phaxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831760",
-    "parent": "5831670",
-    "text": "Phou Kout District",
-    "admin_level": "6"
-  },
-  {
     "id": "5831678",
     "parent": "5831658",
     "text": "Boualapha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831688",
-    "parent": "5831658",
-    "text": "Yommalath District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831691",
-    "parent": "5831658",
-    "text": "Hineboune District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831719",
-    "parent": "5831658",
-    "text": "Mahaxay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831725",
-    "parent": "5831658",
-    "text": "Nakai District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831735",
-    "parent": "5831658",
-    "text": "Nong Bok District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831777",
-    "parent": "5831658",
-    "text": "Thakhek District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831796",
-    "parent": "5831658",
-    "text": "Saybouathong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831805",
-    "parent": "5831658",
-    "text": "Sebangphay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "6993217",
-    "parent": "5831658",
-    "text": "Kounkham District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831675",
-    "parent": "5831661",
-    "text": "Beng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831697",
-    "parent": "5831661",
-    "text": "Houne District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831710",
-    "parent": "5831661",
-    "text": "La District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831728",
-    "parent": "5831661",
-    "text": "Na Mo District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831731",
-    "parent": "5831661",
-    "text": "Nga District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831740",
-    "parent": "5831661",
-    "text": "Pak Beng District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5831795",
-    "parent": "5831661",
-    "text": "Xay District",
     "admin_level": "6"
   },
   {
@@ -966,33 +78,51 @@
     "admin_level": "6"
   },
   {
-    "id": "5831689",
-    "parent": "5831662",
-    "text": "Yot Ou District",
+    "id": "5831656",
+    "parent": "49903",
+    "text": "Champasak Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831681",
+    "parent": "5831656",
+    "text": "Champassack District",
     "admin_level": "6"
   },
   {
-    "id": "5831705",
-    "parent": "5831662",
-    "text": "Khoua District",
+    "id": "5831682",
+    "parent": "5831665",
+    "text": "Champhone District",
     "admin_level": "6"
   },
   {
-    "id": "5831720",
-    "parent": "5831662",
-    "text": "May District",
+    "id": "5831683",
+    "parent": "5831666",
+    "text": "Chanthabuly District",
     "admin_level": "6"
   },
   {
-    "id": "5831755",
-    "parent": "5831662",
-    "text": "Phongsaly District",
+    "id": "5831684",
+    "parent": "5831660",
+    "text": "Chomphet District",
     "admin_level": "6"
   },
   {
-    "id": "5831764",
-    "parent": "5831662",
-    "text": "Samphanh District",
+    "id": "5831685",
+    "parent": "5831669",
+    "text": "Dak Cheung District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831686",
+    "parent": "5831657",
+    "text": "Et District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831687",
+    "parent": "5831667",
+    "text": "Feuang District",
     "admin_level": "6"
   },
   {
@@ -1002,15 +132,885 @@
     "admin_level": "8"
   },
   {
+    "id": "5831690",
+    "parent": "5831666",
+    "text": "Hadxayfong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6968984",
+    "parent": "5831657",
+    "text": "Hiam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831691",
+    "parent": "5831658",
+    "text": "Hineboune District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831692",
+    "parent": "5831667",
+    "text": "Hinhurp District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831693",
+    "parent": "5831668",
+    "text": "Hom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831694",
+    "parent": "5831663",
+    "text": "Hongsa District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831696",
+    "parent": "5831654",
+    "text": "Houaixai District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831695",
+    "parent": "5831657",
+    "text": "Houameuang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831657",
+    "parent": "49903",
+    "text": "Houaphanh",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831697",
+    "parent": "5831661",
+    "text": "Houne District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831698",
+    "parent": "5831669",
+    "text": "Kaleum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831699",
+    "parent": "5831667",
+    "text": "Kasy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831700",
+    "parent": "5831663",
+    "text": "Kenethao District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831701",
+    "parent": "5831667",
+    "text": "Keo Oudom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831702",
+    "parent": "5831670",
+    "text": "Kham District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831703",
+    "parent": "5831655",
+    "text": "Khamkeut District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831658",
+    "parent": "49903",
+    "text": "Khammouane",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831704",
+    "parent": "5831665",
+    "text": "Khanthaboury District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831706",
+    "parent": "5831656",
+    "text": "Khong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831707",
+    "parent": "5831664",
+    "text": "Khongsedone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831708",
+    "parent": "5831663",
+    "text": "Khop District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831705",
+    "parent": "5831662",
+    "text": "Khoua District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831709",
+    "parent": "5831670",
+    "text": "Khoune District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6968971",
+    "parent": "5831657",
+    "text": "Kone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6993217",
+    "parent": "5831658",
+    "text": "Kounkham District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831710",
+    "parent": "5831661",
+    "text": "La District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831711",
+    "parent": "5831664",
+    "text": "Lakhonepheng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831712",
+    "parent": "5831669",
+    "text": "Lam Mam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831713",
+    "parent": "5831664",
+    "text": "Lao Ngam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831714",
+    "parent": "5831659",
+    "text": "Long District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831715",
+    "parent": "5831668",
+    "text": "Longchaeng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831716",
+    "parent": "5831668",
+    "text": "Longxan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831659",
+    "parent": "49903",
+    "text": "Luang Namtha",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831660",
+    "parent": "49903",
+    "text": "Luang Prabang",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831718",
+    "parent": "5831660",
+    "text": "Luang Prabang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831719",
+    "parent": "5831658",
+    "text": "Mahaxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831720",
+    "parent": "5831662",
+    "text": "May District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831721",
+    "parent": "5831667",
+    "text": "Met District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6972971",
+    "parent": "5831667",
+    "text": "Meun District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831722",
+    "parent": "5831654",
+    "text": "Meung District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831723",
+    "parent": "5831670",
+    "text": "Mok May District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831724",
+    "parent": "5831656",
+    "text": "Mounlapamok District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831728",
+    "parent": "5831661",
+    "text": "Na Mo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831725",
+    "parent": "5831658",
+    "text": "Nakai District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831726",
+    "parent": "5831659",
+    "text": "Nale District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831727",
+    "parent": "5831660",
+    "text": "Nam Bak District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831717",
+    "parent": "5831659",
+    "text": "Namtha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831729",
+    "parent": "5831660",
+    "text": "Nane District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831730",
+    "parent": "5831666",
+    "text": "Naxaithong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831731",
+    "parent": "5831661",
+    "text": "Nga District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831732",
+    "parent": "5831663",
+    "text": "Ngeun District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831733",
+    "parent": "5831660",
+    "text": "Ngoy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831735",
+    "parent": "5831658",
+    "text": "Nong Bok District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831734",
+    "parent": "5831665",
+    "text": "Nong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831736",
+    "parent": "5831670",
+    "text": "Nong Het District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831661",
+    "parent": "49903",
+    "text": "Oudomxay",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831737",
+    "parent": "5831665",
+    "text": "Outhoumphone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831740",
+    "parent": "5831661",
+    "text": "Pak Beng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831739",
+    "parent": "5831660",
+    "text": "Pak Ou District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831746",
+    "parent": "5831660",
+    "text": "Pak Seng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831745",
+    "parent": "5831656",
+    "text": "Pak S\u00e9 District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831741",
+    "parent": "5831655",
+    "text": "Pakkading District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831742",
+    "parent": "5831663",
+    "text": "Paklai District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831744",
+    "parent": "5831655",
+    "text": "Paksane District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831747",
+    "parent": "5831656",
+    "text": "Paksong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831743",
+    "parent": "5831654",
+    "text": "Paktha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831738",
+    "parent": "5831666",
+    "text": "Parkngum District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831748",
+    "parent": "5831656",
+    "text": "Pathouphone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831749",
+    "parent": "5831670",
+    "text": "Pek District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831750",
+    "parent": "5831654",
+    "text": "Pha Oudom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831752",
+    "parent": "5831670",
+    "text": "Phaxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831753",
+    "parent": "5831663",
+    "text": "Phiang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831754",
+    "parent": "5831665",
+    "text": "Phine District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831662",
+    "parent": "49903",
+    "text": "Phongsaly",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831755",
+    "parent": "5831662",
+    "text": "Phongsaly District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831756",
+    "parent": "5831667",
+    "text": "Phonhong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831757",
+    "parent": "5831656",
+    "text": "Phonthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6986764",
+    "parent": "5831660",
+    "text": "Phonthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831758",
+    "parent": "5831660",
+    "text": "Phonxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831760",
+    "parent": "5831670",
+    "text": "Phou Kout District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831759",
+    "parent": "5831660",
+    "text": "Phoukhoune District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831761",
+    "parent": "5831653",
+    "text": "Phouvong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831763",
+    "parent": "5831664",
+    "text": "Sa Mouay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831663",
+    "parent": "49903",
+    "text": "Sainyabuli Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831664",
+    "parent": "49903",
+    "text": "Salavan Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831762",
+    "parent": "5831653",
+    "text": "Samakkhixay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831764",
+    "parent": "5831662",
+    "text": "Samphanh District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831803",
+    "parent": "5831657",
+    "text": "Samtay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831765",
+    "parent": "5831653",
+    "text": "Sanamxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831804",
+    "parent": "5831656",
+    "text": "Sanasomboun District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831766",
+    "parent": "5831666",
+    "text": "Sangthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831767",
+    "parent": "5831653",
+    "text": "Sanxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831768",
+    "parent": "5831664",
+    "text": "Saravane District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831665",
+    "parent": "49903",
+    "text": "Savannakhet Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831796",
+    "parent": "5831658",
+    "text": "Saybouathong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831769",
+    "parent": "5831653",
+    "text": "Saysetha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831805",
+    "parent": "5831658",
+    "text": "Sebangphay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831669",
+    "parent": "49903",
+    "text": "Sekong Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831806",
+    "parent": "5831665",
+    "text": "Seponh District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831770",
+    "parent": "5831666",
+    "text": "Sikhottabong District",
+    "admin_level": "6"
+  },
+  {
     "id": "6979687",
     "parent": "5831690",
     "text": "Simmano",
     "admin_level": "8"
   },
   {
+    "id": "5831771",
+    "parent": "5831659",
+    "text": "Sing District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831772",
+    "parent": "5831666",
+    "text": "Sisattanak District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831773",
+    "parent": "5831665",
+    "text": "Songkhone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831774",
+    "parent": "5831657",
+    "text": "Sop Bao District",
+    "admin_level": "6"
+  },
+  {
     "id": "6958914",
     "parent": "5831720",
     "text": "Sophoun",
     "admin_level": "8"
+  },
+  {
+    "id": "5831775",
+    "parent": "5831656",
+    "text": "Soukhoumma District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831776",
+    "parent": "5831664",
+    "text": "Ta Oy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831780",
+    "parent": "5831669",
+    "text": "Tha Teng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831777",
+    "parent": "5831658",
+    "text": "Thakhek District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831778",
+    "parent": "5831665",
+    "text": "Thapangthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831779",
+    "parent": "5831655",
+    "text": "Thaphabath District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831751",
+    "parent": "5831665",
+    "text": "Thaphalanxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831781",
+    "parent": "5831668",
+    "text": "Thathom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831782",
+    "parent": "5831663",
+    "text": "Thongmyxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831783",
+    "parent": "5831667",
+    "text": "Thoulakhom District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831784",
+    "parent": "5831654",
+    "text": "Tonpheung District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831785",
+    "parent": "5831664",
+    "text": "Toumlane District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831786",
+    "parent": "5831667",
+    "text": "Vangvieng District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831787",
+    "parent": "5831664",
+    "text": "Vapy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831788",
+    "parent": "5831660",
+    "text": "Viengkham District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831792",
+    "parent": "5831667",
+    "text": "Viengkham District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831789",
+    "parent": "5831659",
+    "text": "Viengphoukha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831793",
+    "parent": "5831655",
+    "text": "Viengthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831791",
+    "parent": "5831657",
+    "text": "Viengxay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831666",
+    "parent": "49903",
+    "text": "Vientiane Prefecture",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831667",
+    "parent": "49903",
+    "text": "Vientiane Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831794",
+    "parent": "5831665",
+    "text": "Viraboury District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6949871",
+    "parent": "5831655",
+    "text": "Xaichamphone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831799",
+    "parent": "5831665",
+    "text": "Xaiphouthong District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6980676",
+    "parent": "5831663",
+    "text": "Xaisathan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831668",
+    "parent": "49903",
+    "text": "Xaisomboun Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831802",
+    "parent": "5831657",
+    "text": "Xam Neua District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831811",
+    "parent": "5831667",
+    "text": "Xanakham District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831795",
+    "parent": "5831661",
+    "text": "Xay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831798",
+    "parent": "5831663",
+    "text": "Xayabury District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831797",
+    "parent": "5831665",
+    "text": "Xayboury District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831800",
+    "parent": "5831666",
+    "text": "Xaysetha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831801",
+    "parent": "5831666",
+    "text": "Xaythany District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831670",
+    "parent": "49903",
+    "text": "Xiangkhouang Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5831808",
+    "parent": "5831663",
+    "text": "Xienghone District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831809",
+    "parent": "5831657",
+    "text": "Xiengkho District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831807",
+    "parent": "5831660",
+    "text": "Xiengngeun District",
+    "admin_level": "6"
+  },
+  {
+    "id": "6968079",
+    "parent": "5831657",
+    "text": "Xon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831810",
+    "parent": "5831665",
+    "text": "Xonboury District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831688",
+    "parent": "5831658",
+    "text": "Yommalath District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5831689",
+    "parent": "5831662",
+    "text": "Yot Ou District",
+    "admin_level": "6"
   }
 ]

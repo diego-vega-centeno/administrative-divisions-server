@@ -1,41 +1,5 @@
 [
   {
-    "id": "316552",
-    "parent": "184843",
-    "text": "Beirut Governorate",
-    "admin_level": "4"
-  },
-  {
-    "id": "318161",
-    "parent": "184843",
-    "text": "North Governorate",
-    "admin_level": "4"
-  },
-  {
-    "id": "318174",
-    "parent": "184843",
-    "text": "Beqaa Governorate",
-    "admin_level": "4"
-  },
-  {
-    "id": "318194",
-    "parent": "184843",
-    "text": "Mount Lebanon Governorate",
-    "admin_level": "4"
-  },
-  {
-    "id": "318236",
-    "parent": "184843",
-    "text": "South Governorate",
-    "admin_level": "4"
-  },
-  {
-    "id": "318309",
-    "parent": "184843",
-    "text": "Nabatieh Governorate",
-    "admin_level": "4"
-  },
-  {
     "id": "7231014",
     "parent": "184843",
     "text": "Akkar Governorate",
@@ -48,9 +12,45 @@
     "admin_level": "4"
   },
   {
+    "id": "316552",
+    "parent": "184843",
+    "text": "Beirut Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "318174",
+    "parent": "184843",
+    "text": "Beqaa Governorate",
+    "admin_level": "4"
+  },
+  {
     "id": "12903506",
     "parent": "184843",
     "text": "Keserwan-Jbeil Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "318194",
+    "parent": "184843",
+    "text": "Mount Lebanon Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "318309",
+    "parent": "184843",
+    "text": "Nabatieh Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "318161",
+    "parent": "184843",
+    "text": "North Governorate",
+    "admin_level": "4"
+  },
+  {
+    "id": "318236",
+    "parent": "184843",
+    "text": "South Governorate",
     "admin_level": "4"
   }
 ]

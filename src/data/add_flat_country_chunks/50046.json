@@ -1,5 +1,11 @@
 [
   {
+    "id": "1320608",
+    "parent": "50046",
+    "text": "Capital Region of Denmark",
+    "admin_level": "4"
+  },
+  {
     "id": "1319935",
     "parent": "50046",
     "text": "Central Denmark Region",
@@ -12,21 +18,15 @@
     "admin_level": "4"
   },
   {
-    "id": "1319978",
-    "parent": "50046",
-    "text": "Region of Southern Denmark",
-    "admin_level": "4"
-  },
-  {
     "id": "1320370",
     "parent": "50046",
     "text": "Region Zealand",
     "admin_level": "4"
   },
   {
-    "id": "1320608",
+    "id": "1319978",
     "parent": "50046",
-    "text": "Capital Region of Denmark",
+    "text": "Region of Southern Denmark",
     "admin_level": "4"
   }
 ]

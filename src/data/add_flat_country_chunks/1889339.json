@@ -1,56 +1,8 @@
 [
   {
-    "id": "270332",
-    "parent": "1889339",
-    "text": "South-East District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270333",
-    "parent": "1889339",
-    "text": "Kgatleng District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270334",
-    "parent": "1889339",
-    "text": "North-East District",
-    "admin_level": "4"
-  },
-  {
     "id": "270335",
     "parent": "1889339",
     "text": "Central District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270336",
-    "parent": "1889339",
-    "text": "Ghanzi District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270337",
-    "parent": "1889339",
-    "text": "Kweneng District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270338",
-    "parent": "1889339",
-    "text": "Southern District",
-    "admin_level": "4"
-  },
-  {
-    "id": "270339",
-    "parent": "1889339",
-    "text": "Kgalagadi District",
-    "admin_level": "4"
-  },
-  {
-    "id": "2104170",
-    "parent": "1889339",
-    "text": "North-West District",
     "admin_level": "4"
   },
   {
@@ -60,9 +12,51 @@
     "admin_level": "4"
   },
   {
+    "id": "17349212",
+    "parent": "1889339",
+    "text": "Francistown",
+    "admin_level": "4"
+  },
+  {
     "id": "17349208",
     "parent": "1889339",
     "text": "Gaborone",
+    "admin_level": "4"
+  },
+  {
+    "id": "270336",
+    "parent": "1889339",
+    "text": "Ghanzi District",
+    "admin_level": "4"
+  },
+  {
+    "id": "16327265",
+    "parent": "270339",
+    "text": "Hukuntsi Sub-district",
+    "admin_level": "6"
+  },
+  {
+    "id": "19430982",
+    "parent": "1889339",
+    "text": "Jwaneng Town",
+    "admin_level": "4"
+  },
+  {
+    "id": "270339",
+    "parent": "1889339",
+    "text": "Kgalagadi District",
+    "admin_level": "4"
+  },
+  {
+    "id": "270333",
+    "parent": "1889339",
+    "text": "Kgatleng District",
+    "admin_level": "4"
+  },
+  {
+    "id": "270337",
+    "parent": "1889339",
+    "text": "Kweneng District",
     "admin_level": "4"
   },
   {
@@ -72,15 +66,33 @@
     "admin_level": "4"
   },
   {
+    "id": "270334",
+    "parent": "1889339",
+    "text": "North-East District",
+    "admin_level": "4"
+  },
+  {
+    "id": "2104170",
+    "parent": "1889339",
+    "text": "North-West District",
+    "admin_level": "4"
+  },
+  {
     "id": "17349211",
     "parent": "1889339",
     "text": "Selebi Phikwe",
     "admin_level": "4"
   },
   {
-    "id": "17349212",
+    "id": "270332",
     "parent": "1889339",
-    "text": "Francistown",
+    "text": "South-East District",
+    "admin_level": "4"
+  },
+  {
+    "id": "270338",
+    "parent": "1889339",
+    "text": "Southern District",
     "admin_level": "4"
   },
   {
@@ -90,21 +102,9 @@
     "admin_level": "4"
   },
   {
-    "id": "19430982",
-    "parent": "1889339",
-    "text": "Jwaneng Town",
-    "admin_level": "4"
-  },
-  {
     "id": "16327264",
     "parent": "270339",
     "text": "Tsabong Sub-district",
-    "admin_level": "6"
-  },
-  {
-    "id": "16327265",
-    "parent": "270339",
-    "text": "Hukuntsi Sub-district",
     "admin_level": "6"
   }
 ]

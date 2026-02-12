@@ -6,6 +6,24 @@
     "admin_level": "4"
   },
   {
+    "id": "2060189",
+    "parent": "192758",
+    "text": "Az Zawiya District",
+    "admin_level": "4"
+  },
+  {
+    "id": "15327824",
+    "parent": "192758",
+    "text": "Baladiyah Surman",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060180",
+    "parent": "192758",
+    "text": "Bani Walid",
+    "admin_level": "4"
+  },
+  {
     "id": "2060170",
     "parent": "192758",
     "text": "Benghazi",
@@ -21,6 +39,12 @@
     "id": "2060172",
     "parent": "192758",
     "text": "Derna",
+    "admin_level": "4"
+  },
+  {
+    "id": "2060177",
+    "parent": "192758",
+    "text": "District of Al-Jufra",
     "admin_level": "4"
   },
   {
@@ -48,12 +72,6 @@
     "admin_level": "4"
   },
   {
-    "id": "2060177",
-    "parent": "192758",
-    "text": "District of Al-Jufra",
-    "admin_level": "4"
-  },
-  {
     "id": "2060178",
     "parent": "192758",
     "text": "Kufra",
@@ -66,9 +84,9 @@
     "admin_level": "4"
   },
   {
-    "id": "2060180",
+    "id": "3795005",
     "parent": "192758",
-    "text": "Bani Walid",
+    "text": "Murqub",
     "admin_level": "4"
   },
   {
@@ -117,24 +135,6 @@
     "id": "2060188",
     "parent": "192758",
     "text": "Wadi al Shatii",
-    "admin_level": "4"
-  },
-  {
-    "id": "2060189",
-    "parent": "192758",
-    "text": "Az Zawiya District",
-    "admin_level": "4"
-  },
-  {
-    "id": "3795005",
-    "parent": "192758",
-    "text": "Murqub",
-    "admin_level": "4"
-  },
-  {
-    "id": "15327824",
-    "parent": "192758",
-    "text": "Baladiyah Surman",
     "admin_level": "4"
   }
 ]

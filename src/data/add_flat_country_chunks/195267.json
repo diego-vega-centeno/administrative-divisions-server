@@ -1,39 +1,21 @@
 [
   {
-    "id": "422606",
-    "parent": "195267",
-    "text": "Cunene Province",
-    "admin_level": "4"
+    "id": "11704239",
+    "parent": "11162239",
+    "text": "14 de Abril",
+    "admin_level": "8"
   },
   {
-    "id": "422607",
-    "parent": "195267",
-    "text": "Cabinda Province",
-    "admin_level": "4"
+    "id": "11704244",
+    "parent": "11162239",
+    "text": "A Luta Continua",
+    "admin_level": "8"
   },
   {
-    "id": "422608",
-    "parent": "195267",
-    "text": "Zaire Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "422659",
-    "parent": "195267",
-    "text": "U\u00edge Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "422660",
-    "parent": "195267",
-    "text": "Malanje Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "568485",
-    "parent": "195267",
-    "text": "Cuando Cubango Province",
-    "admin_level": "4"
+    "id": "11704242",
+    "parent": "11162239",
+    "text": "Agostinho Neto",
+    "admin_level": "8"
   },
   {
     "id": "1802539",
@@ -54,6 +36,114 @@
     "admin_level": "4"
   },
   {
+    "id": "11704237",
+    "parent": "11162239",
+    "text": "Bula Matadi",
+    "admin_level": "8"
+  },
+  {
+    "id": "422607",
+    "parent": "195267",
+    "text": "Cabinda Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "11162249",
+    "parent": "1802545",
+    "text": "Caconda",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704232",
+    "parent": "1802546",
+    "text": "Cacuaco Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "2822091",
+    "parent": "422660",
+    "text": "Cacuso - Cacuso",
+    "admin_level": "6"
+  },
+  {
+    "id": "2822141",
+    "parent": "422660",
+    "text": "Calandula",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162246",
+    "parent": "1802545",
+    "text": "Caluquembe",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704228",
+    "parent": "1802546",
+    "text": "Cazenga Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704241",
+    "parent": "11162239",
+    "text": "Centro Urbano",
+    "admin_level": "8"
+  },
+  {
+    "id": "11162243",
+    "parent": "1802545",
+    "text": "Chiange",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162242",
+    "parent": "1802545",
+    "text": "Chibia",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162248",
+    "parent": "1802545",
+    "text": "Chicomba",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162250",
+    "parent": "1802545",
+    "text": "Chipindo",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704235",
+    "parent": "11162239",
+    "text": "Comandante Cowboy",
+    "admin_level": "8"
+  },
+  {
+    "id": "11704243",
+    "parent": "11162239",
+    "text": "Comandante Nzaji",
+    "admin_level": "8"
+  },
+  {
+    "id": "11704246",
+    "parent": "11162239",
+    "text": "Comandante Val\u00f3dia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11704240",
+    "parent": "11162239",
+    "text": "Comercial",
+    "admin_level": "8"
+  },
+  {
+    "id": "568485",
+    "parent": "195267",
+    "text": "Cuando Cubango Province",
+    "admin_level": "4"
+  },
+  {
     "id": "1802542",
     "parent": "195267",
     "text": "Cuanza Norte Province",
@@ -66,10 +156,40 @@
     "admin_level": "4"
   },
   {
+    "id": "422606",
+    "parent": "195267",
+    "text": "Cunene Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "11162251",
+    "parent": "1802545",
+    "text": "Cuvango",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704234",
+    "parent": "11162239",
+    "text": "Dack-Doy",
+    "admin_level": "8"
+  },
+  {
+    "id": "11704247",
+    "parent": "11162239",
+    "text": "Ferrovia",
+    "admin_level": "8"
+  },
+  {
     "id": "1802544",
     "parent": "195267",
     "text": "Huambo Province",
     "admin_level": "4"
+  },
+  {
+    "id": "11162240",
+    "parent": "1802545",
+    "text": "Humpata",
+    "admin_level": "6"
   },
   {
     "id": "1802545",
@@ -78,10 +198,52 @@
     "admin_level": "4"
   },
   {
+    "id": "11704236",
+    "parent": "11162239",
+    "text": "H\u00e9lder Neto",
+    "admin_level": "8"
+  },
+  {
+    "id": "11162252",
+    "parent": "1802545",
+    "text": "Jamba",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704227",
+    "parent": "1802546",
+    "text": "Kilamba Kiaxi Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "11704238",
+    "parent": "11162239",
+    "text": "Lalula",
+    "admin_level": "8"
+  },
+  {
+    "id": "2822140",
+    "parent": "422660",
+    "text": "Lombe",
+    "admin_level": "6"
+  },
+  {
     "id": "1802546",
     "parent": "195267",
     "text": "Luanda Province",
     "admin_level": "4"
+  },
+  {
+    "id": "11162239",
+    "parent": "1802545",
+    "text": "Lubango",
+    "admin_level": "6"
+  },
+  {
+    "id": "12903641",
+    "parent": "11162239",
+    "text": "Lucr\u00e9cia Paim",
+    "admin_level": "8"
   },
   {
     "id": "1802547",
@@ -96,46 +258,16 @@
     "admin_level": "4"
   },
   {
-    "id": "1802549",
+    "id": "2822142",
+    "parent": "422660",
+    "text": "Malanje - Malange",
+    "admin_level": "6"
+  },
+  {
+    "id": "422660",
     "parent": "195267",
-    "text": "Moxico Province",
+    "text": "Malanje Province",
     "admin_level": "4"
-  },
-  {
-    "id": "1802550",
-    "parent": "195267",
-    "text": "Namibe Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "11162239",
-    "parent": "1802545",
-    "text": "Lubango",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162240",
-    "parent": "1802545",
-    "text": "Humpata",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162241",
-    "parent": "1802545",
-    "text": "Quilengues",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162242",
-    "parent": "1802545",
-    "text": "Chibia",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162243",
-    "parent": "1802545",
-    "text": "Chiange",
-    "admin_level": "6"
   },
   {
     "id": "11162244",
@@ -144,88 +276,10 @@
     "admin_level": "6"
   },
   {
-    "id": "11162245",
-    "parent": "1802545",
-    "text": "Quipungo",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162246",
-    "parent": "1802545",
-    "text": "Caluquembe",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162248",
-    "parent": "1802545",
-    "text": "Chicomba",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162249",
-    "parent": "1802545",
-    "text": "Caconda",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162250",
-    "parent": "1802545",
-    "text": "Chipindo",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162251",
-    "parent": "1802545",
-    "text": "Cuvango",
-    "admin_level": "6"
-  },
-  {
-    "id": "11162252",
-    "parent": "1802545",
-    "text": "Jamba",
-    "admin_level": "6"
-  },
-  {
-    "id": "2822091",
-    "parent": "422660",
-    "text": "Cacuso - Cacuso",
-    "admin_level": "6"
-  },
-  {
-    "id": "2822137",
-    "parent": "422660",
-    "text": "Pungo Andongo",
-    "admin_level": "6"
-  },
-  {
-    "id": "2822140",
-    "parent": "422660",
-    "text": "Lombe",
-    "admin_level": "6"
-  },
-  {
-    "id": "2822141",
-    "parent": "422660",
-    "text": "Calandula",
-    "admin_level": "6"
-  },
-  {
-    "id": "2822142",
-    "parent": "422660",
-    "text": "Malanje - Malange",
-    "admin_level": "6"
-  },
-  {
-    "id": "11807291",
-    "parent": "422660",
-    "text": "Quizenga",
-    "admin_level": "6"
-  },
-  {
-    "id": "11807304",
-    "parent": "422660",
-    "text": "Quitapa",
-    "admin_level": "6"
+    "id": "1802549",
+    "parent": "195267",
+    "text": "Moxico Province",
+    "admin_level": "4"
   },
   {
     "id": "8665098",
@@ -240,15 +294,51 @@
     "admin_level": "6"
   },
   {
-    "id": "11704227",
+    "id": "11704231",
     "parent": "1802546",
-    "text": "Kilamba Kiaxi Municipality",
+    "text": "Municipality of Qui\u00e7ama",
     "admin_level": "6"
   },
   {
-    "id": "11704228",
-    "parent": "1802546",
-    "text": "Cazenga Municipality",
+    "id": "1802550",
+    "parent": "195267",
+    "text": "Namibe Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "11704245",
+    "parent": "11162239",
+    "text": "Patrice Lumumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2822137",
+    "parent": "422660",
+    "text": "Pungo Andongo",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162241",
+    "parent": "1802545",
+    "text": "Quilengues",
+    "admin_level": "6"
+  },
+  {
+    "id": "11162245",
+    "parent": "1802545",
+    "text": "Quipungo",
+    "admin_level": "6"
+  },
+  {
+    "id": "11807304",
+    "parent": "422660",
+    "text": "Quitapa",
+    "admin_level": "6"
+  },
+  {
+    "id": "11807291",
+    "parent": "422660",
+    "text": "Quizenga",
     "admin_level": "6"
   },
   {
@@ -258,117 +348,27 @@
     "admin_level": "6"
   },
   {
+    "id": "422659",
+    "parent": "195267",
+    "text": "U\u00edge Province",
+    "admin_level": "4"
+  },
+  {
     "id": "11704230",
     "parent": "1802546",
     "text": "Viana Municipality",
     "admin_level": "6"
   },
   {
-    "id": "11704231",
-    "parent": "1802546",
-    "text": "Municipality of Qui\u00e7ama",
-    "admin_level": "6"
-  },
-  {
-    "id": "11704232",
-    "parent": "1802546",
-    "text": "Cacuaco Municipality",
-    "admin_level": "6"
+    "id": "422608",
+    "parent": "195267",
+    "text": "Zaire Province",
+    "admin_level": "4"
   },
   {
     "id": "11704233",
     "parent": "1802546",
     "text": "\u00cdcolo and Bengo Municipality",
     "admin_level": "6"
-  },
-  {
-    "id": "11704234",
-    "parent": "11162239",
-    "text": "Dack-Doy",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704235",
-    "parent": "11162239",
-    "text": "Comandante Cowboy",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704236",
-    "parent": "11162239",
-    "text": "H\u00e9lder Neto",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704237",
-    "parent": "11162239",
-    "text": "Bula Matadi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704238",
-    "parent": "11162239",
-    "text": "Lalula",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704239",
-    "parent": "11162239",
-    "text": "14 de Abril",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704240",
-    "parent": "11162239",
-    "text": "Comercial",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704241",
-    "parent": "11162239",
-    "text": "Centro Urbano",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704242",
-    "parent": "11162239",
-    "text": "Agostinho Neto",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704243",
-    "parent": "11162239",
-    "text": "Comandante Nzaji",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704244",
-    "parent": "11162239",
-    "text": "A Luta Continua",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704245",
-    "parent": "11162239",
-    "text": "Patrice Lumumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704246",
-    "parent": "11162239",
-    "text": "Comandante Val\u00f3dia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11704247",
-    "parent": "11162239",
-    "text": "Ferrovia",
-    "admin_level": "8"
-  },
-  {
-    "id": "12903641",
-    "parent": "11162239",
-    "text": "Lucr\u00e9cia Paim",
-    "admin_level": "8"
   }
 ]

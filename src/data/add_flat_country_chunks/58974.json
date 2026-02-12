@@ -1,122 +1,8 @@
 [
   {
-    "id": "58983",
+    "id": "2607033",
     "parent": "58974",
-    "text": "B\u0103l\u021bi Municipality",
-    "admin_level": "4"
-  },
-  {
-    "id": "58984",
-    "parent": "58974",
-    "text": "F\u0103le\u0219ti District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58985",
-    "parent": "58974",
-    "text": "Ungheni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58988",
-    "parent": "58974",
-    "text": "C\u0103l\u0103ra\u0219i District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58990",
-    "parent": "58974",
-    "text": "Nisporeni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58991",
-    "parent": "58974",
-    "text": "H\u00eence\u0219ti District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58993",
-    "parent": "58974",
-    "text": "Telene\u0219ti District",
-    "admin_level": "4"
-  },
-  {
-    "id": "58996",
-    "parent": "58974",
-    "text": "S\u00eengerei District",
-    "admin_level": "4"
-  },
-  {
-    "id": "59000",
-    "parent": "58974",
-    "text": "Edine\u021b District",
-    "admin_level": "4"
-  },
-  {
-    "id": "59002",
-    "parent": "58974",
-    "text": "Briceni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "59005",
-    "parent": "58974",
-    "text": "Ocni\u021ba District",
-    "admin_level": "4"
-  },
-  {
-    "id": "59007",
-    "parent": "58974",
-    "text": "Dondu\u0219eni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "65343",
-    "parent": "58974",
-    "text": "C\u0103u\u0219eni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "65344",
-    "parent": "58974",
-    "text": "\u0218tefan Vod\u0103 District",
-    "admin_level": "4"
-  },
-  {
-    "id": "85827",
-    "parent": "58974",
-    "text": "Str\u0103\u0219eni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1104136",
-    "parent": "58974",
-    "text": "Basarabeasca District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1211126",
-    "parent": "58974",
-    "text": "Cimi\u0219lia District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1435790",
-    "parent": "58974",
-    "text": "Rezina District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1691800",
-    "parent": "58974",
-    "text": "Ialoveni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1691801",
-    "parent": "58974",
-    "text": "Chi\u0219in\u0103u Municipality",
+    "text": "Administrative-Territorial Units of the Left Bank of the Dniester",
     "admin_level": "4"
   },
   {
@@ -126,81 +12,27 @@
     "admin_level": "4"
   },
   {
-    "id": "1692123",
+    "id": "1104136",
     "parent": "58974",
-    "text": "Dub\u0103sari District",
+    "text": "Basarabeasca District",
     "admin_level": "4"
   },
   {
-    "id": "1692126",
+    "id": "9581354",
     "parent": "58974",
-    "text": "Criuleni District",
+    "text": "Bender Municipality",
     "admin_level": "4"
   },
   {
-    "id": "1692172",
+    "id": "59002",
     "parent": "58974",
-    "text": "Orhei District",
+    "text": "Briceni District",
     "admin_level": "4"
   },
   {
-    "id": "1693523",
+    "id": "58983",
     "parent": "58974",
-    "text": "Soroca District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1693560",
-    "parent": "58974",
-    "text": "Flore\u0219ti District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1693561",
-    "parent": "58974",
-    "text": "\u0218old\u0103ne\u0219ti District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1693874",
-    "parent": "58974",
-    "text": "Glodeni District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1693907",
-    "parent": "58974",
-    "text": "Drochia District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1693908",
-    "parent": "58974",
-    "text": "R\u00ee\u0219cani District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1699022",
-    "parent": "58974",
-    "text": "Cantemir District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1699023",
-    "parent": "58974",
-    "text": "Leova District",
-    "admin_level": "4"
-  },
-  {
-    "id": "1699032",
-    "parent": "58974",
-    "text": "Gagauzia",
-    "admin_level": "4"
-  },
-  {
-    "id": "1699033",
-    "parent": "58974",
-    "text": "Taraclia District",
+    "text": "B\u0103l\u021bi Municipality",
     "admin_level": "4"
   },
   {
@@ -210,15 +42,183 @@
     "admin_level": "4"
   },
   {
-    "id": "2607033",
+    "id": "1699022",
     "parent": "58974",
-    "text": "Administrative-Territorial Units of the Left Bank of the Dniester",
+    "text": "Cantemir District",
     "admin_level": "4"
   },
   {
-    "id": "9581354",
+    "id": "1691801",
     "parent": "58974",
-    "text": "Bender Municipality",
+    "text": "Chi\u0219in\u0103u Municipality",
+    "admin_level": "4"
+  },
+  {
+    "id": "1211126",
+    "parent": "58974",
+    "text": "Cimi\u0219lia District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1692126",
+    "parent": "58974",
+    "text": "Criuleni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58988",
+    "parent": "58974",
+    "text": "C\u0103l\u0103ra\u0219i District",
+    "admin_level": "4"
+  },
+  {
+    "id": "65343",
+    "parent": "58974",
+    "text": "C\u0103u\u0219eni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "59007",
+    "parent": "58974",
+    "text": "Dondu\u0219eni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693907",
+    "parent": "58974",
+    "text": "Drochia District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1692123",
+    "parent": "58974",
+    "text": "Dub\u0103sari District",
+    "admin_level": "4"
+  },
+  {
+    "id": "59000",
+    "parent": "58974",
+    "text": "Edine\u021b District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693560",
+    "parent": "58974",
+    "text": "Flore\u0219ti District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58984",
+    "parent": "58974",
+    "text": "F\u0103le\u0219ti District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1699032",
+    "parent": "58974",
+    "text": "Gagauzia",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693874",
+    "parent": "58974",
+    "text": "Glodeni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58991",
+    "parent": "58974",
+    "text": "H\u00eence\u0219ti District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1691800",
+    "parent": "58974",
+    "text": "Ialoveni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1699023",
+    "parent": "58974",
+    "text": "Leova District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58990",
+    "parent": "58974",
+    "text": "Nisporeni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "59005",
+    "parent": "58974",
+    "text": "Ocni\u021ba District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1692172",
+    "parent": "58974",
+    "text": "Orhei District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1435790",
+    "parent": "58974",
+    "text": "Rezina District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693908",
+    "parent": "58974",
+    "text": "R\u00ee\u0219cani District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693523",
+    "parent": "58974",
+    "text": "Soroca District",
+    "admin_level": "4"
+  },
+  {
+    "id": "85827",
+    "parent": "58974",
+    "text": "Str\u0103\u0219eni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58996",
+    "parent": "58974",
+    "text": "S\u00eengerei District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1699033",
+    "parent": "58974",
+    "text": "Taraclia District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58993",
+    "parent": "58974",
+    "text": "Telene\u0219ti District",
+    "admin_level": "4"
+  },
+  {
+    "id": "58985",
+    "parent": "58974",
+    "text": "Ungheni District",
+    "admin_level": "4"
+  },
+  {
+    "id": "1693561",
+    "parent": "58974",
+    "text": "\u0218old\u0103ne\u0219ti District",
+    "admin_level": "4"
+  },
+  {
+    "id": "65344",
+    "parent": "58974",
+    "text": "\u0218tefan Vod\u0103 District",
     "admin_level": "4"
   }
 ]

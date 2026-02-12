@@ -1,9 +1,27 @@
 [
   {
-    "id": "1908810",
-    "parent": "50371",
-    "text": "Ranong Province",
-    "admin_level": "4"
+    "id": "18738536",
+    "parent": "5996487",
+    "text": "Ahlon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738547",
+    "parent": "5996480",
+    "text": "Amarapura District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18936528",
+    "parent": "5996483",
+    "text": "Ann District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738548",
+    "parent": "5996480",
+    "text": "Aungmyaythazan District",
+    "admin_level": "6"
   },
   {
     "id": "5996473",
@@ -12,111 +30,33 @@
     "admin_level": "4"
   },
   {
+    "id": "5996493",
+    "parent": "5996474",
+    "text": "Bago District",
+    "admin_level": "6"
+  },
+  {
     "id": "5996474",
     "parent": "50371",
     "text": "Bago Region",
     "admin_level": "4"
   },
   {
-    "id": "5996475",
-    "parent": "50371",
-    "text": "Chin",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996476",
-    "parent": "50371",
-    "text": "Kachin State",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996477",
-    "parent": "50371",
-    "text": "Kayah State",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996478",
-    "parent": "50371",
-    "text": "\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996479",
-    "parent": "50371",
-    "text": "Magway",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996480",
-    "parent": "50371",
-    "text": "Mandalay",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996481",
-    "parent": "50371",
-    "text": "Mon State",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996482",
-    "parent": "50371",
-    "text": "Naypyitaw Union Territory",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996483",
-    "parent": "50371",
-    "text": "Rakhine",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996484",
-    "parent": "50371",
-    "text": "Sagaing Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996485",
-    "parent": "50371",
-    "text": "Shan State",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996486",
-    "parent": "50371",
-    "text": "Tanintharyi Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "5996487",
-    "parent": "50371",
-    "text": "Yangon",
-    "admin_level": "4"
-  },
-  {
-    "id": "9399860",
-    "parent": "50371",
-    "text": "Wa State Southern Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "9399861",
-    "parent": "50371",
-    "text": "Wa State (Northern Region)",
-    "admin_level": "4"
-  },
-  {
-    "id": "18738531",
-    "parent": "5996487",
-    "text": "Kamayut District",
+    "id": "5996494",
+    "parent": "5996477",
+    "text": "Bawlakhe District",
     "admin_level": "6"
   },
   {
-    "id": "18738532",
-    "parent": "5996487",
-    "text": "Dagon Myothit District",
+    "id": "5996495",
+    "parent": "5996476",
+    "text": "Bhamo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18943753",
+    "parent": "5996486",
+    "text": "Bokepyin District",
     "admin_level": "6"
   },
   {
@@ -126,33 +66,69 @@
     "admin_level": "6"
   },
   {
-    "id": "18738534",
-    "parent": "5996487",
-    "text": "Thingangyun District",
+    "id": "5996475",
+    "parent": "50371",
+    "text": "Chin",
+    "admin_level": "4"
+  },
+  {
+    "id": "18933351",
+    "parent": "5996476",
+    "text": "Chipwi District",
     "admin_level": "6"
   },
   {
-    "id": "18738535",
+    "id": "18738532",
     "parent": "5996487",
-    "text": "Mayangon District",
+    "text": "Dagon Myothit District",
     "admin_level": "6"
   },
   {
-    "id": "18738536",
-    "parent": "5996487",
-    "text": "Ahlon District",
+    "id": "7200536",
+    "parent": "5996485",
+    "text": "Danu Self-Administered Zone",
     "admin_level": "6"
   },
   {
-    "id": "18738537",
-    "parent": "5996487",
-    "text": "Thanlyin District",
+    "id": "5996496",
+    "parent": "5996486",
+    "text": "Dawei District",
     "admin_level": "6"
   },
   {
-    "id": "18738538",
-    "parent": "5996487",
-    "text": "Hmawbi District",
+    "id": "18933804",
+    "parent": "5996477",
+    "text": "Demoso District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996497",
+    "parent": "5996475",
+    "text": "Falam District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996498",
+    "parent": "5996479",
+    "text": "Gangaw District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996499",
+    "parent": "5996475",
+    "text": "Hakha District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996500",
+    "parent": "5996473",
+    "text": "Hinthada District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996501",
+    "parent": "5996484",
+    "text": "Hkamti District",
     "admin_level": "6"
   },
   {
@@ -162,33 +138,15 @@
     "admin_level": "6"
   },
   {
-    "id": "18738540",
+    "id": "18738538",
     "parent": "5996487",
-    "text": "Taikkyi District",
+    "text": "Hmawbi District",
     "admin_level": "6"
   },
   {
-    "id": "18738541",
-    "parent": "5996487",
-    "text": "Kyauktada District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738542",
-    "parent": "5996487",
-    "text": "Twantay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738543",
-    "parent": "5996487",
-    "text": "Insein District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738544",
-    "parent": "5996487",
-    "text": "Mingaladon District",
+    "id": "14006889",
+    "parent": "9399861",
+    "text": "Hopang County",
     "admin_level": "6"
   },
   {
@@ -204,129 +162,27 @@
     "admin_level": "6"
   },
   {
-    "id": "5996507",
-    "parent": "5996478",
-    "text": "Kawkareik District",
+    "id": "17020741",
+    "parent": "5996485",
+    "text": "Hsenwi District",
     "admin_level": "6"
   },
   {
-    "id": "5996536",
-    "parent": "5996478",
-    "text": "Myawaddy District",
+    "id": "18738543",
+    "parent": "5996487",
+    "text": "Insein District",
     "admin_level": "6"
   },
   {
-    "id": "18933872",
-    "parent": "5996478",
-    "text": "Thandaungyi District",
-    "admin_level": "6"
+    "id": "5996476",
+    "parent": "50371",
+    "text": "Kachin State",
+    "admin_level": "4"
   },
   {
-    "id": "18933873",
-    "parent": "5996478",
-    "text": "\u1000\u103c\u102c\u1021\u1004\u103a\u1038\u1006\u102d\u1015\u103a\u1000\u103c\u102e\u1038\u1001\u101b\u102d\u102f\u1004\u103a",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996496",
-    "parent": "5996486",
-    "text": "Dawei District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996508",
-    "parent": "5996486",
-    "text": "Kawthoung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996537",
-    "parent": "5996486",
-    "text": "Myeik District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18943753",
-    "parent": "5996486",
-    "text": "Bokepyin District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996500",
-    "parent": "5996473",
-    "text": "Hinthada District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996513",
-    "parent": "5996473",
-    "text": "Labutta",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996523",
-    "parent": "5996473",
-    "text": "Maubin",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996535",
-    "parent": "5996473",
-    "text": "Myaungmya",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996544",
-    "parent": "5996473",
-    "text": "Pathein",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996546",
-    "parent": "5996473",
-    "text": "Pyapon",
-    "admin_level": "6"
-  },
-  {
-    "id": "16731327",
-    "parent": "5996473",
-    "text": "Myanaung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "16731328",
-    "parent": "5996473",
-    "text": "Kyonpyaw District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996526",
-    "parent": "5996481",
-    "text": "Mawlamyine District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996558",
-    "parent": "5996481",
-    "text": "Thaton District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18933991",
-    "parent": "5996481",
-    "text": "Kyaikto District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18933992",
-    "parent": "5996481",
-    "text": "Ye District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996501",
-    "parent": "5996484",
-    "text": "Hkamti District",
+    "id": "18916740",
+    "parent": "5996485",
+    "text": "Kalaw District",
     "admin_level": "6"
   },
   {
@@ -336,51 +192,9 @@
     "admin_level": "6"
   },
   {
-    "id": "5996506",
-    "parent": "5996484",
-    "text": "Katha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996525",
-    "parent": "5996484",
-    "text": "Mawlaik District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996532",
-    "parent": "5996484",
-    "text": "Monywa District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996549",
-    "parent": "5996484",
-    "text": "Sagaing District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996550",
-    "parent": "5996484",
-    "text": "Shwebo District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996554",
-    "parent": "5996484",
-    "text": "Tamu District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996566",
-    "parent": "5996484",
-    "text": "Yinmabin District",
-    "admin_level": "6"
-  },
-  {
-    "id": "7183862",
-    "parent": "5996484",
-    "text": "Naga Self-Administered Zone",
+    "id": "18738531",
+    "parent": "5996487",
+    "text": "Kamayut District",
     "admin_level": "6"
   },
   {
@@ -390,297 +204,33 @@
     "admin_level": "6"
   },
   {
-    "id": "5996498",
-    "parent": "5996479",
-    "text": "Gangaw District",
+    "id": "5996506",
+    "parent": "5996484",
+    "text": "Katha District",
     "admin_level": "6"
   },
   {
-    "id": "5996520",
-    "parent": "5996479",
-    "text": "Magway District",
+    "id": "5996507",
+    "parent": "5996478",
+    "text": "Kawkareik District",
     "admin_level": "6"
   },
   {
-    "id": "5996528",
-    "parent": "5996479",
-    "text": "Minbu District",
+    "id": "5996508",
+    "parent": "5996486",
+    "text": "Kawthoung District",
     "admin_level": "6"
   },
   {
-    "id": "5996543",
-    "parent": "5996479",
-    "text": "Pakokku District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996560",
-    "parent": "5996479",
-    "text": "Thayet District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996511",
-    "parent": "5996483",
-    "text": "Kyaukpyu District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996524",
-    "parent": "5996483",
-    "text": "Maungdaw District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996533",
-    "parent": "5996483",
-    "text": "Mrauk-U District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996551",
-    "parent": "5996483",
-    "text": "Sittwe District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996557",
-    "parent": "5996483",
-    "text": "Thandwe District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18936528",
-    "parent": "5996483",
-    "text": "Ann District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18936529",
-    "parent": "5996483",
-    "text": "Taungup District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996497",
-    "parent": "5996475",
-    "text": "Falam District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996499",
-    "parent": "5996475",
-    "text": "Hakha District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996529",
-    "parent": "5996475",
-    "text": "Mindat District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18934061",
-    "parent": "5996475",
-    "text": "Paletwa District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18934062",
-    "parent": "5996475",
-    "text": "Matupi District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18934063",
-    "parent": "5996475",
-    "text": "Tedim District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996493",
-    "parent": "5996474",
-    "text": "Bago District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996547",
-    "parent": "5996474",
-    "text": "Pyay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996556",
-    "parent": "5996474",
-    "text": "Taungoo District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996559",
-    "parent": "5996474",
-    "text": "Tharrawaddy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996494",
-    "parent": "5996477",
-    "text": "Bawlakhe District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996518",
-    "parent": "5996477",
-    "text": "Loikaw District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18933803",
-    "parent": "5996477",
-    "text": "Mese District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18933804",
-    "parent": "5996477",
-    "text": "Demoso District",
-    "admin_level": "6"
-  },
-  {
-    "id": "7204160",
-    "parent": "5996482",
-    "text": "Ottara District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738528",
-    "parent": "5996482",
-    "text": "Lewe District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738529",
-    "parent": "5996482",
-    "text": "Pyinmana District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18738530",
-    "parent": "5996482",
-    "text": "Zeyathiri District",
-    "admin_level": "6"
+    "id": "5996477",
+    "parent": "50371",
+    "text": "Kayah State",
+    "admin_level": "4"
   },
   {
     "id": "5996509",
     "parent": "5996485",
     "text": "Kengtung District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996510",
-    "parent": "5996485",
-    "text": "Kyaukme District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996514",
-    "parent": "5996485",
-    "text": "Langhko District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996519",
-    "parent": "5996485",
-    "text": "Loilen District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996522",
-    "parent": "9399861",
-    "text": "Matman District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996531",
-    "parent": "5996485",
-    "text": "Mong Hsat District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996552",
-    "parent": "5996485",
-    "text": "Tachileik District",
-    "admin_level": "6"
-  },
-  {
-    "id": "5996555",
-    "parent": "5996485",
-    "text": "Taunggyi District",
-    "admin_level": "6"
-  },
-  {
-    "id": "7200536",
-    "parent": "5996485",
-    "text": "Danu Self-Administered Zone",
-    "admin_level": "6"
-  },
-  {
-    "id": "7200537",
-    "parent": "5996485",
-    "text": "Pa'O Self-Administered Zone",
-    "admin_level": "6"
-  },
-  {
-    "id": "7200768",
-    "parent": "5996485",
-    "text": "Mong Mit District",
-    "admin_level": "6"
-  },
-  {
-    "id": "14006889",
-    "parent": "9399861",
-    "text": "Hopang County",
-    "admin_level": "6"
-  },
-  {
-    "id": "14007121",
-    "parent": "9399861",
-    "text": "Meungmau County",
-    "admin_level": "6"
-  },
-  {
-    "id": "14035206",
-    "parent": "9399861",
-    "text": "Mangleen County",
-    "admin_level": "6"
-  },
-  {
-    "id": "14039305",
-    "parent": "9399861",
-    "text": "Pangkham Special District",
-    "admin_level": "6"
-  },
-  {
-    "id": "14039309",
-    "parent": "9399861",
-    "text": "Meungpawg County",
-    "admin_level": "6"
-  },
-  {
-    "id": "16742698",
-    "parent": "5996485",
-    "text": "\u1019\u102d\u102f\u1004\u103a\u1038\u101c\u102c\u1038\u1001\u101b\u102d\u102f\u1004\u103a \u52d0\u62c9\u53bf",
-    "admin_level": "6"
-  },
-  {
-    "id": "16742699",
-    "parent": "5996485",
-    "text": "\u1006\u102e\u101c\u1030\u1038\u1001\u101b\u102d\u102f\u1004\u103a \u8272\u52d2\u53bf",
-    "admin_level": "6"
-  },
-  {
-    "id": "16742700",
-    "parent": "5996485",
-    "text": "Nim Pan District",
     "admin_level": "6"
   },
   {
@@ -690,75 +240,27 @@
     "admin_level": "6"
   },
   {
-    "id": "17020741",
-    "parent": "5996485",
-    "text": "Hsenwi District",
-    "admin_level": "6"
-  },
-  {
     "id": "17020742",
     "parent": "5996485",
     "text": "Kutkai District",
     "admin_level": "6"
   },
   {
-    "id": "17020743",
+    "id": "18933991",
+    "parent": "5996481",
+    "text": "Kyaikto District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996510",
     "parent": "5996485",
-    "text": "Mong Ko District",
+    "text": "Kyaukme District",
     "admin_level": "6"
   },
   {
-    "id": "17021660",
-    "parent": "5996485",
-    "text": "Mong Yang District (de facto)",
-    "admin_level": "6"
-  },
-  {
-    "id": "17632959",
-    "parent": "5996485",
-    "text": "Laukkaing City",
-    "admin_level": "6"
-  },
-  {
-    "id": "17826180",
-    "parent": "9399861",
-    "text": "Wa State Tangyang District",
-    "admin_level": "6"
-  },
-  {
-    "id": "17945417",
-    "parent": "9399861",
-    "text": "Tangyan District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18169002",
-    "parent": "5996485",
-    "text": "Mong Yawng District (de facto)",
-    "admin_level": "6"
-  },
-  {
-    "id": "18915910",
-    "parent": "9399860",
-    "text": "Mong Ton District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18916740",
-    "parent": "5996485",
-    "text": "Kalaw District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18916894",
-    "parent": "5996485",
-    "text": "Mong Hsu District",
-    "admin_level": "6"
-  },
-  {
-    "id": "18916895",
-    "parent": "5996485",
-    "text": "Namsang District",
+    "id": "5996511",
+    "parent": "5996483",
+    "text": "Kyaukpyu District",
     "admin_level": "6"
   },
   {
@@ -768,57 +270,63 @@
     "admin_level": "6"
   },
   {
-    "id": "5996527",
-    "parent": "5996480",
-    "text": "Meiktila District",
+    "id": "18738541",
+    "parent": "5996487",
+    "text": "Kyauktada District",
     "admin_level": "6"
   },
   {
-    "id": "5996541",
-    "parent": "5996480",
-    "text": "Myingyan District",
+    "id": "16731328",
+    "parent": "5996473",
+    "text": "Kyonpyaw District",
     "admin_level": "6"
   },
   {
-    "id": "5996542",
-    "parent": "5996480",
-    "text": "Nyaung-U District",
+    "id": "5996513",
+    "parent": "5996473",
+    "text": "Labutta",
     "admin_level": "6"
   },
   {
-    "id": "5996548",
-    "parent": "5996480",
-    "text": "Pyin Oo Lwin District",
+    "id": "5996514",
+    "parent": "5996485",
+    "text": "Langhko District",
     "admin_level": "6"
   },
   {
-    "id": "5996561",
-    "parent": "5996480",
-    "text": "Yamethin District",
+    "id": "17632959",
+    "parent": "5996485",
+    "text": "Laukkaing City",
     "admin_level": "6"
   },
   {
-    "id": "18738545",
-    "parent": "5996480",
-    "text": "Tada-U District",
+    "id": "18738528",
+    "parent": "5996482",
+    "text": "Lewe District",
     "admin_level": "6"
   },
   {
-    "id": "18738546",
-    "parent": "5996480",
-    "text": "Thabeikkyin District",
+    "id": "5996518",
+    "parent": "5996477",
+    "text": "Loikaw District",
     "admin_level": "6"
   },
   {
-    "id": "18738547",
-    "parent": "5996480",
-    "text": "Amarapura District",
+    "id": "5996519",
+    "parent": "5996485",
+    "text": "Loilen District",
     "admin_level": "6"
   },
   {
-    "id": "18738548",
-    "parent": "5996480",
-    "text": "Aungmyaythazan District",
+    "id": "5996479",
+    "parent": "50371",
+    "text": "Magway",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996520",
+    "parent": "5996479",
+    "text": "Magway District",
     "admin_level": "6"
   },
   {
@@ -828,9 +336,99 @@
     "admin_level": "6"
   },
   {
-    "id": "5996495",
-    "parent": "5996476",
-    "text": "Bhamo District",
+    "id": "5996480",
+    "parent": "50371",
+    "text": "Mandalay",
+    "admin_level": "4"
+  },
+  {
+    "id": "14035206",
+    "parent": "9399861",
+    "text": "Mangleen County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996522",
+    "parent": "9399861",
+    "text": "Matman District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18934062",
+    "parent": "5996475",
+    "text": "Matupi District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996523",
+    "parent": "5996473",
+    "text": "Maubin",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996524",
+    "parent": "5996483",
+    "text": "Maungdaw District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996525",
+    "parent": "5996484",
+    "text": "Mawlaik District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996526",
+    "parent": "5996481",
+    "text": "Mawlamyine District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738535",
+    "parent": "5996487",
+    "text": "Mayangon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996527",
+    "parent": "5996480",
+    "text": "Meiktila District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18933803",
+    "parent": "5996477",
+    "text": "Mese District",
+    "admin_level": "6"
+  },
+  {
+    "id": "14007121",
+    "parent": "9399861",
+    "text": "Meungmau County",
+    "admin_level": "6"
+  },
+  {
+    "id": "14039309",
+    "parent": "9399861",
+    "text": "Meungpawg County",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996528",
+    "parent": "5996479",
+    "text": "Minbu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996529",
+    "parent": "5996475",
+    "text": "Mindat District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738544",
+    "parent": "5996487",
+    "text": "Mingaladon District",
     "admin_level": "6"
   },
   {
@@ -840,27 +438,165 @@
     "admin_level": "6"
   },
   {
+    "id": "5996481",
+    "parent": "50371",
+    "text": "Mon State",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996531",
+    "parent": "5996485",
+    "text": "Mong Hsat District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18916894",
+    "parent": "5996485",
+    "text": "Mong Hsu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "17020743",
+    "parent": "5996485",
+    "text": "Mong Ko District",
+    "admin_level": "6"
+  },
+  {
+    "id": "7200768",
+    "parent": "5996485",
+    "text": "Mong Mit District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18915910",
+    "parent": "9399860",
+    "text": "Mong Ton District",
+    "admin_level": "6"
+  },
+  {
+    "id": "17021660",
+    "parent": "5996485",
+    "text": "Mong Yang District (de facto)",
+    "admin_level": "6"
+  },
+  {
+    "id": "18169002",
+    "parent": "5996485",
+    "text": "Mong Yawng District (de facto)",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996532",
+    "parent": "5996484",
+    "text": "Monywa District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996533",
+    "parent": "5996483",
+    "text": "Mrauk-U District",
+    "admin_level": "6"
+  },
+  {
+    "id": "16731327",
+    "parent": "5996473",
+    "text": "Myanaung District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996535",
+    "parent": "5996473",
+    "text": "Myaungmya",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996536",
+    "parent": "5996478",
+    "text": "Myawaddy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996537",
+    "parent": "5996486",
+    "text": "Myeik District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996541",
+    "parent": "5996480",
+    "text": "Myingyan District",
+    "admin_level": "6"
+  },
+  {
     "id": "5996538",
     "parent": "5996476",
     "text": "Myitkyina District",
     "admin_level": "6"
   },
   {
-    "id": "5996545",
-    "parent": "5996476",
-    "text": "Putao District",
+    "id": "7183862",
+    "parent": "5996484",
+    "text": "Naga Self-Administered Zone",
     "admin_level": "6"
   },
   {
-    "id": "18933350",
-    "parent": "5996476",
-    "text": "Tanai District",
+    "id": "18916895",
+    "parent": "5996485",
+    "text": "Namsang District",
     "admin_level": "6"
   },
   {
-    "id": "18933351",
-    "parent": "5996476",
-    "text": "Chipwi District",
+    "id": "5996482",
+    "parent": "50371",
+    "text": "Naypyitaw Union Territory",
+    "admin_level": "4"
+  },
+  {
+    "id": "16742700",
+    "parent": "5996485",
+    "text": "Nim Pan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996542",
+    "parent": "5996480",
+    "text": "Nyaung-U District",
+    "admin_level": "6"
+  },
+  {
+    "id": "7204160",
+    "parent": "5996482",
+    "text": "Ottara District",
+    "admin_level": "6"
+  },
+  {
+    "id": "7200537",
+    "parent": "5996485",
+    "text": "Pa'O Self-Administered Zone",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996543",
+    "parent": "5996479",
+    "text": "Pakokku District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18934061",
+    "parent": "5996475",
+    "text": "Paletwa District",
+    "admin_level": "6"
+  },
+  {
+    "id": "14039305",
+    "parent": "9399861",
+    "text": "Pangkham Special District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996544",
+    "parent": "5996473",
+    "text": "Pathein",
     "admin_level": "6"
   },
   {
@@ -870,10 +606,274 @@
     "admin_level": "8"
   },
   {
+    "id": "5996545",
+    "parent": "5996476",
+    "text": "Putao District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996546",
+    "parent": "5996473",
+    "text": "Pyapon",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996547",
+    "parent": "5996474",
+    "text": "Pyay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996548",
+    "parent": "5996480",
+    "text": "Pyin Oo Lwin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738529",
+    "parent": "5996482",
+    "text": "Pyinmana District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996483",
+    "parent": "50371",
+    "text": "Rakhine",
+    "admin_level": "4"
+  },
+  {
+    "id": "1908810",
+    "parent": "50371",
+    "text": "Ranong Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996549",
+    "parent": "5996484",
+    "text": "Sagaing District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996484",
+    "parent": "50371",
+    "text": "Sagaing Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996485",
+    "parent": "50371",
+    "text": "Shan State",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996550",
+    "parent": "5996484",
+    "text": "Shwebo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996551",
+    "parent": "5996483",
+    "text": "Sittwe District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996552",
+    "parent": "5996485",
+    "text": "Tachileik District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738545",
+    "parent": "5996480",
+    "text": "Tada-U District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738540",
+    "parent": "5996487",
+    "text": "Taikkyi District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996554",
+    "parent": "5996484",
+    "text": "Tamu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18933350",
+    "parent": "5996476",
+    "text": "Tanai District",
+    "admin_level": "6"
+  },
+  {
+    "id": "17945417",
+    "parent": "9399861",
+    "text": "Tangyan District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996486",
+    "parent": "50371",
+    "text": "Tanintharyi Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "5996555",
+    "parent": "5996485",
+    "text": "Taunggyi District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996556",
+    "parent": "5996474",
+    "text": "Taungoo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18936529",
+    "parent": "5996483",
+    "text": "Taungup District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18934063",
+    "parent": "5996475",
+    "text": "Tedim District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738546",
+    "parent": "5996480",
+    "text": "Thabeikkyin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18933872",
+    "parent": "5996478",
+    "text": "Thandaungyi District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996557",
+    "parent": "5996483",
+    "text": "Thandwe District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738537",
+    "parent": "5996487",
+    "text": "Thanlyin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996559",
+    "parent": "5996474",
+    "text": "Tharrawaddy District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996558",
+    "parent": "5996481",
+    "text": "Thaton District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996560",
+    "parent": "5996479",
+    "text": "Thayet District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738534",
+    "parent": "5996487",
+    "text": "Thingangyun District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738542",
+    "parent": "5996487",
+    "text": "Twantay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "9399861",
+    "parent": "50371",
+    "text": "Wa State (Northern Region)",
+    "admin_level": "4"
+  },
+  {
+    "id": "9399860",
+    "parent": "50371",
+    "text": "Wa State Southern Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "17826180",
+    "parent": "9399861",
+    "text": "Wa State Tangyang District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996561",
+    "parent": "5996480",
+    "text": "Yamethin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996487",
+    "parent": "50371",
+    "text": "Yangon",
+    "admin_level": "4"
+  },
+  {
+    "id": "18933992",
+    "parent": "5996481",
+    "text": "Ye District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996566",
+    "parent": "5996484",
+    "text": "Yinmabin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "18738530",
+    "parent": "5996482",
+    "text": "Zeyathiri District",
+    "admin_level": "6"
+  },
+  {
+    "id": "5996478",
+    "parent": "50371",
+    "text": "\u1000\u101b\u1004\u103a\u1015\u103c\u100a\u103a\u1014\u101a\u103a",
+    "admin_level": "4"
+  },
+  {
+    "id": "18933873",
+    "parent": "5996478",
+    "text": "\u1000\u103c\u102c\u1021\u1004\u103a\u1038\u1006\u102d\u1015\u103a\u1000\u103c\u102e\u1038\u1001\u101b\u102d\u102f\u1004\u103a",
+    "admin_level": "6"
+  },
+  {
+    "id": "16742699",
+    "parent": "5996485",
+    "text": "\u1006\u102e\u101c\u1030\u1038\u1001\u101b\u102d\u102f\u1004\u103a \u8272\u52d2\u53bf",
+    "admin_level": "6"
+  },
+  {
     "id": "18169000",
     "parent": "16742699",
     "text": "\u1014\u1019\u1037\u103a\u1001\u1015\u103a\u1012\u102d\u102f\u1004\u103a\u1014\u101a\u103a \u5357\u4f67\u4e61",
     "admin_level": "8"
+  },
+  {
+    "id": "16742698",
+    "parent": "5996485",
+    "text": "\u1019\u102d\u102f\u1004\u103a\u1038\u101c\u102c\u1038\u1001\u101b\u102d\u102f\u1004\u103a \u52d0\u62c9\u53bf",
+    "admin_level": "6"
   },
   {
     "id": "18169001",

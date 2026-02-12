@@ -1,140 +1,14 @@
 [
   {
-    "id": "1253032",
-    "parent": "88210",
-    "text": "Manzini Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "1253040",
-    "parent": "88210",
-    "text": "Lubombo Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "1253042",
-    "parent": "88210",
-    "text": "Shiselweni Region",
-    "admin_level": "4"
-  },
-  {
     "id": "1253055",
     "parent": "88210",
     "text": "Hhohho Region",
     "admin_level": "4"
   },
   {
-    "id": "1253008",
-    "parent": "1253042",
-    "text": "Inkhundla Mbangweni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253014",
-    "parent": "1253042",
-    "text": "Inkhundla Nkwene",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253016",
-    "parent": "1253042",
-    "text": "Inkhundla Zombodze",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253018",
-    "parent": "1253042",
-    "text": "Inkhundla Sandleni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253021",
-    "parent": "1253042",
-    "text": "Inkhundla Maseyisini",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253022",
-    "parent": "1253042",
-    "text": "Inkhundla Mtsambama",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253025",
-    "parent": "1253042",
-    "text": "Inkhundla Sigwe",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253029",
-    "parent": "1253042",
-    "text": "Inkhundla Gege",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253031",
-    "parent": "1253042",
-    "text": "Inkhundla Ngudzeni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253035",
-    "parent": "1253042",
-    "text": "Inkhundla Hosea",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253039",
-    "parent": "1253042",
-    "text": "Inkhundla Somntongo",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253041",
-    "parent": "1253042",
-    "text": "Inkhundla Shiselweni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253050",
-    "parent": "1253042",
-    "text": "Inkhundla Matsanjeni South",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253053",
-    "parent": "1253042",
-    "text": "Inkhundla Kubuta",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253002",
-    "parent": "1253032",
-    "text": "Inkhundla Ngwempisi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253012",
-    "parent": "1253032",
-    "text": "Inkhundla Manzini",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253013",
-    "parent": "1253032",
-    "text": "Inkhundla Lobamba Lomdzala",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253020",
-    "parent": "1253032",
-    "text": "Inkhundla Mafutseni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253026",
-    "parent": "1253032",
-    "text": "Inkhundla Kwaluseni",
+    "id": "1253054",
+    "parent": "1253040",
+    "text": "Inkhundla Dvokodvweni",
     "admin_level": "6"
   },
   {
@@ -144,135 +18,9 @@
     "admin_level": "6"
   },
   {
-    "id": "1253030",
-    "parent": "1253032",
-    "text": "Inkhundla Mahlangatja",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253033",
-    "parent": "1253032",
-    "text": "Inkhundla Ludzeludze",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253038",
-    "parent": "1253032",
-    "text": "Inkhundla Nhlambeni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253044",
-    "parent": "1253032",
-    "text": "Inkhundla Mkhiweni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253046",
-    "parent": "1253032",
-    "text": "Inkhundla Mhlambanyatsi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253048",
-    "parent": "1253032",
-    "text": "Inkhundla Ntondozi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253049",
-    "parent": "1253032",
-    "text": "Inkhundla Lamgabhi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253057",
-    "parent": "1253032",
-    "text": "Inkhundla Mthongwaneni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253058",
-    "parent": "1253032",
-    "text": "Inkhundla Mangcongco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253003",
-    "parent": "1253040",
-    "text": "Inkhundla Nkilongo",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253005",
-    "parent": "1253040",
-    "text": "Inkhundla Lugongolweni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253006",
-    "parent": "1253040",
-    "text": "Inkhundla Mhlume",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253010",
-    "parent": "1253040",
-    "text": "Inkhundla Sithobela",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253015",
-    "parent": "1253040",
-    "text": "Inkhundla Mpolonjeni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253023",
-    "parent": "1253040",
-    "text": "Inkhundla Siphofaneni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253034",
-    "parent": "1253040",
-    "text": "Inkhundla Hlane",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253037",
-    "parent": "1253040",
-    "text": "Inkhundla Lomahasha",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253045",
-    "parent": "1253040",
-    "text": "Inkhundla Tikhuba",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253054",
-    "parent": "1253040",
-    "text": "Inkhundla Dvokodvweni",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253056",
-    "parent": "1253040",
-    "text": "Inkhundla Lubuli",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253004",
-    "parent": "1253055",
-    "text": "Inkhundla Timpisini",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253007",
-    "parent": "1253055",
-    "text": "Inkhundla Ndzingeni",
+    "id": "1253029",
+    "parent": "1253042",
+    "text": "Inkhundla Gege",
     "admin_level": "6"
   },
   {
@@ -282,9 +30,33 @@
     "admin_level": "6"
   },
   {
-    "id": "1253011",
-    "parent": "1253055",
-    "text": "Inkhundla Ntfonjeni",
+    "id": "1253034",
+    "parent": "1253040",
+    "text": "Inkhundla Hlane",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253035",
+    "parent": "1253042",
+    "text": "Inkhundla Hosea",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253053",
+    "parent": "1253042",
+    "text": "Inkhundla Kubuta",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253026",
+    "parent": "1253032",
+    "text": "Inkhundla Kwaluseni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253049",
+    "parent": "1253032",
+    "text": "Inkhundla Lamgabhi",
     "admin_level": "6"
   },
   {
@@ -294,21 +66,33 @@
     "admin_level": "6"
   },
   {
-    "id": "1253019",
-    "parent": "1253055",
-    "text": "Inkhundla Mbabane",
+    "id": "1253013",
+    "parent": "1253032",
+    "text": "Inkhundla Lobamba Lomdzala",
     "admin_level": "6"
   },
   {
-    "id": "1253024",
-    "parent": "1253055",
-    "text": "Inkhundla Piggs Peak",
+    "id": "1253037",
+    "parent": "1253040",
+    "text": "Inkhundla Lomahasha",
     "admin_level": "6"
   },
   {
-    "id": "1253027",
-    "parent": "1253055",
-    "text": "Inkhundla Nkhaba",
+    "id": "1253056",
+    "parent": "1253040",
+    "text": "Inkhundla Lubuli",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253033",
+    "parent": "1253032",
+    "text": "Inkhundla Ludzeludze",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253005",
+    "parent": "1253040",
+    "text": "Inkhundla Lugongolweni",
     "admin_level": "6"
   },
   {
@@ -318,9 +102,27 @@
     "admin_level": "6"
   },
   {
-    "id": "1253043",
-    "parent": "1253055",
-    "text": "Inkhundla Mhlangatane",
+    "id": "1253020",
+    "parent": "1253032",
+    "text": "Inkhundla Mafutseni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253030",
+    "parent": "1253032",
+    "text": "Inkhundla Mahlangatja",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253058",
+    "parent": "1253032",
+    "text": "Inkhundla Mangcongco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253012",
+    "parent": "1253032",
+    "text": "Inkhundla Manzini",
     "admin_level": "6"
   },
   {
@@ -330,9 +132,15 @@
     "admin_level": "6"
   },
   {
-    "id": "1253051",
-    "parent": "1253055",
-    "text": "Inkhundla Motjane",
+    "id": "1253021",
+    "parent": "1253042",
+    "text": "Inkhundla Maseyisini",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253050",
+    "parent": "1253042",
+    "text": "Inkhundla Matsanjeni South",
     "admin_level": "6"
   },
   {
@@ -340,5 +148,197 @@
     "parent": "1253055",
     "text": "Inkhundla Mayiwane",
     "admin_level": "6"
+  },
+  {
+    "id": "1253019",
+    "parent": "1253055",
+    "text": "Inkhundla Mbabane",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253008",
+    "parent": "1253042",
+    "text": "Inkhundla Mbangweni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253046",
+    "parent": "1253032",
+    "text": "Inkhundla Mhlambanyatsi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253043",
+    "parent": "1253055",
+    "text": "Inkhundla Mhlangatane",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253006",
+    "parent": "1253040",
+    "text": "Inkhundla Mhlume",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253044",
+    "parent": "1253032",
+    "text": "Inkhundla Mkhiweni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253051",
+    "parent": "1253055",
+    "text": "Inkhundla Motjane",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253015",
+    "parent": "1253040",
+    "text": "Inkhundla Mpolonjeni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253057",
+    "parent": "1253032",
+    "text": "Inkhundla Mthongwaneni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253022",
+    "parent": "1253042",
+    "text": "Inkhundla Mtsambama",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253007",
+    "parent": "1253055",
+    "text": "Inkhundla Ndzingeni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253031",
+    "parent": "1253042",
+    "text": "Inkhundla Ngudzeni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253002",
+    "parent": "1253032",
+    "text": "Inkhundla Ngwempisi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253038",
+    "parent": "1253032",
+    "text": "Inkhundla Nhlambeni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253027",
+    "parent": "1253055",
+    "text": "Inkhundla Nkhaba",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253003",
+    "parent": "1253040",
+    "text": "Inkhundla Nkilongo",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253014",
+    "parent": "1253042",
+    "text": "Inkhundla Nkwene",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253011",
+    "parent": "1253055",
+    "text": "Inkhundla Ntfonjeni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253048",
+    "parent": "1253032",
+    "text": "Inkhundla Ntondozi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253024",
+    "parent": "1253055",
+    "text": "Inkhundla Piggs Peak",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253018",
+    "parent": "1253042",
+    "text": "Inkhundla Sandleni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253041",
+    "parent": "1253042",
+    "text": "Inkhundla Shiselweni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253025",
+    "parent": "1253042",
+    "text": "Inkhundla Sigwe",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253023",
+    "parent": "1253040",
+    "text": "Inkhundla Siphofaneni",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253010",
+    "parent": "1253040",
+    "text": "Inkhundla Sithobela",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253039",
+    "parent": "1253042",
+    "text": "Inkhundla Somntongo",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253045",
+    "parent": "1253040",
+    "text": "Inkhundla Tikhuba",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253004",
+    "parent": "1253055",
+    "text": "Inkhundla Timpisini",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253016",
+    "parent": "1253042",
+    "text": "Inkhundla Zombodze",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253040",
+    "parent": "88210",
+    "text": "Lubombo Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1253032",
+    "parent": "88210",
+    "text": "Manzini Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1253042",
+    "parent": "88210",
+    "text": "Shiselweni Region",
+    "admin_level": "4"
   }
 ]

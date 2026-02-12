@@ -1,140 +1,44 @@
 [
   {
-    "id": "80501",
-    "parent": "87565",
-    "text": "Western Cape",
-    "admin_level": "4"
+    "id": "82051",
+    "parent": "82046",
+    "text": "!Kheis Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "86720",
-    "parent": "87565",
-    "text": "Northern Cape",
-    "admin_level": "4"
+    "id": "611108",
+    "parent": "611105",
+    "text": "Abaqulusi Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "88574",
-    "parent": "87565",
-    "text": "Eastern Cape",
-    "admin_level": "4"
+    "id": "114783",
+    "parent": "611509",
+    "text": "Aganang Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "92417",
-    "parent": "87565",
-    "text": "Free State",
-    "admin_level": "4"
+    "id": "611632",
+    "parent": "611622",
+    "text": "Albert Luthuli Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "349344",
-    "parent": "87565",
-    "text": "Gauteng",
-    "admin_level": "4"
-  },
-  {
-    "id": "349390",
-    "parent": "87565",
-    "text": "KwaZulu-Natal",
-    "admin_level": "4"
-  },
-  {
-    "id": "349519",
-    "parent": "87565",
-    "text": "North West",
-    "admin_level": "4"
-  },
-  {
-    "id": "349547",
-    "parent": "87565",
-    "text": "Limpopo",
-    "admin_level": "4"
-  },
-  {
-    "id": "349556",
-    "parent": "87565",
-    "text": "Mpumalanga",
-    "admin_level": "4"
-  },
-  {
-    "id": "79604",
-    "parent": "80501",
-    "text": "City of Cape Town",
-    "admin_level": "6"
-  },
-  {
-    "id": "79634",
-    "parent": "80501",
-    "text": "West Coast District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "79652",
-    "parent": "80501",
-    "text": "Cape Winelands District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "79680",
-    "parent": "80501",
-    "text": "Overberg District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "79797",
-    "parent": "80501",
-    "text": "Garden Route District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "79807",
-    "parent": "80501",
-    "text": "Central Karoo District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "81973",
-    "parent": "86720",
-    "text": "Namakwa District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "82027",
-    "parent": "86720",
-    "text": "Pixley ka Seme District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "82046",
-    "parent": "86720",
-    "text": "ZF Mgcawu District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "86694",
-    "parent": "86720",
-    "text": "Frances Baard District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "86701",
-    "parent": "86720",
-    "text": "John Taolo Gaetsewe District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "86751",
+    "id": "88563",
     "parent": "88574",
-    "text": "Nelson Mandela Bay Metropolitan Municipality",
+    "text": "Alfred Nzo District Municipality",
     "admin_level": "6"
   },
   {
-    "id": "88144",
-    "parent": "88574",
-    "text": "Sarah Baartman District Municipality",
-    "admin_level": "6"
+    "id": "88187",
+    "parent": "88267",
+    "text": "Amahlathi Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "88195",
-    "parent": "88574",
-    "text": "Buffalo City Metropolitan Municipality",
+    "id": "611069",
+    "parent": "349390",
+    "text": "Amajuba District Municipality",
     "admin_level": "6"
   },
   {
@@ -144,70 +48,178 @@
     "admin_level": "6"
   },
   {
-    "id": "88468",
-    "parent": "88574",
-    "text": "Chris Hani District Municipality",
-    "admin_level": "6"
+    "id": "611428",
+    "parent": "611425",
+    "text": "Ba-Phalaborwa Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "88480",
-    "parent": "88574",
-    "text": "Joe Gqabi District Municipality",
-    "admin_level": "6"
+    "id": "88163",
+    "parent": "88144",
+    "text": "Baviaans Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "88549",
-    "parent": "88574",
-    "text": "O.R. Tambo District Municipality",
-    "admin_level": "6"
+    "id": "79810",
+    "parent": "79807",
+    "text": "Beaufort West Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "88563",
-    "parent": "88574",
-    "text": "Alfred Nzo District Municipality",
-    "admin_level": "6"
+    "id": "611541",
+    "parent": "611544",
+    "text": "Bela Bela Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "593793",
-    "parent": "92417",
-    "text": "Fezile Dabi District Municipality",
-    "admin_level": "6"
+    "id": "79631",
+    "parent": "79634",
+    "text": "Bergrivier Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "593795",
-    "parent": "92417",
-    "text": "Thabo Mofutsanyana District Municipality",
-    "admin_level": "6"
+    "id": "79795",
+    "parent": "79797",
+    "text": "Bitou Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "593796",
-    "parent": "92417",
-    "text": "Lejweleputswa District Municipality",
-    "admin_level": "6"
+    "id": "611507",
+    "parent": "611509",
+    "text": "Blouberg Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "593797",
-    "parent": "92417",
-    "text": "Xhariep District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "593812",
-    "parent": "92417",
-    "text": "Mangaung Metropolitan Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611666",
-    "parent": "349519",
-    "text": "Ngaka Modiri Molema District Municipality",
-    "admin_level": "6"
+    "id": "88160",
+    "parent": "88144",
+    "text": "Blue Crane Route Local Municipality",
+    "admin_level": "8"
   },
   {
     "id": "611674",
     "parent": "349519",
     "text": "Bojanala Platinum District Municipality",
     "admin_level": "6"
+  },
+  {
+    "id": "79656",
+    "parent": "79652",
+    "text": "Breede Valley Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88195",
+    "parent": "88574",
+    "text": "Buffalo City Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611631",
+    "parent": "611620",
+    "text": "Bushbuckridge",
+    "admin_level": "8"
+  },
+  {
+    "id": "88159",
+    "parent": "88144",
+    "text": "Camdeboo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79678",
+    "parent": "79680",
+    "text": "Cape Agulhas Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79652",
+    "parent": "80501",
+    "text": "Cape Winelands District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611509",
+    "parent": "349547",
+    "text": "Capricorn District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "79630",
+    "parent": "79634",
+    "text": "Cederberg Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79807",
+    "parent": "80501",
+    "text": "Central Karoo District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88468",
+    "parent": "88574",
+    "text": "Chris Hani District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "79604",
+    "parent": "80501",
+    "text": "City of Cape Town",
+    "admin_level": "6"
+  },
+  {
+    "id": "594475",
+    "parent": "349344",
+    "text": "City of Ekurhuleni Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "594508",
+    "parent": "349344",
+    "text": "City of Johannesburg Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "594484",
+    "parent": "349344",
+    "text": "City of Tshwane Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611070",
+    "parent": "611069",
+    "text": "Dannhauser Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593832",
+    "parent": "593795",
+    "text": "Dihlabeng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86696",
+    "parent": "86694",
+    "text": "Dikgatlong Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611628",
+    "parent": "611622",
+    "text": "Dipaleseng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611665",
+    "parent": "611666",
+    "text": "Ditsobotla Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611634",
+    "parent": "611627",
+    "text": "Dr JS Moroka Local Municipality",
+    "admin_level": "8"
   },
   {
     "id": "611675",
@@ -222,100 +234,16 @@
     "admin_level": "6"
   },
   {
-    "id": "611425",
-    "parent": "349547",
-    "text": "Mopani District Municipality",
-    "admin_level": "6"
+    "id": "79654",
+    "parent": "79652",
+    "text": "Drakenstein Local Municipality",
+    "admin_level": "8"
   },
   {
-    "id": "611438",
-    "parent": "349547",
-    "text": "Vhembe District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611509",
-    "parent": "349547",
-    "text": "Capricorn District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611544",
-    "parent": "349547",
-    "text": "Waterberg District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611577",
-    "parent": "349547",
-    "text": "Sekhukhune District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "610712",
-    "parent": "349390",
-    "text": "Umkhanyakude District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "610720",
-    "parent": "349390",
-    "text": "eThekwini Metropolitan Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "610723",
-    "parent": "349390",
-    "text": "Ugu District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "610729",
-    "parent": "349390",
-    "text": "uMgungundlovu District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611001",
-    "parent": "349390",
-    "text": "Uthukela District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611026",
-    "parent": "349390",
-    "text": "Umzinyathi District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611069",
-    "parent": "349390",
-    "text": "Amajuba District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611105",
-    "parent": "349390",
-    "text": "Zululand District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611181",
-    "parent": "349390",
-    "text": "King Cetswayo District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611247",
-    "parent": "349390",
-    "text": "iLembe District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "611315",
-    "parent": "349390",
-    "text": "Sisonke District Municipality",
-    "admin_level": "6"
+    "id": "88574",
+    "parent": "87565",
+    "text": "Eastern Cape",
+    "admin_level": "4"
   },
   {
     "id": "611620",
@@ -324,63 +252,189 @@
     "admin_level": "6"
   },
   {
+    "id": "611576",
+    "parent": "611577",
+    "text": "Elias Motsoaledi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88481",
+    "parent": "88480",
+    "text": "Elundini Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611626",
+    "parent": "611627",
+    "text": "Emakhazeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88474",
+    "parent": "88468",
+    "text": "Emalahleni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611629",
+    "parent": "611627",
+    "text": "Emalahleni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "599257",
+    "parent": "594496",
+    "text": "Emfuleni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610998",
+    "parent": "611001",
+    "text": "Emnambithi/Ladysmith Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82030",
+    "parent": "82027",
+    "text": "Emthanjeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611025",
+    "parent": "611026",
+    "text": "Endumeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88475",
+    "parent": "88468",
+    "text": "Engcobo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611578",
+    "parent": "611577",
+    "text": "Ephraim Mogale Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610724",
+    "parent": "610723",
+    "text": "Ezinqoleni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611574",
+    "parent": "611577",
+    "text": "Fetakgomo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593793",
+    "parent": "92417",
+    "text": "Fezile Dabi District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "86694",
+    "parent": "86720",
+    "text": "Frances Baard District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "92417",
+    "parent": "87565",
+    "text": "Free State",
+    "admin_level": "4"
+  },
+  {
+    "id": "86703",
+    "parent": "86701",
+    "text": "Ga-Segonyana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86704",
+    "parent": "86701",
+    "text": "Gamagara Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79797",
+    "parent": "80501",
+    "text": "Garden Route District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88484",
+    "parent": "88480",
+    "text": "Gariep Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "349344",
+    "parent": "87565",
+    "text": "Gauteng",
+    "admin_level": "4"
+  },
+  {
+    "id": "79793",
+    "parent": "79797",
+    "text": "George Local Municipality",
+    "admin_level": "8"
+  },
+  {
     "id": "611622",
     "parent": "349556",
     "text": "Gert Sibande",
     "admin_level": "6"
   },
   {
-    "id": "611627",
-    "parent": "349556",
-    "text": "Nkangala",
-    "admin_level": "6"
-  },
-  {
-    "id": "594475",
-    "parent": "349344",
-    "text": "City of Ekurhuleni Metropolitan Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "594484",
-    "parent": "349344",
-    "text": "City of Tshwane Metropolitan Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "594496",
-    "parent": "349344",
-    "text": "Sedibeng District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "594508",
-    "parent": "349344",
-    "text": "City of Johannesburg Metropolitan Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "594516",
-    "parent": "349344",
-    "text": "West Rand District Municipality",
-    "admin_level": "6"
-  },
-  {
-    "id": "81967",
-    "parent": "81973",
-    "text": "Richtersveld Local Municipality",
+    "id": "611619",
+    "parent": "611622",
+    "text": "Govan Mbeki Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "81968",
-    "parent": "81973",
-    "text": "Nama Khoi Local Municipality",
+    "id": "88184",
+    "parent": "88267",
+    "text": "Great Kei Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "81969",
-    "parent": "81973",
-    "text": "Kamiesberg Local Municipality",
+    "id": "611426",
+    "parent": "611425",
+    "text": "Greater Giyani Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611316",
+    "parent": "611315",
+    "text": "Greater Kokstad Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611423",
+    "parent": "611425",
+    "text": "Greater Letaba Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611658",
+    "parent": "611676",
+    "text": "Greater Taung Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611573",
+    "parent": "611577",
+    "text": "Greater Tubatse Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611424",
+    "parent": "611425",
+    "text": "Greater Tzaneen Local Municipality",
     "admin_level": "8"
   },
   {
@@ -390,21 +444,105 @@
     "admin_level": "8"
   },
   {
-    "id": "81971",
-    "parent": "81973",
-    "text": "Karoo Hoogland Local Municipality",
+    "id": "79791",
+    "parent": "79797",
+    "text": "Hessequa Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "81972",
-    "parent": "81973",
-    "text": "Kh\u00e2i-Ma Local Municipality",
+    "id": "610726",
+    "parent": "610723",
+    "text": "Hibiscus Coast Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "82047",
-    "parent": "82046",
-    "text": "Mier Local Municipality",
+    "id": "610709",
+    "parent": "610712",
+    "text": "Hlabisa Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88161",
+    "parent": "88144",
+    "text": "Ikwezi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611000",
+    "parent": "611001",
+    "text": "Imbabazane Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610735",
+    "parent": "610729",
+    "text": "Impendle Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610999",
+    "parent": "611001",
+    "text": "Indaka Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88491",
+    "parent": "88549",
+    "text": "Ingquza Hill Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611317",
+    "parent": "611315",
+    "text": "Ingwe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88471",
+    "parent": "88468",
+    "text": "Inkwanca Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88473",
+    "parent": "88468",
+    "text": "Intsika Yethu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88469",
+    "parent": "88468",
+    "text": "Inxuba Yethemba Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88480",
+    "parent": "88574",
+    "text": "Joe Gqabi District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "86702",
+    "parent": "86701",
+    "text": "Joe Morolong Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86701",
+    "parent": "86720",
+    "text": "John Taolo Gaetsewe District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "610710",
+    "parent": "610712",
+    "text": "Jozini Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "1802556",
+    "parent": "611676",
+    "text": "Kagisano-Molopo Local Municipality",
     "admin_level": "8"
   },
   {
@@ -414,27 +552,69 @@
     "admin_level": "8"
   },
   {
-    "id": "82050",
-    "parent": "82046",
-    "text": "\u01c1Khara Hais Local Municipality",
+    "id": "81969",
+    "parent": "81973",
+    "text": "Kamiesberg Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "82051",
-    "parent": "82046",
-    "text": "!Kheis Local Municipality",
+    "id": "79790",
+    "parent": "79797",
+    "text": "Kannaland Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "82052",
-    "parent": "82046",
-    "text": "Tsantsabane Local Municipality",
+    "id": "82031",
+    "parent": "82027",
+    "text": "Kareeberg Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "81971",
+    "parent": "81973",
+    "text": "Karoo Hoogland Local Municipality",
     "admin_level": "8"
   },
   {
     "id": "82053",
     "parent": "82046",
     "text": "Kgatelopele Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611678",
+    "parent": "611674",
+    "text": "Kgetleng River Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "81972",
+    "parent": "81973",
+    "text": "Kh\u00e2i-Ma Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611181",
+    "parent": "349390",
+    "text": "King Cetswayo District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88542",
+    "parent": "88549",
+    "text": "King Sabata Dalindyebo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79796",
+    "parent": "79797",
+    "text": "Knysna Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593805",
+    "parent": "593797",
+    "text": "Kopanong Local Municipality",
     "admin_level": "8"
   },
   {
@@ -450,135 +630,27 @@
     "admin_level": "8"
   },
   {
-    "id": "88121",
-    "parent": "88144",
-    "text": "Sundays River Valley Local Municipality",
+    "id": "611318",
+    "parent": "611315",
+    "text": "Kwa Sani Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "88135",
-    "parent": "88144",
-    "text": "Ndlambe Local Municipality",
+    "id": "611249",
+    "parent": "611247",
+    "text": "KwaDukuza Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "88159",
-    "parent": "88144",
-    "text": "Camdeboo Local Municipality",
-    "admin_level": "8"
+    "id": "349390",
+    "parent": "87565",
+    "text": "KwaZulu-Natal",
+    "admin_level": "4"
   },
   {
-    "id": "88160",
-    "parent": "88144",
-    "text": "Blue Crane Route Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88161",
-    "parent": "88144",
-    "text": "Ikwezi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88162",
-    "parent": "88144",
-    "text": "Makana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88163",
-    "parent": "88144",
-    "text": "Baviaans Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593813",
-    "parent": "593795",
-    "text": "Mantsopa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593824",
-    "parent": "593795",
-    "text": "Phumelela Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593830",
-    "parent": "593795",
-    "text": "Setsoto Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593831",
-    "parent": "593795",
-    "text": "Nketoana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593832",
-    "parent": "593795",
-    "text": "Dihlabeng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593837",
-    "parent": "593795",
-    "text": "Maluti-a-Phofung Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611658",
-    "parent": "611676",
-    "text": "Greater Taung Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611659",
-    "parent": "611676",
-    "text": "Mamusa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611661",
-    "parent": "611676",
-    "text": "Lekwa-Teemane Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611663",
-    "parent": "611676",
-    "text": "Naledi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "1802556",
-    "parent": "611676",
-    "text": "Kagisano-Molopo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79653",
-    "parent": "79652",
-    "text": "Witzenberg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79654",
-    "parent": "79652",
-    "text": "Drakenstein Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79655",
-    "parent": "79652",
-    "text": "Stellenbosch Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79656",
-    "parent": "79652",
-    "text": "Breede Valley Local Municipality",
+    "id": "79808",
+    "parent": "79807",
+    "text": "Laingsburg Local Municipality",
     "admin_level": "8"
   },
   {
@@ -588,429 +660,27 @@
     "admin_level": "8"
   },
   {
-    "id": "79676",
-    "parent": "79680",
-    "text": "Theewaterskloof Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79677",
-    "parent": "79680",
-    "text": "Overstrand Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79678",
-    "parent": "79680",
-    "text": "Cape Agulhas Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79679",
-    "parent": "79680",
-    "text": "Swellendam Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79629",
-    "parent": "79634",
-    "text": "Matzikama Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79630",
-    "parent": "79634",
-    "text": "Cederberg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79631",
-    "parent": "79634",
-    "text": "Bergrivier Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79632",
-    "parent": "79634",
-    "text": "Saldanha Bay Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79633",
-    "parent": "79634",
-    "text": "Swartland Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79790",
-    "parent": "79797",
-    "text": "Kannaland Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79791",
-    "parent": "79797",
-    "text": "Hessequa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79792",
-    "parent": "79797",
-    "text": "Mossel Bay Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79793",
-    "parent": "79797",
-    "text": "George Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79794",
-    "parent": "79797",
-    "text": "Oudtshoorn Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79795",
-    "parent": "79797",
-    "text": "Bitou Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79796",
-    "parent": "79797",
-    "text": "Knysna Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79808",
-    "parent": "79807",
-    "text": "Laingsburg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79809",
-    "parent": "79807",
-    "text": "Prince Albert Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "79810",
-    "parent": "79807",
-    "text": "Beaufort West Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82028",
-    "parent": "82027",
-    "text": "Ubuntu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82029",
-    "parent": "82027",
-    "text": "Umsobomvu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82030",
-    "parent": "82027",
-    "text": "Emthanjeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82031",
-    "parent": "82027",
-    "text": "Kareeberg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82032",
-    "parent": "82027",
-    "text": "Renosterberg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82033",
-    "parent": "82027",
-    "text": "Thembelihle Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82034",
-    "parent": "82027",
-    "text": "Siyathemba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "82035",
-    "parent": "82027",
-    "text": "Siyancuma Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88173",
-    "parent": "88267",
-    "text": "Mbhashe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88177",
-    "parent": "88267",
-    "text": "Mnquma Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88184",
-    "parent": "88267",
-    "text": "Great Kei Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88187",
-    "parent": "88267",
-    "text": "Amahlathi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88220",
-    "parent": "88267",
-    "text": "Ngqushwa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88251",
-    "parent": "88267",
-    "text": "Nkonkobe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88257",
-    "parent": "88267",
-    "text": "Nxuba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88469",
-    "parent": "88468",
-    "text": "Inxuba Yethemba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88470",
-    "parent": "88468",
-    "text": "Tsolwana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88471",
-    "parent": "88468",
-    "text": "Inkwanca Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88472",
-    "parent": "88468",
-    "text": "Lukhanji Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88473",
-    "parent": "88468",
-    "text": "Intsika Yethu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88474",
-    "parent": "88468",
-    "text": "Emalahleni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88475",
-    "parent": "88468",
-    "text": "Engcobo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88476",
-    "parent": "88468",
-    "text": "Sakhisizwe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88481",
-    "parent": "88480",
-    "text": "Elundini Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88482",
-    "parent": "88480",
-    "text": "Senqu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88483",
-    "parent": "88480",
-    "text": "Maletswai Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88484",
-    "parent": "88480",
-    "text": "Gariep Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593805",
-    "parent": "593797",
-    "text": "Kopanong Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593806",
-    "parent": "593797",
-    "text": "Letsemeng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593807",
-    "parent": "593797",
-    "text": "Mohokare Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593814",
-    "parent": "593797",
-    "text": "Naledi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86702",
-    "parent": "86701",
-    "text": "Joe Morolong Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86703",
-    "parent": "86701",
-    "text": "Ga-Segonyana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86704",
-    "parent": "86701",
-    "text": "Gamagara Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86695",
-    "parent": "86694",
-    "text": "Sol Plaatje Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86696",
-    "parent": "86694",
-    "text": "Dikgatlong Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86697",
-    "parent": "86694",
-    "text": "Magareng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "86698",
-    "parent": "86694",
-    "text": "Phokwane Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593825",
-    "parent": "593793",
-    "text": "Metsimaholo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593827",
-    "parent": "593793",
-    "text": "Mafube Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593828",
-    "parent": "593793",
-    "text": "Ngwathe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593836",
-    "parent": "593793",
-    "text": "Moqhaka Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593823",
-    "parent": "593796",
-    "text": "Matjhabeng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593826",
-    "parent": "593796",
-    "text": "Nala Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593829",
-    "parent": "593796",
-    "text": "Masilonyana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593833",
-    "parent": "593796",
-    "text": "Tswelopele Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "593835",
-    "parent": "593796",
-    "text": "Tokologo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611660",
-    "parent": "611675",
-    "text": "Tlokwe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611667",
-    "parent": "611675",
-    "text": "Matlosana Local Municipality",
-    "admin_level": "8"
+    "id": "593796",
+    "parent": "92417",
+    "text": "Lejweleputswa District Municipality",
+    "admin_level": "6"
   },
   {
-    "id": "611669",
-    "parent": "611675",
-    "text": "Ventersdorp Local Municipality",
+    "id": "611617",
+    "parent": "611622",
+    "text": "Lekwa Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611671",
-    "parent": "611675",
-    "text": "Maquassi Hills Local Municipality",
+    "id": "611661",
+    "parent": "611676",
+    "text": "Lekwa-Teemane Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611539",
-    "parent": "611544",
-    "text": "Thabazimbi Local Municipality",
+    "id": "611508",
+    "parent": "611509",
+    "text": "Lepelle-Nkumpi Local Municipality",
     "admin_level": "8"
   },
   {
@@ -1020,9 +690,219 @@
     "admin_level": "8"
   },
   {
-    "id": "611541",
-    "parent": "611544",
-    "text": "Bela Bela Local Municipality",
+    "id": "599214",
+    "parent": "594496",
+    "text": "Lesedi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593806",
+    "parent": "593797",
+    "text": "Letsemeng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "349547",
+    "parent": "87565",
+    "text": "Limpopo",
+    "admin_level": "4"
+  },
+  {
+    "id": "88472",
+    "parent": "88468",
+    "text": "Lukhanji Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611656",
+    "parent": "611674",
+    "text": "Madibeng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593827",
+    "parent": "593793",
+    "text": "Mafube Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86697",
+    "parent": "86694",
+    "text": "Magareng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611673",
+    "parent": "611666",
+    "text": "Mahikeng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88162",
+    "parent": "88144",
+    "text": "Makana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611440",
+    "parent": "611438",
+    "text": "Makhado Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611575",
+    "parent": "611577",
+    "text": "Makhuduthamaga Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88483",
+    "parent": "88480",
+    "text": "Maletswai Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593837",
+    "parent": "593795",
+    "text": "Maluti-a-Phofung Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611659",
+    "parent": "611676",
+    "text": "Mamusa Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611251",
+    "parent": "611247",
+    "text": "Mandeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593812",
+    "parent": "92417",
+    "text": "Mangaung Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "593813",
+    "parent": "593795",
+    "text": "Mantsopa Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611248",
+    "parent": "611247",
+    "text": "Maphumulo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611671",
+    "parent": "611675",
+    "text": "Maquassi Hills Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611427",
+    "parent": "611425",
+    "text": "Maruleng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593829",
+    "parent": "593796",
+    "text": "Masilonyana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88564",
+    "parent": "88563",
+    "text": "Matatiele Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593823",
+    "parent": "593796",
+    "text": "Matjhabeng Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611667",
+    "parent": "611675",
+    "text": "Matlosana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79629",
+    "parent": "79634",
+    "text": "Matzikama Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88173",
+    "parent": "88267",
+    "text": "Mbhashe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88487",
+    "parent": "88563",
+    "text": "Mbizana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611615",
+    "parent": "611620",
+    "text": "Mbombela",
+    "admin_level": "8"
+  },
+  {
+    "id": "599242",
+    "parent": "594516",
+    "text": "Merafong City Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593825",
+    "parent": "593793",
+    "text": "Metsimaholo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88541",
+    "parent": "88549",
+    "text": "Mhlontlo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "599232",
+    "parent": "594496",
+    "text": "Midvaal Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82047",
+    "parent": "82046",
+    "text": "Mier Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610732",
+    "parent": "610729",
+    "text": "Mkhambathini Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611630",
+    "parent": "611622",
+    "text": "Mkhondo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88177",
+    "parent": "88267",
+    "text": "Mnquma Local Municipality",
     "admin_level": "8"
   },
   {
@@ -1038,549 +918,15 @@
     "admin_level": "8"
   },
   {
-    "id": "611545",
-    "parent": "611544",
-    "text": "Mookgopong Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611662",
-    "parent": "611666",
-    "text": "Tswaing Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611664",
-    "parent": "611666",
-    "text": "Ratlou Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611665",
-    "parent": "611666",
-    "text": "Ditsobotla Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611668",
-    "parent": "611666",
-    "text": "Ramotshere Moiloa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611673",
-    "parent": "611666",
-    "text": "Mahikeng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611656",
-    "parent": "611674",
-    "text": "Madibeng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611657",
-    "parent": "611674",
-    "text": "Moses Kotane Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611672",
-    "parent": "611674",
-    "text": "Rustenburg Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611677",
-    "parent": "611674",
-    "text": "Moretele Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611678",
-    "parent": "611674",
-    "text": "Kgetleng River Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88491",
-    "parent": "88549",
-    "text": "Ingquza Hill Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88527",
-    "parent": "88549",
-    "text": "Port St Johns Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88540",
-    "parent": "88549",
-    "text": "Nyandeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88541",
-    "parent": "88549",
-    "text": "Mhlontlo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88542",
-    "parent": "88549",
-    "text": "King Sabata Dalindyebo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88487",
-    "parent": "88563",
-    "text": "Mbizana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88490",
-    "parent": "88563",
-    "text": "Ntabankulu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88564",
-    "parent": "88563",
-    "text": "Matatiele Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "88565",
-    "parent": "88563",
-    "text": "Umzimvubu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611316",
-    "parent": "611315",
-    "text": "Greater Kokstad Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611317",
-    "parent": "611315",
-    "text": "Ingwe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611318",
-    "parent": "611315",
-    "text": "Kwa Sani Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611319",
-    "parent": "611315",
-    "text": "Umzimkhulu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611320",
-    "parent": "611315",
-    "text": "Ubuhlebezwe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610722",
-    "parent": "610723",
-    "text": "uMdoni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610724",
-    "parent": "610723",
-    "text": "Ezinqoleni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610725",
-    "parent": "610723",
-    "text": "Umzumbe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610726",
-    "parent": "610723",
-    "text": "Hibiscus Coast Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610727",
-    "parent": "610723",
-    "text": "Vulamehlo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610728",
-    "parent": "610723",
-    "text": "uMuziwabantu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610730",
-    "parent": "610729",
-    "text": "Richmond Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610731",
-    "parent": "610729",
-    "text": "Mpofana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610732",
-    "parent": "610729",
-    "text": "Mkhambathini Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610733",
-    "parent": "610729",
-    "text": "uMshwathi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610734",
-    "parent": "610729",
-    "text": "uMgeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610735",
-    "parent": "610729",
-    "text": "Impendle Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610736",
-    "parent": "610729",
-    "text": "Msunduzi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610998",
-    "parent": "611001",
-    "text": "Emnambithi/Ladysmith Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610999",
-    "parent": "611001",
-    "text": "Indaka Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611000",
-    "parent": "611001",
-    "text": "Imbabazane Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611002",
-    "parent": "611001",
-    "text": "Okhahlamba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611003",
-    "parent": "611001",
-    "text": "Umtshezi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611023",
-    "parent": "611026",
-    "text": "Nquthu Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611024",
-    "parent": "611026",
-    "text": "Msinga Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611025",
-    "parent": "611026",
-    "text": "Endumeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611027",
-    "parent": "611026",
-    "text": "Umvoti Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611070",
-    "parent": "611069",
-    "text": "Dannhauser Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611071",
-    "parent": "611069",
-    "text": "eMadlangeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611072",
-    "parent": "611069",
-    "text": "Newcastle Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611616",
-    "parent": "611622",
-    "text": "Msukaligwa",
-    "admin_level": "8"
-  },
-  {
-    "id": "611617",
-    "parent": "611622",
-    "text": "Lekwa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611618",
-    "parent": "611622",
-    "text": "Pixley Ka Seme Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611619",
-    "parent": "611622",
-    "text": "Govan Mbeki Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611628",
-    "parent": "611622",
-    "text": "Dipaleseng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611630",
-    "parent": "611622",
-    "text": "Mkhondo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611632",
-    "parent": "611622",
-    "text": "Albert Luthuli Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610708",
-    "parent": "610712",
-    "text": "uMhlabuyalingana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610709",
-    "parent": "610712",
-    "text": "Hlabisa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610710",
-    "parent": "610712",
-    "text": "Jozini Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610711",
-    "parent": "610712",
-    "text": "Mtubatuba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "610713",
-    "parent": "610712",
-    "text": "The Big Five False Bay Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611106",
-    "parent": "611105",
-    "text": "eDumbe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611107",
-    "parent": "611105",
-    "text": "Ulundi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611108",
-    "parent": "611105",
-    "text": "Abaqulusi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611109",
-    "parent": "611105",
-    "text": "Nongoma Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611110",
-    "parent": "611105",
-    "text": "uPhongolo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611177",
-    "parent": "611181",
-    "text": "uMfolozi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611178",
-    "parent": "611181",
-    "text": "Mthonjaneni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611179",
-    "parent": "611181",
-    "text": "Nkandla Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611180",
-    "parent": "611181",
-    "text": "uMlalazi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611182",
-    "parent": "611181",
-    "text": "Ntambanana Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611183",
-    "parent": "611181",
-    "text": "uMhlathuze Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611248",
-    "parent": "611247",
-    "text": "Maphumulo Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611249",
-    "parent": "611247",
-    "text": "KwaDukuza Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611250",
-    "parent": "611247",
-    "text": "Ndwedwe Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611251",
-    "parent": "611247",
-    "text": "Mandeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
     "id": "599228",
     "parent": "594516",
     "text": "Mogale City Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "599235",
-    "parent": "594516",
-    "text": "Randfontein Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "599242",
-    "parent": "594516",
-    "text": "Merafong City Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "599253",
-    "parent": "594516",
-    "text": "Westonaria Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "599214",
-    "parent": "594496",
-    "text": "Lesedi Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "599232",
-    "parent": "594496",
-    "text": "Midvaal Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "599257",
-    "parent": "594496",
-    "text": "Emfuleni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611423",
-    "parent": "611425",
-    "text": "Greater Letaba Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611424",
-    "parent": "611425",
-    "text": "Greater Tzaneen Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611426",
-    "parent": "611425",
-    "text": "Greater Giyani Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611427",
-    "parent": "611425",
-    "text": "Maruleng Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611428",
-    "parent": "611425",
-    "text": "Ba-Phalaborwa Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "114783",
-    "parent": "611509",
-    "text": "Aganang Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611505",
-    "parent": "611509",
-    "text": "Polokwane Local Municipality",
+    "id": "593807",
+    "parent": "593797",
+    "text": "Mohokare Local Municipality",
     "admin_level": "8"
   },
   {
@@ -1590,123 +936,81 @@
     "admin_level": "8"
   },
   {
-    "id": "611507",
-    "parent": "611509",
-    "text": "Blouberg Local Municipality",
+    "id": "611545",
+    "parent": "611544",
+    "text": "Mookgopong Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611508",
-    "parent": "611509",
-    "text": "Lepelle-Nkumpi Local Municipality",
+    "id": "611425",
+    "parent": "349547",
+    "text": "Mopani District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "593836",
+    "parent": "593793",
+    "text": "Moqhaka Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611573",
-    "parent": "611577",
-    "text": "Greater Tubatse Local Municipality",
+    "id": "611677",
+    "parent": "611674",
+    "text": "Moretele Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611574",
-    "parent": "611577",
-    "text": "Fetakgomo Local Municipality",
+    "id": "611657",
+    "parent": "611674",
+    "text": "Moses Kotane Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611575",
-    "parent": "611577",
-    "text": "Makhuduthamaga Local Municipality",
+    "id": "79792",
+    "parent": "79797",
+    "text": "Mossel Bay Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611576",
-    "parent": "611577",
-    "text": "Elias Motsoaledi Local Municipality",
+    "id": "610731",
+    "parent": "610729",
+    "text": "Mpofana Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611578",
-    "parent": "611577",
-    "text": "Ephraim Mogale Local Municipality",
+    "id": "349556",
+    "parent": "87565",
+    "text": "Mpumalanga",
+    "admin_level": "4"
+  },
+  {
+    "id": "611024",
+    "parent": "611026",
+    "text": "Msinga Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611615",
-    "parent": "611620",
-    "text": "Mbombela",
+    "id": "611616",
+    "parent": "611622",
+    "text": "Msukaligwa",
     "admin_level": "8"
   },
   {
-    "id": "611621",
-    "parent": "611620",
-    "text": "Umjindi Local Municipality",
+    "id": "610736",
+    "parent": "610729",
+    "text": "Msunduzi Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611623",
-    "parent": "611620",
-    "text": "Thaba Chweu Local Municipality",
+    "id": "611178",
+    "parent": "611181",
+    "text": "Mthonjaneni Local Municipality",
     "admin_level": "8"
   },
   {
-    "id": "611625",
-    "parent": "611620",
-    "text": "Nkomazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "611631",
-    "parent": "611620",
-    "text": "Bushbuckridge",
-    "admin_level": "8"
-  },
-  {
-    "id": "611624",
-    "parent": "611627",
-    "text": "Victor Khanye Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611626",
-    "parent": "611627",
-    "text": "Emakhazeni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611629",
-    "parent": "611627",
-    "text": "Emalahleni Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611633",
-    "parent": "611627",
-    "text": "Steve Tshwete Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611634",
-    "parent": "611627",
-    "text": "Dr JS Moroka Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611635",
-    "parent": "611627",
-    "text": "Thembisile Hani Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611436",
-    "parent": "611438",
-    "text": "Mutale Local Municipality",
-    "admin_level": "8"
-  },
-  {
-    "id": "611437",
-    "parent": "611438",
-    "text": "Thulamela Local Municipality",
+    "id": "610711",
+    "parent": "610712",
+    "text": "Mtubatuba Local Municipality",
     "admin_level": "8"
   },
   {
@@ -1716,9 +1020,705 @@
     "admin_level": "8"
   },
   {
-    "id": "611440",
+    "id": "611436",
     "parent": "611438",
-    "text": "Makhado Local Municipality",
+    "text": "Mutale Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593826",
+    "parent": "593796",
+    "text": "Nala Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611663",
+    "parent": "611676",
+    "text": "Naledi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593814",
+    "parent": "593797",
+    "text": "Naledi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "81968",
+    "parent": "81973",
+    "text": "Nama Khoi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "81973",
+    "parent": "86720",
+    "text": "Namakwa District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88135",
+    "parent": "88144",
+    "text": "Ndlambe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611250",
+    "parent": "611247",
+    "text": "Ndwedwe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86751",
+    "parent": "88574",
+    "text": "Nelson Mandela Bay Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611072",
+    "parent": "611069",
+    "text": "Newcastle Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611666",
+    "parent": "349519",
+    "text": "Ngaka Modiri Molema District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88220",
+    "parent": "88267",
+    "text": "Ngqushwa Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593828",
+    "parent": "593793",
+    "text": "Ngwathe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611179",
+    "parent": "611181",
+    "text": "Nkandla Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611627",
+    "parent": "349556",
+    "text": "Nkangala",
+    "admin_level": "6"
+  },
+  {
+    "id": "593831",
+    "parent": "593795",
+    "text": "Nketoana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611625",
+    "parent": "611620",
+    "text": "Nkomazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "88251",
+    "parent": "88267",
+    "text": "Nkonkobe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611109",
+    "parent": "611105",
+    "text": "Nongoma Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "349519",
+    "parent": "87565",
+    "text": "North West",
+    "admin_level": "4"
+  },
+  {
+    "id": "86720",
+    "parent": "87565",
+    "text": "Northern Cape",
+    "admin_level": "4"
+  },
+  {
+    "id": "611023",
+    "parent": "611026",
+    "text": "Nquthu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88490",
+    "parent": "88563",
+    "text": "Ntabankulu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611182",
+    "parent": "611181",
+    "text": "Ntambanana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88257",
+    "parent": "88267",
+    "text": "Nxuba Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88540",
+    "parent": "88549",
+    "text": "Nyandeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88549",
+    "parent": "88574",
+    "text": "O.R. Tambo District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611002",
+    "parent": "611001",
+    "text": "Okhahlamba Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79794",
+    "parent": "79797",
+    "text": "Oudtshoorn Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79680",
+    "parent": "80501",
+    "text": "Overberg District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "79677",
+    "parent": "79680",
+    "text": "Overstrand Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86698",
+    "parent": "86694",
+    "text": "Phokwane Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593824",
+    "parent": "593795",
+    "text": "Phumelela Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611618",
+    "parent": "611622",
+    "text": "Pixley Ka Seme Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82027",
+    "parent": "86720",
+    "text": "Pixley ka Seme District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611505",
+    "parent": "611509",
+    "text": "Polokwane Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88527",
+    "parent": "88549",
+    "text": "Port St Johns Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79809",
+    "parent": "79807",
+    "text": "Prince Albert Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611668",
+    "parent": "611666",
+    "text": "Ramotshere Moiloa Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "599235",
+    "parent": "594516",
+    "text": "Randfontein Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611664",
+    "parent": "611666",
+    "text": "Ratlou Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82032",
+    "parent": "82027",
+    "text": "Renosterberg Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610730",
+    "parent": "610729",
+    "text": "Richmond Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "81967",
+    "parent": "81973",
+    "text": "Richtersveld Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611672",
+    "parent": "611674",
+    "text": "Rustenburg Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88476",
+    "parent": "88468",
+    "text": "Sakhisizwe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79632",
+    "parent": "79634",
+    "text": "Saldanha Bay Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88144",
+    "parent": "88574",
+    "text": "Sarah Baartman District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "594496",
+    "parent": "349344",
+    "text": "Sedibeng District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611577",
+    "parent": "349547",
+    "text": "Sekhukhune District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "88482",
+    "parent": "88480",
+    "text": "Senqu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593830",
+    "parent": "593795",
+    "text": "Setsoto Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611315",
+    "parent": "349390",
+    "text": "Sisonke District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "82035",
+    "parent": "82027",
+    "text": "Siyancuma Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82034",
+    "parent": "82027",
+    "text": "Siyathemba Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "86695",
+    "parent": "86694",
+    "text": "Sol Plaatje Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79655",
+    "parent": "79652",
+    "text": "Stellenbosch Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611633",
+    "parent": "611627",
+    "text": "Steve Tshwete Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88121",
+    "parent": "88144",
+    "text": "Sundays River Valley Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79633",
+    "parent": "79634",
+    "text": "Swartland Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79679",
+    "parent": "79680",
+    "text": "Swellendam Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611623",
+    "parent": "611620",
+    "text": "Thaba Chweu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611539",
+    "parent": "611544",
+    "text": "Thabazimbi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593795",
+    "parent": "92417",
+    "text": "Thabo Mofutsanyana District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "610713",
+    "parent": "610712",
+    "text": "The Big Five False Bay Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79676",
+    "parent": "79680",
+    "text": "Theewaterskloof Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82033",
+    "parent": "82027",
+    "text": "Thembelihle Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611635",
+    "parent": "611627",
+    "text": "Thembisile Hani Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611437",
+    "parent": "611438",
+    "text": "Thulamela Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611660",
+    "parent": "611675",
+    "text": "Tlokwe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593835",
+    "parent": "593796",
+    "text": "Tokologo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82052",
+    "parent": "82046",
+    "text": "Tsantsabane Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88470",
+    "parent": "88468",
+    "text": "Tsolwana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611662",
+    "parent": "611666",
+    "text": "Tswaing Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593833",
+    "parent": "593796",
+    "text": "Tswelopele Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611320",
+    "parent": "611315",
+    "text": "Ubuhlebezwe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82028",
+    "parent": "82027",
+    "text": "Ubuntu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610723",
+    "parent": "349390",
+    "text": "Ugu District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611107",
+    "parent": "611105",
+    "text": "Ulundi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611621",
+    "parent": "611620",
+    "text": "Umjindi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610712",
+    "parent": "349390",
+    "text": "Umkhanyakude District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "82029",
+    "parent": "82027",
+    "text": "Umsobomvu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611003",
+    "parent": "611001",
+    "text": "Umtshezi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611027",
+    "parent": "611026",
+    "text": "Umvoti Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611319",
+    "parent": "611315",
+    "text": "Umzimkhulu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "88565",
+    "parent": "88563",
+    "text": "Umzimvubu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611026",
+    "parent": "349390",
+    "text": "Umzinyathi District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "610725",
+    "parent": "610723",
+    "text": "Umzumbe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611001",
+    "parent": "349390",
+    "text": "Uthukela District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611669",
+    "parent": "611675",
+    "text": "Ventersdorp Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611438",
+    "parent": "349547",
+    "text": "Vhembe District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611624",
+    "parent": "611627",
+    "text": "Victor Khanye Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610727",
+    "parent": "610723",
+    "text": "Vulamehlo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611544",
+    "parent": "349547",
+    "text": "Waterberg District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "79634",
+    "parent": "80501",
+    "text": "West Coast District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "594516",
+    "parent": "349344",
+    "text": "West Rand District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "80501",
+    "parent": "87565",
+    "text": "Western Cape",
+    "admin_level": "4"
+  },
+  {
+    "id": "599253",
+    "parent": "594516",
+    "text": "Westonaria Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "79653",
+    "parent": "79652",
+    "text": "Witzenberg Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "593797",
+    "parent": "92417",
+    "text": "Xhariep District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "82046",
+    "parent": "86720",
+    "text": "ZF Mgcawu District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611105",
+    "parent": "349390",
+    "text": "Zululand District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611106",
+    "parent": "611105",
+    "text": "eDumbe Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611071",
+    "parent": "611069",
+    "text": "eMadlangeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610720",
+    "parent": "349390",
+    "text": "eThekwini Metropolitan Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "611247",
+    "parent": "349390",
+    "text": "iLembe District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "610722",
+    "parent": "610723",
+    "text": "uMdoni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611177",
+    "parent": "611181",
+    "text": "uMfolozi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610734",
+    "parent": "610729",
+    "text": "uMgeni Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610729",
+    "parent": "349390",
+    "text": "uMgungundlovu District Municipality",
+    "admin_level": "6"
+  },
+  {
+    "id": "610708",
+    "parent": "610712",
+    "text": "uMhlabuyalingana Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611183",
+    "parent": "611181",
+    "text": "uMhlathuze Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611180",
+    "parent": "611181",
+    "text": "uMlalazi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610733",
+    "parent": "610729",
+    "text": "uMshwathi Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "610728",
+    "parent": "610723",
+    "text": "uMuziwabantu Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "611110",
+    "parent": "611105",
+    "text": "uPhongolo Local Municipality",
+    "admin_level": "8"
+  },
+  {
+    "id": "82050",
+    "parent": "82046",
+    "text": "\u01c1Khara Hais Local Municipality",
     "admin_level": "8"
   }
 ]

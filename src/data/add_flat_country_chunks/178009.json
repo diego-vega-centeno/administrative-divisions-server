@@ -1,98 +1,14 @@
 [
   {
-    "id": "178019",
-    "parent": "178009",
-    "text": "Batken Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "178020",
-    "parent": "178009",
-    "text": "Osh Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "178023",
-    "parent": "178009",
-    "text": "Talas Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "178024",
-    "parent": "178009",
-    "text": "Jalal-Abad Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "178025",
-    "parent": "178009",
-    "text": "Issyk-Kul Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "178026",
-    "parent": "178009",
-    "text": "Chuy Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "1251542",
-    "parent": "178009",
-    "text": "Naryn Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "8493930",
-    "parent": "178009",
-    "text": "Bishkek City",
-    "admin_level": "4"
-  },
-  {
-    "id": "19059632",
-    "parent": "178009",
-    "text": "Osh City",
-    "admin_level": "4"
-  },
-  {
-    "id": "15547629",
-    "parent": "178024",
-    "text": "Suzak District",
+    "id": "15587161",
+    "parent": "178025",
+    "text": "Ak-Suu District",
     "admin_level": "6"
   },
   {
-    "id": "15547630",
-    "parent": "178024",
-    "text": "K\u00f6k-Jangak City",
-    "admin_level": "6"
-  },
-  {
-    "id": "15547843",
-    "parent": "178024",
-    "text": "Mailuu-Suu City",
-    "admin_level": "6"
-  },
-  {
-    "id": "15553326",
-    "parent": "178024",
-    "text": "Toguz-Toro District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15553602",
-    "parent": "178024",
-    "text": "Bazar-Korgon District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15554117",
-    "parent": "178024",
-    "text": "Nooken District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15554967",
-    "parent": "178024",
-    "text": "Tash-Komur City",
+    "id": "15577237",
+    "parent": "1251542",
+    "text": "Ak-Talaa District",
     "admin_level": "6"
   },
   {
@@ -102,69 +18,9 @@
     "admin_level": "6"
   },
   {
-    "id": "15554969",
-    "parent": "178024",
-    "text": "Toktogul District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15559854",
-    "parent": "178024",
-    "text": "Kara-K\u00f6l City",
-    "admin_level": "6"
-  },
-  {
     "id": "15567054",
     "parent": "178024",
     "text": "Ala-Buka District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15567113",
-    "parent": "178024",
-    "text": "Chatkal District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15585749",
-    "parent": "178025",
-    "text": "Karakol City",
-    "admin_level": "6"
-  },
-  {
-    "id": "15586036",
-    "parent": "178025",
-    "text": "Balykchy",
-    "admin_level": "6"
-  },
-  {
-    "id": "15586335",
-    "parent": "178025",
-    "text": "Tong District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15586552",
-    "parent": "178025",
-    "text": "Issyk-Kul District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15586855",
-    "parent": "178025",
-    "text": "T\u00fcp District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15587161",
-    "parent": "178025",
-    "text": "Ak-Suu District",
-    "admin_level": "6"
-  },
-  {
-    "id": "15587294",
-    "parent": "178025",
-    "text": "Jeti-\u00d6g\u00fcz District",
     "admin_level": "6"
   },
   {
@@ -174,33 +30,75 @@
     "admin_level": "6"
   },
   {
-    "id": "2444076",
-    "parent": "178026",
-    "text": "Jayyl District",
+    "id": "15570762",
+    "parent": "178020",
+    "text": "Alay District",
     "admin_level": "6"
   },
   {
-    "id": "2444077",
-    "parent": "178026",
-    "text": "Kemin District",
+    "id": "15570537",
+    "parent": "178020",
+    "text": "Aravan District",
     "admin_level": "6"
   },
   {
-    "id": "2444078",
-    "parent": "178026",
-    "text": "Moskva District",
+    "id": "15579154",
+    "parent": "1251542",
+    "text": "At-Bashy District",
     "admin_level": "6"
   },
   {
-    "id": "2444079",
-    "parent": "178026",
-    "text": "Panfilov District",
+    "id": "15573702",
+    "parent": "178023",
+    "text": "Bakay-Ata District",
     "admin_level": "6"
   },
   {
-    "id": "2444080",
-    "parent": "178026",
-    "text": "Sokuluk District",
+    "id": "15586036",
+    "parent": "178025",
+    "text": "Balykchy",
+    "admin_level": "6"
+  },
+  {
+    "id": "13971559",
+    "parent": "178019",
+    "text": "Batken City",
+    "admin_level": "6"
+  },
+  {
+    "id": "4033859",
+    "parent": "178019",
+    "text": "Batken District",
+    "admin_level": "6"
+  },
+  {
+    "id": "178019",
+    "parent": "178009",
+    "text": "Batken Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "15553602",
+    "parent": "178024",
+    "text": "Bazar-Korgon District",
+    "admin_level": "6"
+  },
+  {
+    "id": "8493930",
+    "parent": "178009",
+    "text": "Bishkek City",
+    "admin_level": "4"
+  },
+  {
+    "id": "15567113",
+    "parent": "178024",
+    "text": "Chatkal District",
+    "admin_level": "6"
+  },
+  {
+    "id": "7491199",
+    "parent": "178020",
+    "text": "Chong-Alay District",
     "admin_level": "6"
   },
   {
@@ -210,15 +108,45 @@
     "admin_level": "6"
   },
   {
-    "id": "2444082",
-    "parent": "178026",
-    "text": "Ysyk-Ata District",
+    "id": "178026",
+    "parent": "178009",
+    "text": "Chuy Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "15600026",
+    "parent": "8493930",
+    "text": "First of May District",
     "admin_level": "6"
   },
   {
-    "id": "7727465",
+    "id": "15586552",
+    "parent": "178025",
+    "text": "Issyk-Kul District",
+    "admin_level": "6"
+  },
+  {
+    "id": "178025",
+    "parent": "178009",
+    "text": "Issyk-Kul Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "178024",
+    "parent": "178009",
+    "text": "Jalal-Abad Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2444076",
     "parent": "178026",
-    "text": "Tokmok City",
+    "text": "Jayyl District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15587294",
+    "parent": "178025",
+    "text": "Jeti-\u00d6g\u00fcz District",
     "admin_level": "6"
   },
   {
@@ -228,15 +156,99 @@
     "admin_level": "6"
   },
   {
+    "id": "13971608",
+    "parent": "4033820",
+    "text": "Kadamjay",
+    "admin_level": "8"
+  },
+  {
+    "id": "4033820",
+    "parent": "178019",
+    "text": "Kadamjay District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15573753",
+    "parent": "178023",
+    "text": "Kara-Buura District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15570761",
+    "parent": "178020",
+    "text": "Kara-Kulja District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15559854",
+    "parent": "178024",
+    "text": "Kara-K\u00f6l City",
+    "admin_level": "6"
+  },
+  {
+    "id": "15570558",
+    "parent": "178020",
+    "text": "Kara-Suu District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15585749",
+    "parent": "178025",
+    "text": "Karakol City",
+    "admin_level": "6"
+  },
+  {
+    "id": "2444077",
+    "parent": "178026",
+    "text": "Kemin District",
+    "admin_level": "6"
+  },
+  {
     "id": "15576908",
     "parent": "1251542",
     "text": "Ko\u00e7kor district",
     "admin_level": "6"
   },
   {
-    "id": "15577237",
-    "parent": "1251542",
-    "text": "Ak-Talaa District",
+    "id": "15567419",
+    "parent": "178019",
+    "text": "Kyzyl-Kyya City",
+    "admin_level": "6"
+  },
+  {
+    "id": "15547630",
+    "parent": "178024",
+    "text": "K\u00f6k-Jangak City",
+    "admin_level": "6"
+  },
+  {
+    "id": "15600027",
+    "parent": "8493930",
+    "text": "Lenin District",
+    "admin_level": "6"
+  },
+  {
+    "id": "4033822",
+    "parent": "178019",
+    "text": "Leylek District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15547843",
+    "parent": "178024",
+    "text": "Mailuu-Suu City",
+    "admin_level": "6"
+  },
+  {
+    "id": "15573783",
+    "parent": "178023",
+    "text": "Manas District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2444078",
+    "parent": "178026",
+    "text": "Moskva District",
     "admin_level": "6"
   },
   {
@@ -252,52 +264,10 @@
     "admin_level": "6"
   },
   {
-    "id": "15579154",
-    "parent": "1251542",
-    "text": "At-Bashy District",
-    "admin_level": "6"
-  },
-  {
-    "id": "4033820",
-    "parent": "178019",
-    "text": "Kadamjay District",
-    "admin_level": "6"
-  },
-  {
-    "id": "4033822",
-    "parent": "178019",
-    "text": "Leylek District",
-    "admin_level": "6"
-  },
-  {
-    "id": "4033859",
-    "parent": "178019",
-    "text": "Batken District",
-    "admin_level": "6"
-  },
-  {
-    "id": "4039638",
-    "parent": "178019",
-    "text": "S\u00fcl\u00fckt\u00fc City",
-    "admin_level": "6"
-  },
-  {
-    "id": "13971559",
-    "parent": "178019",
-    "text": "Batken City",
-    "admin_level": "6"
-  },
-  {
-    "id": "15567419",
-    "parent": "178019",
-    "text": "Kyzyl-Kyya City",
-    "admin_level": "6"
-  },
-  {
-    "id": "7491199",
-    "parent": "178020",
-    "text": "Chong-Alay District",
-    "admin_level": "6"
+    "id": "1251542",
+    "parent": "178009",
+    "text": "Naryn Region",
+    "admin_level": "4"
   },
   {
     "id": "15570396",
@@ -306,33 +276,57 @@
     "admin_level": "6"
   },
   {
-    "id": "15570537",
-    "parent": "178020",
-    "text": "Aravan District",
+    "id": "15554117",
+    "parent": "178024",
+    "text": "Nooken District",
     "admin_level": "6"
   },
   {
-    "id": "15570558",
-    "parent": "178020",
-    "text": "Kara-Suu District",
+    "id": "15600028",
+    "parent": "8493930",
+    "text": "October District",
     "admin_level": "6"
   },
   {
-    "id": "15570597",
-    "parent": "178020",
-    "text": "\u00d6zg\u00f6n District",
+    "id": "19059632",
+    "parent": "178009",
+    "text": "Osh City",
+    "admin_level": "4"
+  },
+  {
+    "id": "178020",
+    "parent": "178009",
+    "text": "Osh Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2444079",
+    "parent": "178026",
+    "text": "Panfilov District",
     "admin_level": "6"
   },
   {
-    "id": "15570761",
-    "parent": "178020",
-    "text": "Kara-Kulja District",
+    "id": "2444080",
+    "parent": "178026",
+    "text": "Sokuluk District",
     "admin_level": "6"
   },
   {
-    "id": "15570762",
-    "parent": "178020",
-    "text": "Alay District",
+    "id": "15547629",
+    "parent": "178024",
+    "text": "Suzak District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15600029",
+    "parent": "8493930",
+    "text": "Sverdlov District",
+    "admin_level": "6"
+  },
+  {
+    "id": "4039638",
+    "parent": "178019",
+    "text": "S\u00fcl\u00fckt\u00fc City",
     "admin_level": "6"
   },
   {
@@ -348,57 +342,63 @@
     "admin_level": "6"
   },
   {
-    "id": "15573702",
-    "parent": "178023",
-    "text": "Bakay-Ata District",
+    "id": "178023",
+    "parent": "178009",
+    "text": "Talas Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "15554967",
+    "parent": "178024",
+    "text": "Tash-Komur City",
     "admin_level": "6"
   },
   {
-    "id": "15573753",
-    "parent": "178023",
-    "text": "Kara-Buura District",
+    "id": "15553326",
+    "parent": "178024",
+    "text": "Toguz-Toro District",
     "admin_level": "6"
   },
   {
-    "id": "15573783",
-    "parent": "178023",
-    "text": "Manas District",
+    "id": "7727465",
+    "parent": "178026",
+    "text": "Tokmok City",
     "admin_level": "6"
   },
   {
-    "id": "15600026",
-    "parent": "8493930",
-    "text": "First of May District",
+    "id": "15554969",
+    "parent": "178024",
+    "text": "Toktogul District",
     "admin_level": "6"
   },
   {
-    "id": "15600027",
-    "parent": "8493930",
-    "text": "Lenin District",
+    "id": "15586335",
+    "parent": "178025",
+    "text": "Tong District",
     "admin_level": "6"
   },
   {
-    "id": "15600028",
-    "parent": "8493930",
-    "text": "October District",
+    "id": "15586855",
+    "parent": "178025",
+    "text": "T\u00fcp District",
     "admin_level": "6"
   },
   {
-    "id": "15600029",
-    "parent": "8493930",
-    "text": "Sverdlov District",
+    "id": "2444082",
+    "parent": "178026",
+    "text": "Ysyk-Ata District",
+    "admin_level": "6"
+  },
+  {
+    "id": "15570597",
+    "parent": "178020",
+    "text": "\u00d6zg\u00f6n District",
     "admin_level": "6"
   },
   {
     "id": "18031317",
     "parent": "4033859",
     "text": "\u04ae\u0447-\u0414\u04e9\u0431\u04e9 \u0441\u0435\u043b\u043e",
-    "admin_level": "8"
-  },
-  {
-    "id": "13971608",
-    "parent": "4033820",
-    "text": "Kadamjay",
     "admin_level": "8"
   }
 ]

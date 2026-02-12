@@ -1,572 +1,20 @@
 [
   {
-    "id": "171591",
-    "parent": "171496",
-    "text": "Eastern Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "1707122",
-    "parent": "171496",
-    "text": "Southern Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "1708131",
-    "parent": "171496",
-    "text": "Western Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "1708283",
-    "parent": "171496",
-    "text": "Kigali City",
-    "admin_level": "4"
-  },
-  {
-    "id": "1708298",
-    "parent": "171496",
-    "text": "Northern Province",
-    "admin_level": "4"
-  },
-  {
-    "id": "171655",
-    "parent": "171591",
-    "text": "Kirehe District",
-    "admin_level": "6"
-  },
-  {
-    "id": "171663",
-    "parent": "171591",
-    "text": "Bugesera District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711124",
-    "parent": "171591",
-    "text": "Nyagatare District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711131",
-    "parent": "171591",
-    "text": "Gatsibo District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711142",
-    "parent": "171591",
-    "text": "Rwamagana District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711163",
-    "parent": "171591",
-    "text": "Kayonza District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711167",
-    "parent": "171591",
-    "text": "Ngoma District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1707123",
-    "parent": "1707122",
-    "text": "Gisagara",
-    "admin_level": "6"
-  },
-  {
-    "id": "1707124",
-    "parent": "1707122",
-    "text": "Huye",
-    "admin_level": "6"
-  },
-  {
-    "id": "1707125",
-    "parent": "1707122",
-    "text": "Nyamagabe",
-    "admin_level": "6"
-  },
-  {
-    "id": "1707126",
-    "parent": "1707122",
-    "text": "Nyanza",
-    "admin_level": "6"
-  },
-  {
-    "id": "1707127",
-    "parent": "1707122",
-    "text": "Nyaruguru District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1730903",
-    "parent": "1707122",
-    "text": "Muhanga District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1730905",
-    "parent": "1707122",
-    "text": "Kamonyi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1730914",
-    "parent": "1707122",
-    "text": "Ruhango",
-    "admin_level": "6"
-  },
-  {
-    "id": "1708895",
-    "parent": "1708131",
-    "text": "Rusizi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1709854",
-    "parent": "1708131",
-    "text": "Nyamasheke",
-    "admin_level": "6"
-  },
-  {
-    "id": "1709867",
-    "parent": "1708131",
-    "text": "Karongi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711322",
-    "parent": "1708131",
-    "text": "Nyabihu",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711383",
-    "parent": "1708131",
-    "text": "Rubavu",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711391",
-    "parent": "1708131",
-    "text": "Rutsiro",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711949",
-    "parent": "1708131",
-    "text": "Ngororero",
-    "admin_level": "6"
-  },
-  {
-    "id": "3963721",
-    "parent": "1708283",
-    "text": "Kicukiro District",
-    "admin_level": "6"
-  },
-  {
-    "id": "3963733",
-    "parent": "1708283",
-    "text": "Gasabo District",
-    "admin_level": "6"
-  },
-  {
-    "id": "3963734",
-    "parent": "1708283",
-    "text": "Nyarugenge District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711187",
-    "parent": "1708298",
-    "text": "Musanze",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711192",
-    "parent": "1708298",
-    "text": "Gakenke",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711194",
-    "parent": "1708298",
-    "text": "Burera District",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711195",
-    "parent": "1708298",
-    "text": "Rulindo",
-    "admin_level": "6"
-  },
-  {
-    "id": "1711209",
-    "parent": "1708298",
-    "text": "Gicumbi",
-    "admin_level": "6"
-  },
-  {
-    "id": "1718810",
-    "parent": "1711124",
-    "text": "Gatunda",
+    "id": "1793060",
+    "parent": "1711195",
+    "text": "Base",
     "admin_level": "8"
   },
   {
-    "id": "1718811",
-    "parent": "1711124",
-    "text": "Karama",
+    "id": "3972564",
+    "parent": "1711322",
+    "text": "Bigogwe",
     "admin_level": "8"
   },
   {
-    "id": "1718812",
-    "parent": "1711124",
-    "text": "Karangazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718814",
-    "parent": "1711124",
-    "text": "Katabagemu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718817",
-    "parent": "1711124",
-    "text": "Kiyombe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718823",
-    "parent": "1711124",
-    "text": "Matimba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718826",
-    "parent": "1711124",
-    "text": "Mimuli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718829",
-    "parent": "1711124",
-    "text": "Mukama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718833",
-    "parent": "1711124",
-    "text": "Musheli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718836",
-    "parent": "1711124",
-    "text": "Nyagatare",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718840",
-    "parent": "1711124",
-    "text": "Rukomo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718844",
-    "parent": "1711124",
-    "text": "Rwempasha",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718847",
-    "parent": "1711124",
-    "text": "Rwimiyaga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1718848",
-    "parent": "1711124",
-    "text": "Tabagwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729832",
-    "parent": "1711131",
-    "text": "Nyagihanga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729834",
-    "parent": "1711131",
-    "text": "Ngarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730280",
-    "parent": "1711131",
-    "text": "Gasange",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730283",
-    "parent": "1711131",
-    "text": "Murambi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730284",
-    "parent": "1711131",
-    "text": "Kiramuruzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730290",
-    "parent": "1711131",
-    "text": "Kiziguro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730291",
-    "parent": "1711131",
-    "text": "Rugarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730295",
-    "parent": "1711131",
-    "text": "Muhura",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730296",
-    "parent": "1711131",
-    "text": "Remera",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730302",
-    "parent": "1711131",
-    "text": "Gatsibo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730303",
-    "parent": "1711131",
-    "text": "Kageyo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730309",
-    "parent": "1711131",
-    "text": "Gitoki",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730310",
-    "parent": "1711131",
-    "text": "Kabarore",
-    "admin_level": "8"
-  },
-  {
-    "id": "10311009",
-    "parent": "1711131",
-    "text": "Rwimbogo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727317",
-    "parent": "1707125",
-    "text": "Kitabi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963894",
-    "parent": "1707125",
-    "text": "Kameregi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963895",
-    "parent": "1707125",
-    "text": "Tare",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963896",
-    "parent": "1707125",
-    "text": "Uwinkingi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966062",
-    "parent": "1707125",
-    "text": "Cyanika",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966063",
-    "parent": "1707125",
-    "text": "Gasaka",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966064",
-    "parent": "1707125",
-    "text": "Musange",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966119",
-    "parent": "1707125",
-    "text": "Mugano",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966120",
-    "parent": "1707125",
-    "text": "Mushubi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966121",
-    "parent": "1707125",
-    "text": "Nkomane",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966131",
-    "parent": "1707125",
-    "text": "Buruhukiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966132",
-    "parent": "1707125",
-    "text": "Gatare",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966133",
-    "parent": "1707125",
-    "text": "Musebeya",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966161",
-    "parent": "1707125",
-    "text": "Kaduha",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966162",
-    "parent": "1707125",
-    "text": "Kibirizi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966163",
-    "parent": "1707125",
-    "text": "Kibumbwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966164",
-    "parent": "1707125",
-    "text": "Mbazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963650",
-    "parent": "1707127",
-    "text": "Busanze",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963651",
-    "parent": "1707127",
-    "text": "Cyahinda",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963652",
-    "parent": "1707127",
-    "text": "Ruheru",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963659",
-    "parent": "1707127",
-    "text": "Kibeho",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963660",
-    "parent": "1707127",
-    "text": "Ngoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963661",
-    "parent": "1707127",
-    "text": "Nyagisozi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963675",
-    "parent": "1707127",
-    "text": "Mata",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963676",
-    "parent": "1707127",
-    "text": "Ngera",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963677",
-    "parent": "1707127",
-    "text": "Ruramba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963678",
-    "parent": "1707127",
-    "text": "Rusenge",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963699",
-    "parent": "1707127",
-    "text": "Kivu",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963700",
-    "parent": "1707127",
-    "text": "Muganza",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963701",
-    "parent": "1707127",
-    "text": "Nyabimata",
-    "admin_level": "8"
-  },
-  {
-    "id": "3963705",
-    "parent": "1707127",
-    "text": "Munini",
-    "admin_level": "8"
-  },
-  {
-    "id": "1708673",
-    "parent": "1708895",
-    "text": "Nzahaha",
+    "id": "3969631",
+    "parent": "1711391",
+    "text": "Boneza",
     "admin_level": "8"
   },
   {
@@ -576,99 +24,69 @@
     "admin_level": "8"
   },
   {
-    "id": "1708680",
-    "parent": "1708895",
-    "text": "Rwimbogo",
+    "id": "171663",
+    "parent": "171591",
+    "text": "Bugesera District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2281187",
+    "parent": "1711383",
+    "text": "Bugushi",
     "admin_level": "8"
   },
   {
-    "id": "1708775",
-    "parent": "1708895",
-    "text": "Muganza",
+    "id": "1793993",
+    "parent": "1711209",
+    "text": "Bukure",
     "admin_level": "8"
   },
   {
-    "id": "1708813",
-    "parent": "1708895",
-    "text": "Gikundamvura",
+    "id": "1738770",
+    "parent": "1711194",
+    "text": "Bungwe",
     "admin_level": "8"
   },
   {
-    "id": "1708814",
-    "parent": "1708895",
-    "text": "Gitambi",
+    "id": "1793019",
+    "parent": "1711195",
+    "text": "Burega",
     "admin_level": "8"
   },
   {
-    "id": "1708827",
-    "parent": "1708895",
-    "text": "Gashonga",
+    "id": "1711194",
+    "parent": "1708298",
+    "text": "Burera District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3966131",
+    "parent": "1707125",
+    "text": "Buruhukiro",
     "admin_level": "8"
   },
   {
-    "id": "1744248",
-    "parent": "1708895",
-    "text": "Giheke",
+    "id": "2281188",
+    "parent": "1711383",
+    "text": "Busamana",
     "admin_level": "8"
   },
   {
-    "id": "1744249",
-    "parent": "1708895",
-    "text": "Gihundwe",
+    "id": "3963650",
+    "parent": "1707127",
+    "text": "Busanze",
     "admin_level": "8"
   },
   {
-    "id": "1744250",
-    "parent": "1708895",
-    "text": "Nkanka",
+    "id": "1730872",
+    "parent": "1707126",
+    "text": "Busasamana",
     "admin_level": "8"
   },
   {
-    "id": "1744251",
-    "parent": "1708895",
-    "text": "Nkombo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1744268",
-    "parent": "1708895",
-    "text": "Kamembe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1744269",
-    "parent": "1708895",
-    "text": "Mururu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1746349",
-    "parent": "1708895",
-    "text": "Butare",
-    "admin_level": "8"
-  },
-  {
-    "id": "1746350",
-    "parent": "1708895",
-    "text": "Bweyeye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1746351",
-    "parent": "1708895",
-    "text": "Nkungu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1746352",
-    "parent": "1708895",
-    "text": "Nyakabuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1746353",
-    "parent": "1708895",
-    "text": "Nyakarenzo",
+    "id": "1755774",
+    "parent": "1711192",
+    "text": "Busengo",
     "admin_level": "8"
   },
   {
@@ -684,897 +102,9 @@
     "admin_level": "8"
   },
   {
-    "id": "3972682",
-    "parent": "1709854",
-    "text": "Cyato",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973069",
-    "parent": "1709854",
-    "text": "Gihombo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973070",
-    "parent": "1709854",
-    "text": "Kagano",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973071",
-    "parent": "1709854",
-    "text": "Kanjongo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973094",
-    "parent": "1709854",
-    "text": "Karambi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973095",
-    "parent": "1709854",
-    "text": "Karengera",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973096",
-    "parent": "1709854",
-    "text": "Kirimbi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973100",
-    "parent": "1709854",
-    "text": "Macuba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973101",
-    "parent": "1709854",
-    "text": "Mahembe",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973102",
-    "parent": "1709854",
-    "text": "Nyabitekeri",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973124",
-    "parent": "1709854",
-    "text": "Rangiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973125",
-    "parent": "1709854",
-    "text": "Ruharambuga",
-    "admin_level": "8"
-  },
-  {
-    "id": "3973126",
-    "parent": "1709854",
-    "text": "Shangi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820419",
-    "parent": "1709867",
-    "text": "Rubengera",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820429",
-    "parent": "1709867",
-    "text": "Bwishyura",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820430",
-    "parent": "1709867",
-    "text": "Gishyiata",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820431",
-    "parent": "1709867",
-    "text": "Mubuga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820432",
-    "parent": "1709867",
-    "text": "Twumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820433",
-    "parent": "1709867",
-    "text": "Mutuntu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820461",
-    "parent": "1709867",
-    "text": "Gitesi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820462",
-    "parent": "1709867",
-    "text": "Rwankuba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820465",
-    "parent": "1709867",
-    "text": "Gashari",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820466",
-    "parent": "1709867",
-    "text": "Murambi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820467",
-    "parent": "1709867",
-    "text": "Ruganda",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820471",
-    "parent": "1709867",
-    "text": "Murundi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820472",
-    "parent": "1709867",
-    "text": "Rugabano",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727596",
-    "parent": "171663",
-    "text": "Rweru",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727703",
-    "parent": "171663",
-    "text": "Rilima",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727716",
-    "parent": "171663",
-    "text": "Juru",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727935",
-    "parent": "171663",
-    "text": "Ntarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727938",
-    "parent": "171663",
-    "text": "Mwogo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727940",
-    "parent": "171663",
-    "text": "Gashora",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727980",
-    "parent": "171663",
-    "text": "Nyarungenge",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728583",
-    "parent": "171663",
-    "text": "Shyara",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728610",
-    "parent": "171663",
-    "text": "Mareba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728614",
-    "parent": "171663",
-    "text": "Ruhuha",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728616",
-    "parent": "171663",
-    "text": "Kamabuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728617",
-    "parent": "171663",
-    "text": "Ngeruka",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728624",
-    "parent": "171663",
-    "text": "Mayange",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728625",
-    "parent": "171663",
-    "text": "Musenyi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952506",
-    "parent": "171663",
-    "text": "Nyamata",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729864",
-    "parent": "1707123",
-    "text": "Kigembe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729865",
-    "parent": "1707123",
-    "text": "Nyanza",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729923",
-    "parent": "1707123",
-    "text": "Kansi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729924",
-    "parent": "1707123",
-    "text": "Mugombwa",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729927",
-    "parent": "1707123",
-    "text": "Muganza",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729928",
-    "parent": "1707123",
-    "text": "Mukindo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729958",
-    "parent": "1707123",
-    "text": "Gishubi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729959",
-    "parent": "1707123",
-    "text": "Kibilizi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729974",
-    "parent": "1707123",
-    "text": "Ndora",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729985",
-    "parent": "1707123",
-    "text": "Save",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729993",
-    "parent": "1707123",
-    "text": "Musha",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729997",
-    "parent": "1707123",
-    "text": "Gikonko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729998",
-    "parent": "1707123",
-    "text": "Mamba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730872",
-    "parent": "1707126",
-    "text": "Busasamana",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730873",
-    "parent": "1707126",
-    "text": "Cyabakamyi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730874",
-    "parent": "1707126",
-    "text": "Mekingo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730875",
-    "parent": "1707126",
-    "text": "Rwabicuma",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730891",
-    "parent": "1707126",
-    "text": "Busoro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730892",
-    "parent": "1707126",
-    "text": "Kibirizi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730893",
-    "parent": "1707126",
-    "text": "Kigoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730894",
-    "parent": "1707126",
-    "text": "Muyira",
-    "admin_level": "8"
-  },
-  {
-    "id": "1730895",
-    "parent": "1707126",
-    "text": "Ntyazo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1741178",
-    "parent": "1707126",
-    "text": "Nyagisozi",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852670",
-    "parent": "1711949",
-    "text": "Gatumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852671",
-    "parent": "1711949",
-    "text": "Nyange",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852702",
-    "parent": "1711949",
-    "text": "Bwira",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852703",
-    "parent": "1711949",
-    "text": "Ndaro",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852704",
-    "parent": "1711949",
-    "text": "Suvo",
-    "admin_level": "8"
-  },
-  {
-    "id": "2852712",
-    "parent": "1711949",
-    "text": "Muhororo",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853860",
-    "parent": "1711949",
-    "text": "Hindiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853861",
-    "parent": "1711949",
-    "text": "Kabaya",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853862",
-    "parent": "1711949",
-    "text": "Kageyo",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853863",
-    "parent": "1711949",
-    "text": "Kavumu",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853864",
-    "parent": "1711949",
-    "text": "Matyazo",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853865",
-    "parent": "1711949",
-    "text": "Muhanda",
-    "admin_level": "8"
-  },
-  {
-    "id": "2853866",
-    "parent": "1711949",
-    "text": "Ngororero",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714304",
-    "parent": "1730903",
-    "text": "Kibangu",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952170",
-    "parent": "1730903",
-    "text": "Rugendabari",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952178",
-    "parent": "1730903",
-    "text": "Nyabinoni",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952179",
-    "parent": "1730903",
-    "text": "Rongi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952342",
-    "parent": "1730903",
-    "text": "Kiyumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952364",
-    "parent": "1730903",
-    "text": "Cyeza",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952365",
-    "parent": "1730903",
-    "text": "Kabacuzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952366",
-    "parent": "1730903",
-    "text": "Muhanga",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952367",
-    "parent": "1730903",
-    "text": "Mushishiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952383",
-    "parent": "1730903",
-    "text": "Shyogwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952384",
-    "parent": "1730903",
-    "text": "Nyarusange",
-    "admin_level": "8"
-  },
-  {
-    "id": "3975165",
-    "parent": "1730903",
-    "text": "Nyamabuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952434",
-    "parent": "1730905",
-    "text": "Mugina",
-    "admin_level": "8"
-  },
-  {
-    "id": "3953742",
-    "parent": "1730905",
-    "text": "Musambira",
-    "admin_level": "8"
-  },
-  {
-    "id": "3953743",
-    "parent": "1730905",
-    "text": "Nyamiyaga",
-    "admin_level": "8"
-  },
-  {
-    "id": "3953744",
-    "parent": "1730905",
-    "text": "Nyarubaka",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954861",
-    "parent": "1730905",
-    "text": "Karama",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954862",
-    "parent": "1730905",
-    "text": "Kayemzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954863",
-    "parent": "1730905",
-    "text": "Kayumbu",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954921",
-    "parent": "1730905",
-    "text": "Ngamba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954975",
-    "parent": "1730905",
-    "text": "Rukoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954976",
-    "parent": "1730905",
-    "text": "Runda",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954985",
-    "parent": "1730905",
-    "text": "Gacurabwenge",
-    "admin_level": "8"
-  },
-  {
-    "id": "3954986",
-    "parent": "1730905",
-    "text": "Rugalika",
-    "admin_level": "8"
-  },
-  {
-    "id": "1741189",
-    "parent": "1730914",
-    "text": "Kabagali",
-    "admin_level": "8"
-  },
-  {
-    "id": "1741190",
-    "parent": "1730914",
-    "text": "Kinihira",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952399",
-    "parent": "1730914",
-    "text": "Mwendo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952400",
-    "parent": "1730914",
-    "text": "Ruhango",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952403",
-    "parent": "1730914",
-    "text": "Kinazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952404",
-    "parent": "1730914",
-    "text": "Ntongwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952422",
-    "parent": "1730914",
-    "text": "Byimana",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952423",
-    "parent": "1730914",
-    "text": "Mbuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952424",
-    "parent": "1730914",
-    "text": "Bwerama",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952118",
-    "parent": "1707124",
-    "text": "Gishamvu",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952119",
-    "parent": "1707124",
-    "text": "Mukura",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952120",
-    "parent": "1707124",
-    "text": "Tumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952122",
-    "parent": "1707124",
-    "text": "Karama",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952123",
-    "parent": "1707124",
-    "text": "Ngoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952124",
-    "parent": "1707124",
-    "text": "Huye",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952126",
-    "parent": "1707124",
-    "text": "Maraba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952147",
-    "parent": "1707124",
-    "text": "Kigoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952148",
-    "parent": "1707124",
-    "text": "Mbazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952156",
-    "parent": "1707124",
-    "text": "Ruhashya",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952157",
-    "parent": "1707124",
-    "text": "Rwaniro",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952158",
-    "parent": "1707124",
-    "text": "Simbi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952162",
-    "parent": "1707124",
-    "text": "Kinazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3952163",
-    "parent": "1707124",
-    "text": "Rusatira",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966208",
-    "parent": "1711391",
-    "text": "Kigeyo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966209",
-    "parent": "1711391",
-    "text": "Kivumu",
-    "admin_level": "8"
-  },
-  {
-    "id": "3966210",
-    "parent": "1711391",
-    "text": "Mushonyi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969631",
-    "parent": "1711391",
-    "text": "Boneza",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969632",
-    "parent": "1711391",
-    "text": "Musasa",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969633",
-    "parent": "1711391",
-    "text": "Nyabirasi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969634",
-    "parent": "1711391",
-    "text": "Ruhango",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969655",
-    "parent": "1711391",
-    "text": "Gihango",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969656",
-    "parent": "1711391",
-    "text": "Manihira",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969657",
-    "parent": "1711391",
-    "text": "Mushubati",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969669",
-    "parent": "1711391",
-    "text": "Mukura",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969670",
-    "parent": "1711391",
-    "text": "Murunda",
-    "admin_level": "8"
-  },
-  {
-    "id": "3969671",
-    "parent": "1711391",
-    "text": "Rusebeya",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281152",
-    "parent": "1711383",
-    "text": "Cyanyarwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281154",
-    "parent": "1711383",
-    "text": "Nyundo",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281155",
-    "parent": "1711383",
-    "text": "Rubavu",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281156",
-    "parent": "1711383",
-    "text": "Rugerero",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281187",
-    "parent": "1711383",
-    "text": "Bugushi",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281188",
-    "parent": "1711383",
-    "text": "Busamana",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281189",
-    "parent": "1711383",
-    "text": "Kanama",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281190",
-    "parent": "1711383",
-    "text": "Kanzenze",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281191",
-    "parent": "1711383",
-    "text": "Mudende",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281192",
-    "parent": "1711383",
-    "text": "Nyakiliba",
-    "admin_level": "8"
-  },
-  {
-    "id": "2281193",
-    "parent": "1711383",
-    "text": "Nyayumba",
-    "admin_level": "8"
-  },
-  {
-    "id": "16361593",
-    "parent": "1711383",
-    "text": "Gisenyi",
+    "id": "1793061",
+    "parent": "1711195",
+    "text": "Bushoki",
     "admin_level": "8"
   },
   {
@@ -1584,207 +114,15 @@
     "admin_level": "8"
   },
   {
-    "id": "1756035",
-    "parent": "1711187",
-    "text": "Cyuve",
+    "id": "1730891",
+    "parent": "1707126",
+    "text": "Busoro",
     "admin_level": "8"
   },
   {
-    "id": "1756036",
-    "parent": "1711187",
-    "text": "Gataraga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756037",
-    "parent": "1711187",
-    "text": "Kinigi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756038",
-    "parent": "1711187",
-    "text": "Nyange",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756039",
-    "parent": "1711187",
-    "text": "Shingiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756500",
-    "parent": "1711187",
-    "text": "Gagaca",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756501",
-    "parent": "1711187",
-    "text": "Gashaki",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756502",
-    "parent": "1711187",
-    "text": "Muko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756503",
-    "parent": "1711187",
-    "text": "Nkotsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756504",
-    "parent": "1711187",
-    "text": "Remera",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756505",
-    "parent": "1711187",
-    "text": "Rwaza",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756509",
-    "parent": "1711187",
-    "text": "Kimonyi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756510",
-    "parent": "1711187",
-    "text": "Muhoza",
-    "admin_level": "8"
-  },
-  {
-    "id": "1756511",
-    "parent": "1711187",
-    "text": "Musanze",
-    "admin_level": "8"
-  },
-  {
-    "id": "1751828",
-    "parent": "1711192",
-    "text": "Muhondo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755733",
-    "parent": "1711192",
-    "text": "Coko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755734",
-    "parent": "1711192",
-    "text": "Minazi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755735",
-    "parent": "1711192",
-    "text": "Ruli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755741",
-    "parent": "1711192",
-    "text": "Mataba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755762",
-    "parent": "1711192",
-    "text": "Gatonde",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755763",
-    "parent": "1711192",
-    "text": "Janja",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755764",
-    "parent": "1711192",
-    "text": "Muzo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755765",
-    "parent": "1711192",
-    "text": "Rusasa",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755774",
-    "parent": "1711192",
-    "text": "Busengo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755775",
-    "parent": "1711192",
-    "text": "Cyabingo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755776",
-    "parent": "1711192",
-    "text": "Kivuruga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755869",
-    "parent": "1711192",
-    "text": "Gakenke",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755870",
-    "parent": "1711192",
-    "text": "Gashenyi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755871",
-    "parent": "1711192",
-    "text": "Kamubuga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755872",
-    "parent": "1711192",
-    "text": "Karambo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755873",
-    "parent": "1711192",
-    "text": "Muyongwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755874",
-    "parent": "1711192",
-    "text": "Nemba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1755875",
-    "parent": "1711192",
-    "text": "Rushashi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714332",
-    "parent": "1711194",
-    "text": "Cyanika",
+    "id": "1746349",
+    "parent": "1708895",
+    "text": "Butare",
     "admin_level": "8"
   },
   {
@@ -1794,225 +132,33 @@
     "admin_level": "8"
   },
   {
-    "id": "1736839",
-    "parent": "1711194",
-    "text": "Kagogo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736840",
-    "parent": "1711194",
-    "text": "Kinyaba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736854",
-    "parent": "1711194",
-    "text": "Rusarabuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1737412",
-    "parent": "1711194",
-    "text": "Gahunga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1737413",
-    "parent": "1711194",
-    "text": "Kinoni",
-    "admin_level": "8"
-  },
-  {
-    "id": "1737414",
-    "parent": "1711194",
-    "text": "Rugarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738766",
-    "parent": "1711194",
-    "text": "Rugengabari",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738770",
-    "parent": "1711194",
-    "text": "Bungwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738771",
-    "parent": "1711194",
-    "text": "Gatabe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738772",
-    "parent": "1711194",
-    "text": "Gitovu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738773",
-    "parent": "1711194",
-    "text": "Nemba",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738774",
-    "parent": "1711194",
-    "text": "Kivuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738781",
-    "parent": "1711194",
-    "text": "Ruhunde",
-    "admin_level": "8"
-  },
-  {
-    "id": "1738782",
-    "parent": "1711194",
-    "text": "Rwerere",
-    "admin_level": "8"
-  },
-  {
-    "id": "19570897",
-    "parent": "1711194",
-    "text": "Cyeru",
-    "admin_level": "8"
-  },
-  {
-    "id": "1792251",
-    "parent": "1711195",
-    "text": "Rusiga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1792252",
-    "parent": "1711195",
-    "text": "Shyorongi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1792996",
-    "parent": "1711195",
-    "text": "Mbogo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1792997",
-    "parent": "1711195",
-    "text": "Ngoma",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793019",
-    "parent": "1711195",
-    "text": "Burega",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793020",
-    "parent": "1711195",
-    "text": "Cyinzuzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793021",
-    "parent": "1711195",
-    "text": "Masoro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793022",
-    "parent": "1711195",
-    "text": "Murambi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793023",
-    "parent": "1711195",
-    "text": "Natarabana",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793060",
-    "parent": "1711195",
-    "text": "Base",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793061",
-    "parent": "1711195",
-    "text": "Bushoki",
-    "admin_level": "8"
-  },
-  {
     "id": "1793062",
     "parent": "1711195",
     "text": "Buyoga",
     "admin_level": "8"
   },
   {
-    "id": "1793063",
-    "parent": "1711195",
-    "text": "Kisaro",
+    "id": "3952424",
+    "parent": "1730914",
+    "text": "Bwerama",
     "admin_level": "8"
   },
   {
-    "id": "1793064",
-    "parent": "1711195",
-    "text": "Tumba",
+    "id": "1746350",
+    "parent": "1708895",
+    "text": "Bweyeye",
     "admin_level": "8"
   },
   {
-    "id": "1793072",
-    "parent": "1711195",
-    "text": "Cyungo",
+    "id": "2852702",
+    "parent": "1711949",
+    "text": "Bwira",
     "admin_level": "8"
   },
   {
-    "id": "1793073",
-    "parent": "1711195",
-    "text": "Kinihira",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793074",
-    "parent": "1711195",
-    "text": "Rukozo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793993",
-    "parent": "1711209",
-    "text": "Bukure",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793994",
-    "parent": "1711209",
-    "text": "Giti",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793995",
-    "parent": "1711209",
-    "text": "Mutete",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793996",
-    "parent": "1711209",
-    "text": "Rutare",
-    "admin_level": "8"
-  },
-  {
-    "id": "1793997",
-    "parent": "1711209",
-    "text": "Rwamiko",
+    "id": "1820429",
+    "parent": "1709867",
+    "text": "Bwishyura",
     "admin_level": "8"
   },
   {
@@ -2022,27 +168,9 @@
     "admin_level": "8"
   },
   {
-    "id": "1796129",
-    "parent": "1711209",
-    "text": "Kageyo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796130",
-    "parent": "1711209",
-    "text": "Rukomo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796131",
-    "parent": "1711209",
-    "text": "Rushaki",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796132",
-    "parent": "1711209",
-    "text": "Shangasha",
+    "id": "3952422",
+    "parent": "1730914",
+    "text": "Byimana",
     "admin_level": "8"
   },
   {
@@ -2052,267 +180,111 @@
     "admin_level": "8"
   },
   {
+    "id": "1755733",
+    "parent": "1711192",
+    "text": "Coko",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730873",
+    "parent": "1707126",
+    "text": "Cyabakamyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755775",
+    "parent": "1711192",
+    "text": "Cyabingo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963651",
+    "parent": "1707127",
+    "text": "Cyahinda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966062",
+    "parent": "1707125",
+    "text": "Cyanika",
+    "admin_level": "8"
+  },
+  {
+    "id": "1714332",
+    "parent": "1711194",
+    "text": "Cyanika",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281152",
+    "parent": "1711383",
+    "text": "Cyanyarwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972682",
+    "parent": "1709854",
+    "text": "Cyato",
+    "admin_level": "8"
+  },
+  {
+    "id": "19570897",
+    "parent": "1711194",
+    "text": "Cyeru",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952364",
+    "parent": "1730903",
+    "text": "Cyeza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793020",
+    "parent": "1711195",
+    "text": "Cyinzuzi",
+    "admin_level": "8"
+  },
+  {
     "id": "1796175",
     "parent": "1711209",
     "text": "Cyumba",
     "admin_level": "8"
   },
   {
-    "id": "1796176",
-    "parent": "1711209",
-    "text": "Kaniga",
+    "id": "1793072",
+    "parent": "1711195",
+    "text": "Cyungo",
     "admin_level": "8"
   },
   {
-    "id": "1796177",
-    "parent": "1711209",
-    "text": "Manyagiro",
+    "id": "1756035",
+    "parent": "1711187",
+    "text": "Cyuve",
     "admin_level": "8"
   },
   {
-    "id": "1796178",
-    "parent": "1711209",
-    "text": "Miyove",
+    "id": "171591",
+    "parent": "171496",
+    "text": "Eastern Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1729742",
+    "parent": "1711142",
+    "text": "Fumbwe",
     "admin_level": "8"
   },
   {
-    "id": "1796179",
-    "parent": "1711209",
-    "text": "Mukarange",
+    "id": "3954985",
+    "parent": "1730905",
+    "text": "Gacurabwenge",
     "admin_level": "8"
   },
   {
-    "id": "1796180",
-    "parent": "1711209",
-    "text": "Nyankenke",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796181",
-    "parent": "1711209",
-    "text": "Rubaya",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796184",
-    "parent": "1711209",
-    "text": "Muko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796185",
-    "parent": "1711209",
-    "text": "Nyamiyaga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1796186",
-    "parent": "1711209",
-    "text": "Ruvune",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972564",
-    "parent": "1711322",
-    "text": "Bigogwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972565",
-    "parent": "1711322",
-    "text": "Jenda",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972566",
-    "parent": "1711322",
-    "text": "Kabatwa",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972580",
-    "parent": "1711322",
-    "text": "Jomba",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972581",
-    "parent": "1711322",
-    "text": "Karago",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972582",
-    "parent": "1711322",
-    "text": "Kintobo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972608",
-    "parent": "1711322",
-    "text": "Mukamira",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972609",
-    "parent": "1711322",
-    "text": "Muringa",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972610",
-    "parent": "1711322",
-    "text": "Rambura",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972630",
-    "parent": "1711322",
-    "text": "Rugera",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972631",
-    "parent": "1711322",
-    "text": "Rurembo",
-    "admin_level": "8"
-  },
-  {
-    "id": "3972632",
-    "parent": "1711322",
-    "text": "Shyira",
-    "admin_level": "8"
-  },
-  {
-    "id": "16068485",
-    "parent": "3963734",
-    "text": "Kimisagara",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715240",
-    "parent": "1711163",
-    "text": "Ndego",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715255",
-    "parent": "1711163",
-    "text": "Kabare",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715256",
-    "parent": "1711163",
-    "text": "Murama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715257",
-    "parent": "1711163",
-    "text": "Rwinkwavu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715270",
-    "parent": "1711163",
-    "text": "Kabarondo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715271",
-    "parent": "1711163",
-    "text": "Nyamirama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1715272",
-    "parent": "1711163",
-    "text": "Ruramira",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729790",
-    "parent": "1711163",
-    "text": "Mukarange",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729798",
-    "parent": "1711163",
-    "text": "Murundi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729800",
-    "parent": "1711163",
-    "text": "Mwiri",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729805",
-    "parent": "1711163",
-    "text": "Gahini",
-    "admin_level": "8"
-  },
-  {
-    "id": "4095223",
-    "parent": "1711163",
-    "text": "Rukara",
-    "admin_level": "8"
-  },
-  {
-    "id": "4095226",
-    "parent": "1711163",
-    "text": "Karambi",
-    "admin_level": "8"
-  },
-  {
-    "id": "4095232",
-    "parent": "1711163",
-    "text": "Murundi",
-    "admin_level": "8"
-  },
-  {
-    "id": "4095237",
-    "parent": "1711163",
-    "text": "Ryamanyoni",
-    "admin_level": "8"
-  },
-  {
-    "id": "4095238",
-    "parent": "1711163",
-    "text": "Urugarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714344",
-    "parent": "171655",
-    "text": "Mahama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714350",
-    "parent": "171655",
-    "text": "Mpanga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714360",
-    "parent": "171655",
-    "text": "Nyarubuye",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714377",
-    "parent": "171655",
-    "text": "Kigarama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1714379",
-    "parent": "171655",
-    "text": "Nyamugali",
+    "id": "1756500",
+    "parent": "1711187",
+    "text": "Gagaca",
     "admin_level": "8"
   },
   {
@@ -2322,93 +294,201 @@
     "admin_level": "8"
   },
   {
-    "id": "1716714",
-    "parent": "171655",
-    "text": "Gatore",
-    "admin_level": "8"
-  },
-  {
-    "id": "1716715",
-    "parent": "171655",
-    "text": "Kirehe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1716781",
-    "parent": "171655",
-    "text": "Kigina",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727569",
-    "parent": "171655",
-    "text": "Musaza",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727581",
-    "parent": "171655",
-    "text": "Mushikiri",
-    "admin_level": "8"
-  },
-  {
-    "id": "1727585",
-    "parent": "171655",
-    "text": "Nasho",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728634",
-    "parent": "1711142",
-    "text": "Nykariro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1728776",
-    "parent": "1711142",
-    "text": "Karenge",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729117",
-    "parent": "1711142",
-    "text": "Munyaga",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729118",
-    "parent": "1711142",
-    "text": "Rubona",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729119",
-    "parent": "1711142",
-    "text": "Nzige",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729742",
-    "parent": "1711142",
-    "text": "Fumbwe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1729748",
-    "parent": "1711142",
-    "text": "Musha",
-    "admin_level": "8"
-  },
-  {
     "id": "1729754",
     "parent": "1711142",
     "text": "Gahengeri",
     "admin_level": "8"
   },
   {
-    "id": "1729758",
-    "parent": "1711142",
-    "text": "Munyiginya",
+    "id": "1729805",
+    "parent": "1711163",
+    "text": "Gahini",
+    "admin_level": "8"
+  },
+  {
+    "id": "1737412",
+    "parent": "1711194",
+    "text": "Gahunga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711192",
+    "parent": "1708298",
+    "text": "Gakenke",
+    "admin_level": "6"
+  },
+  {
+    "id": "1755869",
+    "parent": "1711192",
+    "text": "Gakenke",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963733",
+    "parent": "1708283",
+    "text": "Gasabo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3966063",
+    "parent": "1707125",
+    "text": "Gasaka",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730280",
+    "parent": "1711131",
+    "text": "Gasange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756501",
+    "parent": "1711187",
+    "text": "Gashaki",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727496",
+    "parent": "1711167",
+    "text": "Gashanda",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820465",
+    "parent": "1709867",
+    "text": "Gashari",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755870",
+    "parent": "1711192",
+    "text": "Gashenyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708827",
+    "parent": "1708895",
+    "text": "Gashonga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727940",
+    "parent": "171663",
+    "text": "Gashora",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738771",
+    "parent": "1711194",
+    "text": "Gatabe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756036",
+    "parent": "1711187",
+    "text": "Gataraga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966132",
+    "parent": "1707125",
+    "text": "Gatare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755762",
+    "parent": "1711192",
+    "text": "Gatonde",
+    "admin_level": "8"
+  },
+  {
+    "id": "1716714",
+    "parent": "171655",
+    "text": "Gatore",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730302",
+    "parent": "1711131",
+    "text": "Gatsibo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711131",
+    "parent": "171591",
+    "text": "Gatsibo District",
+    "admin_level": "6"
+  },
+  {
+    "id": "2852670",
+    "parent": "1711949",
+    "text": "Gatumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718810",
+    "parent": "1711124",
+    "text": "Gatunda",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711209",
+    "parent": "1708298",
+    "text": "Gicumbi",
+    "admin_level": "6"
+  },
+  {
+    "id": "3969655",
+    "parent": "1711391",
+    "text": "Gihango",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744248",
+    "parent": "1708895",
+    "text": "Giheke",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973069",
+    "parent": "1709854",
+    "text": "Gihombo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744249",
+    "parent": "1708895",
+    "text": "Gihundwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729997",
+    "parent": "1707123",
+    "text": "Gikonko",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708813",
+    "parent": "1708895",
+    "text": "Gikundamvura",
+    "admin_level": "8"
+  },
+  {
+    "id": "1707123",
+    "parent": "1707122",
+    "text": "Gisagara",
+    "admin_level": "6"
+  },
+  {
+    "id": "16361593",
+    "parent": "1711383",
+    "text": "Gisenyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952118",
+    "parent": "1707124",
+    "text": "Gishamvu",
     "admin_level": "8"
   },
   {
@@ -2418,27 +498,69 @@
     "admin_level": "8"
   },
   {
-    "id": "1729768",
-    "parent": "1711142",
-    "text": "Muhazi",
+    "id": "1729958",
+    "parent": "1707123",
+    "text": "Gishubi",
     "admin_level": "8"
   },
   {
-    "id": "1729773",
-    "parent": "1711142",
-    "text": "Kigabiro",
+    "id": "1820430",
+    "parent": "1709867",
+    "text": "Gishyiata",
     "admin_level": "8"
   },
   {
-    "id": "1729778",
-    "parent": "1711142",
-    "text": "Muyumba",
+    "id": "1708814",
+    "parent": "1708895",
+    "text": "Gitambi",
     "admin_level": "8"
   },
   {
-    "id": "1729785",
-    "parent": "1711142",
-    "text": "Mwulire",
+    "id": "1820461",
+    "parent": "1709867",
+    "text": "Gitesi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793994",
+    "parent": "1711209",
+    "text": "Giti",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730309",
+    "parent": "1711131",
+    "text": "Gitoki",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738772",
+    "parent": "1711194",
+    "text": "Gitovu",
+    "admin_level": "8"
+  },
+  {
+    "id": "2853860",
+    "parent": "1711949",
+    "text": "Hindiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1707124",
+    "parent": "1707122",
+    "text": "Huye",
+    "admin_level": "6"
+  },
+  {
+    "id": "3952124",
+    "parent": "1707124",
+    "text": "Huye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755763",
+    "parent": "1711192",
+    "text": "Janja",
     "admin_level": "8"
   },
   {
@@ -2448,15 +570,207 @@
     "admin_level": "8"
   },
   {
-    "id": "1716801",
-    "parent": "1711167",
-    "text": "Mutender",
+    "id": "3972565",
+    "parent": "1711322",
+    "text": "Jenda",
     "admin_level": "8"
   },
   {
-    "id": "1716820",
-    "parent": "1711167",
-    "text": "Sake",
+    "id": "3972580",
+    "parent": "1711322",
+    "text": "Jomba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727716",
+    "parent": "171663",
+    "text": "Juru",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952365",
+    "parent": "1730903",
+    "text": "Kabacuzi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1741189",
+    "parent": "1730914",
+    "text": "Kabagali",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715255",
+    "parent": "1711163",
+    "text": "Kabare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715270",
+    "parent": "1711163",
+    "text": "Kabarondo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730310",
+    "parent": "1711131",
+    "text": "Kabarore",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972566",
+    "parent": "1711322",
+    "text": "Kabatwa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2853861",
+    "parent": "1711949",
+    "text": "Kabaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966161",
+    "parent": "1707125",
+    "text": "Kaduha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973070",
+    "parent": "1709854",
+    "text": "Kagano",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730303",
+    "parent": "1711131",
+    "text": "Kageyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2853862",
+    "parent": "1711949",
+    "text": "Kageyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796129",
+    "parent": "1711209",
+    "text": "Kageyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1736839",
+    "parent": "1711194",
+    "text": "Kagogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728616",
+    "parent": "171663",
+    "text": "Kamabuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744268",
+    "parent": "1708895",
+    "text": "Kamembe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963894",
+    "parent": "1707125",
+    "text": "Kameregi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730905",
+    "parent": "1707122",
+    "text": "Kamonyi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1755871",
+    "parent": "1711192",
+    "text": "Kamubuga",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281189",
+    "parent": "1711383",
+    "text": "Kanama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796176",
+    "parent": "1711209",
+    "text": "Kaniga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973071",
+    "parent": "1709854",
+    "text": "Kanjongo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729923",
+    "parent": "1707123",
+    "text": "Kansi",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281190",
+    "parent": "1711383",
+    "text": "Kanzenze",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972581",
+    "parent": "1711322",
+    "text": "Karago",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718811",
+    "parent": "1711124",
+    "text": "Karama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3954861",
+    "parent": "1730905",
+    "text": "Karama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952122",
+    "parent": "1707124",
+    "text": "Karama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973094",
+    "parent": "1709854",
+    "text": "Karambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4095226",
+    "parent": "1711163",
+    "text": "Karambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755872",
+    "parent": "1711192",
+    "text": "Karambo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718812",
+    "parent": "1711124",
+    "text": "Karangazi",
     "admin_level": "8"
   },
   {
@@ -2466,45 +780,51 @@
     "admin_level": "8"
   },
   {
-    "id": "1717053",
-    "parent": "1711167",
-    "text": "Mugesera",
+    "id": "1728776",
+    "parent": "1711142",
+    "text": "Karenge",
     "admin_level": "8"
   },
   {
-    "id": "1717054",
-    "parent": "1711167",
-    "text": "Rukumberi",
+    "id": "3973095",
+    "parent": "1709854",
+    "text": "Karengera",
     "admin_level": "8"
   },
   {
-    "id": "1717055",
-    "parent": "1711167",
-    "text": "Zaza",
+    "id": "1709867",
+    "parent": "1708131",
+    "text": "Karongi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1718814",
+    "parent": "1711124",
+    "text": "Katabagemu",
     "admin_level": "8"
   },
   {
-    "id": "1719024",
-    "parent": "1711167",
-    "text": "Remera",
+    "id": "2853863",
+    "parent": "1711949",
+    "text": "Kavumu",
     "admin_level": "8"
   },
   {
-    "id": "1719025",
-    "parent": "1711167",
-    "text": "Rurenge",
+    "id": "3954862",
+    "parent": "1730905",
+    "text": "Kayemzi",
     "admin_level": "8"
   },
   {
-    "id": "1719026",
-    "parent": "1711167",
-    "text": "Kibungo",
-    "admin_level": "8"
+    "id": "1711163",
+    "parent": "171591",
+    "text": "Kayonza District",
+    "admin_level": "6"
   },
   {
-    "id": "1719035",
-    "parent": "1711167",
-    "text": "Murama",
+    "id": "3954863",
+    "parent": "1730905",
+    "text": "Kayumbu",
     "admin_level": "8"
   },
   {
@@ -2514,15 +834,1695 @@
     "admin_level": "8"
   },
   {
+    "id": "1714304",
+    "parent": "1730903",
+    "text": "Kibangu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963659",
+    "parent": "1707127",
+    "text": "Kibeho",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729959",
+    "parent": "1707123",
+    "text": "Kibilizi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966162",
+    "parent": "1707125",
+    "text": "Kibirizi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730892",
+    "parent": "1707126",
+    "text": "Kibirizi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966163",
+    "parent": "1707125",
+    "text": "Kibumbwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1719026",
+    "parent": "1711167",
+    "text": "Kibungo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963721",
+    "parent": "1708283",
+    "text": "Kicukiro District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1729773",
+    "parent": "1711142",
+    "text": "Kigabiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708283",
+    "parent": "171496",
+    "text": "Kigali City",
+    "admin_level": "4"
+  },
+  {
+    "id": "1714377",
+    "parent": "171655",
+    "text": "Kigarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729864",
+    "parent": "1707123",
+    "text": "Kigembe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966208",
+    "parent": "1711391",
+    "text": "Kigeyo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1716781",
+    "parent": "171655",
+    "text": "Kigina",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730893",
+    "parent": "1707126",
+    "text": "Kigoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952147",
+    "parent": "1707124",
+    "text": "Kigoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "16068485",
+    "parent": "3963734",
+    "text": "Kimisagara",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756509",
+    "parent": "1711187",
+    "text": "Kimonyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952403",
+    "parent": "1730914",
+    "text": "Kinazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952162",
+    "parent": "1707124",
+    "text": "Kinazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756037",
+    "parent": "1711187",
+    "text": "Kinigi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1741190",
+    "parent": "1730914",
+    "text": "Kinihira",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793073",
+    "parent": "1711195",
+    "text": "Kinihira",
+    "admin_level": "8"
+  },
+  {
+    "id": "1737413",
+    "parent": "1711194",
+    "text": "Kinoni",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972582",
+    "parent": "1711322",
+    "text": "Kintobo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1736840",
+    "parent": "1711194",
+    "text": "Kinyaba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730284",
+    "parent": "1711131",
+    "text": "Kiramuruzi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1716715",
+    "parent": "171655",
+    "text": "Kirehe",
+    "admin_level": "8"
+  },
+  {
+    "id": "171655",
+    "parent": "171591",
+    "text": "Kirehe District",
+    "admin_level": "6"
+  },
+  {
+    "id": "3973096",
+    "parent": "1709854",
+    "text": "Kirimbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793063",
+    "parent": "1711195",
+    "text": "Kisaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727317",
+    "parent": "1707125",
+    "text": "Kitabi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963699",
+    "parent": "1707127",
+    "text": "Kivu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966209",
+    "parent": "1711391",
+    "text": "Kivumu",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755776",
+    "parent": "1711192",
+    "text": "Kivuruga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738774",
+    "parent": "1711194",
+    "text": "Kivuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718817",
+    "parent": "1711124",
+    "text": "Kiyombe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952342",
+    "parent": "1730903",
+    "text": "Kiyumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730290",
+    "parent": "1711131",
+    "text": "Kiziguro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973100",
+    "parent": "1709854",
+    "text": "Macuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1714344",
+    "parent": "171655",
+    "text": "Mahama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973101",
+    "parent": "1709854",
+    "text": "Mahembe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729998",
+    "parent": "1707123",
+    "text": "Mamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969656",
+    "parent": "1711391",
+    "text": "Manihira",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796177",
+    "parent": "1711209",
+    "text": "Manyagiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952126",
+    "parent": "1707124",
+    "text": "Maraba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728610",
+    "parent": "171663",
+    "text": "Mareba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793021",
+    "parent": "1711195",
+    "text": "Masoro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963675",
+    "parent": "1707127",
+    "text": "Mata",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755741",
+    "parent": "1711192",
+    "text": "Mataba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718823",
+    "parent": "1711124",
+    "text": "Matimba",
+    "admin_level": "8"
+  },
+  {
+    "id": "2853864",
+    "parent": "1711949",
+    "text": "Matyazo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728624",
+    "parent": "171663",
+    "text": "Mayange",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966164",
+    "parent": "1707125",
+    "text": "Mbazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952148",
+    "parent": "1707124",
+    "text": "Mbazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1792996",
+    "parent": "1711195",
+    "text": "Mbogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952423",
+    "parent": "1730914",
+    "text": "Mbuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730874",
+    "parent": "1707126",
+    "text": "Mekingo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718826",
+    "parent": "1711124",
+    "text": "Mimuli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755734",
+    "parent": "1711192",
+    "text": "Minazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796178",
+    "parent": "1711209",
+    "text": "Miyove",
+    "admin_level": "8"
+  },
+  {
+    "id": "1714350",
+    "parent": "171655",
+    "text": "Mpanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820431",
+    "parent": "1709867",
+    "text": "Mubuga",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281191",
+    "parent": "1711383",
+    "text": "Mudende",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966119",
+    "parent": "1707125",
+    "text": "Mugano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963700",
+    "parent": "1707127",
+    "text": "Muganza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708775",
+    "parent": "1708895",
+    "text": "Muganza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729927",
+    "parent": "1707123",
+    "text": "Muganza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1717053",
+    "parent": "1711167",
+    "text": "Mugesera",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952434",
+    "parent": "1730905",
+    "text": "Mugina",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729924",
+    "parent": "1707123",
+    "text": "Mugombwa",
+    "admin_level": "8"
+  },
+  {
+    "id": "2853865",
+    "parent": "1711949",
+    "text": "Muhanda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952366",
+    "parent": "1730903",
+    "text": "Muhanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730903",
+    "parent": "1707122",
+    "text": "Muhanga District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1729768",
+    "parent": "1711142",
+    "text": "Muhazi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1751828",
+    "parent": "1711192",
+    "text": "Muhondo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2852712",
+    "parent": "1711949",
+    "text": "Muhororo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756510",
+    "parent": "1711187",
+    "text": "Muhoza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730295",
+    "parent": "1711131",
+    "text": "Muhura",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718829",
+    "parent": "1711124",
+    "text": "Mukama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972608",
+    "parent": "1711322",
+    "text": "Mukamira",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796179",
+    "parent": "1711209",
+    "text": "Mukarange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729790",
+    "parent": "1711163",
+    "text": "Mukarange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729928",
+    "parent": "1707123",
+    "text": "Mukindo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756502",
+    "parent": "1711187",
+    "text": "Muko",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796184",
+    "parent": "1711209",
+    "text": "Muko",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952119",
+    "parent": "1707124",
+    "text": "Mukura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969669",
+    "parent": "1711391",
+    "text": "Mukura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963705",
+    "parent": "1707127",
+    "text": "Munini",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729117",
+    "parent": "1711142",
+    "text": "Munyaga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729758",
+    "parent": "1711142",
+    "text": "Munyiginya",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715256",
+    "parent": "1711163",
+    "text": "Murama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1719035",
+    "parent": "1711167",
+    "text": "Murama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730283",
+    "parent": "1711131",
+    "text": "Murambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820466",
+    "parent": "1709867",
+    "text": "Murambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793022",
+    "parent": "1711195",
+    "text": "Murambi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972609",
+    "parent": "1711322",
+    "text": "Muringa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969670",
+    "parent": "1711391",
+    "text": "Murunda",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820471",
+    "parent": "1709867",
+    "text": "Murundi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729798",
+    "parent": "1711163",
+    "text": "Murundi",
+    "admin_level": "8"
+  },
+  {
+    "id": "4095232",
+    "parent": "1711163",
+    "text": "Murundi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744269",
+    "parent": "1708895",
+    "text": "Mururu",
+    "admin_level": "8"
+  },
+  {
+    "id": "3953742",
+    "parent": "1730905",
+    "text": "Musambira",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966064",
+    "parent": "1707125",
+    "text": "Musange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711187",
+    "parent": "1708298",
+    "text": "Musanze",
+    "admin_level": "6"
+  },
+  {
+    "id": "1756511",
+    "parent": "1711187",
+    "text": "Musanze",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969632",
+    "parent": "1711391",
+    "text": "Musasa",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727569",
+    "parent": "171655",
+    "text": "Musaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966133",
+    "parent": "1707125",
+    "text": "Musebeya",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728625",
+    "parent": "171663",
+    "text": "Musenyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729993",
+    "parent": "1707123",
+    "text": "Musha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729748",
+    "parent": "1711142",
+    "text": "Musha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718833",
+    "parent": "1711124",
+    "text": "Musheli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727581",
+    "parent": "171655",
+    "text": "Mushikiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952367",
+    "parent": "1730903",
+    "text": "Mushishiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966210",
+    "parent": "1711391",
+    "text": "Mushonyi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969657",
+    "parent": "1711391",
+    "text": "Mushubati",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966120",
+    "parent": "1707125",
+    "text": "Mushubi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1716801",
+    "parent": "1711167",
+    "text": "Mutender",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793995",
+    "parent": "1711209",
+    "text": "Mutete",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820433",
+    "parent": "1709867",
+    "text": "Mutuntu",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730894",
+    "parent": "1707126",
+    "text": "Muyira",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755873",
+    "parent": "1711192",
+    "text": "Muyongwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729778",
+    "parent": "1711142",
+    "text": "Muyumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755764",
+    "parent": "1711192",
+    "text": "Muzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952399",
+    "parent": "1730914",
+    "text": "Mwendo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729800",
+    "parent": "1711163",
+    "text": "Mwiri",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727938",
+    "parent": "171663",
+    "text": "Mwogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729785",
+    "parent": "1711142",
+    "text": "Mwulire",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727585",
+    "parent": "171655",
+    "text": "Nasho",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793023",
+    "parent": "1711195",
+    "text": "Natarabana",
+    "admin_level": "8"
+  },
+  {
+    "id": "2852703",
+    "parent": "1711949",
+    "text": "Ndaro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715240",
+    "parent": "1711163",
+    "text": "Ndego",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729974",
+    "parent": "1707123",
+    "text": "Ndora",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755874",
+    "parent": "1711192",
+    "text": "Nemba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738773",
+    "parent": "1711194",
+    "text": "Nemba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3954921",
+    "parent": "1730905",
+    "text": "Ngamba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729834",
+    "parent": "1711131",
+    "text": "Ngarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963676",
+    "parent": "1707127",
+    "text": "Ngera",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728617",
+    "parent": "171663",
+    "text": "Ngeruka",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963660",
+    "parent": "1707127",
+    "text": "Ngoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952123",
+    "parent": "1707124",
+    "text": "Ngoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "1792997",
+    "parent": "1711195",
+    "text": "Ngoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711167",
+    "parent": "171591",
+    "text": "Ngoma District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1711949",
+    "parent": "1708131",
+    "text": "Ngororero",
+    "admin_level": "6"
+  },
+  {
+    "id": "2853866",
+    "parent": "1711949",
+    "text": "Ngororero",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744250",
+    "parent": "1708895",
+    "text": "Nkanka",
+    "admin_level": "8"
+  },
+  {
+    "id": "3966121",
+    "parent": "1707125",
+    "text": "Nkomane",
+    "admin_level": "8"
+  },
+  {
+    "id": "1744251",
+    "parent": "1708895",
+    "text": "Nkombo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756503",
+    "parent": "1711187",
+    "text": "Nkotsi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1746351",
+    "parent": "1708895",
+    "text": "Nkungu",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708298",
+    "parent": "171496",
+    "text": "Northern Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1727935",
+    "parent": "171663",
+    "text": "Ntarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952404",
+    "parent": "1730914",
+    "text": "Ntongwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730895",
+    "parent": "1707126",
+    "text": "Ntyazo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711322",
+    "parent": "1708131",
+    "text": "Nyabihu",
+    "admin_level": "6"
+  },
+  {
+    "id": "3963701",
+    "parent": "1707127",
+    "text": "Nyabimata",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952178",
+    "parent": "1730903",
+    "text": "Nyabinoni",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969633",
+    "parent": "1711391",
+    "text": "Nyabirasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973102",
+    "parent": "1709854",
+    "text": "Nyabitekeri",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718836",
+    "parent": "1711124",
+    "text": "Nyagatare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711124",
+    "parent": "171591",
+    "text": "Nyagatare District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1729832",
+    "parent": "1711131",
+    "text": "Nyagihanga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963661",
+    "parent": "1707127",
+    "text": "Nyagisozi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1741178",
+    "parent": "1707126",
+    "text": "Nyagisozi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1746352",
+    "parent": "1708895",
+    "text": "Nyakabuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1746353",
+    "parent": "1708895",
+    "text": "Nyakarenzo",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281192",
+    "parent": "1711383",
+    "text": "Nyakiliba",
+    "admin_level": "8"
+  },
+  {
+    "id": "3975165",
+    "parent": "1730903",
+    "text": "Nyamabuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1707125",
+    "parent": "1707122",
+    "text": "Nyamagabe",
+    "admin_level": "6"
+  },
+  {
+    "id": "1709854",
+    "parent": "1708131",
+    "text": "Nyamasheke",
+    "admin_level": "6"
+  },
+  {
+    "id": "3952506",
+    "parent": "171663",
+    "text": "Nyamata",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715271",
+    "parent": "1711163",
+    "text": "Nyamirama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3953743",
+    "parent": "1730905",
+    "text": "Nyamiyaga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796185",
+    "parent": "1711209",
+    "text": "Nyamiyaga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1714379",
+    "parent": "171655",
+    "text": "Nyamugali",
+    "admin_level": "8"
+  },
+  {
+    "id": "2852671",
+    "parent": "1711949",
+    "text": "Nyange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756038",
+    "parent": "1711187",
+    "text": "Nyange",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796180",
+    "parent": "1711209",
+    "text": "Nyankenke",
+    "admin_level": "8"
+  },
+  {
+    "id": "1707126",
+    "parent": "1707122",
+    "text": "Nyanza",
+    "admin_level": "6"
+  },
+  {
+    "id": "1729865",
+    "parent": "1707123",
+    "text": "Nyanza",
+    "admin_level": "8"
+  },
+  {
+    "id": "3953744",
+    "parent": "1730905",
+    "text": "Nyarubaka",
+    "admin_level": "8"
+  },
+  {
+    "id": "1714360",
+    "parent": "171655",
+    "text": "Nyarubuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963734",
+    "parent": "1708283",
+    "text": "Nyarugenge District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1707127",
+    "parent": "1707122",
+    "text": "Nyaruguru District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1727980",
+    "parent": "171663",
+    "text": "Nyarungenge",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952384",
+    "parent": "1730903",
+    "text": "Nyarusange",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281193",
+    "parent": "1711383",
+    "text": "Nyayumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728634",
+    "parent": "1711142",
+    "text": "Nykariro",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281154",
+    "parent": "1711383",
+    "text": "Nyundo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708673",
+    "parent": "1708895",
+    "text": "Nzahaha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729119",
+    "parent": "1711142",
+    "text": "Nzige",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972610",
+    "parent": "1711322",
+    "text": "Rambura",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973124",
+    "parent": "1709854",
+    "text": "Rangiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730296",
+    "parent": "1711131",
+    "text": "Remera",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756504",
+    "parent": "1711187",
+    "text": "Remera",
+    "admin_level": "8"
+  },
+  {
+    "id": "1719024",
+    "parent": "1711167",
+    "text": "Remera",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727703",
+    "parent": "171663",
+    "text": "Rilima",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952179",
+    "parent": "1730903",
+    "text": "Rongi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711383",
+    "parent": "1708131",
+    "text": "Rubavu",
+    "admin_level": "6"
+  },
+  {
+    "id": "2281155",
+    "parent": "1711383",
+    "text": "Rubavu",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796181",
+    "parent": "1711209",
+    "text": "Rubaya",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820419",
+    "parent": "1709867",
+    "text": "Rubengera",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729118",
+    "parent": "1711142",
+    "text": "Rubona",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820472",
+    "parent": "1709867",
+    "text": "Rugabano",
+    "admin_level": "8"
+  },
+  {
+    "id": "3954986",
+    "parent": "1730905",
+    "text": "Rugalika",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820467",
+    "parent": "1709867",
+    "text": "Ruganda",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730291",
+    "parent": "1711131",
+    "text": "Rugarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1737414",
+    "parent": "1711194",
+    "text": "Rugarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952170",
+    "parent": "1730903",
+    "text": "Rugendabari",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738766",
+    "parent": "1711194",
+    "text": "Rugengabari",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972630",
+    "parent": "1711322",
+    "text": "Rugera",
+    "admin_level": "8"
+  },
+  {
+    "id": "2281156",
+    "parent": "1711383",
+    "text": "Rugerero",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730914",
+    "parent": "1707122",
+    "text": "Ruhango",
+    "admin_level": "6"
+  },
+  {
+    "id": "3952400",
+    "parent": "1730914",
+    "text": "Ruhango",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969634",
+    "parent": "1711391",
+    "text": "Ruhango",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973125",
+    "parent": "1709854",
+    "text": "Ruharambuga",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952156",
+    "parent": "1707124",
+    "text": "Ruhashya",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963652",
+    "parent": "1707127",
+    "text": "Ruheru",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728614",
+    "parent": "171663",
+    "text": "Ruhuha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738781",
+    "parent": "1711194",
+    "text": "Ruhunde",
+    "admin_level": "8"
+  },
+  {
+    "id": "4095223",
+    "parent": "1711163",
+    "text": "Rukara",
+    "admin_level": "8"
+  },
+  {
     "id": "1727480",
     "parent": "1711167",
     "text": "Rukira",
     "admin_level": "8"
   },
   {
-    "id": "1727496",
+    "id": "3954975",
+    "parent": "1730905",
+    "text": "Rukoma",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718840",
+    "parent": "1711124",
+    "text": "Rukomo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796130",
+    "parent": "1711209",
+    "text": "Rukomo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793074",
+    "parent": "1711195",
+    "text": "Rukozo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1717054",
     "parent": "1711167",
-    "text": "Gashanda",
+    "text": "Rukumberi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755735",
+    "parent": "1711192",
+    "text": "Ruli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711195",
+    "parent": "1708298",
+    "text": "Rulindo",
+    "admin_level": "6"
+  },
+  {
+    "id": "3954976",
+    "parent": "1730905",
+    "text": "Runda",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963677",
+    "parent": "1707127",
+    "text": "Ruramba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715272",
+    "parent": "1711163",
+    "text": "Ruramira",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972631",
+    "parent": "1711322",
+    "text": "Rurembo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1719025",
+    "parent": "1711167",
+    "text": "Rurenge",
+    "admin_level": "8"
+  },
+  {
+    "id": "1736854",
+    "parent": "1711194",
+    "text": "Rusarabuye",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755765",
+    "parent": "1711192",
+    "text": "Rusasa",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952163",
+    "parent": "1707124",
+    "text": "Rusatira",
+    "admin_level": "8"
+  },
+  {
+    "id": "3969671",
+    "parent": "1711391",
+    "text": "Rusebeya",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963678",
+    "parent": "1707127",
+    "text": "Rusenge",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796131",
+    "parent": "1711209",
+    "text": "Rushaki",
+    "admin_level": "8"
+  },
+  {
+    "id": "1755875",
+    "parent": "1711192",
+    "text": "Rushashi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1792251",
+    "parent": "1711195",
+    "text": "Rusiga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708895",
+    "parent": "1708131",
+    "text": "Rusizi",
+    "admin_level": "6"
+  },
+  {
+    "id": "1793996",
+    "parent": "1711209",
+    "text": "Rutare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711391",
+    "parent": "1708131",
+    "text": "Rutsiro",
+    "admin_level": "6"
+  },
+  {
+    "id": "1796186",
+    "parent": "1711209",
+    "text": "Ruvune",
+    "admin_level": "8"
+  },
+  {
+    "id": "1730875",
+    "parent": "1707126",
+    "text": "Rwabicuma",
+    "admin_level": "8"
+  },
+  {
+    "id": "1711142",
+    "parent": "171591",
+    "text": "Rwamagana District",
+    "admin_level": "6"
+  },
+  {
+    "id": "1793997",
+    "parent": "1711209",
+    "text": "Rwamiko",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952157",
+    "parent": "1707124",
+    "text": "Rwaniro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820462",
+    "parent": "1709867",
+    "text": "Rwankuba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756505",
+    "parent": "1711187",
+    "text": "Rwaza",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718844",
+    "parent": "1711124",
+    "text": "Rwempasha",
+    "admin_level": "8"
+  },
+  {
+    "id": "1738782",
+    "parent": "1711194",
+    "text": "Rwerere",
+    "admin_level": "8"
+  },
+  {
+    "id": "1727596",
+    "parent": "171663",
+    "text": "Rweru",
+    "admin_level": "8"
+  },
+  {
+    "id": "10311009",
+    "parent": "1711131",
+    "text": "Rwimbogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708680",
+    "parent": "1708895",
+    "text": "Rwimbogo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718847",
+    "parent": "1711124",
+    "text": "Rwimiyaga",
+    "admin_level": "8"
+  },
+  {
+    "id": "1715257",
+    "parent": "1711163",
+    "text": "Rwinkwavu",
+    "admin_level": "8"
+  },
+  {
+    "id": "4095237",
+    "parent": "1711163",
+    "text": "Ryamanyoni",
+    "admin_level": "8"
+  },
+  {
+    "id": "1716820",
+    "parent": "1711167",
+    "text": "Sake",
+    "admin_level": "8"
+  },
+  {
+    "id": "1729985",
+    "parent": "1707123",
+    "text": "Save",
+    "admin_level": "8"
+  },
+  {
+    "id": "1796132",
+    "parent": "1711209",
+    "text": "Shangasha",
+    "admin_level": "8"
+  },
+  {
+    "id": "3973126",
+    "parent": "1709854",
+    "text": "Shangi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1756039",
+    "parent": "1711187",
+    "text": "Shingiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1728583",
+    "parent": "171663",
+    "text": "Shyara",
+    "admin_level": "8"
+  },
+  {
+    "id": "3972632",
+    "parent": "1711322",
+    "text": "Shyira",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952383",
+    "parent": "1730903",
+    "text": "Shyogwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1792252",
+    "parent": "1711195",
+    "text": "Shyorongi",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952158",
+    "parent": "1707124",
+    "text": "Simbi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1707122",
+    "parent": "171496",
+    "text": "Southern Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "2852704",
+    "parent": "1711949",
+    "text": "Suvo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1718848",
+    "parent": "1711124",
+    "text": "Tabagwe",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963895",
+    "parent": "1707125",
+    "text": "Tare",
+    "admin_level": "8"
+  },
+  {
+    "id": "3952120",
+    "parent": "1707124",
+    "text": "Tumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1793064",
+    "parent": "1711195",
+    "text": "Tumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820432",
+    "parent": "1709867",
+    "text": "Twumba",
+    "admin_level": "8"
+  },
+  {
+    "id": "4095238",
+    "parent": "1711163",
+    "text": "Urugarama",
+    "admin_level": "8"
+  },
+  {
+    "id": "3963896",
+    "parent": "1707125",
+    "text": "Uwinkingi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1708131",
+    "parent": "171496",
+    "text": "Western Province",
+    "admin_level": "4"
+  },
+  {
+    "id": "1717055",
+    "parent": "1711167",
+    "text": "Zaza",
     "admin_level": "8"
   }
 ]

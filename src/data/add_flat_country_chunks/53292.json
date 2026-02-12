@@ -1,794 +1,8 @@
 [
   {
-    "id": "7739252",
-    "parent": "53292",
-    "text": "Southern Albania",
-    "admin_level": "4"
-  },
-  {
-    "id": "7739253",
-    "parent": "53292",
-    "text": "Central Albania",
-    "admin_level": "4"
-  },
-  {
-    "id": "7739254",
-    "parent": "53292",
-    "text": "Northern Albania",
-    "admin_level": "4"
-  },
-  {
-    "id": "1251469",
-    "parent": "7739252",
-    "text": "Fier County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1252289",
-    "parent": "7739252",
-    "text": "Berat County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1252589",
-    "parent": "7739252",
-    "text": "Kor\u00e7\u00eb County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1253915",
-    "parent": "7739252",
-    "text": "Gjirokast\u00ebr County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1255521",
-    "parent": "7739252",
-    "text": "Vlor\u00eb County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1248293",
-    "parent": "7739254",
-    "text": "Shkod\u00ebr County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1248935",
-    "parent": "7739254",
-    "text": "Lezh\u00eb County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1249567",
-    "parent": "7739254",
-    "text": "Dib\u00ebr County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1249872",
-    "parent": "7739254",
-    "text": "Durr\u00ebs County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1759889",
-    "parent": "7739254",
-    "text": "Kuk\u00ebs County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1250098",
-    "parent": "7739253",
-    "text": "Tirana County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1250609",
-    "parent": "7739253",
-    "text": "Elbasan County",
-    "admin_level": "6"
-  },
-  {
-    "id": "1255522",
-    "parent": "1255521",
-    "text": "Qend\u00ebr Vlor\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255523",
-    "parent": "1255521",
-    "text": "Hor\u00eb-Vranisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255524",
-    "parent": "1255521",
-    "text": "Mesopotam",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255525",
-    "parent": "1255521",
-    "text": "Shushic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255526",
-    "parent": "1255521",
-    "text": "Armen",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255527",
-    "parent": "1255521",
-    "text": "Livadhja",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255528",
-    "parent": "1255521",
-    "text": "Kot\u00eb",
-    "admin_level": "8"
-  },
-  {
     "id": "1255529",
     "parent": "1255521",
     "text": "Aliko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255530",
-    "parent": "1255521",
-    "text": "Xarr\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255532",
-    "parent": "1255521",
-    "text": "Vergo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255533",
-    "parent": "1255521",
-    "text": "Brataj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255534",
-    "parent": "1255521",
-    "text": "Vlor\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255535",
-    "parent": "1255521",
-    "text": "Lukov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255536",
-    "parent": "1255521",
-    "text": "Sevaster",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255537",
-    "parent": "1255521",
-    "text": "Ksamil",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255538",
-    "parent": "1255521",
-    "text": "Orikum",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255539",
-    "parent": "1255521",
-    "text": "Himar\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255541",
-    "parent": "1255521",
-    "text": "Sarand\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255542",
-    "parent": "1255521",
-    "text": "Delvin\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255544",
-    "parent": "1255521",
-    "text": "Vllahin\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255545",
-    "parent": "1255521",
-    "text": "Markat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255546",
-    "parent": "1255521",
-    "text": "Selenic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255547",
-    "parent": "1255521",
-    "text": "Finiq",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255548",
-    "parent": "1255521",
-    "text": "Konispol",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255549",
-    "parent": "1255521",
-    "text": "Novosel\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1255550",
-    "parent": "1255521",
-    "text": "Dhiv\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253887",
-    "parent": "1253915",
-    "text": "Tepelen\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253888",
-    "parent": "1253915",
-    "text": "Memaliaj Fshat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253891",
-    "parent": "1253915",
-    "text": "Qesarat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253897",
-    "parent": "1253915",
-    "text": "Kurvelesh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253901",
-    "parent": "1253915",
-    "text": "Odrie",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253903",
-    "parent": "1253915",
-    "text": "Cepo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253904",
-    "parent": "1253915",
-    "text": "Suk\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253905",
-    "parent": "1253915",
-    "text": "Libohov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253906",
-    "parent": "1253915",
-    "text": "Pogon",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253907",
-    "parent": "1253915",
-    "text": "Krah\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253908",
-    "parent": "1253915",
-    "text": "\u00c7ar\u00e7ov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253909",
-    "parent": "1253915",
-    "text": "Antigon\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253910",
-    "parent": "1253915",
-    "text": "Lazarat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253911",
-    "parent": "1253915",
-    "text": "Picar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253912",
-    "parent": "1253915",
-    "text": "Petran",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253913",
-    "parent": "1253915",
-    "text": "Dropull i Sip\u00ebrm",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253916",
-    "parent": "1253915",
-    "text": "Zagorie",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253917",
-    "parent": "1253915",
-    "text": "Luftinj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253918",
-    "parent": "1253915",
-    "text": "Ballaban",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253919",
-    "parent": "1253915",
-    "text": "Qend\u00ebr Tepelen\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253920",
-    "parent": "1253915",
-    "text": "Memaliaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253921",
-    "parent": "1253915",
-    "text": "Dishnic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253922",
-    "parent": "1253915",
-    "text": "Qend\u00ebr Libohov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253923",
-    "parent": "1253915",
-    "text": "Lop\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253924",
-    "parent": "1253915",
-    "text": "Dropull i Posht\u00ebm",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253925",
-    "parent": "1253915",
-    "text": "Qend\u00ebr Piskov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253927",
-    "parent": "1253915",
-    "text": "Lunxh\u00ebri",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253928",
-    "parent": "1253915",
-    "text": "K\u00eblcyr\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253929",
-    "parent": "1253915",
-    "text": "Frash\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253930",
-    "parent": "1253915",
-    "text": "Gjirokast\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253931",
-    "parent": "1253915",
-    "text": "P\u00ebrmet",
-    "admin_level": "8"
-  },
-  {
-    "id": "1253932",
-    "parent": "1253915",
-    "text": "Buz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248264",
-    "parent": "1248293",
-    "text": "Daj\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248265",
-    "parent": "1248293",
-    "text": "Fush\u00eb-Arr\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248266",
-    "parent": "1248293",
-    "text": "Shosh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248267",
-    "parent": "1248293",
-    "text": "Kastrat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248269",
-    "parent": "1248293",
-    "text": "Gjegjan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248270",
-    "parent": "1248293",
-    "text": "Kelmend",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248271",
-    "parent": "1248293",
-    "text": "Qend\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248272",
-    "parent": "1248293",
-    "text": "Hajmel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248273",
-    "parent": "1248293",
-    "text": "Blerim",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248274",
-    "parent": "1248293",
-    "text": "Qaf\u00eb-Mali",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248275",
-    "parent": "1248293",
-    "text": "B\u00ebrdic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248276",
-    "parent": "1248293",
-    "text": "Ana e Malit",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248277",
-    "parent": "1248293",
-    "text": "Qerret",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248278",
-    "parent": "1248293",
-    "text": "Vau-Dej\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248279",
-    "parent": "1248293",
-    "text": "Temal",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248280",
-    "parent": "1248293",
-    "text": "Shkrel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248281",
-    "parent": "1248293",
-    "text": "Fierz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248282",
-    "parent": "1248293",
-    "text": "Bushat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248283",
-    "parent": "1248293",
-    "text": "Shal\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248287",
-    "parent": "1248293",
-    "text": "Postrib\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248288",
-    "parent": "1248293",
-    "text": "Shllak",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248289",
-    "parent": "1248293",
-    "text": "Guri i Zi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248290",
-    "parent": "1248293",
-    "text": "Pult",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248291",
-    "parent": "1248293",
-    "text": "Iballe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248292",
-    "parent": "1248293",
-    "text": "Vig-Mnel\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248294",
-    "parent": "1248293",
-    "text": "Rrethinat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248295",
-    "parent": "1248293",
-    "text": "Rrap\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248296",
-    "parent": "1248293",
-    "text": "Koplik",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248297",
-    "parent": "1248293",
-    "text": "Velipoj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248298",
-    "parent": "1248293",
-    "text": "Qel\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248299",
-    "parent": "1248293",
-    "text": "Gruemir\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248300",
-    "parent": "1248293",
-    "text": "Puk\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248301",
-    "parent": "1248293",
-    "text": "Shkod\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251470",
-    "parent": "1251469",
-    "text": "Kut\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251471",
-    "parent": "1251469",
-    "text": "Roskovec",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251472",
-    "parent": "1251469",
-    "text": "Hekal",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251473",
-    "parent": "1251469",
-    "text": "Ngra\u00e7an",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251474",
-    "parent": "1251469",
-    "text": "Ballsh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251475",
-    "parent": "1251469",
-    "text": "Kurjan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251476",
-    "parent": "1251469",
-    "text": "Divjak\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251477",
-    "parent": "1251469",
-    "text": "Greshic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251478",
-    "parent": "1251469",
-    "text": "Gradisht\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251479",
-    "parent": "1251469",
-    "text": "Mbrostar Ura",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251480",
-    "parent": "1251469",
-    "text": "T\u00ebrbuf",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251481",
-    "parent": "1251469",
-    "text": "Aranitas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251482",
-    "parent": "1251469",
-    "text": "Kuman",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251483",
-    "parent": "1251469",
-    "text": "Fier",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251484",
-    "parent": "1251469",
-    "text": "Grabian",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251485",
-    "parent": "1251469",
-    "text": "Lushnj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251486",
-    "parent": "1251469",
-    "text": "Strum",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251488",
-    "parent": "1251469",
-    "text": "Bubullim\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251489",
-    "parent": "1251469",
-    "text": "Krutje",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251490",
-    "parent": "1251469",
-    "text": "Qend\u00ebr Dukas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251491",
-    "parent": "1251469",
-    "text": "Cakran",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251492",
-    "parent": "1251469",
-    "text": "Golem",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251493",
-    "parent": "1251469",
-    "text": "Selit\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251495",
-    "parent": "1251469",
-    "text": "Fier Shegan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251496",
-    "parent": "1251469",
-    "text": "Kolonj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251497",
-    "parent": "1251469",
-    "text": "Qend\u00ebr",
     "admin_level": "8"
   },
   {
@@ -798,321 +12,27 @@
     "admin_level": "8"
   },
   {
-    "id": "1251499",
+    "id": "1248276",
+    "parent": "1248293",
+    "text": "Ana e Malit",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253909",
+    "parent": "1253915",
+    "text": "Antigon\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251481",
     "parent": "1251469",
-    "text": "Dushk",
+    "text": "Aranitas",
     "admin_level": "8"
   },
   {
-    "id": "1251500",
-    "parent": "1251469",
-    "text": "Fratar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251501",
-    "parent": "1251469",
-    "text": "Levan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251502",
-    "parent": "1251469",
-    "text": "Ruzhdie",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251503",
-    "parent": "1251469",
-    "text": "Karbunar\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251504",
-    "parent": "1251469",
-    "text": "Port\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251506",
-    "parent": "1251469",
-    "text": "Zharr\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251509",
-    "parent": "1251469",
-    "text": "D\u00ebrmenas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251510",
-    "parent": "1251469",
-    "text": "Frakull",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251511",
-    "parent": "1251469",
-    "text": "Libofsh\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251512",
-    "parent": "1251469",
-    "text": "Remas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251515",
-    "parent": "1251469",
-    "text": "Hysgjokaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251516",
-    "parent": "1251469",
-    "text": "Patos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251517",
-    "parent": "1251469",
-    "text": "Topoj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1251518",
-    "parent": "1251469",
-    "text": "Ballagat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252280",
-    "parent": "1252289",
-    "text": "Sinj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252282",
-    "parent": "1252289",
-    "text": "Leshnj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252283",
-    "parent": "1252289",
-    "text": "Roshnik",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252284",
-    "parent": "1252289",
-    "text": "V\u00ebrtop",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252285",
-    "parent": "1252289",
-    "text": "Cukalat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252286",
-    "parent": "1252289",
-    "text": "Velabisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252287",
-    "parent": "1252289",
-    "text": "Ura Vajgurore",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252288",
-    "parent": "1252289",
-    "text": "\u00c7orovod\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252290",
-    "parent": "1252289",
-    "text": "Potom",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252291",
-    "parent": "1252289",
-    "text": "Otllak",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252292",
-    "parent": "1252289",
-    "text": "T\u00ebrpan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252293",
-    "parent": "1252289",
-    "text": "Zhep\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252294",
-    "parent": "1252289",
-    "text": "Bogov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252296",
-    "parent": "1252289",
-    "text": "Poshnj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252297",
-    "parent": "1252289",
-    "text": "Poli\u00e7an",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252298",
-    "parent": "1252289",
-    "text": "V\u00ebndresh\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252299",
-    "parent": "1252289",
-    "text": "Berat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252300",
-    "parent": "1252289",
-    "text": "Kutalli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252301",
-    "parent": "1252289",
-    "text": "Perondi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252302",
-    "parent": "1252289",
-    "text": "Kozare",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252303",
-    "parent": "1252289",
-    "text": "Ku\u00e7ov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252305",
-    "parent": "1252289",
-    "text": "Qend\u00ebr Skrapar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252306",
-    "parent": "1252289",
-    "text": "\u00c7epan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252307",
-    "parent": "1252289",
-    "text": "Gjerb\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252308",
-    "parent": "1252289",
-    "text": "Lumas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249534",
-    "parent": "1249567",
-    "text": "Ul\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249535",
-    "parent": "1249567",
-    "text": "Ostren",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249537",
-    "parent": "1249567",
-    "text": "Xib\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249538",
-    "parent": "1249567",
-    "text": "Martanesh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249539",
-    "parent": "1249567",
-    "text": "Fush\u00eb \u00c7idh\u00ebn",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249541",
-    "parent": "1249567",
-    "text": "Zerqan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249542",
-    "parent": "1249567",
-    "text": "Klos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249543",
-    "parent": "1249567",
-    "text": "Rukaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249544",
-    "parent": "1249567",
-    "text": "Kala e Dod\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249545",
-    "parent": "1249567",
-    "text": "Baz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249546",
-    "parent": "1249567",
-    "text": "Fush\u00eb-Bulqiz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249547",
-    "parent": "1249567",
-    "text": "Komsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249549",
-    "parent": "1249567",
-    "text": "Gurr\u00eb",
+    "id": "1255526",
+    "parent": "1255521",
+    "text": "Armen",
     "admin_level": "8"
   },
   {
@@ -1122,873 +42,9 @@
     "admin_level": "8"
   },
   {
-    "id": "1249551",
-    "parent": "1249567",
-    "text": "Tomin",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249552",
-    "parent": "1249567",
-    "text": "Zall-Re\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249553",
-    "parent": "1249567",
-    "text": "Su\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249554",
-    "parent": "1249567",
-    "text": "Derjan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249555",
-    "parent": "1249567",
-    "text": "Shupenz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249556",
-    "parent": "1249567",
-    "text": "Maqellar\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249557",
-    "parent": "1249567",
-    "text": "Kastriot",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249558",
-    "parent": "1249567",
-    "text": "Peshkopi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249559",
-    "parent": "1249567",
-    "text": "Melan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249560",
-    "parent": "1249567",
-    "text": "Bulqiz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249561",
-    "parent": "1249567",
-    "text": "Muhurr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249562",
-    "parent": "1249567",
-    "text": "Burrel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249563",
-    "parent": "1249567",
-    "text": "Trebisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249564",
-    "parent": "1249567",
-    "text": "Luzni",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249565",
-    "parent": "1249567",
-    "text": "Gjoric\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249566",
-    "parent": "1249567",
-    "text": "Selisht\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249568",
-    "parent": "1249567",
-    "text": "Lis",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249569",
-    "parent": "1249567",
-    "text": "Macukull",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249570",
-    "parent": "1249567",
-    "text": "Sllov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249571",
-    "parent": "1249567",
-    "text": "Zall-Dardh\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249572",
-    "parent": "1249567",
-    "text": "Lur\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249873",
-    "parent": "1249872",
-    "text": "Ish\u00ebm",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249874",
-    "parent": "1249872",
-    "text": "Nik\u00ebl",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249875",
-    "parent": "1249872",
-    "text": "Gjepalaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249876",
-    "parent": "1249872",
-    "text": "Fush\u00eb-Kruj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249878",
-    "parent": "1249872",
-    "text": "Katundi i Ri",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249879",
-    "parent": "1249872",
-    "text": "Xhafzotaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249880",
-    "parent": "1249872",
-    "text": "Sukth",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249881",
-    "parent": "1249872",
-    "text": "Shijak",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249882",
-    "parent": "1249872",
-    "text": "Thuman\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249883",
-    "parent": "1249872",
-    "text": "Bubq",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249884",
-    "parent": "1249872",
-    "text": "Man\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249885",
-    "parent": "1249872",
-    "text": "Kruj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249886",
-    "parent": "1249872",
-    "text": "Rashbull",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249887",
-    "parent": "1249872",
-    "text": "Cudhi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249888",
-    "parent": "1249872",
-    "text": "Durr\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1249889",
-    "parent": "1249872",
-    "text": "Maminas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250094",
-    "parent": "1250098",
-    "text": "B\u00ebrzhit\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250095",
-    "parent": "1250098",
-    "text": "Kashar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250096",
-    "parent": "1250098",
-    "text": "Kavaj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250097",
-    "parent": "1250098",
-    "text": "Zall-Herr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250099",
-    "parent": "1250098",
-    "text": "Dajt",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250100",
-    "parent": "1250098",
-    "text": "B\u00ebrxull\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250101",
-    "parent": "1250098",
-    "text": "Kryevidh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250102",
-    "parent": "1250098",
-    "text": "Gos\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250103",
-    "parent": "1250098",
-    "text": "Prez\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250104",
-    "parent": "1250098",
-    "text": "Sinaballaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250105",
-    "parent": "1250098",
-    "text": "Zall-Bastar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250106",
-    "parent": "1250098",
-    "text": "Tiran\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250107",
-    "parent": "1250098",
-    "text": "Petrel\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250108",
-    "parent": "1250098",
-    "text": "Golem",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250109",
-    "parent": "1250098",
-    "text": "Vor\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250110",
-    "parent": "1250098",
-    "text": "Rrogozhin\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250112",
-    "parent": "1250098",
-    "text": "Fark\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250114",
-    "parent": "1250098",
-    "text": "Lekaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250115",
-    "parent": "1250098",
-    "text": "Pez\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250116",
-    "parent": "1250098",
-    "text": "Synej",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250117",
-    "parent": "1250098",
-    "text": "Kam\u00ebz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250118",
-    "parent": "1250098",
-    "text": "Sh\u00ebngjergj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250119",
-    "parent": "1250098",
-    "text": "Baldushk",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250120",
-    "parent": "1250098",
-    "text": "Ndroq",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250121",
-    "parent": "1250098",
-    "text": "Helmas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250122",
-    "parent": "1250098",
-    "text": "Vaqarr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250123",
-    "parent": "1250098",
-    "text": "Luz i Vog\u00ebl",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250124",
-    "parent": "1250098",
-    "text": "Krrab\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "19622661",
-    "parent": "1250098",
-    "text": "Nj\u00ebsia Administrative Nr. 2",
-    "admin_level": "8"
-  },
-  {
-    "id": "19622663",
-    "parent": "1250098",
-    "text": "Nj\u00ebsia Administrative Bathore",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250561",
-    "parent": "1250609",
-    "text": "Labinot Mal",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250562",
-    "parent": "1250609",
-    "text": "Kajan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250563",
-    "parent": "1250609",
-    "text": "Quk\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250564",
-    "parent": "1250609",
-    "text": "Gjo\u00e7aj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250566",
-    "parent": "1250609",
-    "text": "Gostim\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250567",
-    "parent": "1250609",
-    "text": "Fierz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250568",
-    "parent": "1250609",
-    "text": "Pajov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250569",
-    "parent": "1250609",
-    "text": "Tunj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250570",
-    "parent": "1250609",
-    "text": "Labinot Fush\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250571",
-    "parent": "1250609",
-    "text": "Shushic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250572",
-    "parent": "1250609",
-    "text": "Gjergjan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250573",
-    "parent": "1250609",
-    "text": "Peqin",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250574",
-    "parent": "1250609",
-    "text": "Lunik",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250575",
-    "parent": "1250609",
-    "text": "St\u00ebblev\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250579",
-    "parent": "1250609",
-    "text": "Mollas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250581",
-    "parent": "1250609",
-    "text": "Kukur",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250582",
-    "parent": "1250609",
-    "text": "Shirgjan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250583",
-    "parent": "1250609",
-    "text": "Grekan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250585",
-    "parent": "1250609",
-    "text": "P\u00ebrrenjas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250586",
-    "parent": "1250609",
-    "text": "L\u00ebnie",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250587",
-    "parent": "1250609",
-    "text": "Sk\u00ebnderbegas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250588",
-    "parent": "1250609",
-    "text": "Karin\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250589",
-    "parent": "1250609",
-    "text": "Rrajc\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250592",
-    "parent": "1250609",
-    "text": "Pishaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250593",
-    "parent": "1250609",
-    "text": "Gramsh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250594",
-    "parent": "1250609",
-    "text": "Polis",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250595",
-    "parent": "1250609",
-    "text": "Belsh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250596",
-    "parent": "1250609",
-    "text": "Orenj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250597",
-    "parent": "1250609",
-    "text": "Zavalin\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250598",
-    "parent": "1250609",
-    "text": "Hotolisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250599",
-    "parent": "1250609",
-    "text": "Gjinar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250600",
-    "parent": "1250609",
-    "text": "P\u00ebrparim",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250601",
-    "parent": "1250609",
-    "text": "C\u00ebrrik",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250602",
-    "parent": "1250609",
-    "text": "Elbasan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250603",
-    "parent": "1250609",
-    "text": "Sult",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250604",
-    "parent": "1250609",
-    "text": "Pap\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250605",
-    "parent": "1250609",
-    "text": "Tregan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250606",
-    "parent": "1250609",
-    "text": "Kushov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250607",
-    "parent": "1250609",
-    "text": "Shez\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250608",
-    "parent": "1250609",
-    "text": "Funar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250610",
-    "parent": "1250609",
-    "text": "Librazhd Qend\u00ebr",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250611",
-    "parent": "1250609",
-    "text": "Librazhd",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250612",
-    "parent": "1250609",
-    "text": "Stravaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250613",
-    "parent": "1250609",
-    "text": "Klos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250614",
-    "parent": "1250609",
-    "text": "Rras\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250615",
-    "parent": "1250609",
-    "text": "Kodovjat",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250616",
-    "parent": "1250609",
-    "text": "Shal\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250617",
-    "parent": "1250609",
-    "text": "Gracen",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250620",
-    "parent": "1250609",
-    "text": "Poro\u00e7an",
-    "admin_level": "8"
-  },
-  {
-    "id": "1250621",
-    "parent": "1250609",
-    "text": "Bradashesh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248917",
-    "parent": "1248935",
-    "text": "Sh\u00ebngjin",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248918",
-    "parent": "1248935",
-    "text": "Blinisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248919",
-    "parent": "1248935",
-    "text": "Fush\u00eb-Kuqe",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248921",
-    "parent": "1248935",
-    "text": "Balldren",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248923",
-    "parent": "1248935",
-    "text": "Ka\u00e7inar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248924",
-    "parent": "1248935",
-    "text": "Mamurras",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248925",
-    "parent": "1248935",
-    "text": "Selit\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248926",
-    "parent": "1248935",
-    "text": "Daj\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248927",
-    "parent": "1248935",
-    "text": "Orosh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248928",
-    "parent": "1248935",
-    "text": "La\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248929",
-    "parent": "1248935",
-    "text": "Lezh\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248930",
-    "parent": "1248935",
-    "text": "Rr\u00ebshen",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248931",
-    "parent": "1248935",
-    "text": "Ungrej",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248932",
-    "parent": "1248935",
-    "text": "Kallmet",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248933",
-    "parent": "1248935",
-    "text": "Zejmen",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248934",
-    "parent": "1248935",
-    "text": "Kolsh",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248936",
-    "parent": "1248935",
-    "text": "Rubik",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248937",
-    "parent": "1248935",
-    "text": "Kthell\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248938",
-    "parent": "1248935",
-    "text": "Milot",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248939",
-    "parent": "1248935",
-    "text": "Sh\u00ebnkoll",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248940",
-    "parent": "1248935",
-    "text": "Fan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248535",
+    "id": "1248558",
     "parent": "1759889",
-    "text": "Fierz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248536",
-    "parent": "1759889",
-    "text": "Bicaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248537",
-    "parent": "1759889",
-    "text": "Kuk\u00ebs",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248538",
-    "parent": "1759889",
-    "text": "Surroj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248539",
-    "parent": "1759889",
-    "text": "Gjinaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248540",
-    "parent": "1759889",
-    "text": "Ujmisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248541",
-    "parent": "1759889",
-    "text": "Kolsh",
+    "text": "Arr\u00ebn",
     "admin_level": "8"
   },
   {
@@ -1998,213 +54,33 @@
     "admin_level": "8"
   },
   {
-    "id": "1248543",
-    "parent": "1759889",
-    "text": "Kalis",
+    "id": "1250119",
+    "parent": "1250098",
+    "text": "Baldushk",
     "admin_level": "8"
   },
   {
-    "id": "1248544",
-    "parent": "1759889",
-    "text": "T\u00ebrthor\u00eb",
+    "id": "1253918",
+    "parent": "1253915",
+    "text": "Ballaban",
     "admin_level": "8"
   },
   {
-    "id": "1248545",
-    "parent": "1759889",
-    "text": "Zapod",
+    "id": "1251518",
+    "parent": "1251469",
+    "text": "Ballagat",
     "admin_level": "8"
   },
   {
-    "id": "1248546",
-    "parent": "1759889",
-    "text": "Llugaj",
+    "id": "1248921",
+    "parent": "1248935",
+    "text": "Balldren",
     "admin_level": "8"
   },
   {
-    "id": "1248547",
-    "parent": "1759889",
-    "text": "Bujan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248548",
-    "parent": "1759889",
-    "text": "Byty\u00e7",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248550",
-    "parent": "1759889",
-    "text": "Shishtavec",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248551",
-    "parent": "1759889",
-    "text": "Golaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248552",
-    "parent": "1759889",
-    "text": "Topojan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248553",
-    "parent": "1759889",
-    "text": "Fajz\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248554",
-    "parent": "1759889",
-    "text": "Gryk\u00eb-\u00c7aje",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248556",
-    "parent": "1759889",
-    "text": "Shtiq\u00ebn",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248557",
-    "parent": "1759889",
-    "text": "Krum\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248558",
-    "parent": "1759889",
-    "text": "Arr\u00ebn",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248561",
-    "parent": "1759889",
-    "text": "Bushtric\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248562",
-    "parent": "1759889",
-    "text": "Malzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248563",
-    "parent": "1759889",
-    "text": "Lekbibaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248564",
-    "parent": "1759889",
-    "text": "Margegaj",
-    "admin_level": "8"
-  },
-  {
-    "id": "1248565",
-    "parent": "1759889",
-    "text": "Tropoj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252564",
-    "parent": "1252589",
-    "text": "Drenov\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252565",
-    "parent": "1252589",
-    "text": "Qend\u00ebr Bulgarec",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252566",
-    "parent": "1252589",
-    "text": "Gor\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252567",
-    "parent": "1252589",
-    "text": "Pogradec",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252568",
-    "parent": "1252589",
-    "text": "Novosel\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252569",
-    "parent": "1252589",
-    "text": "Trebinj\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252570",
-    "parent": "1252589",
-    "text": "Dardhas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252571",
-    "parent": "1252589",
-    "text": "Proptisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252574",
-    "parent": "1252589",
-    "text": "\u00c7lirim",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252575",
-    "parent": "1252589",
-    "text": "Bu\u00e7imas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252576",
-    "parent": "1252589",
-    "text": "Bilisht",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252577",
-    "parent": "1252589",
-    "text": "Moglic\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252578",
-    "parent": "1252589",
-    "text": "Vithkuq",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252579",
-    "parent": "1252589",
-    "text": "\u00c7\u00ebrrav\u00eb",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252580",
-    "parent": "1252589",
-    "text": "Vreshtas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1252581",
-    "parent": "1252589",
-    "text": "Kor\u00e7\u00eb",
+    "id": "1251474",
+    "parent": "1251469",
+    "text": "Ballsh",
     "admin_level": "8"
   },
   {
@@ -2214,33 +90,609 @@
     "admin_level": "8"
   },
   {
-    "id": "1252583",
-    "parent": "1252589",
-    "text": "Pustec",
+    "id": "1249545",
+    "parent": "1249567",
+    "text": "Baz",
     "admin_level": "8"
   },
   {
-    "id": "1252584",
-    "parent": "1252589",
-    "text": "Vel\u00e7an",
+    "id": "1250595",
+    "parent": "1250609",
+    "text": "Belsh",
     "admin_level": "8"
   },
   {
-    "id": "1252585",
-    "parent": "1252589",
-    "text": "Lekas",
+    "id": "1252299",
+    "parent": "1252289",
+    "text": "Berat",
     "admin_level": "8"
   },
   {
-    "id": "1252586",
-    "parent": "1252589",
-    "text": "Qend\u00ebr Ersek\u00eb",
+    "id": "1252289",
+    "parent": "7739252",
+    "text": "Berat County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1248536",
+    "parent": "1759889",
+    "text": "Bicaj",
     "admin_level": "8"
   },
   {
-    "id": "1252587",
+    "id": "1252576",
     "parent": "1252589",
-    "text": "Voskop",
+    "text": "Bilisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248273",
+    "parent": "1248293",
+    "text": "Blerim",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248918",
+    "parent": "1248935",
+    "text": "Blinisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252294",
+    "parent": "1252289",
+    "text": "Bogov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250621",
+    "parent": "1250609",
+    "text": "Bradashesh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255533",
+    "parent": "1255521",
+    "text": "Brataj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249883",
+    "parent": "1249872",
+    "text": "Bubq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251488",
+    "parent": "1251469",
+    "text": "Bubullim\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248547",
+    "parent": "1759889",
+    "text": "Bujan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249560",
+    "parent": "1249567",
+    "text": "Bulqiz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249562",
+    "parent": "1249567",
+    "text": "Burrel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248282",
+    "parent": "1248293",
+    "text": "Bushat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248561",
+    "parent": "1759889",
+    "text": "Bushtric\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253932",
+    "parent": "1253915",
+    "text": "Buz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252575",
+    "parent": "1252589",
+    "text": "Bu\u00e7imas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248548",
+    "parent": "1759889",
+    "text": "Byty\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248275",
+    "parent": "1248293",
+    "text": "B\u00ebrdic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250100",
+    "parent": "1250098",
+    "text": "B\u00ebrxull\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250094",
+    "parent": "1250098",
+    "text": "B\u00ebrzhit\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251491",
+    "parent": "1251469",
+    "text": "Cakran",
+    "admin_level": "8"
+  },
+  {
+    "id": "7739253",
+    "parent": "53292",
+    "text": "Central Albania",
+    "admin_level": "4"
+  },
+  {
+    "id": "1253903",
+    "parent": "1253915",
+    "text": "Cepo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249887",
+    "parent": "1249872",
+    "text": "Cudhi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252285",
+    "parent": "1252289",
+    "text": "Cukalat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250601",
+    "parent": "1250609",
+    "text": "C\u00ebrrik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250099",
+    "parent": "1250098",
+    "text": "Dajt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248264",
+    "parent": "1248293",
+    "text": "Daj\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248926",
+    "parent": "1248935",
+    "text": "Daj\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252570",
+    "parent": "1252589",
+    "text": "Dardhas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255542",
+    "parent": "1255521",
+    "text": "Delvin\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249554",
+    "parent": "1249567",
+    "text": "Derjan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255550",
+    "parent": "1255521",
+    "text": "Dhiv\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249567",
+    "parent": "7739254",
+    "text": "Dib\u00ebr County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1253921",
+    "parent": "1253915",
+    "text": "Dishnic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251476",
+    "parent": "1251469",
+    "text": "Divjak\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252564",
+    "parent": "1252589",
+    "text": "Drenov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253924",
+    "parent": "1253915",
+    "text": "Dropull i Posht\u00ebm",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253913",
+    "parent": "1253915",
+    "text": "Dropull i Sip\u00ebrm",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249888",
+    "parent": "1249872",
+    "text": "Durr\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249872",
+    "parent": "7739254",
+    "text": "Durr\u00ebs County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251499",
+    "parent": "1251469",
+    "text": "Dushk",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251509",
+    "parent": "1251469",
+    "text": "D\u00ebrmenas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250602",
+    "parent": "1250609",
+    "text": "Elbasan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250609",
+    "parent": "7739253",
+    "text": "Elbasan County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1252600",
+    "parent": "1252589",
+    "text": "Ersek\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248553",
+    "parent": "1759889",
+    "text": "Fajz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248940",
+    "parent": "1248935",
+    "text": "Fan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250112",
+    "parent": "1250098",
+    "text": "Fark\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251483",
+    "parent": "1251469",
+    "text": "Fier",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251469",
+    "parent": "7739252",
+    "text": "Fier County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251495",
+    "parent": "1251469",
+    "text": "Fier Shegan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248281",
+    "parent": "1248293",
+    "text": "Fierz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250567",
+    "parent": "1250609",
+    "text": "Fierz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248535",
+    "parent": "1759889",
+    "text": "Fierz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255547",
+    "parent": "1255521",
+    "text": "Finiq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251510",
+    "parent": "1251469",
+    "text": "Frakull",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253929",
+    "parent": "1253915",
+    "text": "Frash\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251500",
+    "parent": "1251469",
+    "text": "Fratar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250608",
+    "parent": "1250609",
+    "text": "Funar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249539",
+    "parent": "1249567",
+    "text": "Fush\u00eb \u00c7idh\u00ebn",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248265",
+    "parent": "1248293",
+    "text": "Fush\u00eb-Arr\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249546",
+    "parent": "1249567",
+    "text": "Fush\u00eb-Bulqiz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249876",
+    "parent": "1249872",
+    "text": "Fush\u00eb-Kruj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248919",
+    "parent": "1248935",
+    "text": "Fush\u00eb-Kuqe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248269",
+    "parent": "1248293",
+    "text": "Gjegjan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249875",
+    "parent": "1249872",
+    "text": "Gjepalaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252307",
+    "parent": "1252289",
+    "text": "Gjerb\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250572",
+    "parent": "1250609",
+    "text": "Gjergjan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248539",
+    "parent": "1759889",
+    "text": "Gjinaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250599",
+    "parent": "1250609",
+    "text": "Gjinar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253930",
+    "parent": "1253915",
+    "text": "Gjirokast\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253915",
+    "parent": "7739252",
+    "text": "Gjirokast\u00ebr County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1249565",
+    "parent": "1249567",
+    "text": "Gjoric\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250564",
+    "parent": "1250609",
+    "text": "Gjo\u00e7aj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248551",
+    "parent": "1759889",
+    "text": "Golaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251492",
+    "parent": "1251469",
+    "text": "Golem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250108",
+    "parent": "1250098",
+    "text": "Golem",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252566",
+    "parent": "1252589",
+    "text": "Gor\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250566",
+    "parent": "1250609",
+    "text": "Gostim\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250102",
+    "parent": "1250098",
+    "text": "Gos\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251484",
+    "parent": "1251469",
+    "text": "Grabian",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250617",
+    "parent": "1250609",
+    "text": "Gracen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251478",
+    "parent": "1251469",
+    "text": "Gradisht\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250593",
+    "parent": "1250609",
+    "text": "Gramsh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250583",
+    "parent": "1250609",
+    "text": "Grekan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251477",
+    "parent": "1251469",
+    "text": "Greshic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248299",
+    "parent": "1248293",
+    "text": "Gruemir\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248554",
+    "parent": "1759889",
+    "text": "Gryk\u00eb-\u00c7aje",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248289",
+    "parent": "1248293",
+    "text": "Guri i Zi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249549",
+    "parent": "1249567",
+    "text": "Gurr\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248272",
+    "parent": "1248293",
+    "text": "Hajmel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251472",
+    "parent": "1251469",
+    "text": "Hekal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250121",
+    "parent": "1250098",
+    "text": "Helmas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255539",
+    "parent": "1255521",
+    "text": "Himar\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255523",
+    "parent": "1255521",
+    "text": "Hor\u00eb-Vranisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250598",
+    "parent": "1250609",
+    "text": "Hotolisht",
     "admin_level": "8"
   },
   {
@@ -2250,9 +702,345 @@
     "admin_level": "8"
   },
   {
-    "id": "1252590",
+    "id": "1251515",
+    "parent": "1251469",
+    "text": "Hysgjokaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248291",
+    "parent": "1248293",
+    "text": "Iballe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249873",
+    "parent": "1249872",
+    "text": "Ish\u00ebm",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250562",
+    "parent": "1250609",
+    "text": "Kajan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249544",
+    "parent": "1249567",
+    "text": "Kala e Dod\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248543",
+    "parent": "1759889",
+    "text": "Kalis",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248932",
+    "parent": "1248935",
+    "text": "Kallmet",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250117",
+    "parent": "1250098",
+    "text": "Kam\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251503",
+    "parent": "1251469",
+    "text": "Karbunar\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250588",
+    "parent": "1250609",
+    "text": "Karin\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250095",
+    "parent": "1250098",
+    "text": "Kashar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248267",
+    "parent": "1248293",
+    "text": "Kastrat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249557",
+    "parent": "1249567",
+    "text": "Kastriot",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249878",
+    "parent": "1249872",
+    "text": "Katundi i Ri",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250096",
+    "parent": "1250098",
+    "text": "Kavaj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248923",
+    "parent": "1248935",
+    "text": "Ka\u00e7inar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248270",
+    "parent": "1248293",
+    "text": "Kelmend",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249542",
+    "parent": "1249567",
+    "text": "Klos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250613",
+    "parent": "1250609",
+    "text": "Klos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250615",
+    "parent": "1250609",
+    "text": "Kodovjat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251496",
+    "parent": "1251469",
+    "text": "Kolonj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248934",
+    "parent": "1248935",
+    "text": "Kolsh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248541",
+    "parent": "1759889",
+    "text": "Kolsh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249547",
+    "parent": "1249567",
+    "text": "Komsi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255548",
+    "parent": "1255521",
+    "text": "Konispol",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248296",
+    "parent": "1248293",
+    "text": "Koplik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252581",
     "parent": "1252589",
-    "text": "Libonik",
+    "text": "Kor\u00e7\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252589",
+    "parent": "7739252",
+    "text": "Kor\u00e7\u00eb County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1255528",
+    "parent": "1255521",
+    "text": "Kot\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252302",
+    "parent": "1252289",
+    "text": "Kozare",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253907",
+    "parent": "1253915",
+    "text": "Krah\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250124",
+    "parent": "1250098",
+    "text": "Krrab\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249885",
+    "parent": "1249872",
+    "text": "Kruj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248557",
+    "parent": "1759889",
+    "text": "Krum\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251489",
+    "parent": "1251469",
+    "text": "Krutje",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250101",
+    "parent": "1250098",
+    "text": "Kryevidh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255537",
+    "parent": "1255521",
+    "text": "Ksamil",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248937",
+    "parent": "1248935",
+    "text": "Kthell\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250581",
+    "parent": "1250609",
+    "text": "Kukur",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248537",
+    "parent": "1759889",
+    "text": "Kuk\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1759889",
+    "parent": "7739254",
+    "text": "Kuk\u00ebs County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251482",
+    "parent": "1251469",
+    "text": "Kuman",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251475",
+    "parent": "1251469",
+    "text": "Kurjan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253897",
+    "parent": "1253915",
+    "text": "Kurvelesh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250606",
+    "parent": "1250609",
+    "text": "Kushov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252300",
+    "parent": "1252289",
+    "text": "Kutalli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251470",
+    "parent": "1251469",
+    "text": "Kut\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252303",
+    "parent": "1252289",
+    "text": "Ku\u00e7ov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253928",
+    "parent": "1253915",
+    "text": "K\u00eblcyr\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250570",
+    "parent": "1250609",
+    "text": "Labinot Fush\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250561",
+    "parent": "1250609",
+    "text": "Labinot Mal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253910",
+    "parent": "1253915",
+    "text": "Lazarat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248928",
+    "parent": "1248935",
+    "text": "La\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250114",
+    "parent": "1250098",
+    "text": "Lekaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252585",
+    "parent": "1252589",
+    "text": "Lekas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248563",
+    "parent": "1759889",
+    "text": "Lekbibaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252282",
+    "parent": "1252289",
+    "text": "Leshnj\u00eb",
     "admin_level": "8"
   },
   {
@@ -2262,51 +1050,141 @@
     "admin_level": "8"
   },
   {
-    "id": "1252592",
-    "parent": "1252589",
-    "text": "Pojan",
+    "id": "1251501",
+    "parent": "1251469",
+    "text": "Levan",
     "admin_level": "8"
   },
   {
-    "id": "1252593",
-    "parent": "1252589",
-    "text": "Qend\u00ebr Bilisht",
+    "id": "1248929",
+    "parent": "1248935",
+    "text": "Lezh\u00eb",
     "admin_level": "8"
   },
   {
-    "id": "1252594",
-    "parent": "1252589",
-    "text": "Miras",
+    "id": "1248935",
+    "parent": "7739254",
+    "text": "Lezh\u00eb County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1251511",
+    "parent": "1251469",
+    "text": "Libofsh\u00eb",
     "admin_level": "8"
   },
   {
-    "id": "1252596",
-    "parent": "1252589",
-    "text": "Qend\u00ebr Leskovik",
+    "id": "1253905",
+    "parent": "1253915",
+    "text": "Libohov\u00eb",
     "admin_level": "8"
   },
   {
-    "id": "1252597",
+    "id": "1252590",
     "parent": "1252589",
-    "text": "Pirg",
+    "text": "Libonik",
     "admin_level": "8"
   },
   {
-    "id": "1252598",
-    "parent": "1252589",
-    "text": "Mollaj",
+    "id": "1250611",
+    "parent": "1250609",
+    "text": "Librazhd",
     "admin_level": "8"
   },
   {
-    "id": "1252599",
-    "parent": "1252589",
-    "text": "Voskopoj\u00eb",
+    "id": "1250610",
+    "parent": "1250609",
+    "text": "Librazhd Qend\u00ebr",
     "admin_level": "8"
   },
   {
-    "id": "1252600",
-    "parent": "1252589",
-    "text": "Ersek\u00eb",
+    "id": "1249568",
+    "parent": "1249567",
+    "text": "Lis",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255527",
+    "parent": "1255521",
+    "text": "Livadhja",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248546",
+    "parent": "1759889",
+    "text": "Llugaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253923",
+    "parent": "1253915",
+    "text": "Lop\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253917",
+    "parent": "1253915",
+    "text": "Luftinj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255535",
+    "parent": "1255521",
+    "text": "Lukov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252308",
+    "parent": "1252289",
+    "text": "Lumas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250574",
+    "parent": "1250609",
+    "text": "Lunik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253927",
+    "parent": "1253915",
+    "text": "Lunxh\u00ebri",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249572",
+    "parent": "1249567",
+    "text": "Lur\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251485",
+    "parent": "1251469",
+    "text": "Lushnj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250123",
+    "parent": "1250098",
+    "text": "Luz i Vog\u00ebl",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249564",
+    "parent": "1249567",
+    "text": "Luzni",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250586",
+    "parent": "1250609",
+    "text": "L\u00ebnie",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249569",
+    "parent": "1249567",
+    "text": "Macukull",
     "admin_level": "8"
   },
   {
@@ -2316,9 +1194,111 @@
     "admin_level": "8"
   },
   {
-    "id": "1252603",
+    "id": "1248562",
+    "parent": "1759889",
+    "text": "Malzi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249889",
+    "parent": "1249872",
+    "text": "Maminas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248924",
+    "parent": "1248935",
+    "text": "Mamurras",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249884",
+    "parent": "1249872",
+    "text": "Man\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249556",
+    "parent": "1249567",
+    "text": "Maqellar\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248564",
+    "parent": "1759889",
+    "text": "Margegaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255545",
+    "parent": "1255521",
+    "text": "Markat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249538",
+    "parent": "1249567",
+    "text": "Martanesh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251479",
+    "parent": "1251469",
+    "text": "Mbrostar Ura",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249559",
+    "parent": "1249567",
+    "text": "Melan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253920",
+    "parent": "1253915",
+    "text": "Memaliaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253888",
+    "parent": "1253915",
+    "text": "Memaliaj Fshat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255524",
+    "parent": "1255521",
+    "text": "Mesopotam",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248938",
+    "parent": "1248935",
+    "text": "Milot",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252594",
     "parent": "1252589",
-    "text": "Prog\u00ebr",
+    "text": "Miras",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252577",
+    "parent": "1252589",
+    "text": "Moglic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252598",
+    "parent": "1252589",
+    "text": "Mollaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250579",
+    "parent": "1250609",
+    "text": "Mollas",
     "admin_level": "8"
   },
   {
@@ -2328,9 +1308,1029 @@
     "admin_level": "8"
   },
   {
+    "id": "1249561",
+    "parent": "1249567",
+    "text": "Muhurr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250120",
+    "parent": "1250098",
+    "text": "Ndroq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251473",
+    "parent": "1251469",
+    "text": "Ngra\u00e7an",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249874",
+    "parent": "1249872",
+    "text": "Nik\u00ebl",
+    "admin_level": "8"
+  },
+  {
+    "id": "19622663",
+    "parent": "1250098",
+    "text": "Nj\u00ebsia Administrative Bathore",
+    "admin_level": "8"
+  },
+  {
+    "id": "19622661",
+    "parent": "1250098",
+    "text": "Nj\u00ebsia Administrative Nr. 2",
+    "admin_level": "8"
+  },
+  {
+    "id": "7739254",
+    "parent": "53292",
+    "text": "Northern Albania",
+    "admin_level": "4"
+  },
+  {
+    "id": "1255549",
+    "parent": "1255521",
+    "text": "Novosel\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252568",
+    "parent": "1252589",
+    "text": "Novosel\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253901",
+    "parent": "1253915",
+    "text": "Odrie",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250596",
+    "parent": "1250609",
+    "text": "Orenj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255538",
+    "parent": "1255521",
+    "text": "Orikum",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248927",
+    "parent": "1248935",
+    "text": "Orosh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249535",
+    "parent": "1249567",
+    "text": "Ostren",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252291",
+    "parent": "1252289",
+    "text": "Otllak",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250568",
+    "parent": "1250609",
+    "text": "Pajov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250604",
+    "parent": "1250609",
+    "text": "Pap\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251516",
+    "parent": "1251469",
+    "text": "Patos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250573",
+    "parent": "1250609",
+    "text": "Peqin",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252301",
+    "parent": "1252289",
+    "text": "Perondi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249558",
+    "parent": "1249567",
+    "text": "Peshkopi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253912",
+    "parent": "1253915",
+    "text": "Petran",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250107",
+    "parent": "1250098",
+    "text": "Petrel\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250115",
+    "parent": "1250098",
+    "text": "Pez\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253911",
+    "parent": "1253915",
+    "text": "Picar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252597",
+    "parent": "1252589",
+    "text": "Pirg",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250592",
+    "parent": "1250609",
+    "text": "Pishaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253906",
+    "parent": "1253915",
+    "text": "Pogon",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252567",
+    "parent": "1252589",
+    "text": "Pogradec",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252592",
+    "parent": "1252589",
+    "text": "Pojan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250594",
+    "parent": "1250609",
+    "text": "Polis",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252297",
+    "parent": "1252289",
+    "text": "Poli\u00e7an",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250620",
+    "parent": "1250609",
+    "text": "Poro\u00e7an",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251504",
+    "parent": "1251469",
+    "text": "Port\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252296",
+    "parent": "1252289",
+    "text": "Poshnj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248287",
+    "parent": "1248293",
+    "text": "Postrib\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252290",
+    "parent": "1252289",
+    "text": "Potom",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250103",
+    "parent": "1250098",
+    "text": "Prez\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252603",
+    "parent": "1252589",
+    "text": "Prog\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252571",
+    "parent": "1252589",
+    "text": "Proptisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248300",
+    "parent": "1248293",
+    "text": "Puk\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248290",
+    "parent": "1248293",
+    "text": "Pult",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252583",
+    "parent": "1252589",
+    "text": "Pustec",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253931",
+    "parent": "1253915",
+    "text": "P\u00ebrmet",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250600",
+    "parent": "1250609",
+    "text": "P\u00ebrparim",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250585",
+    "parent": "1250609",
+    "text": "P\u00ebrrenjas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248274",
+    "parent": "1248293",
+    "text": "Qaf\u00eb-Mali",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248298",
+    "parent": "1248293",
+    "text": "Qel\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248271",
+    "parent": "1248293",
+    "text": "Qend\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251497",
+    "parent": "1251469",
+    "text": "Qend\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252593",
+    "parent": "1252589",
+    "text": "Qend\u00ebr Bilisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252565",
+    "parent": "1252589",
+    "text": "Qend\u00ebr Bulgarec",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251490",
+    "parent": "1251469",
+    "text": "Qend\u00ebr Dukas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252586",
+    "parent": "1252589",
+    "text": "Qend\u00ebr Ersek\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252596",
+    "parent": "1252589",
+    "text": "Qend\u00ebr Leskovik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253922",
+    "parent": "1253915",
+    "text": "Qend\u00ebr Libohov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253925",
+    "parent": "1253915",
+    "text": "Qend\u00ebr Piskov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252305",
+    "parent": "1252289",
+    "text": "Qend\u00ebr Skrapar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253919",
+    "parent": "1253915",
+    "text": "Qend\u00ebr Tepelen\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255522",
+    "parent": "1255521",
+    "text": "Qend\u00ebr Vlor\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248277",
+    "parent": "1248293",
+    "text": "Qerret",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253891",
+    "parent": "1253915",
+    "text": "Qesarat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250563",
+    "parent": "1250609",
+    "text": "Quk\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249886",
+    "parent": "1249872",
+    "text": "Rashbull",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251512",
+    "parent": "1251469",
+    "text": "Remas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252283",
+    "parent": "1252289",
+    "text": "Roshnik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251471",
+    "parent": "1251469",
+    "text": "Roskovec",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250589",
+    "parent": "1250609",
+    "text": "Rrajc\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248295",
+    "parent": "1248293",
+    "text": "Rrap\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250614",
+    "parent": "1250609",
+    "text": "Rras\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248294",
+    "parent": "1248293",
+    "text": "Rrethinat",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250110",
+    "parent": "1250098",
+    "text": "Rrogozhin\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248930",
+    "parent": "1248935",
+    "text": "Rr\u00ebshen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248936",
+    "parent": "1248935",
+    "text": "Rubik",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249543",
+    "parent": "1249567",
+    "text": "Rukaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251502",
+    "parent": "1251469",
+    "text": "Ruzhdie",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255541",
+    "parent": "1255521",
+    "text": "Sarand\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255546",
+    "parent": "1255521",
+    "text": "Selenic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249566",
+    "parent": "1249567",
+    "text": "Selisht\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251493",
+    "parent": "1251469",
+    "text": "Selit\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248925",
+    "parent": "1248935",
+    "text": "Selit\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255536",
+    "parent": "1255521",
+    "text": "Sevaster",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248283",
+    "parent": "1248293",
+    "text": "Shal\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250616",
+    "parent": "1250609",
+    "text": "Shal\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250607",
+    "parent": "1250609",
+    "text": "Shez\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249881",
+    "parent": "1249872",
+    "text": "Shijak",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250582",
+    "parent": "1250609",
+    "text": "Shirgjan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248550",
+    "parent": "1759889",
+    "text": "Shishtavec",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248301",
+    "parent": "1248293",
+    "text": "Shkod\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248293",
+    "parent": "7739254",
+    "text": "Shkod\u00ebr County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1248280",
+    "parent": "1248293",
+    "text": "Shkrel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248288",
+    "parent": "1248293",
+    "text": "Shllak",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248266",
+    "parent": "1248293",
+    "text": "Shosh",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248556",
+    "parent": "1759889",
+    "text": "Shtiq\u00ebn",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249555",
+    "parent": "1249567",
+    "text": "Shupenz\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255525",
+    "parent": "1255521",
+    "text": "Shushic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250571",
+    "parent": "1250609",
+    "text": "Shushic\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250118",
+    "parent": "1250098",
+    "text": "Sh\u00ebngjergj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248917",
+    "parent": "1248935",
+    "text": "Sh\u00ebngjin",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248939",
+    "parent": "1248935",
+    "text": "Sh\u00ebnkoll",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250104",
+    "parent": "1250098",
+    "text": "Sinaballaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252280",
+    "parent": "1252289",
+    "text": "Sinj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250587",
+    "parent": "1250609",
+    "text": "Sk\u00ebnderbegas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249570",
+    "parent": "1249567",
+    "text": "Sllov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "7739252",
+    "parent": "53292",
+    "text": "Southern Albania",
+    "admin_level": "4"
+  },
+  {
+    "id": "1250612",
+    "parent": "1250609",
+    "text": "Stravaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251486",
+    "parent": "1251469",
+    "text": "Strum",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250575",
+    "parent": "1250609",
+    "text": "St\u00ebblev\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249880",
+    "parent": "1249872",
+    "text": "Sukth",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253904",
+    "parent": "1253915",
+    "text": "Suk\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250603",
+    "parent": "1250609",
+    "text": "Sult",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248538",
+    "parent": "1759889",
+    "text": "Surroj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249553",
+    "parent": "1249567",
+    "text": "Su\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250116",
+    "parent": "1250098",
+    "text": "Synej",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248279",
+    "parent": "1248293",
+    "text": "Temal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253887",
+    "parent": "1253915",
+    "text": "Tepelen\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249882",
+    "parent": "1249872",
+    "text": "Thuman\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250098",
+    "parent": "7739253",
+    "text": "Tirana County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1250106",
+    "parent": "1250098",
+    "text": "Tiran\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249551",
+    "parent": "1249567",
+    "text": "Tomin",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248552",
+    "parent": "1759889",
+    "text": "Topojan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251517",
+    "parent": "1251469",
+    "text": "Topoj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252569",
+    "parent": "1252589",
+    "text": "Trebinj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249563",
+    "parent": "1249567",
+    "text": "Trebisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250605",
+    "parent": "1250609",
+    "text": "Tregan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248565",
+    "parent": "1759889",
+    "text": "Tropoj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250569",
+    "parent": "1250609",
+    "text": "Tunj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251480",
+    "parent": "1251469",
+    "text": "T\u00ebrbuf",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252292",
+    "parent": "1252289",
+    "text": "T\u00ebrpan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248544",
+    "parent": "1759889",
+    "text": "T\u00ebrthor\u00eb",
+    "admin_level": "8"
+  },
+  {
     "id": "1252605",
     "parent": "1252589",
     "text": "Udenisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248540",
+    "parent": "1759889",
+    "text": "Ujmisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249534",
+    "parent": "1249567",
+    "text": "Ul\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248931",
+    "parent": "1248935",
+    "text": "Ungrej",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252287",
+    "parent": "1252289",
+    "text": "Ura Vajgurore",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250122",
+    "parent": "1250098",
+    "text": "Vaqarr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248278",
+    "parent": "1248293",
+    "text": "Vau-Dej\u00ebs",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252286",
+    "parent": "1252289",
+    "text": "Velabisht",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248297",
+    "parent": "1248293",
+    "text": "Velipoj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252584",
+    "parent": "1252589",
+    "text": "Vel\u00e7an",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255532",
+    "parent": "1255521",
+    "text": "Vergo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248292",
+    "parent": "1248293",
+    "text": "Vig-Mnel\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252578",
+    "parent": "1252589",
+    "text": "Vithkuq",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255544",
+    "parent": "1255521",
+    "text": "Vllahin\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255534",
+    "parent": "1255521",
+    "text": "Vlor\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255521",
+    "parent": "7739252",
+    "text": "Vlor\u00eb County",
+    "admin_level": "6"
+  },
+  {
+    "id": "1250109",
+    "parent": "1250098",
+    "text": "Vor\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252587",
+    "parent": "1252589",
+    "text": "Voskop",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252599",
+    "parent": "1252589",
+    "text": "Voskopoj\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252580",
+    "parent": "1252589",
+    "text": "Vreshtas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252298",
+    "parent": "1252289",
+    "text": "V\u00ebndresh\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252284",
+    "parent": "1252289",
+    "text": "V\u00ebrtop",
+    "admin_level": "8"
+  },
+  {
+    "id": "1255530",
+    "parent": "1255521",
+    "text": "Xarr\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249879",
+    "parent": "1249872",
+    "text": "Xhafzotaj",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249537",
+    "parent": "1249567",
+    "text": "Xib\u00ebr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253916",
+    "parent": "1253915",
+    "text": "Zagorie",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250105",
+    "parent": "1250098",
+    "text": "Zall-Bastar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249571",
+    "parent": "1249567",
+    "text": "Zall-Dardh\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250097",
+    "parent": "1250098",
+    "text": "Zall-Herr",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249552",
+    "parent": "1249567",
+    "text": "Zall-Re\u00e7",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248545",
+    "parent": "1759889",
+    "text": "Zapod",
+    "admin_level": "8"
+  },
+  {
+    "id": "1250597",
+    "parent": "1250609",
+    "text": "Zavalin\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1248933",
+    "parent": "1248935",
+    "text": "Zejmen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1249541",
+    "parent": "1249567",
+    "text": "Zerqan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1251506",
+    "parent": "1251469",
+    "text": "Zharr\u00ebz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252293",
+    "parent": "1252289",
+    "text": "Zhep\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1253908",
+    "parent": "1253915",
+    "text": "\u00c7ar\u00e7ov\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252306",
+    "parent": "1252289",
+    "text": "\u00c7epan",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252574",
+    "parent": "1252589",
+    "text": "\u00c7lirim",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252288",
+    "parent": "1252289",
+    "text": "\u00c7orovod\u00eb",
+    "admin_level": "8"
+  },
+  {
+    "id": "1252579",
+    "parent": "1252589",
+    "text": "\u00c7\u00ebrrav\u00eb",
     "admin_level": "8"
   }
 ]

@@ -1,45 +1,57 @@
 [
   {
-    "id": "198847",
-    "parent": "167454",
-    "text": "Valparaiso Region",
-    "admin_level": "4"
+    "id": "296844",
+    "parent": "1561031",
+    "text": "Algarrobo",
+    "admin_level": "8"
   },
   {
-    "id": "198848",
-    "parent": "167454",
-    "text": "Santiago Metropolitan Region",
-    "admin_level": "4"
+    "id": "1556873",
+    "parent": "1560881",
+    "text": "Alhu\u00e9",
+    "admin_level": "8"
   },
   {
-    "id": "206487",
-    "parent": "167454",
-    "text": "O'Higgins Region",
-    "admin_level": "4"
+    "id": "1659038",
+    "parent": "1622252",
+    "text": "Alto Biob\u00edo",
+    "admin_level": "8"
   },
   {
-    "id": "231672",
-    "parent": "167454",
-    "text": "Coquimbo Region",
-    "admin_level": "4"
+    "id": "239461",
+    "parent": "1561810",
+    "text": "Alto Hospicio",
+    "admin_level": "8"
   },
   {
-    "id": "238392",
-    "parent": "167454",
-    "text": "Arica y Parinacota Region",
-    "admin_level": "4"
+    "id": "1572124",
+    "parent": "1572118",
+    "text": "Alto del Carmen",
+    "admin_level": "8"
   },
   {
-    "id": "238393",
-    "parent": "167454",
-    "text": "Tarapac\u0430 Region",
-    "admin_level": "4"
+    "id": "3078203",
+    "parent": "3072992",
+    "text": "Ancud",
+    "admin_level": "8"
   },
   {
-    "id": "239882",
-    "parent": "167454",
-    "text": "Maule Region",
-    "admin_level": "4"
+    "id": "1589155",
+    "parent": "1588847",
+    "text": "Andacollo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1742885",
+    "parent": "1735986",
+    "text": "Angol",
+    "admin_level": "8"
+  },
+  {
+    "id": "1561898",
+    "parent": "1561897",
+    "text": "Antofagasta",
+    "admin_level": "8"
   },
   {
     "id": "240932",
@@ -48,9 +60,33 @@
     "admin_level": "4"
   },
   {
-    "id": "252891",
+    "id": "1652379",
+    "parent": "1622252",
+    "text": "Antuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "296378",
     "parent": "167454",
-    "text": "Biobio Region",
+    "text": "Araucania Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1654884",
+    "parent": "1654883",
+    "text": "Arauco",
+    "admin_level": "8"
+  },
+  {
+    "id": "269826",
+    "parent": "1568616",
+    "text": "Arica",
+    "admin_level": "8"
+  },
+  {
+    "id": "238392",
+    "parent": "167454",
+    "text": "Arica y Parinacota Region",
     "admin_level": "4"
   },
   {
@@ -60,381 +96,93 @@
     "admin_level": "4"
   },
   {
-    "id": "274988",
-    "parent": "167454",
-    "text": "Los R\u00edos",
-    "admin_level": "4"
-  },
-  {
-    "id": "274991",
-    "parent": "167454",
-    "text": "Los Lagos Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "296378",
-    "parent": "167454",
-    "text": "Araucania Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "301542",
-    "parent": "167454",
-    "text": "Magallanes and Chilean Antarctica Region",
-    "admin_level": "4"
-  },
-  {
     "id": "305693",
     "parent": "167454",
     "text": "Aysen del General Carlos Ibanez del Campo Region",
     "admin_level": "4"
   },
   {
-    "id": "7421025",
+    "id": "1982383",
+    "parent": "1982386",
+    "text": "Ays\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "252891",
     "parent": "167454",
-    "text": "Nuble Region",
+    "text": "Biobio Region",
     "admin_level": "4"
   },
   {
-    "id": "1561031",
-    "parent": "198847",
-    "text": "Provincia de San Antonio",
-    "admin_level": "6"
+    "id": "660816",
+    "parent": "1560883",
+    "text": "Buin",
+    "admin_level": "8"
   },
   {
-    "id": "1561037",
-    "parent": "198847",
-    "text": "Provincia de Valpara\u00edso",
-    "admin_level": "6"
+    "id": "1597490",
+    "parent": "7421029",
+    "text": "Bulnes",
+    "admin_level": "8"
   },
   {
-    "id": "1561140",
-    "parent": "198847",
-    "text": "Provincia de Marga Marga",
-    "admin_level": "6"
+    "id": "113204",
+    "parent": "1586777",
+    "text": "Cabildo",
+    "admin_level": "8"
   },
   {
-    "id": "1586777",
-    "parent": "198847",
-    "text": "Provincia de Petorca",
-    "admin_level": "6"
+    "id": "1652181",
+    "parent": "1622252",
+    "text": "Cabrero",
+    "admin_level": "8"
   },
   {
-    "id": "1671213",
-    "parent": "198847",
-    "text": "Provincia de Quillota",
-    "admin_level": "6"
+    "id": "1561886",
+    "parent": "1561883",
+    "text": "Calama",
+    "admin_level": "8"
   },
   {
-    "id": "1671231",
-    "parent": "198847",
-    "text": "Provincia de San Felipe de Aconcagua",
-    "admin_level": "6"
+    "id": "1798800",
+    "parent": "1796333",
+    "text": "Calbuco",
+    "admin_level": "8"
   },
   {
-    "id": "1671299",
-    "parent": "198847",
-    "text": "Provincia de Los Andes",
-    "admin_level": "6"
+    "id": "295912",
+    "parent": "1572125",
+    "text": "Caldera",
+    "admin_level": "8"
   },
   {
-    "id": "1773340",
-    "parent": "198847",
-    "text": "Easter Island Province",
-    "admin_level": "6"
+    "id": "1626780",
+    "parent": "1560883",
+    "text": "Calera de Tango",
+    "admin_level": "8"
   },
   {
-    "id": "1974213",
-    "parent": "301542",
-    "text": "Provincia de la Ant\u00e1rtica Chilena",
-    "admin_level": "6"
+    "id": "176529",
+    "parent": "1671299",
+    "text": "Calle Larga",
+    "admin_level": "8"
   },
   {
-    "id": "1980481",
-    "parent": "301542",
-    "text": "Provincia de Magallanes",
-    "admin_level": "6"
+    "id": "406185",
+    "parent": "1568616",
+    "text": "Camarones",
+    "admin_level": "8"
   },
   {
-    "id": "1980558",
-    "parent": "301542",
-    "text": "Provincia de Tierra del Fuego",
-    "admin_level": "6"
+    "id": "239347",
+    "parent": "1561942",
+    "text": "Cami\u00f1a",
+    "admin_level": "8"
   },
   {
-    "id": "1980749",
-    "parent": "301542",
-    "text": "Provincia de \u00daltima Esperanza",
-    "admin_level": "6"
-  },
-  {
-    "id": "1791815",
-    "parent": "274991",
-    "text": "Provincia de Osorno",
-    "admin_level": "6"
-  },
-  {
-    "id": "1796333",
-    "parent": "274991",
-    "text": "Provincia de Llanquihue",
-    "admin_level": "6"
-  },
-  {
-    "id": "1820293",
-    "parent": "274991",
-    "text": "Provincia de Palena",
-    "admin_level": "6"
-  },
-  {
-    "id": "3072992",
-    "parent": "274991",
-    "text": "Provincia de Chilo\u00e9",
-    "admin_level": "6"
-  },
-  {
-    "id": "1981571",
-    "parent": "305693",
-    "text": "Provincia de Capit\u00e1n Prat",
-    "admin_level": "6"
-  },
-  {
-    "id": "1982290",
-    "parent": "305693",
-    "text": "Provincia de General Carrera",
-    "admin_level": "6"
-  },
-  {
-    "id": "1982311",
-    "parent": "305693",
-    "text": "Provincia de Coyhaique",
-    "admin_level": "6"
-  },
-  {
-    "id": "1982386",
-    "parent": "305693",
-    "text": "Provincia de Ays\u00e9n",
-    "admin_level": "6"
-  },
-  {
-    "id": "1558891",
-    "parent": "252891",
-    "text": "Provincia de Concepci\u00f3n",
-    "admin_level": "6"
-  },
-  {
-    "id": "1622252",
-    "parent": "252891",
-    "text": "Provincia de B\u00edo-B\u00edo",
-    "admin_level": "6"
-  },
-  {
-    "id": "1654883",
-    "parent": "252891",
-    "text": "Provincia de Arauco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1769310",
-    "parent": "274988",
-    "text": "Provincia de Valdivia",
-    "admin_level": "6"
-  },
-  {
-    "id": "1785846",
-    "parent": "274988",
-    "text": "Provincia de Ranco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1734788",
-    "parent": "296378",
-    "text": "Provincia de Caut\u00edn",
-    "admin_level": "6"
-  },
-  {
-    "id": "1735986",
-    "parent": "296378",
-    "text": "Provincia de Malleco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561883",
-    "parent": "240932",
-    "text": "Provincia de El Loa",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561884",
-    "parent": "240932",
-    "text": "Provincia de Tocopilla",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561897",
-    "parent": "240932",
-    "text": "Provincia de Antofagasta",
-    "admin_level": "6"
-  },
-  {
-    "id": "1560881",
-    "parent": "198848",
-    "text": "Provincia de Melipilla",
-    "admin_level": "6"
-  },
-  {
-    "id": "1560882",
-    "parent": "198848",
-    "text": "Provincia de Talagante",
-    "admin_level": "6"
-  },
-  {
-    "id": "1560883",
-    "parent": "198848",
-    "text": "Provincia de Maipo",
-    "admin_level": "6"
-  },
-  {
-    "id": "1664191",
-    "parent": "198848",
-    "text": "Provincia de Cordillera",
-    "admin_level": "6"
-  },
-  {
-    "id": "1673446",
-    "parent": "198848",
-    "text": "Provincia de Chacabuco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1674530",
-    "parent": "198848",
-    "text": "Provincia de Santiago",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561023",
-    "parent": "206487",
-    "text": "Provincia de Cachapoal",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561024",
-    "parent": "206487",
-    "text": "Provincia de Cardenal Caro",
-    "admin_level": "6"
-  },
-  {
-    "id": "1661314",
-    "parent": "206487",
-    "text": "Provincia de Colchagua",
-    "admin_level": "6"
-  },
-  {
-    "id": "545521",
-    "parent": "239882",
-    "text": "Provincia de Linares",
-    "admin_level": "6"
-  },
-  {
-    "id": "546158",
-    "parent": "239882",
-    "text": "Provincia de Cauquenes",
-    "admin_level": "6"
-  },
-  {
-    "id": "546186",
-    "parent": "239882",
-    "text": "Provincia de Talca",
-    "admin_level": "6"
-  },
-  {
-    "id": "546193",
-    "parent": "239882",
-    "text": "Provincia de Curic\u00f3",
-    "admin_level": "6"
-  },
-  {
-    "id": "7421026",
-    "parent": "7421025",
-    "text": "Provincia de Punilla",
-    "admin_level": "6"
-  },
-  {
-    "id": "7421027",
-    "parent": "7421025",
-    "text": "Provincia de Itata",
-    "admin_level": "6"
-  },
-  {
-    "id": "7421029",
-    "parent": "7421025",
-    "text": "Provincia de Diguill\u00edn",
-    "admin_level": "6"
-  },
-  {
-    "id": "1584131",
-    "parent": "231672",
-    "text": "Provincia de Choapa",
-    "admin_level": "6"
-  },
-  {
-    "id": "1588847",
-    "parent": "231672",
-    "text": "Provincia de Elqui",
-    "admin_level": "6"
-  },
-  {
-    "id": "1589855",
-    "parent": "231672",
-    "text": "Provincia de Limar\u00ed",
-    "admin_level": "6"
-  },
-  {
-    "id": "1572118",
-    "parent": "271889",
-    "text": "Provincia de Huasco",
-    "admin_level": "6"
-  },
-  {
-    "id": "1572125",
-    "parent": "271889",
-    "text": "Provincia de Copiap\u00f3",
-    "admin_level": "6"
-  },
-  {
-    "id": "1573477",
-    "parent": "271889",
-    "text": "Provincia de Cha\u00f1aral",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561810",
-    "parent": "238393",
-    "text": "Provincia de Iquique",
-    "admin_level": "6"
-  },
-  {
-    "id": "1561942",
-    "parent": "238393",
-    "text": "Provincia del Tamarugal",
-    "admin_level": "6"
-  },
-  {
-    "id": "1568616",
-    "parent": "238392",
-    "text": "Provincia de Arica",
-    "admin_level": "6"
-  },
-  {
-    "id": "1568630",
-    "parent": "238392",
-    "text": "Provincia de Parinacota",
-    "admin_level": "6"
-  },
-  {
-    "id": "1773341",
-    "parent": "1773340",
-    "text": "Easter Island",
+    "id": "1591198",
+    "parent": "1584131",
+    "text": "Canela",
     "admin_level": "8"
   },
   {
@@ -444,87 +192,57 @@
     "admin_level": "8"
   },
   {
-    "id": "1979467",
-    "parent": "1980481",
-    "text": "Punta Arenas",
+    "id": "1742431",
+    "parent": "1734788",
+    "text": "Carahue",
     "admin_level": "8"
   },
   {
-    "id": "1980429",
-    "parent": "1980481",
-    "text": "San Gregorio",
+    "id": "296823",
+    "parent": "1561031",
+    "text": "Cartagena",
     "admin_level": "8"
   },
   {
-    "id": "1980431",
-    "parent": "1980481",
-    "text": "Laguna Blanca",
+    "id": "112129",
+    "parent": "1561037",
+    "text": "Casablanca",
     "admin_level": "8"
   },
   {
-    "id": "1980437",
-    "parent": "1980481",
-    "text": "R\u00edo Verde",
+    "id": "3076091",
+    "parent": "3072992",
+    "text": "Castro",
     "admin_level": "8"
   },
   {
-    "id": "1980517",
-    "parent": "1980558",
-    "text": "Porvenir",
+    "id": "113227",
+    "parent": "1671231",
+    "text": "Catemu",
     "admin_level": "8"
   },
   {
-    "id": "1980521",
-    "parent": "1980558",
-    "text": "Primavera",
+    "id": "255374",
+    "parent": "546158",
+    "text": "Cauquenes",
     "admin_level": "8"
   },
   {
-    "id": "1980553",
-    "parent": "1980558",
-    "text": "Timaukel",
+    "id": "1656043",
+    "parent": "1654883",
+    "text": "Ca\u00f1ete",
     "admin_level": "8"
   },
   {
-    "id": "1981246",
-    "parent": "1981571",
-    "text": "O\u2019Higgins",
+    "id": "168260",
+    "parent": "1674530",
+    "text": "Cerrillos",
     "admin_level": "8"
   },
   {
-    "id": "1981462",
-    "parent": "1981571",
-    "text": "Tortel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1981561",
-    "parent": "1981571",
-    "text": "Cochrane",
-    "admin_level": "8"
-  },
-  {
-    "id": "1982324",
-    "parent": "1982386",
-    "text": "Guaitecas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1982362",
-    "parent": "1982386",
-    "text": "Cisnes",
-    "admin_level": "8"
-  },
-  {
-    "id": "1982383",
-    "parent": "1982386",
-    "text": "Ays\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1820318",
-    "parent": "1820293",
-    "text": "Hualaihu\u00e9",
+    "id": "168271",
+    "parent": "1674530",
+    "text": "Cerro Navia",
     "admin_level": "8"
   },
   {
@@ -534,15 +252,21 @@
     "admin_level": "8"
   },
   {
-    "id": "3067455",
-    "parent": "1820293",
-    "text": "Palena",
+    "id": "296342",
+    "parent": "546158",
+    "text": "Chanco",
     "admin_level": "8"
   },
   {
-    "id": "3067460",
-    "parent": "1820293",
-    "text": "Futaleuf\u00fa",
+    "id": "295905",
+    "parent": "1573477",
+    "text": "Cha\u00f1aral",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622086",
+    "parent": "1558891",
+    "text": "Chiguayante",
     "admin_level": "8"
   },
   {
@@ -552,9 +276,183 @@
     "admin_level": "8"
   },
   {
-    "id": "1982289",
-    "parent": "1982290",
-    "text": "R\u00edo Ib\u00e1\u00f1ez",
+    "id": "255340",
+    "parent": "7421029",
+    "text": "Chill\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "269390",
+    "parent": "7421029",
+    "text": "Chill\u00e1n Viejo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1675973",
+    "parent": "1661314",
+    "text": "Chimbarongo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1767500",
+    "parent": "1734788",
+    "text": "Cholchol",
+    "admin_level": "8"
+  },
+  {
+    "id": "3076208",
+    "parent": "3072992",
+    "text": "Chonchi",
+    "admin_level": "8"
+  },
+  {
+    "id": "252816",
+    "parent": "1661314",
+    "text": "Ch\u00e9pica",
+    "admin_level": "8"
+  },
+  {
+    "id": "1982362",
+    "parent": "1982386",
+    "text": "Cisnes",
+    "admin_level": "8"
+  },
+  {
+    "id": "296294",
+    "parent": "7421027",
+    "text": "Cobquecura",
+    "admin_level": "8"
+  },
+  {
+    "id": "1798828",
+    "parent": "1796333",
+    "text": "Cocham\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "1981561",
+    "parent": "1981571",
+    "text": "Cochrane",
+    "admin_level": "8"
+  },
+  {
+    "id": "1664153",
+    "parent": "1561023",
+    "text": "Codegua",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558627",
+    "parent": "7421027",
+    "text": "Coelemu",
+    "admin_level": "8"
+  },
+  {
+    "id": "255295",
+    "parent": "7421026",
+    "text": "Coihueco",
+    "admin_level": "8"
+  },
+  {
+    "id": "1662398",
+    "parent": "1561023",
+    "text": "Coinco",
+    "admin_level": "8"
+  },
+  {
+    "id": "255307",
+    "parent": "545521",
+    "text": "Colb\u00fan",
+    "admin_level": "8"
+  },
+  {
+    "id": "239348",
+    "parent": "1561942",
+    "text": "Colchane",
+    "admin_level": "8"
+  },
+  {
+    "id": "164101",
+    "parent": "1673446",
+    "text": "Colina",
+    "admin_level": "8"
+  },
+  {
+    "id": "1736040",
+    "parent": "1735986",
+    "text": "Collipulli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1556979",
+    "parent": "1561023",
+    "text": "Coltauco",
+    "admin_level": "8"
+  },
+  {
+    "id": "1589896",
+    "parent": "1589855",
+    "text": "Combarbal\u00e1",
+    "admin_level": "8"
+  },
+  {
+    "id": "1620105",
+    "parent": "1558891",
+    "text": "Concepcion",
+    "admin_level": "8"
+  },
+  {
+    "id": "190910",
+    "parent": "1674530",
+    "text": "Conchal\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "110722",
+    "parent": "1561037",
+    "text": "Conc\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "296369",
+    "parent": "546186",
+    "text": "Constituci\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1656148",
+    "parent": "1654883",
+    "text": "Contulmo",
+    "admin_level": "8"
+  },
+  {
+    "id": "295922",
+    "parent": "1572125",
+    "text": "Copiap\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "1588926",
+    "parent": "1588847",
+    "text": "Coquimbo",
+    "admin_level": "8"
+  },
+  {
+    "id": "231672",
+    "parent": "167454",
+    "text": "Coquimbo Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1622313",
+    "parent": "1558891",
+    "text": "Coronel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1785692",
+    "parent": "1769310",
+    "text": "Corral",
     "admin_level": "8"
   },
   {
@@ -564,51 +462,147 @@
     "admin_level": "8"
   },
   {
-    "id": "1982310",
-    "parent": "1982311",
-    "text": "Lago Verde",
+    "id": "1735940",
+    "parent": "1734788",
+    "text": "Cunco",
     "admin_level": "8"
   },
   {
-    "id": "1791802",
-    "parent": "1791815",
-    "text": "San Pablo",
+    "id": "1736036",
+    "parent": "1735986",
+    "text": "Curacaut\u00edn",
     "admin_level": "8"
   },
   {
-    "id": "1791817",
-    "parent": "1791815",
-    "text": "San Juan de la Costa",
+    "id": "168297",
+    "parent": "1560881",
+    "text": "Curacav\u00ed",
     "admin_level": "8"
   },
   {
-    "id": "1794711",
-    "parent": "1791815",
-    "text": "Osorno",
+    "id": "3078354",
+    "parent": "3072992",
+    "text": "Curaco de V\u00e9lez",
     "admin_level": "8"
   },
   {
-    "id": "1795049",
-    "parent": "1791815",
-    "text": "Puyehue",
+    "id": "1655930",
+    "parent": "1654883",
+    "text": "Curanilahue",
     "admin_level": "8"
   },
   {
-    "id": "1795768",
-    "parent": "1791815",
-    "text": "Puerto Octay",
+    "id": "1734789",
+    "parent": "1734788",
+    "text": "Curarrehue",
     "admin_level": "8"
   },
   {
-    "id": "1795795",
-    "parent": "1791815",
-    "text": "R\u00edo Negro",
+    "id": "252836",
+    "parent": "546186",
+    "text": "Curepto",
     "admin_level": "8"
   },
   {
-    "id": "1795811",
-    "parent": "1791815",
-    "text": "Purranque",
+    "id": "544819",
+    "parent": "546193",
+    "text": "Curic\u00f3",
+    "admin_level": "8"
+  },
+  {
+    "id": "3077688",
+    "parent": "3072992",
+    "text": "Dalcahue",
+    "admin_level": "8"
+  },
+  {
+    "id": "295896",
+    "parent": "1573477",
+    "text": "Diego de Almagro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1557007",
+    "parent": "1561023",
+    "text": "Do\u00f1ihue",
+    "admin_level": "8"
+  },
+  {
+    "id": "1773341",
+    "parent": "1773340",
+    "text": "Easter Island",
+    "admin_level": "8"
+  },
+  {
+    "id": "1773340",
+    "parent": "198847",
+    "text": "Easter Island Province",
+    "admin_level": "6"
+  },
+  {
+    "id": "191203",
+    "parent": "1674530",
+    "text": "El Bosque",
+    "admin_level": "8"
+  },
+  {
+    "id": "1560012",
+    "parent": "7421029",
+    "text": "El Carmen",
+    "admin_level": "8"
+  },
+  {
+    "id": "1617563",
+    "parent": "1560882",
+    "text": "El Monte",
+    "admin_level": "8"
+  },
+  {
+    "id": "296843",
+    "parent": "1561031",
+    "text": "El Quisco",
+    "admin_level": "8"
+  },
+  {
+    "id": "296841",
+    "parent": "1561031",
+    "text": "El Tabo",
+    "admin_level": "8"
+  },
+  {
+    "id": "296368",
+    "parent": "546186",
+    "text": "Empedrado",
+    "admin_level": "8"
+  },
+  {
+    "id": "1766964",
+    "parent": "1735986",
+    "text": "Ercilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "168058",
+    "parent": "1674530",
+    "text": "Estaci\u00f3n Central",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622109",
+    "parent": "1558891",
+    "text": "Florida",
+    "admin_level": "8"
+  },
+  {
+    "id": "1767496",
+    "parent": "1734788",
+    "text": "Freire",
+    "admin_level": "8"
+  },
+  {
+    "id": "1572198",
+    "parent": "1572118",
+    "text": "Freirina",
     "admin_level": "8"
   },
   {
@@ -624,147 +618,9 @@
     "admin_level": "8"
   },
   {
-    "id": "1798790",
-    "parent": "1796333",
-    "text": "Maull\u00edn",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798791",
-    "parent": "1796333",
-    "text": "Llanquihue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798792",
-    "parent": "1796333",
-    "text": "Los Muermos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798800",
-    "parent": "1796333",
-    "text": "Calbuco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798806",
-    "parent": "1796333",
-    "text": "Puerto Montt",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798828",
-    "parent": "1796333",
-    "text": "Cocham\u00f3",
-    "admin_level": "8"
-  },
-  {
-    "id": "1798888",
-    "parent": "1796333",
-    "text": "Puerto Varas",
-    "admin_level": "8"
-  },
-  {
-    "id": "3076091",
-    "parent": "3072992",
-    "text": "Castro",
-    "admin_level": "8"
-  },
-  {
-    "id": "3076208",
-    "parent": "3072992",
-    "text": "Chonchi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3076644",
-    "parent": "3072992",
-    "text": "Quell\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "3076728",
-    "parent": "3072992",
-    "text": "Queilen",
-    "admin_level": "8"
-  },
-  {
-    "id": "3077688",
-    "parent": "3072992",
-    "text": "Dalcahue",
-    "admin_level": "8"
-  },
-  {
-    "id": "3078203",
-    "parent": "3072992",
-    "text": "Ancud",
-    "admin_level": "8"
-  },
-  {
-    "id": "3078348",
-    "parent": "3072992",
-    "text": "Quemchi",
-    "admin_level": "8"
-  },
-  {
-    "id": "3078354",
-    "parent": "3072992",
-    "text": "Curaco de V\u00e9lez",
-    "admin_level": "8"
-  },
-  {
-    "id": "3078364",
-    "parent": "3072992",
-    "text": "Quinchao",
-    "admin_level": "8"
-  },
-  {
-    "id": "3078387",
-    "parent": "3072992",
-    "text": "Puqueld\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1654884",
-    "parent": "1654883",
-    "text": "Arauco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1654913",
-    "parent": "1654883",
-    "text": "Lebu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1655930",
-    "parent": "1654883",
-    "text": "Curanilahue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1656036",
-    "parent": "1654883",
-    "text": "Los \u00c1lamos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1656043",
-    "parent": "1654883",
-    "text": "Ca\u00f1ete",
-    "admin_level": "8"
-  },
-  {
-    "id": "1656147",
-    "parent": "1654883",
-    "text": "Tir\u00faa",
-    "admin_level": "8"
-  },
-  {
-    "id": "1656148",
-    "parent": "1654883",
-    "text": "Contulmo",
+    "id": "3067460",
+    "parent": "1820293",
+    "text": "Futaleuf\u00fa",
     "admin_level": "8"
   },
   {
@@ -774,9 +630,177 @@
     "admin_level": "8"
   },
   {
-    "id": "1791147",
-    "parent": "1785846",
-    "text": "R\u00edo Bueno",
+    "id": "1767319",
+    "parent": "1734788",
+    "text": "Galvarino",
+    "admin_level": "8"
+  },
+  {
+    "id": "406175",
+    "parent": "1568630",
+    "text": "General Lagos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1769301",
+    "parent": "1734788",
+    "text": "Gorbea",
+    "admin_level": "8"
+  },
+  {
+    "id": "1560884",
+    "parent": "1561023",
+    "text": "Graneros",
+    "admin_level": "8"
+  },
+  {
+    "id": "1982324",
+    "parent": "1982386",
+    "text": "Guaitecas",
+    "admin_level": "8"
+  },
+  {
+    "id": "175918",
+    "parent": "1671213",
+    "text": "Hijuelas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1820318",
+    "parent": "1820293",
+    "text": "Hualaihu\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "252814",
+    "parent": "546193",
+    "text": "Huala\u00f1\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "1614641",
+    "parent": "1558891",
+    "text": "Hualp\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1620107",
+    "parent": "1558891",
+    "text": "Hualqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "239349",
+    "parent": "1561942",
+    "text": "Huara",
+    "admin_level": "8"
+  },
+  {
+    "id": "1572197",
+    "parent": "1572118",
+    "text": "Huasco",
+    "admin_level": "8"
+  },
+  {
+    "id": "164091",
+    "parent": "1674530",
+    "text": "Huechuraba",
+    "admin_level": "8"
+  },
+  {
+    "id": "1591199",
+    "parent": "1584131",
+    "text": "Illapel",
+    "admin_level": "8"
+  },
+  {
+    "id": "168060",
+    "parent": "1674530",
+    "text": "Independencia",
+    "admin_level": "8"
+  },
+  {
+    "id": "239456",
+    "parent": "1561810",
+    "text": "Iquique",
+    "admin_level": "8"
+  },
+  {
+    "id": "1557251",
+    "parent": "1560882",
+    "text": "Isla de Maipo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1773333",
+    "parent": "1561037",
+    "text": "Juan Fern\u00e1ndez",
+    "admin_level": "8"
+  },
+  {
+    "id": "113226",
+    "parent": "1671213",
+    "text": "La Calera",
+    "admin_level": "8"
+  },
+  {
+    "id": "191200",
+    "parent": "1674530",
+    "text": "La Cisterna",
+    "admin_level": "8"
+  },
+  {
+    "id": "113197",
+    "parent": "1671213",
+    "text": "La Cruz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1661286",
+    "parent": "1561024",
+    "text": "La Estrella",
+    "admin_level": "8"
+  },
+  {
+    "id": "224590",
+    "parent": "1674530",
+    "text": "La Florida",
+    "admin_level": "8"
+  },
+  {
+    "id": "191220",
+    "parent": "1674530",
+    "text": "La Granja",
+    "admin_level": "8"
+  },
+  {
+    "id": "1588846",
+    "parent": "1588847",
+    "text": "La Higuera",
+    "admin_level": "8"
+  },
+  {
+    "id": "113201",
+    "parent": "1586777",
+    "text": "La Ligua",
+    "admin_level": "8"
+  },
+  {
+    "id": "191216",
+    "parent": "1674530",
+    "text": "La Pintana",
+    "admin_level": "8"
+  },
+  {
+    "id": "162992",
+    "parent": "1674530",
+    "text": "La Reina",
+    "admin_level": "8"
+  },
+  {
+    "id": "1588927",
+    "parent": "1588847",
+    "text": "La Serena",
     "admin_level": "8"
   },
   {
@@ -792,93 +816,15 @@
     "admin_level": "8"
   },
   {
-    "id": "1558890",
-    "parent": "1558891",
-    "text": "Tom\u00e9",
+    "id": "1982310",
+    "parent": "1982311",
+    "text": "Lago Verde",
     "admin_level": "8"
   },
   {
-    "id": "1614637",
-    "parent": "1558891",
-    "text": "Penco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1614638",
-    "parent": "1558891",
-    "text": "Talcahuano",
-    "admin_level": "8"
-  },
-  {
-    "id": "1614641",
-    "parent": "1558891",
-    "text": "Hualp\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1620105",
-    "parent": "1558891",
-    "text": "Concepcion",
-    "admin_level": "8"
-  },
-  {
-    "id": "1620107",
-    "parent": "1558891",
-    "text": "Hualqui",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622086",
-    "parent": "1558891",
-    "text": "Chiguayante",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622109",
-    "parent": "1558891",
-    "text": "Florida",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622274",
-    "parent": "1558891",
-    "text": "Santa Juana",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622313",
-    "parent": "1558891",
-    "text": "Coronel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622326",
-    "parent": "1558891",
-    "text": "San Pedro de la Paz",
-    "admin_level": "8"
-  },
-  {
-    "id": "1654885",
-    "parent": "1558891",
-    "text": "Lota",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622204",
-    "parent": "1622252",
-    "text": "Yumbel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1622253",
-    "parent": "1622252",
-    "text": "San Rosendo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1632643",
-    "parent": "1622252",
-    "text": "Nacimiento",
+    "id": "1980431",
+    "parent": "1980481",
+    "text": "Laguna Blanca",
     "admin_level": "8"
   },
   {
@@ -888,261 +834,9 @@
     "admin_level": "8"
   },
   {
-    "id": "1652181",
-    "parent": "1622252",
-    "text": "Cabrero",
-    "admin_level": "8"
-  },
-  {
-    "id": "1652379",
-    "parent": "1622252",
-    "text": "Antuco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1658515",
-    "parent": "1622252",
-    "text": "Los \u00c1ngeles",
-    "admin_level": "8"
-  },
-  {
-    "id": "1658516",
-    "parent": "1622252",
-    "text": "Mulch\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1658517",
-    "parent": "1622252",
-    "text": "Negrete",
-    "admin_level": "8"
-  },
-  {
-    "id": "1659003",
-    "parent": "1622252",
-    "text": "Tucapel",
-    "admin_level": "8"
-  },
-  {
-    "id": "1659035",
-    "parent": "1622252",
-    "text": "Quilleco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1659037",
-    "parent": "1622252",
-    "text": "Santa B\u00e1rbara",
-    "admin_level": "8"
-  },
-  {
-    "id": "1659038",
-    "parent": "1622252",
-    "text": "Alto Biob\u00edo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1659044",
-    "parent": "1622252",
-    "text": "Quilaco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1734577",
-    "parent": "1734788",
-    "text": "Puc\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1734789",
-    "parent": "1734788",
-    "text": "Curarrehue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1734921",
-    "parent": "1734788",
-    "text": "Villarrica",
-    "admin_level": "8"
-  },
-  {
-    "id": "1735940",
-    "parent": "1734788",
-    "text": "Cunco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1735968",
-    "parent": "1734788",
-    "text": "Melipeuco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736000",
-    "parent": "1734788",
-    "text": "Vilc\u00fan",
-    "admin_level": "8"
-  },
-  {
-    "id": "1742431",
-    "parent": "1734788",
-    "text": "Carahue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1766982",
-    "parent": "1734788",
-    "text": "Perquenco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767210",
-    "parent": "1734788",
-    "text": "Lautaro",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767300",
-    "parent": "1734788",
-    "text": "Temuco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767319",
-    "parent": "1734788",
-    "text": "Galvarino",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767375",
-    "parent": "1734788",
-    "text": "Saavedra",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767428",
-    "parent": "1734788",
-    "text": "Teodoro Schmidt",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767496",
-    "parent": "1734788",
-    "text": "Freire",
-    "admin_level": "8"
-  },
-  {
-    "id": "1767500",
-    "parent": "1734788",
-    "text": "Cholchol",
-    "admin_level": "8"
-  },
-  {
-    "id": "1768732",
-    "parent": "1734788",
-    "text": "Nueva Imperial",
-    "admin_level": "8"
-  },
-  {
-    "id": "1768743",
-    "parent": "1734788",
-    "text": "Padre Las Casas",
-    "admin_level": "8"
-  },
-  {
-    "id": "1768825",
-    "parent": "1734788",
-    "text": "Pitrufqu\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1768852",
-    "parent": "1734788",
-    "text": "Loncoche",
-    "admin_level": "8"
-  },
-  {
-    "id": "1769297",
-    "parent": "1734788",
-    "text": "Tolt\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1769301",
-    "parent": "1734788",
-    "text": "Gorbea",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736001",
-    "parent": "1735986",
-    "text": "Lonquimay",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736036",
-    "parent": "1735986",
-    "text": "Curacaut\u00edn",
-    "admin_level": "8"
-  },
-  {
-    "id": "1736040",
-    "parent": "1735986",
-    "text": "Collipulli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1742570",
-    "parent": "1735986",
-    "text": "Lumaco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1742662",
-    "parent": "1735986",
-    "text": "Pur\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1742885",
-    "parent": "1735986",
-    "text": "Angol",
-    "admin_level": "8"
-  },
-  {
-    "id": "1742919",
-    "parent": "1735986",
-    "text": "Renaico",
-    "admin_level": "8"
-  },
-  {
-    "id": "1763067",
-    "parent": "1735986",
-    "text": "Los Sauces",
-    "admin_level": "8"
-  },
-  {
-    "id": "1766964",
-    "parent": "1735986",
-    "text": "Ercilla",
-    "admin_level": "8"
-  },
-  {
-    "id": "1766981",
-    "parent": "1735986",
-    "text": "Victoria",
-    "admin_level": "8"
-  },
-  {
-    "id": "1766983",
-    "parent": "1735986",
-    "text": "Traigu\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1769309",
-    "parent": "1769310",
-    "text": "Panguipulli",
+    "id": "168295",
+    "parent": "1673446",
+    "text": "Lampa",
     "admin_level": "8"
   },
   {
@@ -1152,945 +846,9 @@
     "admin_level": "8"
   },
   {
-    "id": "1785656",
-    "parent": "1769310",
-    "text": "Mariquina",
-    "admin_level": "8"
-  },
-  {
-    "id": "1785668",
-    "parent": "1769310",
-    "text": "M\u00e1fil",
-    "admin_level": "8"
-  },
-  {
-    "id": "1785691",
-    "parent": "1769310",
-    "text": "Valdivia",
-    "admin_level": "8"
-  },
-  {
-    "id": "1785692",
-    "parent": "1769310",
-    "text": "Corral",
-    "admin_level": "8"
-  },
-  {
-    "id": "1785707",
-    "parent": "1769310",
-    "text": "Los Lagos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1785852",
-    "parent": "1769310",
-    "text": "Paillaco",
-    "admin_level": "8"
-  },
-  {
-    "id": "110710",
-    "parent": "1561037",
-    "text": "Puchuncav\u00ed",
-    "admin_level": "8"
-  },
-  {
-    "id": "110719",
-    "parent": "1561037",
-    "text": "Quintero",
-    "admin_level": "8"
-  },
-  {
-    "id": "110722",
-    "parent": "1561037",
-    "text": "Conc\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "110804",
-    "parent": "1561037",
-    "text": "Vi\u00f1a del Mar",
-    "admin_level": "8"
-  },
-  {
-    "id": "110808",
-    "parent": "1561037",
-    "text": "Valpara\u00edso",
-    "admin_level": "8"
-  },
-  {
-    "id": "112129",
-    "parent": "1561037",
-    "text": "Casablanca",
-    "admin_level": "8"
-  },
-  {
-    "id": "1773333",
-    "parent": "1561037",
-    "text": "Juan Fern\u00e1ndez",
-    "admin_level": "8"
-  },
-  {
-    "id": "1561885",
-    "parent": "1561883",
-    "text": "Ollag\u00fce",
-    "admin_level": "8"
-  },
-  {
-    "id": "1561886",
-    "parent": "1561883",
-    "text": "Calama",
-    "admin_level": "8"
-  },
-  {
-    "id": "1574063",
-    "parent": "1561883",
-    "text": "San Pedro de Atacama",
-    "admin_level": "8"
-  },
-  {
-    "id": "295912",
-    "parent": "1572125",
-    "text": "Caldera",
-    "admin_level": "8"
-  },
-  {
-    "id": "295922",
-    "parent": "1572125",
-    "text": "Copiap\u00f3",
-    "admin_level": "8"
-  },
-  {
-    "id": "1572123",
-    "parent": "1572125",
-    "text": "Tierra Amarilla",
-    "admin_level": "8"
-  },
-  {
-    "id": "295896",
-    "parent": "1573477",
-    "text": "Diego de Almagro",
-    "admin_level": "8"
-  },
-  {
-    "id": "295905",
-    "parent": "1573477",
-    "text": "Cha\u00f1aral",
-    "admin_level": "8"
-  },
-  {
-    "id": "255306",
-    "parent": "545521",
-    "text": "Parral",
-    "admin_level": "8"
-  },
-  {
-    "id": "255307",
-    "parent": "545521",
-    "text": "Colb\u00fan",
-    "admin_level": "8"
-  },
-  {
-    "id": "255308",
-    "parent": "545521",
-    "text": "Longav\u00ed",
-    "admin_level": "8"
-  },
-  {
-    "id": "255309",
-    "parent": "545521",
-    "text": "Linares",
-    "admin_level": "8"
-  },
-  {
-    "id": "255333",
-    "parent": "545521",
-    "text": "Retiro",
-    "admin_level": "8"
-  },
-  {
-    "id": "541848",
-    "parent": "545521",
-    "text": "San Javier",
-    "admin_level": "8"
-  },
-  {
-    "id": "545904",
-    "parent": "545521",
-    "text": "Villa Alegre",
-    "admin_level": "8"
-  },
-  {
-    "id": "545905",
-    "parent": "545521",
-    "text": "Yerbas Buenas",
-    "admin_level": "8"
-  },
-  {
-    "id": "252836",
-    "parent": "546186",
-    "text": "Curepto",
-    "admin_level": "8"
-  },
-  {
-    "id": "296368",
-    "parent": "546186",
-    "text": "Empedrado",
-    "admin_level": "8"
-  },
-  {
-    "id": "296369",
-    "parent": "546186",
-    "text": "Constituci\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "541797",
-    "parent": "546186",
-    "text": "Talca",
-    "admin_level": "8"
-  },
-  {
-    "id": "541799",
-    "parent": "546186",
-    "text": "Pelarco",
-    "admin_level": "8"
-  },
-  {
-    "id": "541816",
-    "parent": "546186",
-    "text": "San Rafael",
-    "admin_level": "8"
-  },
-  {
-    "id": "541830",
-    "parent": "546186",
-    "text": "Pencahue",
-    "admin_level": "8"
-  },
-  {
-    "id": "541831",
-    "parent": "546186",
-    "text": "Maule",
-    "admin_level": "8"
-  },
-  {
-    "id": "544839",
-    "parent": "546186",
-    "text": "R\u00edo Claro",
-    "admin_level": "8"
-  },
-  {
-    "id": "546213",
-    "parent": "546186",
-    "text": "San Clemente",
-    "admin_level": "8"
-  },
-  {
-    "id": "252792",
-    "parent": "546193",
-    "text": "Vichuqu\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "252814",
-    "parent": "546193",
-    "text": "Huala\u00f1\u00e9",
-    "admin_level": "8"
-  },
-  {
-    "id": "252815",
-    "parent": "546193",
-    "text": "Rauco",
-    "admin_level": "8"
-  },
-  {
-    "id": "252837",
-    "parent": "546193",
-    "text": "Licant\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "541828",
-    "parent": "546193",
-    "text": "Molina",
-    "admin_level": "8"
-  },
-  {
-    "id": "541829",
-    "parent": "546193",
-    "text": "Sagrada Familia",
-    "admin_level": "8"
-  },
-  {
-    "id": "544817",
-    "parent": "546193",
-    "text": "Teno",
-    "admin_level": "8"
-  },
-  {
-    "id": "544818",
-    "parent": "546193",
-    "text": "Romeral",
-    "admin_level": "8"
-  },
-  {
-    "id": "544819",
-    "parent": "546193",
-    "text": "Curic\u00f3",
-    "admin_level": "8"
-  },
-  {
-    "id": "168297",
-    "parent": "1560881",
-    "text": "Curacav\u00ed",
-    "admin_level": "8"
-  },
-  {
-    "id": "296835",
-    "parent": "1560881",
-    "text": "Melipilla",
-    "admin_level": "8"
-  },
-  {
-    "id": "296836",
-    "parent": "1560881",
-    "text": "San Pedro",
-    "admin_level": "8"
-  },
-  {
-    "id": "296839",
-    "parent": "1560881",
-    "text": "Mar\u00eda Pinto",
-    "admin_level": "8"
-  },
-  {
-    "id": "1556873",
-    "parent": "1560881",
-    "text": "Alhu\u00e9",
-    "admin_level": "8"
-  },
-  {
-    "id": "1556979",
-    "parent": "1561023",
-    "text": "Coltauco",
-    "admin_level": "8"
-  },
-  {
     "id": "1556980",
     "parent": "1561023",
     "text": "Las Cabras",
-    "admin_level": "8"
-  },
-  {
-    "id": "1556987",
-    "parent": "1561023",
-    "text": "Peumo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1557007",
-    "parent": "1561023",
-    "text": "Do\u00f1ihue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1557209",
-    "parent": "1561023",
-    "text": "Mostazal",
-    "admin_level": "8"
-  },
-  {
-    "id": "1560884",
-    "parent": "1561023",
-    "text": "Graneros",
-    "admin_level": "8"
-  },
-  {
-    "id": "1661293",
-    "parent": "1561023",
-    "text": "Pichidegua",
-    "admin_level": "8"
-  },
-  {
-    "id": "1662398",
-    "parent": "1561023",
-    "text": "Coinco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1662420",
-    "parent": "1561023",
-    "text": "Olivar",
-    "admin_level": "8"
-  },
-  {
-    "id": "1662436",
-    "parent": "1561023",
-    "text": "Rancagua",
-    "admin_level": "8"
-  },
-  {
-    "id": "1664153",
-    "parent": "1561023",
-    "text": "Codegua",
-    "admin_level": "8"
-  },
-  {
-    "id": "1664171",
-    "parent": "1561023",
-    "text": "Machal\u00ed",
-    "admin_level": "8"
-  },
-  {
-    "id": "1665248",
-    "parent": "1561023",
-    "text": "Requ\u00ednoa",
-    "admin_level": "8"
-  },
-  {
-    "id": "1665334",
-    "parent": "1561023",
-    "text": "Rengo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1665550",
-    "parent": "1561023",
-    "text": "Quinta de Tilcoco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1665551",
-    "parent": "1561023",
-    "text": "Malloa",
-    "admin_level": "8"
-  },
-  {
-    "id": "1666367",
-    "parent": "1561023",
-    "text": "San Vicente de Tagua Tagua",
-    "admin_level": "8"
-  },
-  {
-    "id": "252813",
-    "parent": "1561024",
-    "text": "Paredones",
-    "admin_level": "8"
-  },
-  {
-    "id": "1556894",
-    "parent": "1561024",
-    "text": "Navidad",
-    "admin_level": "8"
-  },
-  {
-    "id": "1556895",
-    "parent": "1561024",
-    "text": "Litueche",
-    "admin_level": "8"
-  },
-  {
-    "id": "1660973",
-    "parent": "1561024",
-    "text": "Pichilemu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1661155",
-    "parent": "1561024",
-    "text": "Marchig\u00fce",
-    "admin_level": "8"
-  },
-  {
-    "id": "1661286",
-    "parent": "1561024",
-    "text": "La Estrella",
-    "admin_level": "8"
-  },
-  {
-    "id": "252816",
-    "parent": "1661314",
-    "text": "Ch\u00e9pica",
-    "admin_level": "8"
-  },
-  {
-    "id": "252817",
-    "parent": "1661314",
-    "text": "Lolol",
-    "admin_level": "8"
-  },
-  {
-    "id": "1661304",
-    "parent": "1661314",
-    "text": "Peralillo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1661441",
-    "parent": "1661314",
-    "text": "Pumanque",
-    "admin_level": "8"
-  },
-  {
-    "id": "1674793",
-    "parent": "1661314",
-    "text": "Placilla",
-    "admin_level": "8"
-  },
-  {
-    "id": "1674868",
-    "parent": "1661314",
-    "text": "Nancagua",
-    "admin_level": "8"
-  },
-  {
-    "id": "1675972",
-    "parent": "1661314",
-    "text": "San Fernando",
-    "admin_level": "8"
-  },
-  {
-    "id": "1675973",
-    "parent": "1661314",
-    "text": "Chimbarongo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1675976",
-    "parent": "1661314",
-    "text": "Palmilla",
-    "admin_level": "8"
-  },
-  {
-    "id": "1675985",
-    "parent": "1661314",
-    "text": "Santa Cruz",
-    "admin_level": "8"
-  },
-  {
-    "id": "166556",
-    "parent": "1664191",
-    "text": "San Jos\u00e9 de Maipo",
-    "admin_level": "8"
-  },
-  {
-    "id": "166571",
-    "parent": "1664191",
-    "text": "Puente Alto",
-    "admin_level": "8"
-  },
-  {
-    "id": "238959",
-    "parent": "1664191",
-    "text": "Pirque",
-    "admin_level": "8"
-  },
-  {
-    "id": "255295",
-    "parent": "7421026",
-    "text": "Coihueco",
-    "admin_level": "8"
-  },
-  {
-    "id": "255296",
-    "parent": "7421026",
-    "text": "San Fabi\u00e1n",
-    "admin_level": "8"
-  },
-  {
-    "id": "255335",
-    "parent": "7421026",
-    "text": "\u00d1iqu\u00e9n",
-    "admin_level": "8"
-  },
-  {
-    "id": "255339",
-    "parent": "7421026",
-    "text": "San Carlos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1558759",
-    "parent": "7421026",
-    "text": "San Nicol\u00e1s",
-    "admin_level": "8"
-  },
-  {
-    "id": "255340",
-    "parent": "7421029",
-    "text": "Chill\u00e1n",
-    "admin_level": "8"
-  },
-  {
-    "id": "269309",
-    "parent": "7421029",
-    "text": "Pinto",
-    "admin_level": "8"
-  },
-  {
-    "id": "269388",
-    "parent": "7421029",
-    "text": "San Ignacio",
-    "admin_level": "8"
-  },
-  {
-    "id": "269390",
-    "parent": "7421029",
-    "text": "Chill\u00e1n Viejo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1560012",
-    "parent": "7421029",
-    "text": "El Carmen",
-    "admin_level": "8"
-  },
-  {
-    "id": "1597490",
-    "parent": "7421029",
-    "text": "Bulnes",
-    "admin_level": "8"
-  },
-  {
-    "id": "1597510",
-    "parent": "7421029",
-    "text": "Quill\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "1652065",
-    "parent": "7421029",
-    "text": "Pemuco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1652478",
-    "parent": "7421029",
-    "text": "Yungay",
-    "admin_level": "8"
-  },
-  {
-    "id": "296294",
-    "parent": "7421027",
-    "text": "Cobquecura",
-    "admin_level": "8"
-  },
-  {
-    "id": "296295",
-    "parent": "7421027",
-    "text": "Quirihue",
-    "admin_level": "8"
-  },
-  {
-    "id": "296296",
-    "parent": "7421027",
-    "text": "Ninhue",
-    "admin_level": "8"
-  },
-  {
-    "id": "1558531",
-    "parent": "7421027",
-    "text": "Treguaco",
-    "admin_level": "8"
-  },
-  {
-    "id": "1558627",
-    "parent": "7421027",
-    "text": "Coelemu",
-    "admin_level": "8"
-  },
-  {
-    "id": "1558832",
-    "parent": "7421027",
-    "text": "Portezuelo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1558833",
-    "parent": "7421027",
-    "text": "R\u00e1nquil",
-    "admin_level": "8"
-  },
-  {
-    "id": "255374",
-    "parent": "546158",
-    "text": "Cauquenes",
-    "admin_level": "8"
-  },
-  {
-    "id": "296293",
-    "parent": "546158",
-    "text": "Pelluhue",
-    "admin_level": "8"
-  },
-  {
-    "id": "296342",
-    "parent": "546158",
-    "text": "Chanco",
-    "admin_level": "8"
-  },
-  {
-    "id": "660810",
-    "parent": "1560883",
-    "text": "San Bernardo",
-    "admin_level": "8"
-  },
-  {
-    "id": "660816",
-    "parent": "1560883",
-    "text": "Buin",
-    "admin_level": "8"
-  },
-  {
-    "id": "1557208",
-    "parent": "1560883",
-    "text": "Paine",
-    "admin_level": "8"
-  },
-  {
-    "id": "1626780",
-    "parent": "1560883",
-    "text": "Calera de Tango",
-    "admin_level": "8"
-  },
-  {
-    "id": "231952",
-    "parent": "1584131",
-    "text": "Salamanca",
-    "admin_level": "8"
-  },
-  {
-    "id": "231954",
-    "parent": "1584131",
-    "text": "Los Vilos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1591198",
-    "parent": "1584131",
-    "text": "Canela",
-    "admin_level": "8"
-  },
-  {
-    "id": "1591199",
-    "parent": "1584131",
-    "text": "Illapel",
-    "admin_level": "8"
-  },
-  {
-    "id": "110713",
-    "parent": "1586777",
-    "text": "Zapallar",
-    "admin_level": "8"
-  },
-  {
-    "id": "113201",
-    "parent": "1586777",
-    "text": "La Ligua",
-    "admin_level": "8"
-  },
-  {
-    "id": "113203",
-    "parent": "1586777",
-    "text": "Papudo",
-    "admin_level": "8"
-  },
-  {
-    "id": "113204",
-    "parent": "1586777",
-    "text": "Cabildo",
-    "admin_level": "8"
-  },
-  {
-    "id": "231953",
-    "parent": "1586777",
-    "text": "Petorca",
-    "admin_level": "8"
-  },
-  {
-    "id": "1589854",
-    "parent": "1589855",
-    "text": "Monte Patria",
-    "admin_level": "8"
-  },
-  {
-    "id": "1589856",
-    "parent": "1589855",
-    "text": "R\u00edo Hurtado",
-    "admin_level": "8"
-  },
-  {
-    "id": "1589895",
-    "parent": "1589855",
-    "text": "Punitaqui",
-    "admin_level": "8"
-  },
-  {
-    "id": "1589896",
-    "parent": "1589855",
-    "text": "Combarbal\u00e1",
-    "admin_level": "8"
-  },
-  {
-    "id": "1590028",
-    "parent": "1589855",
-    "text": "Ovalle",
-    "admin_level": "8"
-  },
-  {
-    "id": "166557",
-    "parent": "1671299",
-    "text": "Los Andes",
-    "admin_level": "8"
-  },
-  {
-    "id": "175949",
-    "parent": "1671299",
-    "text": "Rinconada",
-    "admin_level": "8"
-  },
-  {
-    "id": "176529",
-    "parent": "1671299",
-    "text": "Calle Larga",
-    "admin_level": "8"
-  },
-  {
-    "id": "231879",
-    "parent": "1671299",
-    "text": "San Esteban",
-    "admin_level": "8"
-  },
-  {
-    "id": "296814",
-    "parent": "1561031",
-    "text": "Santo Domingo",
-    "admin_level": "8"
-  },
-  {
-    "id": "296816",
-    "parent": "1561031",
-    "text": "San Antonio",
-    "admin_level": "8"
-  },
-  {
-    "id": "296823",
-    "parent": "1561031",
-    "text": "Cartagena",
-    "admin_level": "8"
-  },
-  {
-    "id": "296841",
-    "parent": "1561031",
-    "text": "El Tabo",
-    "admin_level": "8"
-  },
-  {
-    "id": "296843",
-    "parent": "1561031",
-    "text": "El Quisco",
-    "admin_level": "8"
-  },
-  {
-    "id": "296844",
-    "parent": "1561031",
-    "text": "Algarrobo",
-    "admin_level": "8"
-  },
-  {
-    "id": "110807",
-    "parent": "1561140",
-    "text": "Quilpu\u00e9",
-    "admin_level": "8"
-  },
-  {
-    "id": "112799",
-    "parent": "1561140",
-    "text": "Villa Alemana",
-    "admin_level": "8"
-  },
-  {
-    "id": "113178",
-    "parent": "1561140",
-    "text": "Limache",
-    "admin_level": "8"
-  },
-  {
-    "id": "113185",
-    "parent": "1561140",
-    "text": "Olmu\u00e9",
-    "admin_level": "8"
-  },
-  {
-    "id": "175820",
-    "parent": "1560882",
-    "text": "Padre Hurtado",
-    "admin_level": "8"
-  },
-  {
-    "id": "1557251",
-    "parent": "1560882",
-    "text": "Isla de Maipo",
-    "admin_level": "8"
-  },
-  {
-    "id": "1617563",
-    "parent": "1560882",
-    "text": "El Monte",
-    "admin_level": "8"
-  },
-  {
-    "id": "1626477",
-    "parent": "1560882",
-    "text": "Pe\u00f1aflor",
-    "admin_level": "8"
-  },
-  {
-    "id": "1626706",
-    "parent": "1560882",
-    "text": "Talagante",
-    "admin_level": "8"
-  },
-  {
-    "id": "164101",
-    "parent": "1673446",
-    "text": "Colina",
-    "admin_level": "8"
-  },
-  {
-    "id": "168295",
-    "parent": "1673446",
-    "text": "Lampa",
-    "admin_level": "8"
-  },
-  {
-    "id": "175894",
-    "parent": "1673446",
-    "text": "Tiltil",
-    "admin_level": "8"
-  },
-  {
-    "id": "109577",
-    "parent": "1674530",
-    "text": "Renca",
-    "admin_level": "8"
-  },
-  {
-    "id": "162983",
-    "parent": "1674530",
-    "text": "Providencia",
-    "admin_level": "8"
-  },
-  {
-    "id": "162984",
-    "parent": "1674530",
-    "text": "Recoleta",
-    "admin_level": "8"
-  },
-  {
-    "id": "162990",
-    "parent": "1674530",
-    "text": "Vitacura",
     "admin_level": "8"
   },
   {
@@ -2100,201 +858,45 @@
     "admin_level": "8"
   },
   {
-    "id": "162992",
-    "parent": "1674530",
-    "text": "La Reina",
+    "id": "1767210",
+    "parent": "1734788",
+    "text": "Lautaro",
     "admin_level": "8"
   },
   {
-    "id": "162993",
-    "parent": "1674530",
-    "text": "\u00d1u\u00f1oa",
+    "id": "1654913",
+    "parent": "1654883",
+    "text": "Lebu",
     "admin_level": "8"
   },
   {
-    "id": "164090",
-    "parent": "1674530",
-    "text": "Lo Barnechea",
+    "id": "252837",
+    "parent": "546193",
+    "text": "Licant\u00e9n",
     "admin_level": "8"
   },
   {
-    "id": "164091",
-    "parent": "1674530",
-    "text": "Huechuraba",
+    "id": "113178",
+    "parent": "1561140",
+    "text": "Limache",
     "admin_level": "8"
   },
   {
-    "id": "164102",
-    "parent": "1674530",
-    "text": "Quilicura",
+    "id": "255309",
+    "parent": "545521",
+    "text": "Linares",
     "admin_level": "8"
   },
   {
-    "id": "164137",
-    "parent": "1674530",
-    "text": "Pe\u00f1alol\u00e9n",
+    "id": "1556895",
+    "parent": "1561024",
+    "text": "Litueche",
     "admin_level": "8"
   },
   {
-    "id": "164609",
-    "parent": "1674530",
-    "text": "Santiago",
-    "admin_level": "8"
-  },
-  {
-    "id": "168055",
-    "parent": "1674530",
-    "text": "San Joaqu\u00edn",
-    "admin_level": "8"
-  },
-  {
-    "id": "168056",
-    "parent": "1674530",
-    "text": "San Miguel",
-    "admin_level": "8"
-  },
-  {
-    "id": "168057",
-    "parent": "1674530",
-    "text": "Pedro Aguirre Cerda",
-    "admin_level": "8"
-  },
-  {
-    "id": "168058",
-    "parent": "1674530",
-    "text": "Estaci\u00f3n Central",
-    "admin_level": "8"
-  },
-  {
-    "id": "168059",
-    "parent": "1674530",
-    "text": "Quinta Normal",
-    "admin_level": "8"
-  },
-  {
-    "id": "168060",
-    "parent": "1674530",
-    "text": "Independencia",
-    "admin_level": "8"
-  },
-  {
-    "id": "168259",
-    "parent": "1674530",
-    "text": "Maip\u00fa",
-    "admin_level": "8"
-  },
-  {
-    "id": "168260",
-    "parent": "1674530",
-    "text": "Cerrillos",
-    "admin_level": "8"
-  },
-  {
-    "id": "168268",
-    "parent": "1674530",
-    "text": "Lo Prado",
-    "admin_level": "8"
-  },
-  {
-    "id": "168269",
-    "parent": "1674530",
-    "text": "Pudahuel",
-    "admin_level": "8"
-  },
-  {
-    "id": "168271",
-    "parent": "1674530",
-    "text": "Cerro Navia",
-    "admin_level": "8"
-  },
-  {
-    "id": "190910",
-    "parent": "1674530",
-    "text": "Conchal\u00ed",
-    "admin_level": "8"
-  },
-  {
-    "id": "191190",
-    "parent": "1674530",
-    "text": "Macul",
-    "admin_level": "8"
-  },
-  {
-    "id": "191193",
-    "parent": "1674530",
-    "text": "Lo Espejo",
-    "admin_level": "8"
-  },
-  {
-    "id": "191200",
-    "parent": "1674530",
-    "text": "La Cisterna",
-    "admin_level": "8"
-  },
-  {
-    "id": "191201",
-    "parent": "1674530",
-    "text": "San Ram\u00f3n",
-    "admin_level": "8"
-  },
-  {
-    "id": "191203",
-    "parent": "1674530",
-    "text": "El Bosque",
-    "admin_level": "8"
-  },
-  {
-    "id": "191216",
-    "parent": "1674530",
-    "text": "La Pintana",
-    "admin_level": "8"
-  },
-  {
-    "id": "191220",
-    "parent": "1674530",
-    "text": "La Granja",
-    "admin_level": "8"
-  },
-  {
-    "id": "224590",
-    "parent": "1674530",
-    "text": "La Florida",
-    "admin_level": "8"
-  },
-  {
-    "id": "113196",
-    "parent": "1671213",
-    "text": "Quillota",
-    "admin_level": "8"
-  },
-  {
-    "id": "113197",
-    "parent": "1671213",
-    "text": "La Cruz",
-    "admin_level": "8"
-  },
-  {
-    "id": "113199",
-    "parent": "1671213",
-    "text": "Nogales",
-    "admin_level": "8"
-  },
-  {
-    "id": "113226",
-    "parent": "1671213",
-    "text": "La Calera",
-    "admin_level": "8"
-  },
-  {
-    "id": "175918",
-    "parent": "1671213",
-    "text": "Hijuelas",
-    "admin_level": "8"
-  },
-  {
-    "id": "113227",
-    "parent": "1671231",
-    "text": "Catemu",
+    "id": "1798791",
+    "parent": "1796333",
+    "text": "Llanquihue",
     "admin_level": "8"
   },
   {
@@ -2304,123 +906,153 @@
     "admin_level": "8"
   },
   {
-    "id": "175944",
-    "parent": "1671231",
-    "text": "Panquehue",
+    "id": "164090",
+    "parent": "1674530",
+    "text": "Lo Barnechea",
     "admin_level": "8"
   },
   {
-    "id": "176528",
-    "parent": "1671231",
-    "text": "San Felipe",
+    "id": "191193",
+    "parent": "1674530",
+    "text": "Lo Espejo",
     "admin_level": "8"
   },
   {
-    "id": "176538",
-    "parent": "1671231",
-    "text": "Putaendo",
+    "id": "168268",
+    "parent": "1674530",
+    "text": "Lo Prado",
     "admin_level": "8"
   },
   {
-    "id": "231949",
-    "parent": "1671231",
-    "text": "Santa Mar\u00eda",
+    "id": "252817",
+    "parent": "1661314",
+    "text": "Lolol",
     "admin_level": "8"
   },
   {
-    "id": "1572107",
-    "parent": "1572118",
-    "text": "Vallenar",
+    "id": "1768852",
+    "parent": "1734788",
+    "text": "Loncoche",
     "admin_level": "8"
   },
   {
-    "id": "1572124",
-    "parent": "1572118",
-    "text": "Alto del Carmen",
+    "id": "255308",
+    "parent": "545521",
+    "text": "Longav\u00ed",
     "admin_level": "8"
   },
   {
-    "id": "1572197",
-    "parent": "1572118",
-    "text": "Huasco",
+    "id": "1736001",
+    "parent": "1735986",
+    "text": "Lonquimay",
     "admin_level": "8"
   },
   {
-    "id": "1572198",
-    "parent": "1572118",
-    "text": "Freirina",
+    "id": "166557",
+    "parent": "1671299",
+    "text": "Los Andes",
     "admin_level": "8"
   },
   {
-    "id": "1588846",
-    "parent": "1588847",
-    "text": "La Higuera",
+    "id": "1785707",
+    "parent": "1769310",
+    "text": "Los Lagos",
     "admin_level": "8"
   },
   {
-    "id": "1588848",
-    "parent": "1588847",
-    "text": "Vicu\u00f1a",
+    "id": "274991",
+    "parent": "167454",
+    "text": "Los Lagos Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1798792",
+    "parent": "1796333",
+    "text": "Los Muermos",
     "admin_level": "8"
   },
   {
-    "id": "1588854",
-    "parent": "1588847",
-    "text": "Paihuano",
+    "id": "274988",
+    "parent": "167454",
+    "text": "Los R\u00edos",
+    "admin_level": "4"
+  },
+  {
+    "id": "1763067",
+    "parent": "1735986",
+    "text": "Los Sauces",
     "admin_level": "8"
   },
   {
-    "id": "1588926",
-    "parent": "1588847",
-    "text": "Coquimbo",
+    "id": "231954",
+    "parent": "1584131",
+    "text": "Los Vilos",
     "admin_level": "8"
   },
   {
-    "id": "1588927",
-    "parent": "1588847",
-    "text": "La Serena",
+    "id": "1656036",
+    "parent": "1654883",
+    "text": "Los \u00c1lamos",
     "admin_level": "8"
   },
   {
-    "id": "1589155",
-    "parent": "1588847",
-    "text": "Andacollo",
+    "id": "1658515",
+    "parent": "1622252",
+    "text": "Los \u00c1ngeles",
     "admin_level": "8"
   },
   {
-    "id": "295883",
-    "parent": "1561897",
-    "text": "Taltal",
+    "id": "1654885",
+    "parent": "1558891",
+    "text": "Lota",
     "admin_level": "8"
   },
   {
-    "id": "1561898",
-    "parent": "1561897",
-    "text": "Antofagasta",
+    "id": "1742570",
+    "parent": "1735986",
+    "text": "Lumaco",
     "admin_level": "8"
   },
   {
-    "id": "1561899",
-    "parent": "1561897",
-    "text": "Sierra Gorda",
+    "id": "1664171",
+    "parent": "1561023",
+    "text": "Machal\u00ed",
     "admin_level": "8"
   },
   {
-    "id": "1564422",
-    "parent": "1561897",
-    "text": "Mejillones",
+    "id": "191190",
+    "parent": "1674530",
+    "text": "Macul",
     "admin_level": "8"
   },
   {
-    "id": "239456",
-    "parent": "1561810",
-    "text": "Iquique",
+    "id": "301542",
+    "parent": "167454",
+    "text": "Magallanes and Chilean Antarctica Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "168259",
+    "parent": "1674530",
+    "text": "Maip\u00fa",
     "admin_level": "8"
   },
   {
-    "id": "239461",
-    "parent": "1561810",
-    "text": "Alto Hospicio",
+    "id": "1665551",
+    "parent": "1561023",
+    "text": "Malloa",
+    "admin_level": "8"
+  },
+  {
+    "id": "1661155",
+    "parent": "1561024",
+    "text": "Marchig\u00fce",
+    "admin_level": "8"
+  },
+  {
+    "id": "1785656",
+    "parent": "1769310",
+    "text": "Mariquina",
     "admin_level": "8"
   },
   {
@@ -2430,27 +1062,309 @@
     "admin_level": "8"
   },
   {
-    "id": "1562080",
-    "parent": "1561884",
-    "text": "Tocopilla",
+    "id": "296839",
+    "parent": "1560881",
+    "text": "Mar\u00eda Pinto",
     "admin_level": "8"
   },
   {
-    "id": "239347",
-    "parent": "1561942",
-    "text": "Cami\u00f1a",
+    "id": "541831",
+    "parent": "546186",
+    "text": "Maule",
     "admin_level": "8"
   },
   {
-    "id": "239348",
-    "parent": "1561942",
-    "text": "Colchane",
+    "id": "239882",
+    "parent": "167454",
+    "text": "Maule Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1798790",
+    "parent": "1796333",
+    "text": "Maull\u00edn",
     "admin_level": "8"
   },
   {
-    "id": "239349",
-    "parent": "1561942",
-    "text": "Huara",
+    "id": "1564422",
+    "parent": "1561897",
+    "text": "Mejillones",
+    "admin_level": "8"
+  },
+  {
+    "id": "1735968",
+    "parent": "1734788",
+    "text": "Melipeuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "296835",
+    "parent": "1560881",
+    "text": "Melipilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "541828",
+    "parent": "546193",
+    "text": "Molina",
+    "admin_level": "8"
+  },
+  {
+    "id": "1589854",
+    "parent": "1589855",
+    "text": "Monte Patria",
+    "admin_level": "8"
+  },
+  {
+    "id": "1557209",
+    "parent": "1561023",
+    "text": "Mostazal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1658516",
+    "parent": "1622252",
+    "text": "Mulch\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1785668",
+    "parent": "1769310",
+    "text": "M\u00e1fil",
+    "admin_level": "8"
+  },
+  {
+    "id": "1632643",
+    "parent": "1622252",
+    "text": "Nacimiento",
+    "admin_level": "8"
+  },
+  {
+    "id": "1674868",
+    "parent": "1661314",
+    "text": "Nancagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "1556894",
+    "parent": "1561024",
+    "text": "Navidad",
+    "admin_level": "8"
+  },
+  {
+    "id": "1658517",
+    "parent": "1622252",
+    "text": "Negrete",
+    "admin_level": "8"
+  },
+  {
+    "id": "296296",
+    "parent": "7421027",
+    "text": "Ninhue",
+    "admin_level": "8"
+  },
+  {
+    "id": "113199",
+    "parent": "1671213",
+    "text": "Nogales",
+    "admin_level": "8"
+  },
+  {
+    "id": "7421025",
+    "parent": "167454",
+    "text": "Nuble Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1768732",
+    "parent": "1734788",
+    "text": "Nueva Imperial",
+    "admin_level": "8"
+  },
+  {
+    "id": "206487",
+    "parent": "167454",
+    "text": "O'Higgins Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1662420",
+    "parent": "1561023",
+    "text": "Olivar",
+    "admin_level": "8"
+  },
+  {
+    "id": "1561885",
+    "parent": "1561883",
+    "text": "Ollag\u00fce",
+    "admin_level": "8"
+  },
+  {
+    "id": "113185",
+    "parent": "1561140",
+    "text": "Olmu\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "1794711",
+    "parent": "1791815",
+    "text": "Osorno",
+    "admin_level": "8"
+  },
+  {
+    "id": "1590028",
+    "parent": "1589855",
+    "text": "Ovalle",
+    "admin_level": "8"
+  },
+  {
+    "id": "1981246",
+    "parent": "1981571",
+    "text": "O\u2019Higgins",
+    "admin_level": "8"
+  },
+  {
+    "id": "175820",
+    "parent": "1560882",
+    "text": "Padre Hurtado",
+    "admin_level": "8"
+  },
+  {
+    "id": "1768743",
+    "parent": "1734788",
+    "text": "Padre Las Casas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1588854",
+    "parent": "1588847",
+    "text": "Paihuano",
+    "admin_level": "8"
+  },
+  {
+    "id": "1785852",
+    "parent": "1769310",
+    "text": "Paillaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "1557208",
+    "parent": "1560883",
+    "text": "Paine",
+    "admin_level": "8"
+  },
+  {
+    "id": "3067455",
+    "parent": "1820293",
+    "text": "Palena",
+    "admin_level": "8"
+  },
+  {
+    "id": "1675976",
+    "parent": "1661314",
+    "text": "Palmilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "1769309",
+    "parent": "1769310",
+    "text": "Panguipulli",
+    "admin_level": "8"
+  },
+  {
+    "id": "175944",
+    "parent": "1671231",
+    "text": "Panquehue",
+    "admin_level": "8"
+  },
+  {
+    "id": "113203",
+    "parent": "1586777",
+    "text": "Papudo",
+    "admin_level": "8"
+  },
+  {
+    "id": "252813",
+    "parent": "1561024",
+    "text": "Paredones",
+    "admin_level": "8"
+  },
+  {
+    "id": "255306",
+    "parent": "545521",
+    "text": "Parral",
+    "admin_level": "8"
+  },
+  {
+    "id": "168057",
+    "parent": "1674530",
+    "text": "Pedro Aguirre Cerda",
+    "admin_level": "8"
+  },
+  {
+    "id": "541799",
+    "parent": "546186",
+    "text": "Pelarco",
+    "admin_level": "8"
+  },
+  {
+    "id": "296293",
+    "parent": "546158",
+    "text": "Pelluhue",
+    "admin_level": "8"
+  },
+  {
+    "id": "1652065",
+    "parent": "7421029",
+    "text": "Pemuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "541830",
+    "parent": "546186",
+    "text": "Pencahue",
+    "admin_level": "8"
+  },
+  {
+    "id": "1614637",
+    "parent": "1558891",
+    "text": "Penco",
+    "admin_level": "8"
+  },
+  {
+    "id": "1661304",
+    "parent": "1661314",
+    "text": "Peralillo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1766982",
+    "parent": "1734788",
+    "text": "Perquenco",
+    "admin_level": "8"
+  },
+  {
+    "id": "231953",
+    "parent": "1586777",
+    "text": "Petorca",
+    "admin_level": "8"
+  },
+  {
+    "id": "1556987",
+    "parent": "1561023",
+    "text": "Peumo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1626477",
+    "parent": "1560882",
+    "text": "Pe\u00f1aflor",
+    "admin_level": "8"
+  },
+  {
+    "id": "164137",
+    "parent": "1674530",
+    "text": "Pe\u00f1alol\u00e9n",
     "admin_level": "8"
   },
   {
@@ -2460,33 +1374,1119 @@
     "admin_level": "8"
   },
   {
+    "id": "1661293",
+    "parent": "1561023",
+    "text": "Pichidegua",
+    "admin_level": "8"
+  },
+  {
+    "id": "1660973",
+    "parent": "1561024",
+    "text": "Pichilemu",
+    "admin_level": "8"
+  },
+  {
+    "id": "269309",
+    "parent": "7421029",
+    "text": "Pinto",
+    "admin_level": "8"
+  },
+  {
+    "id": "238959",
+    "parent": "1664191",
+    "text": "Pirque",
+    "admin_level": "8"
+  },
+  {
+    "id": "1768825",
+    "parent": "1734788",
+    "text": "Pitrufqu\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1674793",
+    "parent": "1661314",
+    "text": "Placilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558832",
+    "parent": "7421027",
+    "text": "Portezuelo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1980517",
+    "parent": "1980558",
+    "text": "Porvenir",
+    "admin_level": "8"
+  },
+  {
     "id": "1561943",
     "parent": "1561942",
     "text": "Pozo Almonte",
     "admin_level": "8"
   },
   {
-    "id": "269826",
-    "parent": "1568616",
-    "text": "Arica",
+    "id": "1980521",
+    "parent": "1980558",
+    "text": "Primavera",
     "admin_level": "8"
   },
   {
-    "id": "406185",
-    "parent": "1568616",
-    "text": "Camarones",
+    "id": "162983",
+    "parent": "1674530",
+    "text": "Providencia",
     "admin_level": "8"
   },
   {
-    "id": "406175",
-    "parent": "1568630",
-    "text": "General Lagos",
+    "id": "1561897",
+    "parent": "240932",
+    "text": "Provincia de Antofagasta",
+    "admin_level": "6"
+  },
+  {
+    "id": "1654883",
+    "parent": "252891",
+    "text": "Provincia de Arauco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1568616",
+    "parent": "238392",
+    "text": "Provincia de Arica",
+    "admin_level": "6"
+  },
+  {
+    "id": "1982386",
+    "parent": "305693",
+    "text": "Provincia de Ays\u00e9n",
+    "admin_level": "6"
+  },
+  {
+    "id": "1622252",
+    "parent": "252891",
+    "text": "Provincia de B\u00edo-B\u00edo",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561023",
+    "parent": "206487",
+    "text": "Provincia de Cachapoal",
+    "admin_level": "6"
+  },
+  {
+    "id": "1981571",
+    "parent": "305693",
+    "text": "Provincia de Capit\u00e1n Prat",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561024",
+    "parent": "206487",
+    "text": "Provincia de Cardenal Caro",
+    "admin_level": "6"
+  },
+  {
+    "id": "546158",
+    "parent": "239882",
+    "text": "Provincia de Cauquenes",
+    "admin_level": "6"
+  },
+  {
+    "id": "1734788",
+    "parent": "296378",
+    "text": "Provincia de Caut\u00edn",
+    "admin_level": "6"
+  },
+  {
+    "id": "1673446",
+    "parent": "198848",
+    "text": "Provincia de Chacabuco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1573477",
+    "parent": "271889",
+    "text": "Provincia de Cha\u00f1aral",
+    "admin_level": "6"
+  },
+  {
+    "id": "3072992",
+    "parent": "274991",
+    "text": "Provincia de Chilo\u00e9",
+    "admin_level": "6"
+  },
+  {
+    "id": "1584131",
+    "parent": "231672",
+    "text": "Provincia de Choapa",
+    "admin_level": "6"
+  },
+  {
+    "id": "1661314",
+    "parent": "206487",
+    "text": "Provincia de Colchagua",
+    "admin_level": "6"
+  },
+  {
+    "id": "1558891",
+    "parent": "252891",
+    "text": "Provincia de Concepci\u00f3n",
+    "admin_level": "6"
+  },
+  {
+    "id": "1572125",
+    "parent": "271889",
+    "text": "Provincia de Copiap\u00f3",
+    "admin_level": "6"
+  },
+  {
+    "id": "1664191",
+    "parent": "198848",
+    "text": "Provincia de Cordillera",
+    "admin_level": "6"
+  },
+  {
+    "id": "1982311",
+    "parent": "305693",
+    "text": "Provincia de Coyhaique",
+    "admin_level": "6"
+  },
+  {
+    "id": "546193",
+    "parent": "239882",
+    "text": "Provincia de Curic\u00f3",
+    "admin_level": "6"
+  },
+  {
+    "id": "7421029",
+    "parent": "7421025",
+    "text": "Provincia de Diguill\u00edn",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561883",
+    "parent": "240932",
+    "text": "Provincia de El Loa",
+    "admin_level": "6"
+  },
+  {
+    "id": "1588847",
+    "parent": "231672",
+    "text": "Provincia de Elqui",
+    "admin_level": "6"
+  },
+  {
+    "id": "1982290",
+    "parent": "305693",
+    "text": "Provincia de General Carrera",
+    "admin_level": "6"
+  },
+  {
+    "id": "1572118",
+    "parent": "271889",
+    "text": "Provincia de Huasco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561810",
+    "parent": "238393",
+    "text": "Provincia de Iquique",
+    "admin_level": "6"
+  },
+  {
+    "id": "7421027",
+    "parent": "7421025",
+    "text": "Provincia de Itata",
+    "admin_level": "6"
+  },
+  {
+    "id": "1589855",
+    "parent": "231672",
+    "text": "Provincia de Limar\u00ed",
+    "admin_level": "6"
+  },
+  {
+    "id": "545521",
+    "parent": "239882",
+    "text": "Provincia de Linares",
+    "admin_level": "6"
+  },
+  {
+    "id": "1796333",
+    "parent": "274991",
+    "text": "Provincia de Llanquihue",
+    "admin_level": "6"
+  },
+  {
+    "id": "1671299",
+    "parent": "198847",
+    "text": "Provincia de Los Andes",
+    "admin_level": "6"
+  },
+  {
+    "id": "1980481",
+    "parent": "301542",
+    "text": "Provincia de Magallanes",
+    "admin_level": "6"
+  },
+  {
+    "id": "1560883",
+    "parent": "198848",
+    "text": "Provincia de Maipo",
+    "admin_level": "6"
+  },
+  {
+    "id": "1735986",
+    "parent": "296378",
+    "text": "Provincia de Malleco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561140",
+    "parent": "198847",
+    "text": "Provincia de Marga Marga",
+    "admin_level": "6"
+  },
+  {
+    "id": "1560881",
+    "parent": "198848",
+    "text": "Provincia de Melipilla",
+    "admin_level": "6"
+  },
+  {
+    "id": "1791815",
+    "parent": "274991",
+    "text": "Provincia de Osorno",
+    "admin_level": "6"
+  },
+  {
+    "id": "1820293",
+    "parent": "274991",
+    "text": "Provincia de Palena",
+    "admin_level": "6"
+  },
+  {
+    "id": "1568630",
+    "parent": "238392",
+    "text": "Provincia de Parinacota",
+    "admin_level": "6"
+  },
+  {
+    "id": "1586777",
+    "parent": "198847",
+    "text": "Provincia de Petorca",
+    "admin_level": "6"
+  },
+  {
+    "id": "7421026",
+    "parent": "7421025",
+    "text": "Provincia de Punilla",
+    "admin_level": "6"
+  },
+  {
+    "id": "1671213",
+    "parent": "198847",
+    "text": "Provincia de Quillota",
+    "admin_level": "6"
+  },
+  {
+    "id": "1785846",
+    "parent": "274988",
+    "text": "Provincia de Ranco",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561031",
+    "parent": "198847",
+    "text": "Provincia de San Antonio",
+    "admin_level": "6"
+  },
+  {
+    "id": "1671231",
+    "parent": "198847",
+    "text": "Provincia de San Felipe de Aconcagua",
+    "admin_level": "6"
+  },
+  {
+    "id": "1674530",
+    "parent": "198848",
+    "text": "Provincia de Santiago",
+    "admin_level": "6"
+  },
+  {
+    "id": "1560882",
+    "parent": "198848",
+    "text": "Provincia de Talagante",
+    "admin_level": "6"
+  },
+  {
+    "id": "546186",
+    "parent": "239882",
+    "text": "Provincia de Talca",
+    "admin_level": "6"
+  },
+  {
+    "id": "1980558",
+    "parent": "301542",
+    "text": "Provincia de Tierra del Fuego",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561884",
+    "parent": "240932",
+    "text": "Provincia de Tocopilla",
+    "admin_level": "6"
+  },
+  {
+    "id": "1769310",
+    "parent": "274988",
+    "text": "Provincia de Valdivia",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561037",
+    "parent": "198847",
+    "text": "Provincia de Valpara\u00edso",
+    "admin_level": "6"
+  },
+  {
+    "id": "1974213",
+    "parent": "301542",
+    "text": "Provincia de la Ant\u00e1rtica Chilena",
+    "admin_level": "6"
+  },
+  {
+    "id": "1980749",
+    "parent": "301542",
+    "text": "Provincia de \u00daltima Esperanza",
+    "admin_level": "6"
+  },
+  {
+    "id": "1561942",
+    "parent": "238393",
+    "text": "Provincia del Tamarugal",
+    "admin_level": "6"
+  },
+  {
+    "id": "110710",
+    "parent": "1561037",
+    "text": "Puchuncav\u00ed",
+    "admin_level": "8"
+  },
+  {
+    "id": "1734577",
+    "parent": "1734788",
+    "text": "Puc\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "168269",
+    "parent": "1674530",
+    "text": "Pudahuel",
+    "admin_level": "8"
+  },
+  {
+    "id": "166571",
+    "parent": "1664191",
+    "text": "Puente Alto",
+    "admin_level": "8"
+  },
+  {
+    "id": "1798806",
+    "parent": "1796333",
+    "text": "Puerto Montt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1795768",
+    "parent": "1791815",
+    "text": "Puerto Octay",
+    "admin_level": "8"
+  },
+  {
+    "id": "1798888",
+    "parent": "1796333",
+    "text": "Puerto Varas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1661441",
+    "parent": "1661314",
+    "text": "Pumanque",
+    "admin_level": "8"
+  },
+  {
+    "id": "1589895",
+    "parent": "1589855",
+    "text": "Punitaqui",
+    "admin_level": "8"
+  },
+  {
+    "id": "1979467",
+    "parent": "1980481",
+    "text": "Punta Arenas",
+    "admin_level": "8"
+  },
+  {
+    "id": "3078387",
+    "parent": "3072992",
+    "text": "Puqueld\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1795811",
+    "parent": "1791815",
+    "text": "Purranque",
+    "admin_level": "8"
+  },
+  {
+    "id": "1742662",
+    "parent": "1735986",
+    "text": "Pur\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "176538",
+    "parent": "1671231",
+    "text": "Putaendo",
     "admin_level": "8"
   },
   {
     "id": "406176",
     "parent": "1568630",
     "text": "Putre",
+    "admin_level": "8"
+  },
+  {
+    "id": "1795049",
+    "parent": "1791815",
+    "text": "Puyehue",
+    "admin_level": "8"
+  },
+  {
+    "id": "3076728",
+    "parent": "3072992",
+    "text": "Queilen",
+    "admin_level": "8"
+  },
+  {
+    "id": "3076644",
+    "parent": "3072992",
+    "text": "Quell\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "3078348",
+    "parent": "3072992",
+    "text": "Quemchi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1659044",
+    "parent": "1622252",
+    "text": "Quilaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "164102",
+    "parent": "1674530",
+    "text": "Quilicura",
+    "admin_level": "8"
+  },
+  {
+    "id": "1659035",
+    "parent": "1622252",
+    "text": "Quilleco",
+    "admin_level": "8"
+  },
+  {
+    "id": "113196",
+    "parent": "1671213",
+    "text": "Quillota",
+    "admin_level": "8"
+  },
+  {
+    "id": "1597510",
+    "parent": "7421029",
+    "text": "Quill\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "110807",
+    "parent": "1561140",
+    "text": "Quilpu\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "3078364",
+    "parent": "3072992",
+    "text": "Quinchao",
+    "admin_level": "8"
+  },
+  {
+    "id": "168059",
+    "parent": "1674530",
+    "text": "Quinta Normal",
+    "admin_level": "8"
+  },
+  {
+    "id": "1665550",
+    "parent": "1561023",
+    "text": "Quinta de Tilcoco",
+    "admin_level": "8"
+  },
+  {
+    "id": "110719",
+    "parent": "1561037",
+    "text": "Quintero",
+    "admin_level": "8"
+  },
+  {
+    "id": "296295",
+    "parent": "7421027",
+    "text": "Quirihue",
+    "admin_level": "8"
+  },
+  {
+    "id": "1662436",
+    "parent": "1561023",
+    "text": "Rancagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "252815",
+    "parent": "546193",
+    "text": "Rauco",
+    "admin_level": "8"
+  },
+  {
+    "id": "162984",
+    "parent": "1674530",
+    "text": "Recoleta",
+    "admin_level": "8"
+  },
+  {
+    "id": "1742919",
+    "parent": "1735986",
+    "text": "Renaico",
+    "admin_level": "8"
+  },
+  {
+    "id": "109577",
+    "parent": "1674530",
+    "text": "Renca",
+    "admin_level": "8"
+  },
+  {
+    "id": "1665334",
+    "parent": "1561023",
+    "text": "Rengo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1665248",
+    "parent": "1561023",
+    "text": "Requ\u00ednoa",
+    "admin_level": "8"
+  },
+  {
+    "id": "255333",
+    "parent": "545521",
+    "text": "Retiro",
+    "admin_level": "8"
+  },
+  {
+    "id": "175949",
+    "parent": "1671299",
+    "text": "Rinconada",
+    "admin_level": "8"
+  },
+  {
+    "id": "544818",
+    "parent": "546193",
+    "text": "Romeral",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558833",
+    "parent": "7421027",
+    "text": "R\u00e1nquil",
+    "admin_level": "8"
+  },
+  {
+    "id": "1791147",
+    "parent": "1785846",
+    "text": "R\u00edo Bueno",
+    "admin_level": "8"
+  },
+  {
+    "id": "544839",
+    "parent": "546186",
+    "text": "R\u00edo Claro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1589856",
+    "parent": "1589855",
+    "text": "R\u00edo Hurtado",
+    "admin_level": "8"
+  },
+  {
+    "id": "1982289",
+    "parent": "1982290",
+    "text": "R\u00edo Ib\u00e1\u00f1ez",
+    "admin_level": "8"
+  },
+  {
+    "id": "1795795",
+    "parent": "1791815",
+    "text": "R\u00edo Negro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1980437",
+    "parent": "1980481",
+    "text": "R\u00edo Verde",
+    "admin_level": "8"
+  },
+  {
+    "id": "1767375",
+    "parent": "1734788",
+    "text": "Saavedra",
+    "admin_level": "8"
+  },
+  {
+    "id": "541829",
+    "parent": "546193",
+    "text": "Sagrada Familia",
+    "admin_level": "8"
+  },
+  {
+    "id": "231952",
+    "parent": "1584131",
+    "text": "Salamanca",
+    "admin_level": "8"
+  },
+  {
+    "id": "296816",
+    "parent": "1561031",
+    "text": "San Antonio",
+    "admin_level": "8"
+  },
+  {
+    "id": "660810",
+    "parent": "1560883",
+    "text": "San Bernardo",
+    "admin_level": "8"
+  },
+  {
+    "id": "255339",
+    "parent": "7421026",
+    "text": "San Carlos",
+    "admin_level": "8"
+  },
+  {
+    "id": "546213",
+    "parent": "546186",
+    "text": "San Clemente",
+    "admin_level": "8"
+  },
+  {
+    "id": "231879",
+    "parent": "1671299",
+    "text": "San Esteban",
+    "admin_level": "8"
+  },
+  {
+    "id": "255296",
+    "parent": "7421026",
+    "text": "San Fabi\u00e1n",
+    "admin_level": "8"
+  },
+  {
+    "id": "176528",
+    "parent": "1671231",
+    "text": "San Felipe",
+    "admin_level": "8"
+  },
+  {
+    "id": "1675972",
+    "parent": "1661314",
+    "text": "San Fernando",
+    "admin_level": "8"
+  },
+  {
+    "id": "1980429",
+    "parent": "1980481",
+    "text": "San Gregorio",
+    "admin_level": "8"
+  },
+  {
+    "id": "269388",
+    "parent": "7421029",
+    "text": "San Ignacio",
+    "admin_level": "8"
+  },
+  {
+    "id": "541848",
+    "parent": "545521",
+    "text": "San Javier",
+    "admin_level": "8"
+  },
+  {
+    "id": "168055",
+    "parent": "1674530",
+    "text": "San Joaqu\u00edn",
+    "admin_level": "8"
+  },
+  {
+    "id": "166556",
+    "parent": "1664191",
+    "text": "San Jos\u00e9 de Maipo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1791817",
+    "parent": "1791815",
+    "text": "San Juan de la Costa",
+    "admin_level": "8"
+  },
+  {
+    "id": "168056",
+    "parent": "1674530",
+    "text": "San Miguel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558759",
+    "parent": "7421026",
+    "text": "San Nicol\u00e1s",
+    "admin_level": "8"
+  },
+  {
+    "id": "1791802",
+    "parent": "1791815",
+    "text": "San Pablo",
+    "admin_level": "8"
+  },
+  {
+    "id": "296836",
+    "parent": "1560881",
+    "text": "San Pedro",
+    "admin_level": "8"
+  },
+  {
+    "id": "1574063",
+    "parent": "1561883",
+    "text": "San Pedro de Atacama",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622326",
+    "parent": "1558891",
+    "text": "San Pedro de la Paz",
+    "admin_level": "8"
+  },
+  {
+    "id": "541816",
+    "parent": "546186",
+    "text": "San Rafael",
+    "admin_level": "8"
+  },
+  {
+    "id": "191201",
+    "parent": "1674530",
+    "text": "San Ram\u00f3n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622253",
+    "parent": "1622252",
+    "text": "San Rosendo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1666367",
+    "parent": "1561023",
+    "text": "San Vicente de Tagua Tagua",
+    "admin_level": "8"
+  },
+  {
+    "id": "1659037",
+    "parent": "1622252",
+    "text": "Santa B\u00e1rbara",
+    "admin_level": "8"
+  },
+  {
+    "id": "1675985",
+    "parent": "1661314",
+    "text": "Santa Cruz",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622274",
+    "parent": "1558891",
+    "text": "Santa Juana",
+    "admin_level": "8"
+  },
+  {
+    "id": "231949",
+    "parent": "1671231",
+    "text": "Santa Mar\u00eda",
+    "admin_level": "8"
+  },
+  {
+    "id": "164609",
+    "parent": "1674530",
+    "text": "Santiago",
+    "admin_level": "8"
+  },
+  {
+    "id": "198848",
+    "parent": "167454",
+    "text": "Santiago Metropolitan Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "296814",
+    "parent": "1561031",
+    "text": "Santo Domingo",
+    "admin_level": "8"
+  },
+  {
+    "id": "1561899",
+    "parent": "1561897",
+    "text": "Sierra Gorda",
+    "admin_level": "8"
+  },
+  {
+    "id": "1626706",
+    "parent": "1560882",
+    "text": "Talagante",
+    "admin_level": "8"
+  },
+  {
+    "id": "541797",
+    "parent": "546186",
+    "text": "Talca",
+    "admin_level": "8"
+  },
+  {
+    "id": "1614638",
+    "parent": "1558891",
+    "text": "Talcahuano",
+    "admin_level": "8"
+  },
+  {
+    "id": "295883",
+    "parent": "1561897",
+    "text": "Taltal",
+    "admin_level": "8"
+  },
+  {
+    "id": "238393",
+    "parent": "167454",
+    "text": "Tarapac\u0430 Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "1767300",
+    "parent": "1734788",
+    "text": "Temuco",
+    "admin_level": "8"
+  },
+  {
+    "id": "544817",
+    "parent": "546193",
+    "text": "Teno",
+    "admin_level": "8"
+  },
+  {
+    "id": "1767428",
+    "parent": "1734788",
+    "text": "Teodoro Schmidt",
+    "admin_level": "8"
+  },
+  {
+    "id": "1572123",
+    "parent": "1572125",
+    "text": "Tierra Amarilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "175894",
+    "parent": "1673446",
+    "text": "Tiltil",
+    "admin_level": "8"
+  },
+  {
+    "id": "1980553",
+    "parent": "1980558",
+    "text": "Timaukel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1656147",
+    "parent": "1654883",
+    "text": "Tir\u00faa",
+    "admin_level": "8"
+  },
+  {
+    "id": "1562080",
+    "parent": "1561884",
+    "text": "Tocopilla",
+    "admin_level": "8"
+  },
+  {
+    "id": "1769297",
+    "parent": "1734788",
+    "text": "Tolt\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558890",
+    "parent": "1558891",
+    "text": "Tom\u00e9",
+    "admin_level": "8"
+  },
+  {
+    "id": "1981462",
+    "parent": "1981571",
+    "text": "Tortel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1766983",
+    "parent": "1735986",
+    "text": "Traigu\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1558531",
+    "parent": "7421027",
+    "text": "Treguaco",
+    "admin_level": "8"
+  },
+  {
+    "id": "1659003",
+    "parent": "1622252",
+    "text": "Tucapel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1785691",
+    "parent": "1769310",
+    "text": "Valdivia",
+    "admin_level": "8"
+  },
+  {
+    "id": "1572107",
+    "parent": "1572118",
+    "text": "Vallenar",
+    "admin_level": "8"
+  },
+  {
+    "id": "198847",
+    "parent": "167454",
+    "text": "Valparaiso Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "110808",
+    "parent": "1561037",
+    "text": "Valpara\u00edso",
+    "admin_level": "8"
+  },
+  {
+    "id": "252792",
+    "parent": "546193",
+    "text": "Vichuqu\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "1766981",
+    "parent": "1735986",
+    "text": "Victoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "1588848",
+    "parent": "1588847",
+    "text": "Vicu\u00f1a",
+    "admin_level": "8"
+  },
+  {
+    "id": "1736000",
+    "parent": "1734788",
+    "text": "Vilc\u00fan",
+    "admin_level": "8"
+  },
+  {
+    "id": "545904",
+    "parent": "545521",
+    "text": "Villa Alegre",
+    "admin_level": "8"
+  },
+  {
+    "id": "112799",
+    "parent": "1561140",
+    "text": "Villa Alemana",
+    "admin_level": "8"
+  },
+  {
+    "id": "1734921",
+    "parent": "1734788",
+    "text": "Villarrica",
+    "admin_level": "8"
+  },
+  {
+    "id": "162990",
+    "parent": "1674530",
+    "text": "Vitacura",
+    "admin_level": "8"
+  },
+  {
+    "id": "110804",
+    "parent": "1561037",
+    "text": "Vi\u00f1a del Mar",
+    "admin_level": "8"
+  },
+  {
+    "id": "545905",
+    "parent": "545521",
+    "text": "Yerbas Buenas",
+    "admin_level": "8"
+  },
+  {
+    "id": "1622204",
+    "parent": "1622252",
+    "text": "Yumbel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1652478",
+    "parent": "7421029",
+    "text": "Yungay",
+    "admin_level": "8"
+  },
+  {
+    "id": "110713",
+    "parent": "1586777",
+    "text": "Zapallar",
+    "admin_level": "8"
+  },
+  {
+    "id": "255335",
+    "parent": "7421026",
+    "text": "\u00d1iqu\u00e9n",
+    "admin_level": "8"
+  },
+  {
+    "id": "162993",
+    "parent": "1674530",
+    "text": "\u00d1u\u00f1oa",
     "admin_level": "8"
   }
 ]

@@ -1,27 +1,9 @@
 [
   {
-    "id": "4458374",
-    "parent": "192307",
-    "text": "Epirus and Western Macedonia",
-    "admin_level": "4"
-  },
-  {
-    "id": "4477553",
-    "parent": "192307",
-    "text": "Attica",
-    "admin_level": "4"
-  },
-  {
-    "id": "4495677",
-    "parent": "192307",
-    "text": "Thessaly and Central Greece",
-    "admin_level": "4"
-  },
-  {
-    "id": "4495892",
-    "parent": "192307",
-    "text": "Peloponnese, Western Greece and the Ionian",
-    "admin_level": "4"
+    "id": "937628",
+    "parent": "4495892",
+    "text": "Achaia Regional Unit",
+    "admin_level": "6"
   },
   {
     "id": "4496067",
@@ -30,633 +12,15 @@
     "admin_level": "4"
   },
   {
-    "id": "4496068",
-    "parent": "192307",
-    "text": "Region of Crete",
-    "admin_level": "4"
-  },
-  {
-    "id": "5208399",
-    "parent": "192307",
-    "text": "Macedonia and Thrace",
-    "admin_level": "4"
-  },
-  {
-    "id": "937627",
-    "parent": "4495892",
-    "text": "Corinthia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "937628",
-    "parent": "4495892",
-    "text": "Achaia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "937632",
-    "parent": "4495892",
-    "text": "Arcadia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "937635",
-    "parent": "4495892",
-    "text": "Argolis Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "956611",
-    "parent": "4495892",
-    "text": "Lefkada Regional Unit",
-    "admin_level": "6"
-  },
-  {
     "id": "956612",
     "parent": "4495892",
     "text": "Aetolia-Acarnania Regional Unit",
     "admin_level": "6"
   },
   {
-    "id": "957829",
-    "parent": "4495892",
-    "text": "Kefallonia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "959115",
-    "parent": "4495892",
-    "text": "Elis Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "959149",
-    "parent": "4495892",
-    "text": "Messenia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "1360426",
-    "parent": "4495892",
-    "text": "Laconia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5207386",
-    "parent": "4495892",
-    "text": "Zakynthos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5225311",
-    "parent": "4495892",
-    "text": "Ithaca Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "1845173",
-    "parent": "4496067",
-    "text": "Samos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "1846634",
-    "parent": "4496067",
-    "text": "Chios Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5305784",
-    "parent": "4496067",
-    "text": "Lemnos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5305896",
-    "parent": "4496067",
-    "text": "Ikaria Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323564",
-    "parent": "4496067",
-    "text": "Kea-Kythnos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323577",
-    "parent": "4496067",
-    "text": "Milos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323612",
-    "parent": "4496067",
-    "text": "Thira Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323628",
-    "parent": "4496067",
-    "text": "Naxos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323643",
-    "parent": "4496067",
-    "text": "Paros Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5323832",
-    "parent": "4496067",
-    "text": "Syros Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324073",
-    "parent": "4496067",
-    "text": "Andros Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324074",
-    "parent": "4496067",
-    "text": "Mykonos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324075",
-    "parent": "4496067",
-    "text": "Tinos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324202",
-    "parent": "4496067",
-    "text": "Kalymnos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324235",
-    "parent": "4496067",
-    "text": "Kos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324258",
-    "parent": "4496067",
-    "text": "Rhodes Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5324274",
-    "parent": "4496067",
-    "text": "Karpathos-Kasos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "11274601",
-    "parent": "4496067",
-    "text": "Lesbos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "957704",
-    "parent": "4477553",
-    "text": "Regional Unit of Islands",
-    "admin_level": "6"
-  },
-  {
-    "id": "2604796",
-    "parent": "4477553",
-    "text": "Regional Unit of Central Athens",
-    "admin_level": "6"
-  },
-  {
-    "id": "2607262",
-    "parent": "4477553",
-    "text": "Regional Unit of North Athens",
-    "admin_level": "6"
-  },
-  {
-    "id": "2612423",
-    "parent": "4477553",
-    "text": "Regional Unit of West Athens",
-    "admin_level": "6"
-  },
-  {
-    "id": "2612469",
-    "parent": "4477553",
-    "text": "Regional Unit of South Athens",
-    "admin_level": "6"
-  },
-  {
-    "id": "2616826",
-    "parent": "4477553",
-    "text": "Regional Unit of Piraeus",
-    "admin_level": "6"
-  },
-  {
-    "id": "4477554",
-    "parent": "4477553",
-    "text": "Regional Unit of East Attica",
-    "admin_level": "6"
-  },
-  {
-    "id": "4477559",
-    "parent": "4477553",
-    "text": "Regional Unit of West Attica",
-    "admin_level": "6"
-  },
-  {
-    "id": "554656",
-    "parent": "4496068",
-    "text": "Lasithi Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554686",
-    "parent": "4496068",
-    "text": "Heraklion Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554693",
-    "parent": "4496068",
-    "text": "Rethymno Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554720",
-    "parent": "4496068",
-    "text": "Chania Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "90550",
-    "parent": "4458374",
-    "text": "Preveza Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "558485",
-    "parent": "4458374",
-    "text": "Arta Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "558486",
-    "parent": "4458374",
-    "text": "Ioannina Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "558499",
-    "parent": "4458374",
-    "text": "Thesprotia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "956713",
-    "parent": "4458374",
-    "text": "Kastoria Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "956714",
-    "parent": "4458374",
-    "text": "Florina Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "956726",
-    "parent": "4458374",
-    "text": "Kozani Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "1379347",
-    "parent": "4458374",
-    "text": "Grevena Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554400",
-    "parent": "4495677",
-    "text": "Karditsa Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554401",
-    "parent": "4495677",
-    "text": "Larisa Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554405",
-    "parent": "4495677",
-    "text": "Phthiotis Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "554407",
-    "parent": "4495677",
-    "text": "Regional Unit of Magnesia",
-    "admin_level": "6"
-  },
-  {
-    "id": "557546",
-    "parent": "4495677",
-    "text": "Regional Unit of Boeotia",
-    "admin_level": "6"
-  },
-  {
-    "id": "557547",
-    "parent": "4495677",
-    "text": "Regional Unit of Phocis",
-    "admin_level": "6"
-  },
-  {
-    "id": "557549",
-    "parent": "4495677",
-    "text": "Euboea Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "558521",
-    "parent": "4495677",
-    "text": "Trikala Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "959069",
-    "parent": "4495677",
-    "text": "Regional Unit of Evrytania",
-    "admin_level": "6"
-  },
-  {
-    "id": "5207290",
-    "parent": "4495677",
-    "text": "Sporades Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "563225",
-    "parent": "5208399",
-    "text": "Imathia Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "563226",
-    "parent": "5208399",
-    "text": "Pieria Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "563230",
-    "parent": "5208399",
-    "text": "Thessaloniki Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "568383",
-    "parent": "5208399",
-    "text": "Chalkidiki Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "937847",
-    "parent": "5208399",
-    "text": "Serres Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "937896",
-    "parent": "5208399",
-    "text": "Kavala Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "938042",
-    "parent": "5208399",
-    "text": "Drama Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "938063",
-    "parent": "5208399",
-    "text": "Kilkis Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "939213",
-    "parent": "5208399",
-    "text": "Xanthi Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "939214",
-    "parent": "5208399",
-    "text": "Rodopi Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "939217",
-    "parent": "5208399",
-    "text": "Evros Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "956817",
-    "parent": "5208399",
-    "text": "Pella Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "5207349",
-    "parent": "5208399",
-    "text": "Thasos Regional Unit",
-    "admin_level": "6"
-  },
-  {
-    "id": "11785968",
-    "parent": "957704",
-    "text": "Municipal Unit of Antikythira",
-    "admin_level": "8"
-  },
-  {
-    "id": "11785969",
-    "parent": "957704",
-    "text": "Municipal Unit of Kythira",
-    "admin_level": "8"
-  },
-  {
-    "id": "11909692",
-    "parent": "957704",
-    "text": "Municipal Unit of Methana",
-    "admin_level": "8"
-  },
-  {
-    "id": "11909693",
-    "parent": "957704",
-    "text": "Municipal Unit of Troizinia",
-    "admin_level": "8"
-  },
-  {
-    "id": "13301508",
-    "parent": "957704",
-    "text": "Ampelakia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13301509",
-    "parent": "957704",
-    "text": "Salamina Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12544933",
-    "parent": "959149",
-    "text": "Koroni Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12544975",
-    "parent": "959149",
-    "text": "Methoni Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12545378",
-    "parent": "959149",
-    "text": "Gargalianoi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12545524",
-    "parent": "959149",
-    "text": "Tripyla Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12545525",
-    "parent": "959149",
-    "text": "Kyparissia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "12545526",
-    "parent": "959149",
-    "text": "Filiatra Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13087993",
-    "parent": "959149",
-    "text": "Municipal Unit of Avia",
-    "admin_level": "8"
-  },
-  {
-    "id": "13087994",
-    "parent": "959149",
-    "text": "Municipal Unit of Lefktro",
-    "admin_level": "8"
-  },
-  {
-    "id": "13255882",
-    "parent": "1360426",
-    "text": "Oitylos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13255924",
-    "parent": "1360426",
-    "text": "East Mani Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13255998",
-    "parent": "1360426",
-    "text": "Sminos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13256001",
-    "parent": "1360426",
-    "text": "Gytheio Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15982215",
-    "parent": "1360426",
-    "text": "Municipal Unit of Sparta",
-    "admin_level": "8"
-  },
-  {
-    "id": "15986955",
-    "parent": "1360426",
-    "text": "Municipal Unit of Mystras",
-    "admin_level": "8"
-  },
-  {
-    "id": "15990565",
-    "parent": "1360426",
-    "text": "Municipal Unit of Faris",
-    "admin_level": "8"
-  },
-  {
-    "id": "18962681",
-    "parent": "1360426",
-    "text": "Pellana Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13319873",
-    "parent": "554656",
-    "text": "Itanos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13319980",
-    "parent": "554656",
-    "text": "Analipsi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320064",
-    "parent": "554656",
-    "text": "Lefki Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320211",
-    "parent": "554656",
-    "text": "Sitia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320267",
-    "parent": "554656",
-    "text": "Makry Gialos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320344",
-    "parent": "554656",
-    "text": "Ierapetra Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320390",
-    "parent": "554656",
-    "text": "Vrachasi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13320450",
-    "parent": "554656",
-    "text": "Neapoli Municipal Unit",
+    "id": "13363111",
+    "parent": "554686",
+    "text": "Agia Varvava Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -666,1401 +30,9 @@
     "admin_level": "8"
   },
   {
-    "id": "8324061",
-    "parent": "5323612",
-    "text": "Ia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "8325070",
-    "parent": "5323612",
-    "text": "Thira Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362715",
-    "parent": "554686",
-    "text": "Heraklion Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362724",
-    "parent": "554686",
-    "text": "Nea Alikarnassos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362784",
-    "parent": "554686",
-    "text": "Paliani Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362899",
-    "parent": "554686",
-    "text": "Gorgolaini Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362912",
-    "parent": "554686",
-    "text": "Temenos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13362972",
-    "parent": "554686",
-    "text": "Archanes Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363006",
-    "parent": "554686",
-    "text": "Nikos Kazantzakis Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363036",
-    "parent": "554686",
-    "text": "Asterousia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363090",
-    "parent": "554686",
-    "text": "Gortyna Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363097",
-    "parent": "554686",
-    "text": "Kofinas Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363111",
-    "parent": "554686",
-    "text": "Agia Varvava Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363119",
-    "parent": "554686",
-    "text": "Rouvas Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363188",
-    "parent": "554686",
-    "text": "Gazi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363197",
-    "parent": "554686",
-    "text": "Krousonas Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13363206",
-    "parent": "554686",
-    "text": "Tylissos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13365945",
-    "parent": "554686",
-    "text": "Kastelli Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13365954",
-    "parent": "554686",
-    "text": "Thrapsano Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13365976",
-    "parent": "554686",
-    "text": "Arkalochori Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366004",
-    "parent": "554686",
-    "text": "Mires Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366039",
-    "parent": "554686",
-    "text": "Tybakio Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366043",
-    "parent": "554686",
-    "text": "Zaros Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366058",
-    "parent": "554686",
-    "text": "Gouves Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366104",
-    "parent": "554686",
-    "text": "Chersonisos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366108",
-    "parent": "554686",
-    "text": "Malia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13366114",
-    "parent": "554686",
-    "text": "Episkopi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16807920",
-    "parent": "5324274",
-    "text": "Olympos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16807921",
-    "parent": "5324274",
-    "text": "Karpathos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13234312",
-    "parent": "957829",
-    "text": "Paliki Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13235409",
-    "parent": "957829",
-    "text": "Municipal Unit of Elios-Proni",
-    "admin_level": "8"
-  },
-  {
-    "id": "13241332",
-    "parent": "957829",
-    "text": "Sami Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13241359",
-    "parent": "957829",
-    "text": "Pylaros Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13241360",
-    "parent": "957829",
-    "text": "Erisos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15969042",
-    "parent": "558499",
-    "text": "Sagiada Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15969043",
-    "parent": "558499",
-    "text": "Filiates Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547797",
-    "parent": "554401",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b1\u03c1\u03c3\u03ac\u03bb\u03c9\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547798",
-    "parent": "554401",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03b1\u03c1\u03b8\u03b1\u03ba\u03af\u03bf\u03c5",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547799",
-    "parent": "554401",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03bf\u03bb\u03c5\u03b4\u03ac\u03bc\u03b1\u03bd\u03c4\u03b1",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547800",
-    "parent": "554401",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03bd\u03b9\u03c0\u03c0\u03ad\u03b1",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548605",
-    "parent": "554401",
-    "text": "Municipal Unit of Kileler",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548609",
-    "parent": "554401",
-    "text": "Municipal Unit of Armenio",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548631",
-    "parent": "554401",
-    "text": "Municipal Unit of Platykampos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548713",
-    "parent": "554401",
-    "text": "Municipal Unit of Krannon",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548719",
-    "parent": "554401",
-    "text": "Municipal Unit of Nikea",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548816",
-    "parent": "554401",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03c1\u03c5\u03bc\u03b5\u03bd\u03ce\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "15551871",
-    "parent": "554401",
-    "text": "Municipal Unit of Lakeria",
-    "admin_level": "8"
-  },
-  {
-    "id": "15551926",
-    "parent": "554401",
-    "text": "Municipal Unit of Ayia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15551942",
-    "parent": "554401",
-    "text": "Municipal Unit of Melivia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15552101",
-    "parent": "554401",
-    "text": "Municipal Unit of Ampelakia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15552157",
-    "parent": "554401",
-    "text": "Municipal Unit of Kato Olympos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15552221",
-    "parent": "554401",
-    "text": "Municipal Unit of Gonnoi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15552269",
-    "parent": "554401",
-    "text": "Municipal Unit of Makrichori",
-    "admin_level": "8"
-  },
-  {
-    "id": "15552276",
-    "parent": "554401",
-    "text": "Municipal Unit of Nesson",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569164",
-    "parent": "554401",
-    "text": "Municipal Unit of Yiannouli",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569342",
-    "parent": "554401",
-    "text": "Municipal Unit of Kilada",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569347",
-    "parent": "554401",
-    "text": "Municipal Unit of Larissa",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547838",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03b9\u03ce\u03c4\u03b9\u03b4\u03bf\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547839",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039e\u03c5\u03bd\u03b9\u03ac\u03b4\u03bf\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15547844",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03bf\u03bc\u03bf\u03ba\u03bf\u03cd",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548290",
-    "parent": "554405",
-    "text": "Municipal Unit of Stylis",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548291",
-    "parent": "554405",
-    "text": "Municipal unit of Echinei",
-    "admin_level": "8"
-  },
-  {
-    "id": "15548292",
-    "parent": "554405",
-    "text": "Municipal Unit of Pelasgia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553224",
-    "parent": "554405",
-    "text": "Municipal Unit of Sperchiada",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553225",
-    "parent": "554405",
-    "text": "M unicipal Unit of Makrakomi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553226",
-    "parent": "554405",
-    "text": "Municipal Unit of Ayios Georgios Tymfristos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553319",
-    "parent": "554405",
-    "text": "Municipal Unit of Lianokladi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553354",
-    "parent": "554405",
-    "text": "Municipal Unit of Lamia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553355",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0393\u03bf\u03c1\u03b3\u03bf\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553356",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b1\u03cd\u03bb\u03b9\u03b1\u03bd\u03b7\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553357",
-    "parent": "554405",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a5\u03c0\u03ac\u03c4\u03b7\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15553382",
-    "parent": "554405",
-    "text": "Municipal Unit of Tymfristos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555550",
-    "parent": "554405",
-    "text": "Municipal Unit of Ayios Konstantinos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555564",
-    "parent": "554405",
-    "text": "Municipal Unit of Molos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555568",
-    "parent": "554405",
-    "text": "Municipal Unit of Kamena Vourla",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555592",
-    "parent": "554405",
-    "text": "Municipal Unit of Tithorea",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555686",
-    "parent": "554405",
-    "text": "Municipal Unit of Amfiklia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555696",
-    "parent": "554405",
-    "text": "Municipal Unit of Elatia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555824",
-    "parent": "554405",
-    "text": "Municipal Unit of Dafnousia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555832",
-    "parent": "554405",
-    "text": "Municipal Unit of Malesina",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555835",
-    "parent": "554405",
-    "text": "Municipal Unit of Opountioi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15555848",
-    "parent": "554405",
-    "text": "Municipal Unit of Atalanti",
-    "admin_level": "8"
-  },
-  {
-    "id": "8455142",
-    "parent": "554407",
-    "text": "Trikeri Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14698948",
-    "parent": "554407",
-    "text": "Sipias Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15544371",
-    "parent": "554407",
-    "text": "Municipal unit of Argalasti",
-    "admin_level": "8"
-  },
-  {
-    "id": "15544469",
-    "parent": "554407",
-    "text": "Municipal Unit of Afetes",
-    "admin_level": "8"
-  },
-  {
-    "id": "15544490",
-    "parent": "554407",
-    "text": "Municipla unit of Milies",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569806",
-    "parent": "554407",
-    "text": "Municipal Unit of Almyros",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569807",
-    "parent": "554407",
-    "text": "Municipal Unit of Sourpi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569808",
-    "parent": "554407",
-    "text": "Municipal Unit of Pteleos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15569809",
-    "parent": "554407",
-    "text": "Municipal Unit of Anavra",
-    "admin_level": "8"
-  },
-  {
-    "id": "15570839",
-    "parent": "554407",
-    "text": "Municipal Unit of Kanalia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15570904",
-    "parent": "554407",
-    "text": "Municipal Unit of Karla",
-    "admin_level": "8"
-  },
-  {
-    "id": "15570908",
-    "parent": "554407",
-    "text": "Municipal Unit of Feres",
-    "admin_level": "8"
-  },
-  {
-    "id": "15571301",
-    "parent": "554407",
-    "text": "Municipal Unit of Zagora",
-    "admin_level": "8"
-  },
-  {
-    "id": "15571320",
-    "parent": "554407",
-    "text": "Municipal Unit of Mouresi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15571424",
-    "parent": "554407",
-    "text": "Municipal Unit of Nea Agchialos",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607298",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03b5\u03c1\u03b2\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03af\u03c9\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607299",
-    "parent": "557546",
-    "text": "Municipal Unit of Inofyta",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607300",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c7\u03b7\u03bc\u03b1\u03c4\u03b1\u03c1\u03af\u03bf\u03c5",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607301",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03b1\u03bd\u03ac\u03b3\u03c1\u03b1\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607555",
-    "parent": "557546",
-    "text": "Municipality of Vagia",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607556",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03af\u03c3\u03b2\u03b7\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607557",
-    "parent": "557546",
-    "text": "Municipal Unit of Thebes",
-    "admin_level": "8"
-  },
-  {
-    "id": "5607558",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "5609267",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03bb\u03b9\u03ac\u03c1\u03c4\u03bf\u03c5",
-    "admin_level": "8"
-  },
-  {
-    "id": "5609268",
-    "parent": "557546",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c0\u03b9\u03ad\u03c9\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "5685134",
-    "parent": "557546",
-    "text": "Antikyra Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "5685135",
-    "parent": "557546",
-    "text": "Arachova Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "5685136",
-    "parent": "557546",
-    "text": "Distomo Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14311043",
-    "parent": "557546",
-    "text": "Kyriakio Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14311044",
-    "parent": "557546",
-    "text": "Levadia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15559742",
-    "parent": "557546",
-    "text": "Municipal Unit of Koronia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15559752",
-    "parent": "557546",
-    "text": "Municipal Unit of Davlia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15559757",
-    "parent": "557546",
-    "text": "Municipal Unit of Kheronia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15565793",
-    "parent": "557546",
-    "text": "Municipal Unit of Orchomenos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15565794",
-    "parent": "557546",
-    "text": "Municipal Unit of Akrefnia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15566907",
-    "parent": "557549",
-    "text": "Municipal Unit of Anthidon",
-    "admin_level": "8"
-  },
-  {
-    "id": "15566949",
-    "parent": "557549",
-    "text": "Municipal Unit of Avlis",
-    "admin_level": "8"
-  },
-  {
-    "id": "18609319",
-    "parent": "557549",
-    "text": "Nea Artaki Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18609374",
-    "parent": "557549",
-    "text": "Eretria Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18609376",
-    "parent": "557549",
-    "text": "Amarynthos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18609459",
-    "parent": "557549",
-    "text": "Styra Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13683016",
-    "parent": "568383",
-    "text": "Kassandra Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13683017",
-    "parent": "568383",
-    "text": "Pallini Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13683042",
-    "parent": "568383",
-    "text": "Sithonia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13683043",
-    "parent": "568383",
-    "text": "Toroni Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841119",
-    "parent": "937628",
-    "text": "Municipal Unit of Aegira",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841159",
-    "parent": "937628",
-    "text": "Municipal Unit of Akrata",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841787",
-    "parent": "937628",
-    "text": "Municipal Unit of Diakopto",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841788",
-    "parent": "937628",
-    "text": "Municipal Unit of Aegio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841974",
-    "parent": "937628",
-    "text": "Municipal Unit of Sympolitia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841975",
-    "parent": "937628",
-    "text": "Municipal Unit of Erineos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11848933",
-    "parent": "937628",
-    "text": "Municipal Unit of Rio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11849723",
-    "parent": "937628",
-    "text": "Municipal Unit of Patras",
-    "admin_level": "8"
-  },
-  {
-    "id": "11849746",
-    "parent": "937628",
-    "text": "Municipal Unit of Messatida",
-    "admin_level": "8"
-  },
-  {
-    "id": "11862993",
-    "parent": "937628",
-    "text": "Municipal Unit of Paralia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11863028",
-    "parent": "937628",
-    "text": "Municipal Unit of Vrachneika",
-    "admin_level": "8"
-  },
-  {
-    "id": "11894666",
-    "parent": "937628",
-    "text": "Municipal Unit of Dymi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11894772",
-    "parent": "937628",
-    "text": "Municipal Unit of Olenia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11894791",
-    "parent": "937628",
-    "text": "Municipal Unit of Movri",
-    "admin_level": "8"
-  },
-  {
-    "id": "11894821",
-    "parent": "937628",
-    "text": "Municipal Unit of Larissos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11964889",
-    "parent": "937628",
-    "text": "Municipal Unit of Kalentzi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11964890",
-    "parent": "937628",
-    "text": "Municipal Unit of Tritaia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11964971",
-    "parent": "937628",
-    "text": "Municipal Unit of Farres",
-    "admin_level": "8"
-  },
-  {
-    "id": "11964972",
-    "parent": "937628",
-    "text": "Municipal Unit of Leontio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11970276",
-    "parent": "937628",
-    "text": "Municipal Unit of Kalavryta",
-    "admin_level": "8"
-  },
-  {
-    "id": "11970326",
-    "parent": "937628",
-    "text": "Municipal Unit of Aroania",
-    "admin_level": "8"
-  },
-  {
-    "id": "11970351",
-    "parent": "937628",
-    "text": "Municipal Unit of Kleitoria",
-    "admin_level": "8"
-  },
-  {
-    "id": "11970360",
-    "parent": "937628",
-    "text": "Municipal Unit of Paion",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750186",
-    "parent": "937632",
-    "text": "Municipal Unit of Valtetsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750242",
-    "parent": "937632",
-    "text": "Municipal Unit of Korythio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750267",
-    "parent": "937632",
-    "text": "Municipal Unit of Levidi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750415",
-    "parent": "937632",
-    "text": "Municipal Unit of Mantineia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750463",
-    "parent": "937632",
-    "text": "Municipal Unit of Skiritida",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750475",
-    "parent": "937632",
-    "text": "Municipal Unit of Tegea",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750547",
-    "parent": "937632",
-    "text": "Municipal Unit of Tripoli",
-    "admin_level": "8"
-  },
-  {
-    "id": "11750595",
-    "parent": "937632",
-    "text": "Municipa Unit of Falanthos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11755751",
-    "parent": "937632",
-    "text": "Municipal Unit of Tyros",
-    "admin_level": "8"
-  },
-  {
-    "id": "11755790",
-    "parent": "937632",
-    "text": "Municipal Unit of Kosmas",
-    "admin_level": "8"
-  },
-  {
-    "id": "11755791",
-    "parent": "937632",
-    "text": "Municipal Unit of Leonidio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11769404",
-    "parent": "937632",
-    "text": "Municipal Unit of Megalopoli",
-    "admin_level": "8"
-  },
-  {
-    "id": "11769426",
-    "parent": "937632",
-    "text": "Municipal Unit of Gortyna",
-    "admin_level": "8"
-  },
-  {
-    "id": "11769442",
-    "parent": "937632",
-    "text": "Municipal Unit of Falaisia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771180",
-    "parent": "937632",
-    "text": "Municipal Unit of Vytina",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771275",
-    "parent": "937632",
-    "text": "Municipal Unit of Dimitsana",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771446",
-    "parent": "937632",
-    "text": "Municipal Unit of Iraia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771468",
-    "parent": "937632",
-    "text": "Municipal Unit of Kleitor",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771516",
-    "parent": "937632",
-    "text": "Municipal Unit of Kontovazaina",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771610",
-    "parent": "937632",
-    "text": "Municipal Unit of Lagkadia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771680",
-    "parent": "937632",
-    "text": "Municipal Unit of Trikolonoi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11771850",
-    "parent": "937632",
-    "text": "Municipal Unit of Tropaia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743444",
-    "parent": "937635",
-    "text": "Municipal Unit of Nea Kios",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743506",
-    "parent": "937635",
-    "text": "Municipal Unit of Argos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743507",
-    "parent": "937635",
-    "text": "Municipal Unit of Achladokampos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743551",
-    "parent": "937635",
-    "text": "Municipal Unit of Alea",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743568",
-    "parent": "937635",
-    "text": "Municipal Unit of Koutsopodi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743599",
-    "parent": "937635",
-    "text": "Municipal Unit of Lerna",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743671",
-    "parent": "937635",
-    "text": "Municipal Unit of Lyrkeia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11743756",
-    "parent": "937635",
-    "text": "Municipal Unit of Mykines",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744167",
-    "parent": "937635",
-    "text": "Municipal Unit of Asklipieio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744370",
-    "parent": "937635",
-    "text": "Municipal Unit of Epidavros",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744401",
-    "parent": "937635",
-    "text": "Municipal Unit of Ermioni",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744437",
-    "parent": "937635",
-    "text": "Municipal Unit of Kranidi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744576",
-    "parent": "937635",
-    "text": "Municipal Unit of Asini",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744629",
-    "parent": "937635",
-    "text": "Municipal Unit of Midea",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744645",
-    "parent": "937635",
-    "text": "Municipal Unit of Nafplio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11744646",
-    "parent": "937635",
-    "text": "Municipal Unit of Nea Tiryntha",
-    "admin_level": "8"
-  },
-  {
-    "id": "8367875",
-    "parent": "956612",
-    "text": "Municipal Unit of Pyllini",
-    "admin_level": "8"
-  },
-  {
-    "id": "11772415",
-    "parent": "956612",
-    "text": "Municipal Unit of Antirrio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11772665",
-    "parent": "956612",
-    "text": "Municipal Unit of Apodotia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11772852",
-    "parent": "956612",
-    "text": "Municipal Unit of Nafpaktos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11772968",
-    "parent": "956612",
-    "text": "Municipal Unit of Platanos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11772983",
-    "parent": "956612",
-    "text": "Municipal Unit of Chalkeia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11863054",
-    "parent": "956612",
-    "text": "Municipal Unit of Iera Poli Messologhiou",
-    "admin_level": "8"
-  },
-  {
-    "id": "11863082",
-    "parent": "956612",
-    "text": "Municipal Unit of Etoliko",
-    "admin_level": "8"
-  },
-  {
-    "id": "11863095",
-    "parent": "956612",
-    "text": "Municipal Unit of Iniades",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991780",
-    "parent": "956612",
-    "text": "Municipal Unit of Astakos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991799",
-    "parent": "956612",
-    "text": "Municipal Unit of Alyzia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991801",
-    "parent": "956612",
-    "text": "Municipal Unit of Fyteies",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991814",
-    "parent": "956612",
-    "text": "Municipal Unit of Stratos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991819",
-    "parent": "956612",
-    "text": "Municipal Unit of Angelokastro",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991837",
-    "parent": "956612",
-    "text": "Municipal Unit of Agrinio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991857",
-    "parent": "956612",
-    "text": "Municipal Unit of Thestieis",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991892",
-    "parent": "956612",
-    "text": "Municipal Unit of Arakynthos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991896",
-    "parent": "956612",
-    "text": "Municipal Unit of Makryneia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991897",
-    "parent": "956612",
-    "text": "Municipal Unit of Paravola",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991905",
-    "parent": "956612",
-    "text": "Municipal Unit of Panaitoliko",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991930",
-    "parent": "956612",
-    "text": "Municipal Unit of Parakampylia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991942",
-    "parent": "956612",
-    "text": "Municipal Unit of Neapoli",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991947",
-    "parent": "956612",
-    "text": "Municipal Unit of Anaktorio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991949",
-    "parent": "956612",
-    "text": "Municipal Unit of Palairos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991951",
-    "parent": "956612",
-    "text": "Municipal Unit of Medeon",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991975",
-    "parent": "956612",
-    "text": "Municipal Unit of Amphilohia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991980",
-    "parent": "956612",
-    "text": "Municipal Unit of Menidi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11991986",
-    "parent": "956612",
-    "text": "Municipal Unit of Inachos",
-    "admin_level": "8"
-  },
-  {
-    "id": "13256158",
-    "parent": "959115",
-    "text": "Figaleia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13256159",
-    "parent": "959115",
-    "text": "Zacharo Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16738884",
-    "parent": "959115",
-    "text": "Amaliada Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16738885",
-    "parent": "959115",
-    "text": "Pineia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16738987",
-    "parent": "959115",
-    "text": "Tragano Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18498714",
-    "parent": "959115",
-    "text": "Municipal Unit of Kastro - Kyllini",
-    "admin_level": "8"
-  },
-  {
-    "id": "18498783",
-    "parent": "959115",
-    "text": "Municipal Unit of Skillountia",
-    "admin_level": "8"
-  },
-  {
-    "id": "18498852",
-    "parent": "959115",
-    "text": "Municipal Unit of Volax",
-    "admin_level": "8"
-  },
-  {
-    "id": "18502309",
-    "parent": "959115",
-    "text": "Municipal Unit of Archea Olympia",
-    "admin_level": "8"
-  },
-  {
-    "id": "18502382",
-    "parent": "959115",
-    "text": "Municipal Unit of Foloi",
-    "admin_level": "8"
-  },
-  {
-    "id": "18502448",
-    "parent": "959115",
-    "text": "Municipal Unit of Lassion",
-    "admin_level": "8"
-  },
-  {
-    "id": "18502449",
-    "parent": "959115",
-    "text": "Municipal Unit of Lampeia",
-    "admin_level": "8"
-  },
-  {
-    "id": "16156306",
-    "parent": "1379347",
-    "text": "Chassia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "16156307",
-    "parent": "1379347",
-    "text": "Deskati Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11973984",
-    "parent": "5207386",
-    "text": "Municipal Unit of Artemisia",
-    "admin_level": "8"
-  },
-  {
-    "id": "18593982",
-    "parent": "5207386",
-    "text": "Zakynthos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18593994",
-    "parent": "5207386",
-    "text": "Arkadii Municipal Unit",
+    "id": "11946960",
+    "parent": "563230",
+    "text": "Agios Pavlos Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -2070,483 +42,39 @@
     "admin_level": "8"
   },
   {
-    "id": "18594080",
-    "parent": "5207386",
-    "text": "Elaties Municipal Unit",
+    "id": "16738884",
+    "parent": "959115",
+    "text": "Amaliada Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "18594087",
-    "parent": "5207386",
-    "text": "Laganas Municipal Unit",
+    "id": "18609376",
+    "parent": "557549",
+    "text": "Amarynthos Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11779754",
-    "parent": "937627",
-    "text": "Municipal Unit of Assos - Lechaio",
+    "id": "16065976",
+    "parent": "939214",
+    "text": "Amaxades Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11779755",
-    "parent": "937627",
-    "text": "Municipal Unit of Corinth",
+    "id": "13301508",
+    "parent": "957704",
+    "text": "Ampelakia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11779810",
-    "parent": "937627",
-    "text": "Municipal Unit of Saronikos",
+    "id": "8323698",
+    "parent": "563230",
+    "text": "Ampelokipi Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11779852",
-    "parent": "937627",
-    "text": "Municipal Unit of Solygeia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11779939",
-    "parent": "937627",
-    "text": "Municipal Unit of Tenea",
-    "admin_level": "8"
-  },
-  {
-    "id": "11780000",
-    "parent": "937627",
-    "text": "Municipal Unit of Vocha",
-    "admin_level": "8"
-  },
-  {
-    "id": "11780001",
-    "parent": "937627",
-    "text": "Municipal Unit of Velos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11840822",
-    "parent": "937627",
-    "text": "Municipal Unit of Loutraki - Perachora",
-    "admin_level": "8"
-  },
-  {
-    "id": "11840823",
-    "parent": "937627",
-    "text": "Municipal Unit of Agioi Theodoroi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11840925",
-    "parent": "937627",
-    "text": "Municipal Unit of Xylokastro",
-    "admin_level": "8"
-  },
-  {
-    "id": "11840948",
-    "parent": "937627",
-    "text": "Municipal Unit of Evrostina",
-    "admin_level": "8"
-  },
-  {
-    "id": "11840988",
-    "parent": "937627",
-    "text": "Municipal Unit of Sikyona",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841003",
-    "parent": "937627",
-    "text": "Municipal Unit of Stymfalia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11841032",
-    "parent": "937627",
-    "text": "Municipal Unit of Feneos",
-    "admin_level": "8"
-  },
-  {
-    "id": "3601260",
-    "parent": "4477559",
-    "text": "Municipal Unit of Ano Liosia",
-    "admin_level": "8"
-  },
-  {
-    "id": "3601261",
-    "parent": "4477559",
-    "text": "Municipal Unit of Zefyri",
-    "admin_level": "8"
-  },
-  {
-    "id": "4478612",
-    "parent": "4477559",
-    "text": "Municipal Unit of Fili",
-    "admin_level": "8"
-  },
-  {
-    "id": "12079704",
-    "parent": "4477559",
-    "text": "Municipal Unit of Nea Peramos",
-    "admin_level": "8"
-  },
-  {
-    "id": "12079706",
-    "parent": "4477559",
-    "text": "Municipal Unit of Megara",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085703",
-    "parent": "4477559",
-    "text": "Municipal Unit of Magoula",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085704",
-    "parent": "4477559",
-    "text": "Municipal Unit of Elefsina",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085899",
-    "parent": "4477559",
-    "text": "Municipal Unit of Oinoi",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085994",
-    "parent": "4477559",
-    "text": "Municipal Unit of Mandra",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085996",
-    "parent": "4477559",
-    "text": "Municipal Unit of Erythres",
-    "admin_level": "8"
-  },
-  {
-    "id": "12085998",
-    "parent": "4477559",
-    "text": "Municipal Unit of Vilia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810147",
-    "parent": "956611",
-    "text": "Municipal Unit of Ellomenos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810152",
-    "parent": "956611",
-    "text": "Municipal Unit of Apollonioi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810171",
-    "parent": "956611",
-    "text": "Municipal Unit of Lefkada",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810180",
-    "parent": "956611",
-    "text": "Municipal Unit of Karya",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810214",
-    "parent": "956611",
-    "text": "Municipal Unit of Sfakiates",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810220",
-    "parent": "956611",
-    "text": "Municipal Unit of Kalamos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11810222",
-    "parent": "956611",
-    "text": "Municipal Unit of Kastos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15544616",
-    "parent": "959069",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03c1\u03b1\u03b3\u03ba\u03af\u03c3\u03c4\u03b1\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545276",
-    "parent": "959069",
-    "text": "Municipal Unit of Viniani",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545324",
-    "parent": "959069",
-    "text": "Municipal Unit of Fournas",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545370",
-    "parent": "959069",
-    "text": "Municipal Unit of Karpenisi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545397",
-    "parent": "959069",
-    "text": "Municipal Unit of Ktimenia",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545461",
-    "parent": "959069",
-    "text": "Municipal Unit of Proussos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545471",
-    "parent": "959069",
-    "text": "Municipal Unit of Domnista",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545480",
-    "parent": "959069",
-    "text": "Municipal Unit of Potamia",
-    "admin_level": "8"
-  },
-  {
-    "id": "8430299",
-    "parent": "558486",
-    "text": "Ioannina Island Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13256948",
-    "parent": "558486",
-    "text": "Perama Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13845734",
-    "parent": "558486",
-    "text": "Pamvotida Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "17360570",
-    "parent": "558486",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03b9\u03c4\u03ce\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "13894258",
-    "parent": "554400",
-    "text": "Nevropoli Agrafon Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13894259",
-    "parent": "554400",
-    "text": "Plastiras Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15545936",
-    "parent": "554400",
-    "text": "Municipal Unit of Rentini",
-    "admin_level": "8"
-  },
-  {
-    "id": "15546476",
-    "parent": "554400",
-    "text": "Municipal Unit of Menelaida",
-    "admin_level": "8"
-  },
-  {
-    "id": "15546685",
-    "parent": "554400",
-    "text": "Municipal Unit of Tamasi",
-    "admin_level": "8"
-  },
-  {
-    "id": "15546871",
-    "parent": "554400",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03c1\u03bd\u03b7\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "15546872",
-    "parent": "554400",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03bf\u03c6\u03ac\u03b4\u03c9\u03bd",
-    "admin_level": "8"
-  },
-  {
-    "id": "11807883",
-    "parent": "557547",
-    "text": "Municipal Unit of Efpalio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11807953",
-    "parent": "557547",
-    "text": "Municipal Unit of Vardousia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11808032",
-    "parent": "557547",
-    "text": "Municipal Unit of Lidoriki",
-    "admin_level": "8"
-  },
-  {
-    "id": "11808144",
-    "parent": "557547",
-    "text": "Municipal Unit of Tolofona",
-    "admin_level": "8"
-  },
-  {
-    "id": "11808833",
-    "parent": "557547",
-    "text": "Municipal Unit of Parnassos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11808851",
-    "parent": "557547",
-    "text": "Municipal Unit of Kallieis",
-    "admin_level": "8"
-  },
-  {
-    "id": "11808911",
-    "parent": "557547",
-    "text": "Municipal Unit of Itea",
-    "admin_level": "8"
-  },
-  {
-    "id": "11809423",
-    "parent": "557547",
-    "text": "Municipal Unit of Desfina",
-    "admin_level": "8"
-  },
-  {
-    "id": "11809424",
-    "parent": "557547",
-    "text": "Municipal Unit of Delphi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11809457",
-    "parent": "557547",
-    "text": "Municipal Unit of Gravia",
-    "admin_level": "8"
-  },
-  {
-    "id": "11809501",
-    "parent": "557547",
-    "text": "Municipal Unit of Galaxidi",
-    "admin_level": "8"
-  },
-  {
-    "id": "11809531",
-    "parent": "557547",
-    "text": "Municipal Unit of Amfissa",
-    "admin_level": "8"
-  },
-  {
-    "id": "13241240",
-    "parent": "11274601",
-    "text": "Polichnitos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13241289",
-    "parent": "11274601",
-    "text": "Mytilene Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "1400758",
-    "parent": "2607262",
-    "text": "Municipal Unit of Neo Psychiko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1403235",
-    "parent": "2607262",
-    "text": "Municipal Unit of Psychiko",
-    "admin_level": "8"
-  },
-  {
-    "id": "1403263",
-    "parent": "2607262",
-    "text": "Municipal Unit of Filothei",
-    "admin_level": "8"
-  },
-  {
-    "id": "2333712",
-    "parent": "2607262",
-    "text": "Municipal Unit of Papagou",
-    "admin_level": "8"
-  },
-  {
-    "id": "2333715",
-    "parent": "2607262",
-    "text": "Municipal Unit of Cholargos",
-    "admin_level": "8"
-  },
-  {
-    "id": "12086147",
-    "parent": "2607262",
-    "text": "Municipal Unit of Pefki",
-    "admin_level": "8"
-  },
-  {
-    "id": "12086148",
-    "parent": "2607262",
-    "text": "Municipal Unit of Lykovrysi",
-    "admin_level": "8"
-  },
-  {
-    "id": "13790606",
-    "parent": "2607262",
-    "text": "Melissia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13790679",
-    "parent": "2607262",
-    "text": "Nea Penteli Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13790682",
-    "parent": "2607262",
-    "text": "Penteli Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14750650",
-    "parent": "2607262",
-    "text": "Ekali Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "1392636",
-    "parent": "4477554",
-    "text": "Municipal Unit of Voula",
-    "admin_level": "8"
-  },
-  {
-    "id": "8411397",
-    "parent": "4477554",
-    "text": "Saronida Municipal Unit",
+    "id": "13319980",
+    "parent": "554656",
+    "text": "Analipsi Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -2556,40 +84,70 @@
     "admin_level": "8"
   },
   {
-    "id": "11831100",
+    "id": "5324073",
+    "parent": "4496067",
+    "text": "Andros Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13389023",
     "parent": "4477554",
-    "text": "Lavreotiki Municipal Unit",
+    "text": "Anthousa Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11831406",
-    "parent": "4477554",
-    "text": "Vouliagmeni Municipal Unit",
+    "id": "5685134",
+    "parent": "557546",
+    "text": "Antikyra Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11831407",
-    "parent": "4477554",
-    "text": "Vari Municipal Unit",
+    "id": "18728834",
+    "parent": "563230",
+    "text": "Apollonia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11909741",
-    "parent": "4477554",
-    "text": "Municipal Unit of Thrakomakedones",
+    "id": "5685135",
+    "parent": "557546",
+    "text": "Arachova Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "11909744",
-    "parent": "4477554",
-    "text": "Municipal Unit of Acharnes",
+    "id": "937632",
+    "parent": "4495892",
+    "text": "Arcadia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13362972",
+    "parent": "554686",
+    "text": "Archanes Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13388949",
-    "parent": "4477554",
-    "text": "Spata-Loutsa Municipal Unit",
+    "id": "937635",
+    "parent": "4495892",
+    "text": "Argolis Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "18593994",
+    "parent": "5207386",
+    "text": "Arkadii Municipal Unit",
     "admin_level": "8"
+  },
+  {
+    "id": "13365976",
+    "parent": "554686",
+    "text": "Arkalochori Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "558485",
+    "parent": "4458374",
+    "text": "Arta Regional Unit",
+    "admin_level": "6"
   },
   {
     "id": "13388951",
@@ -2598,27 +156,219 @@
     "admin_level": "8"
   },
   {
-    "id": "13388974",
-    "parent": "4477554",
-    "text": "Pikermi Municipal Unit",
+    "id": "13363036",
+    "parent": "554686",
+    "text": "Asterousia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13388976",
-    "parent": "4477554",
-    "text": "Rafina Municipal Unit",
+    "id": "4477553",
+    "parent": "192307",
+    "text": "Attica",
+    "admin_level": "4"
+  },
+  {
+    "id": "568383",
+    "parent": "5208399",
+    "text": "Chalkidiki Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "554720",
+    "parent": "4496068",
+    "text": "Chania Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "16156306",
+    "parent": "1379347",
+    "text": "Chassia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13389022",
-    "parent": "4477554",
-    "text": "Pallini Municipal Unit",
+    "id": "13366104",
+    "parent": "554686",
+    "text": "Chersonisos Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13389023",
-    "parent": "4477554",
-    "text": "Anthousa Municipal Unit",
+    "id": "1846634",
+    "parent": "4496067",
+    "text": "Chios Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "11948568",
+    "parent": "563230",
+    "text": "Chortiatis Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "937627",
+    "parent": "4495892",
+    "text": "Corinthia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "16156307",
+    "parent": "1379347",
+    "text": "Deskati Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14698030",
+    "parent": "939217",
+    "text": "Didymoteicho Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5685136",
+    "parent": "557546",
+    "text": "Distomo Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "8443247",
+    "parent": "5323628",
+    "text": "Donousa Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14685439",
+    "parent": "938042",
+    "text": "Doxato Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14685456",
+    "parent": "938042",
+    "text": "Drama Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "938042",
+    "parent": "5208399",
+    "text": "Drama Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13255924",
+    "parent": "1360426",
+    "text": "East Mani Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "2365201",
+    "parent": "563230",
+    "text": "Efkarpia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14750650",
+    "parent": "2607262",
+    "text": "Ekali Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18594080",
+    "parent": "5207386",
+    "text": "Elaties Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "2354314",
+    "parent": "563230",
+    "text": "Eleftherio - Kordelio Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "959115",
+    "parent": "4495892",
+    "text": "Elis Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "4458374",
+    "parent": "192307",
+    "text": "Epirus and Western Macedonia",
+    "admin_level": "4"
+  },
+  {
+    "id": "13366114",
+    "parent": "554686",
+    "text": "Episkopi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18609374",
+    "parent": "557549",
+    "text": "Eretria Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13241360",
+    "parent": "957829",
+    "text": "Erisos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "557549",
+    "parent": "4495677",
+    "text": "Euboea Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8641043",
+    "parent": "563230",
+    "text": "Evosmos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "939217",
+    "parent": "5208399",
+    "text": "Evros Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13256158",
+    "parent": "959115",
+    "text": "Figaleia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "15969043",
+    "parent": "558499",
+    "text": "Filiates Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "12545526",
+    "parent": "959149",
+    "text": "Filiatra Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16244031",
+    "parent": "956714",
+    "text": "Florina Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "956714",
+    "parent": "4458374",
+    "text": "Florina Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "12545378",
+    "parent": "959149",
+    "text": "Gargalianoi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13363188",
+    "parent": "554686",
+    "text": "Gazi Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -2634,405 +384,21 @@
     "admin_level": "8"
   },
   {
-    "id": "13389136",
-    "parent": "4477554",
-    "text": "Paiania Municipal Unit",
+    "id": "13362899",
+    "parent": "554686",
+    "text": "Gorgolaini Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13389193",
-    "parent": "4477554",
-    "text": "Kouvaras Municipal Unit",
+    "id": "13363090",
+    "parent": "554686",
+    "text": "Gortyna Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "13389195",
-    "parent": "4477554",
-    "text": "Kalyvia Thorikou Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13389199",
-    "parent": "4477554",
-    "text": "Palea Fokea Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13783605",
-    "parent": "4477554",
-    "text": "Nea Makri Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "13786124",
-    "parent": "4477554",
-    "text": "Kryoneri Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "15559670",
-    "parent": "4477554",
-    "text": "Municipal Unit of Ayios Konstantinos",
-    "admin_level": "8"
-  },
-  {
-    "id": "15559677",
-    "parent": "4477554",
-    "text": "Municipal Unit of Keratea",
-    "admin_level": "8"
-  },
-  {
-    "id": "1397444",
-    "parent": "2604796",
-    "text": "Municipal Unit of Nea Filadelfeia",
-    "admin_level": "8"
-  },
-  {
-    "id": "1400345",
-    "parent": "2604796",
-    "text": "Municipal Unit of Dafni",
-    "admin_level": "8"
-  },
-  {
-    "id": "1400371",
-    "parent": "2604796",
-    "text": "Municipal Unit of Ymittos",
-    "admin_level": "8"
-  },
-  {
-    "id": "1403276",
-    "parent": "2604796",
-    "text": "Municipal Unit of Nea Chalkidona",
-    "admin_level": "8"
-  },
-  {
-    "id": "1398773",
-    "parent": "2612469",
-    "text": "Municipal Unit of Moschato",
-    "admin_level": "8"
-  },
-  {
-    "id": "1398800",
-    "parent": "2612469",
-    "text": "Municipal Unit of Tavros",
-    "admin_level": "8"
-  },
-  {
-    "id": "2333636",
-    "parent": "2612469",
-    "text": "Municipal Unit of Elliniko",
-    "admin_level": "8"
-  },
-  {
-    "id": "2576141",
-    "parent": "2612469",
-    "text": "Municipal Unit of Argyroupoli",
-    "admin_level": "8"
-  },
-  {
-    "id": "1394008",
-    "parent": "2616826",
-    "text": "Municipal Unit of Nikaia",
-    "admin_level": "8"
-  },
-  {
-    "id": "1398435",
-    "parent": "2616826",
-    "text": "Municipal Unit of Keratsini",
-    "admin_level": "8"
-  },
-  {
-    "id": "1398492",
-    "parent": "2616826",
-    "text": "Municipal Unit of Drapetsona",
-    "admin_level": "8"
-  },
-  {
-    "id": "1398826",
-    "parent": "2616826",
-    "text": "Municipal Unit of Agios Ioannis Rentis",
-    "admin_level": "8"
-  },
-  {
-    "id": "1403455",
-    "parent": "2612423",
-    "text": "Municipal Unit of Kamatero",
-    "admin_level": "8"
-  },
-  {
-    "id": "1844587",
-    "parent": "2612423",
-    "text": "Municipal Unit of Agioi Anargyroi",
-    "admin_level": "8"
-  },
-  {
-    "id": "8443247",
-    "parent": "5323628",
-    "text": "Donousa Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11814881",
-    "parent": "1845173",
-    "text": "Municipal Unit of Pythagoreio",
-    "admin_level": "8"
-  },
-  {
-    "id": "11814882",
-    "parent": "1845173",
-    "text": "Municipal Unit of Marathokabos",
-    "admin_level": "8"
-  },
-  {
-    "id": "11814885",
-    "parent": "1845173",
-    "text": "Municipal Unit of Vathy",
-    "admin_level": "8"
-  },
-  {
-    "id": "11814886",
-    "parent": "1845173",
-    "text": "Municipal Unit of Karlovasi",
-    "admin_level": "8"
-  },
-  {
-    "id": "13256923",
-    "parent": "5305784",
-    "text": "Moudros Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "1779193",
-    "parent": "563230",
-    "text": "Triandria Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "2354314",
-    "parent": "563230",
-    "text": "Eleftherio - Kordelio Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "2365201",
-    "parent": "563230",
-    "text": "Efkarpia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "8323698",
-    "parent": "563230",
-    "text": "Ampelokipi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "8629807",
-    "parent": "563230",
-    "text": "Stavroupoli Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "8629808",
-    "parent": "563230",
-    "text": "Polichni Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "8641043",
-    "parent": "563230",
-    "text": "Evosmos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11943885",
-    "parent": "563230",
-    "text": "Menemeni Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11946223",
-    "parent": "563230",
-    "text": "Neapoli Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11946960",
-    "parent": "563230",
-    "text": "Agios Pavlos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11947832",
-    "parent": "563230",
-    "text": "Pefka Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11947834",
-    "parent": "563230",
-    "text": "Sykies Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11948133",
-    "parent": "563230",
-    "text": "Thessaloniki Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11948568",
-    "parent": "563230",
-    "text": "Chortiatis Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11948617",
-    "parent": "563230",
-    "text": "Panorama Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11948619",
-    "parent": "563230",
-    "text": "Pylaia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "11956051",
-    "parent": "563230",
-    "text": "Municipal Unit of Echedoros",
-    "admin_level": "8"
-  },
-  {
-    "id": "11956052",
-    "parent": "563230",
-    "text": "Municipal Unit of Chalastra",
-    "admin_level": "8"
-  },
-  {
-    "id": "11956053",
-    "parent": "563230",
-    "text": "Municipal Unit of Axios",
-    "admin_level": "8"
-  },
-  {
-    "id": "11957608",
-    "parent": "563230",
-    "text": "Municipal Unit of Agios Athanasios",
-    "admin_level": "8"
-  },
-  {
-    "id": "11957609",
-    "parent": "563230",
-    "text": "Municipal Unit of Chalkidona",
-    "admin_level": "8"
-  },
-  {
-    "id": "11957610",
-    "parent": "563230",
-    "text": "Municipal Unit of Koufalia",
-    "admin_level": "8"
-  },
-  {
-    "id": "12135293",
-    "parent": "563230",
-    "text": "Municipal Unit of Koronia",
-    "admin_level": "8"
-  },
-  {
-    "id": "12135334",
-    "parent": "563230",
-    "text": "Municipal Unit of Assiros",
-    "admin_level": "8"
-  },
-  {
-    "id": "12135514",
-    "parent": "563230",
-    "text": "Municipal Unit of Kalindi",
-    "admin_level": "8"
-  },
-  {
-    "id": "12135547",
-    "parent": "563230",
-    "text": "Municipal Unit of Egnatia",
-    "admin_level": "8"
-  },
-  {
-    "id": "14236761",
-    "parent": "563230",
-    "text": "Oraiokastro Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14236778",
-    "parent": "563230",
-    "text": "Kallithea Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14236779",
-    "parent": "563230",
-    "text": "Mygdonia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18728833",
-    "parent": "563230",
-    "text": "Madytos Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18728834",
-    "parent": "563230",
-    "text": "Apollonia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14684737",
-    "parent": "937847",
-    "text": "Strymoniko Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14684821",
-    "parent": "937847",
-    "text": "Skotoussa Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "14684822",
-    "parent": "937847",
-    "text": "Iraklia Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "17165220",
-    "parent": "937847",
-    "text": "Municipal Unit of Skoutari",
-    "admin_level": "8"
-  },
-  {
-    "id": "18653293",
-    "parent": "937847",
-    "text": "Kerkini Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "18653313",
-    "parent": "937847",
-    "text": "Petritsi Municipal Unit",
-    "admin_level": "8"
-  },
-  {
-    "id": "19290583",
-    "parent": "937847",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03c1\u03bf\u03bc\u03b1\u03c7\u03ce\u03bd\u03bf\u03c2",
-    "admin_level": "8"
-  },
-  {
-    "id": "19351838",
-    "parent": "937847",
-    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03b3\u03ba\u03af\u03c3\u03c4\u03c1\u03bf\u03c5",
+    "id": "13366058",
+    "parent": "554686",
+    "text": "Gouves Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -3042,51 +408,105 @@
     "admin_level": "8"
   },
   {
-    "id": "15001384",
-    "parent": "956714",
-    "text": "Krystallopigi Municipal Unit",
+    "id": "1379347",
+    "parent": "4458374",
+    "text": "Grevena Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13256001",
+    "parent": "1360426",
+    "text": "Gytheio Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "15001385",
-    "parent": "956714",
-    "text": "Prespes Municipal Unit",
+    "id": "13362715",
+    "parent": "554686",
+    "text": "Heraklion Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16243583",
-    "parent": "956714",
-    "text": "Kato Klines Municipal Unit",
+    "id": "554686",
+    "parent": "4496068",
+    "text": "Heraklion Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8324061",
+    "parent": "5323612",
+    "text": "Ia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16243882",
-    "parent": "956714",
-    "text": "Meliti Municipal Unit",
+    "id": "13320344",
+    "parent": "554656",
+    "text": "Ierapetra Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16244031",
-    "parent": "956714",
-    "text": "Florina Municipal Unit",
+    "id": "5305896",
+    "parent": "4496067",
+    "text": "Ikaria Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "563225",
+    "parent": "5208399",
+    "text": "Imathia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8430299",
+    "parent": "558486",
+    "text": "Ioannina Island Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16244032",
-    "parent": "956714",
-    "text": "Perasma Municipal Unit",
+    "id": "558486",
+    "parent": "4458374",
+    "text": "Ioannina Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "14684822",
+    "parent": "937847",
+    "text": "Iraklia Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "14348675",
-    "parent": "956726",
-    "text": "Velventos Municipal Unit",
+    "id": "13319873",
+    "parent": "554656",
+    "text": "Itanos Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16159559",
-    "parent": "956726",
-    "text": "Servia Municipal Unit",
+    "id": "5225311",
+    "parent": "4495892",
+    "text": "Ithaca Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "14685438",
+    "parent": "938042",
+    "text": "Kalambaki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14236778",
+    "parent": "563230",
+    "text": "Kallithea Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5324202",
+    "parent": "4496067",
+    "text": "Kalymnos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13389195",
+    "parent": "4477554",
+    "text": "Kalyvia Thorikou Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -3096,28 +516,256 @@
     "admin_level": "8"
   },
   {
+    "id": "554400",
+    "parent": "4495677",
+    "text": "Karditsa Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "16807921",
+    "parent": "5324274",
+    "text": "Karpathos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5324274",
+    "parent": "4496067",
+    "text": "Karpathos-Kasos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13683016",
+    "parent": "568383",
+    "text": "Kassandra Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13365945",
+    "parent": "554686",
+    "text": "Kastelli Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "956713",
+    "parent": "4458374",
+    "text": "Kastoria Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "16243583",
+    "parent": "956714",
+    "text": "Kato Klines Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "937896",
+    "parent": "5208399",
+    "text": "Kavala Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "5323564",
+    "parent": "4496067",
+    "text": "Kea-Kythnos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "957829",
+    "parent": "4495892",
+    "text": "Kefallonia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "18653293",
+    "parent": "937847",
+    "text": "Kerkini Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "938063",
+    "parent": "5208399",
+    "text": "Kilkis Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13363097",
+    "parent": "554686",
+    "text": "Kofinas Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "12544933",
+    "parent": "959149",
+    "text": "Koroni Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5324235",
+    "parent": "4496067",
+    "text": "Kos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13389193",
+    "parent": "4477554",
+    "text": "Kouvaras Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "956726",
+    "parent": "4458374",
+    "text": "Kozani Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13363197",
+    "parent": "554686",
+    "text": "Krousonas Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13786124",
+    "parent": "4477554",
+    "text": "Kryoneri Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "15001384",
+    "parent": "956714",
+    "text": "Krystallopigi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "12545525",
+    "parent": "959149",
+    "text": "Kyparissia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14311043",
+    "parent": "557546",
+    "text": "Kyriakio Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "1360426",
+    "parent": "4495892",
+    "text": "Laconia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "18594087",
+    "parent": "5207386",
+    "text": "Laganas Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "554401",
+    "parent": "4495677",
+    "text": "Larisa Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "554656",
+    "parent": "4496068",
+    "text": "Lasithi Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "11831100",
+    "parent": "4477554",
+    "text": "Lavreotiki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "956611",
+    "parent": "4495892",
+    "text": "Lefkada Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13320064",
+    "parent": "554656",
+    "text": "Lefki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5305784",
+    "parent": "4496067",
+    "text": "Lemnos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "11274601",
+    "parent": "4496067",
+    "text": "Lesbos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "14311044",
+    "parent": "557546",
+    "text": "Levadia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
     "id": "16159561",
     "parent": "956726",
     "text": "Livadero Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "16164472",
-    "parent": "956726",
-    "text": "Siatista Municipal Unit",
+    "id": "15553225",
+    "parent": "554405",
+    "text": "M unicipal Unit of Makrakomi",
     "admin_level": "8"
   },
   {
-    "id": "16065976",
-    "parent": "939214",
-    "text": "Amaxades Municipal Unit",
+    "id": "5208399",
+    "parent": "192307",
+    "text": "Macedonia and Thrace",
+    "admin_level": "4"
+  },
+  {
+    "id": "18728833",
+    "parent": "563230",
+    "text": "Madytos Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "14698030",
-    "parent": "939217",
-    "text": "Didymoteicho Municipal Unit",
+    "id": "13320267",
+    "parent": "554656",
+    "text": "Makry Gialos Municipal Unit",
     "admin_level": "8"
+  },
+  {
+    "id": "13366108",
+    "parent": "554686",
+    "text": "Malia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13790606",
+    "parent": "2607262",
+    "text": "Melissia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16243882",
+    "parent": "956714",
+    "text": "Meliti Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11943885",
+    "parent": "563230",
+    "text": "Menemeni Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "959149",
+    "parent": "4495892",
+    "text": "Messenia Regional Unit",
+    "admin_level": "6"
   },
   {
     "id": "14698031",
@@ -3126,51 +774,1653 @@
     "admin_level": "8"
   },
   {
-    "id": "14698766",
-    "parent": "939217",
-    "text": "Trigono Municipal Unit",
+    "id": "12544975",
+    "parent": "959149",
+    "text": "Methoni Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "14684903",
-    "parent": "938042",
-    "text": "Prosotsani Municipal Unit",
+    "id": "5323577",
+    "parent": "4496067",
+    "text": "Milos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13366004",
+    "parent": "554686",
+    "text": "Mires Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "14684904",
-    "parent": "938042",
-    "text": "Sitagri Municipal Unit",
+    "id": "13256923",
+    "parent": "5305784",
+    "text": "Moudros Municipal Unit",
     "admin_level": "8"
   },
   {
-    "id": "14685438",
-    "parent": "938042",
-    "text": "Kalambaki Municipal Unit",
+    "id": "11750595",
+    "parent": "937632",
+    "text": "Municipa Unit of Falanthos",
     "admin_level": "8"
   },
   {
-    "id": "14685439",
-    "parent": "938042",
-    "text": "Doxato Municipal Unit",
+    "id": "11909744",
+    "parent": "4477554",
+    "text": "Municipal Unit of Acharnes",
     "admin_level": "8"
   },
   {
-    "id": "14685455",
-    "parent": "938042",
-    "text": "Sidironero Municipal Unit",
+    "id": "11743507",
+    "parent": "937635",
+    "text": "Municipal Unit of Achladokampos",
     "admin_level": "8"
   },
   {
-    "id": "14685456",
-    "parent": "938042",
-    "text": "Drama Municipal Unit",
+    "id": "11841788",
+    "parent": "937628",
+    "text": "Municipal Unit of Aegio",
     "admin_level": "8"
   },
   {
-    "id": "14685536",
-    "parent": "938042",
-    "text": "Paranesti Municipal Unit",
+    "id": "11841119",
+    "parent": "937628",
+    "text": "Municipal Unit of Aegira",
+    "admin_level": "8"
+  },
+  {
+    "id": "15544469",
+    "parent": "554407",
+    "text": "Municipal Unit of Afetes",
+    "admin_level": "8"
+  },
+  {
+    "id": "1844587",
+    "parent": "2612423",
+    "text": "Municipal Unit of Agioi Anargyroi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11840823",
+    "parent": "937627",
+    "text": "Municipal Unit of Agioi Theodoroi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11957608",
+    "parent": "563230",
+    "text": "Municipal Unit of Agios Athanasios",
+    "admin_level": "8"
+  },
+  {
+    "id": "1398826",
+    "parent": "2616826",
+    "text": "Municipal Unit of Agios Ioannis Rentis",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991837",
+    "parent": "956612",
+    "text": "Municipal Unit of Agrinio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841159",
+    "parent": "937628",
+    "text": "Municipal Unit of Akrata",
+    "admin_level": "8"
+  },
+  {
+    "id": "15565794",
+    "parent": "557546",
+    "text": "Municipal Unit of Akrefnia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743551",
+    "parent": "937635",
+    "text": "Municipal Unit of Alea",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569806",
+    "parent": "554407",
+    "text": "Municipal Unit of Almyros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991799",
+    "parent": "956612",
+    "text": "Municipal Unit of Alyzia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555686",
+    "parent": "554405",
+    "text": "Municipal Unit of Amfiklia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11809531",
+    "parent": "557547",
+    "text": "Municipal Unit of Amfissa",
+    "admin_level": "8"
+  },
+  {
+    "id": "15552101",
+    "parent": "554401",
+    "text": "Municipal Unit of Ampelakia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991975",
+    "parent": "956612",
+    "text": "Municipal Unit of Amphilohia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991947",
+    "parent": "956612",
+    "text": "Municipal Unit of Anaktorio",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569809",
+    "parent": "554407",
+    "text": "Municipal Unit of Anavra",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991819",
+    "parent": "956612",
+    "text": "Municipal Unit of Angelokastro",
+    "admin_level": "8"
+  },
+  {
+    "id": "3601260",
+    "parent": "4477559",
+    "text": "Municipal Unit of Ano Liosia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15566907",
+    "parent": "557549",
+    "text": "Municipal Unit of Anthidon",
+    "admin_level": "8"
+  },
+  {
+    "id": "11785968",
+    "parent": "957704",
+    "text": "Municipal Unit of Antikythira",
+    "admin_level": "8"
+  },
+  {
+    "id": "11772415",
+    "parent": "956612",
+    "text": "Municipal Unit of Antirrio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11772665",
+    "parent": "956612",
+    "text": "Municipal Unit of Apodotia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810152",
+    "parent": "956611",
+    "text": "Municipal Unit of Apollonioi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991892",
+    "parent": "956612",
+    "text": "Municipal Unit of Arakynthos",
+    "admin_level": "8"
+  },
+  {
+    "id": "18502309",
+    "parent": "959115",
+    "text": "Municipal Unit of Archea Olympia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743506",
+    "parent": "937635",
+    "text": "Municipal Unit of Argos",
+    "admin_level": "8"
+  },
+  {
+    "id": "2576141",
+    "parent": "2612469",
+    "text": "Municipal Unit of Argyroupoli",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548609",
+    "parent": "554401",
+    "text": "Municipal Unit of Armenio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11970326",
+    "parent": "937628",
+    "text": "Municipal Unit of Aroania",
+    "admin_level": "8"
+  },
+  {
+    "id": "11973984",
+    "parent": "5207386",
+    "text": "Municipal Unit of Artemisia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744576",
+    "parent": "937635",
+    "text": "Municipal Unit of Asini",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744167",
+    "parent": "937635",
+    "text": "Municipal Unit of Asklipieio",
+    "admin_level": "8"
+  },
+  {
+    "id": "12135334",
+    "parent": "563230",
+    "text": "Municipal Unit of Assiros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11779754",
+    "parent": "937627",
+    "text": "Municipal Unit of Assos - Lechaio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991780",
+    "parent": "956612",
+    "text": "Municipal Unit of Astakos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555848",
+    "parent": "554405",
+    "text": "Municipal Unit of Atalanti",
+    "admin_level": "8"
+  },
+  {
+    "id": "13087993",
+    "parent": "959149",
+    "text": "Municipal Unit of Avia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15566949",
+    "parent": "557549",
+    "text": "Municipal Unit of Avlis",
+    "admin_level": "8"
+  },
+  {
+    "id": "11956053",
+    "parent": "563230",
+    "text": "Municipal Unit of Axios",
+    "admin_level": "8"
+  },
+  {
+    "id": "15551926",
+    "parent": "554401",
+    "text": "Municipal Unit of Ayia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553226",
+    "parent": "554405",
+    "text": "Municipal Unit of Ayios Georgios Tymfristos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555550",
+    "parent": "554405",
+    "text": "Municipal Unit of Ayios Konstantinos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15559670",
+    "parent": "4477554",
+    "text": "Municipal Unit of Ayios Konstantinos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11956052",
+    "parent": "563230",
+    "text": "Municipal Unit of Chalastra",
+    "admin_level": "8"
+  },
+  {
+    "id": "11772983",
+    "parent": "956612",
+    "text": "Municipal Unit of Chalkeia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11957609",
+    "parent": "563230",
+    "text": "Municipal Unit of Chalkidona",
+    "admin_level": "8"
+  },
+  {
+    "id": "2333715",
+    "parent": "2607262",
+    "text": "Municipal Unit of Cholargos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11779755",
+    "parent": "937627",
+    "text": "Municipal Unit of Corinth",
+    "admin_level": "8"
+  },
+  {
+    "id": "1400345",
+    "parent": "2604796",
+    "text": "Municipal Unit of Dafni",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555824",
+    "parent": "554405",
+    "text": "Municipal Unit of Dafnousia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15559752",
+    "parent": "557546",
+    "text": "Municipal Unit of Davlia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11809424",
+    "parent": "557547",
+    "text": "Municipal Unit of Delphi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11809423",
+    "parent": "557547",
+    "text": "Municipal Unit of Desfina",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841787",
+    "parent": "937628",
+    "text": "Municipal Unit of Diakopto",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771275",
+    "parent": "937632",
+    "text": "Municipal Unit of Dimitsana",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545471",
+    "parent": "959069",
+    "text": "Municipal Unit of Domnista",
+    "admin_level": "8"
+  },
+  {
+    "id": "1398492",
+    "parent": "2616826",
+    "text": "Municipal Unit of Drapetsona",
+    "admin_level": "8"
+  },
+  {
+    "id": "11894666",
+    "parent": "937628",
+    "text": "Municipal Unit of Dymi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11956051",
+    "parent": "563230",
+    "text": "Municipal Unit of Echedoros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11807883",
+    "parent": "557547",
+    "text": "Municipal Unit of Efpalio",
+    "admin_level": "8"
+  },
+  {
+    "id": "12135547",
+    "parent": "563230",
+    "text": "Municipal Unit of Egnatia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555696",
+    "parent": "554405",
+    "text": "Municipal Unit of Elatia",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085704",
+    "parent": "4477559",
+    "text": "Municipal Unit of Elefsina",
+    "admin_level": "8"
+  },
+  {
+    "id": "13235409",
+    "parent": "957829",
+    "text": "Municipal Unit of Elios-Proni",
+    "admin_level": "8"
+  },
+  {
+    "id": "2333636",
+    "parent": "2612469",
+    "text": "Municipal Unit of Elliniko",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810147",
+    "parent": "956611",
+    "text": "Municipal Unit of Ellomenos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744370",
+    "parent": "937635",
+    "text": "Municipal Unit of Epidavros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841975",
+    "parent": "937628",
+    "text": "Municipal Unit of Erineos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744401",
+    "parent": "937635",
+    "text": "Municipal Unit of Ermioni",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085996",
+    "parent": "4477559",
+    "text": "Municipal Unit of Erythres",
+    "admin_level": "8"
+  },
+  {
+    "id": "11863082",
+    "parent": "956612",
+    "text": "Municipal Unit of Etoliko",
+    "admin_level": "8"
+  },
+  {
+    "id": "11840948",
+    "parent": "937627",
+    "text": "Municipal Unit of Evrostina",
+    "admin_level": "8"
+  },
+  {
+    "id": "11769442",
+    "parent": "937632",
+    "text": "Municipal Unit of Falaisia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15990565",
+    "parent": "1360426",
+    "text": "Municipal Unit of Faris",
+    "admin_level": "8"
+  },
+  {
+    "id": "11964971",
+    "parent": "937628",
+    "text": "Municipal Unit of Farres",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841032",
+    "parent": "937627",
+    "text": "Municipal Unit of Feneos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15570908",
+    "parent": "554407",
+    "text": "Municipal Unit of Feres",
+    "admin_level": "8"
+  },
+  {
+    "id": "4478612",
+    "parent": "4477559",
+    "text": "Municipal Unit of Fili",
+    "admin_level": "8"
+  },
+  {
+    "id": "1403263",
+    "parent": "2607262",
+    "text": "Municipal Unit of Filothei",
+    "admin_level": "8"
+  },
+  {
+    "id": "18502382",
+    "parent": "959115",
+    "text": "Municipal Unit of Foloi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545324",
+    "parent": "959069",
+    "text": "Municipal Unit of Fournas",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991801",
+    "parent": "956612",
+    "text": "Municipal Unit of Fyteies",
+    "admin_level": "8"
+  },
+  {
+    "id": "11809501",
+    "parent": "557547",
+    "text": "Municipal Unit of Galaxidi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15552221",
+    "parent": "554401",
+    "text": "Municipal Unit of Gonnoi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11769426",
+    "parent": "937632",
+    "text": "Municipal Unit of Gortyna",
+    "admin_level": "8"
+  },
+  {
+    "id": "11809457",
+    "parent": "557547",
+    "text": "Municipal Unit of Gravia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11863054",
+    "parent": "956612",
+    "text": "Municipal Unit of Iera Poli Messologhiou",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991986",
+    "parent": "956612",
+    "text": "Municipal Unit of Inachos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11863095",
+    "parent": "956612",
+    "text": "Municipal Unit of Iniades",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607299",
+    "parent": "557546",
+    "text": "Municipal Unit of Inofyta",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771446",
+    "parent": "937632",
+    "text": "Municipal Unit of Iraia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11808911",
+    "parent": "557547",
+    "text": "Municipal Unit of Itea",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810220",
+    "parent": "956611",
+    "text": "Municipal Unit of Kalamos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11970276",
+    "parent": "937628",
+    "text": "Municipal Unit of Kalavryta",
+    "admin_level": "8"
+  },
+  {
+    "id": "11964889",
+    "parent": "937628",
+    "text": "Municipal Unit of Kalentzi",
+    "admin_level": "8"
+  },
+  {
+    "id": "12135514",
+    "parent": "563230",
+    "text": "Municipal Unit of Kalindi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11808851",
+    "parent": "557547",
+    "text": "Municipal Unit of Kallieis",
+    "admin_level": "8"
+  },
+  {
+    "id": "1403455",
+    "parent": "2612423",
+    "text": "Municipal Unit of Kamatero",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555568",
+    "parent": "554405",
+    "text": "Municipal Unit of Kamena Vourla",
+    "admin_level": "8"
+  },
+  {
+    "id": "15570839",
+    "parent": "554407",
+    "text": "Municipal Unit of Kanalia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15570904",
+    "parent": "554407",
+    "text": "Municipal Unit of Karla",
+    "admin_level": "8"
+  },
+  {
+    "id": "11814886",
+    "parent": "1845173",
+    "text": "Municipal Unit of Karlovasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545370",
+    "parent": "959069",
+    "text": "Municipal Unit of Karpenisi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810180",
+    "parent": "956611",
+    "text": "Municipal Unit of Karya",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810222",
+    "parent": "956611",
+    "text": "Municipal Unit of Kastos",
+    "admin_level": "8"
+  },
+  {
+    "id": "18498714",
+    "parent": "959115",
+    "text": "Municipal Unit of Kastro - Kyllini",
+    "admin_level": "8"
+  },
+  {
+    "id": "15552157",
+    "parent": "554401",
+    "text": "Municipal Unit of Kato Olympos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15559677",
+    "parent": "4477554",
+    "text": "Municipal Unit of Keratea",
+    "admin_level": "8"
+  },
+  {
+    "id": "1398435",
+    "parent": "2616826",
+    "text": "Municipal Unit of Keratsini",
+    "admin_level": "8"
+  },
+  {
+    "id": "15559757",
+    "parent": "557546",
+    "text": "Municipal Unit of Kheronia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569342",
+    "parent": "554401",
+    "text": "Municipal Unit of Kilada",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548605",
+    "parent": "554401",
+    "text": "Municipal Unit of Kileler",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771468",
+    "parent": "937632",
+    "text": "Municipal Unit of Kleitor",
+    "admin_level": "8"
+  },
+  {
+    "id": "11970351",
+    "parent": "937628",
+    "text": "Municipal Unit of Kleitoria",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771516",
+    "parent": "937632",
+    "text": "Municipal Unit of Kontovazaina",
+    "admin_level": "8"
+  },
+  {
+    "id": "15559742",
+    "parent": "557546",
+    "text": "Municipal Unit of Koronia",
+    "admin_level": "8"
+  },
+  {
+    "id": "12135293",
+    "parent": "563230",
+    "text": "Municipal Unit of Koronia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750242",
+    "parent": "937632",
+    "text": "Municipal Unit of Korythio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11755790",
+    "parent": "937632",
+    "text": "Municipal Unit of Kosmas",
+    "admin_level": "8"
+  },
+  {
+    "id": "11957610",
+    "parent": "563230",
+    "text": "Municipal Unit of Koufalia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743568",
+    "parent": "937635",
+    "text": "Municipal Unit of Koutsopodi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744437",
+    "parent": "937635",
+    "text": "Municipal Unit of Kranidi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548713",
+    "parent": "554401",
+    "text": "Municipal Unit of Krannon",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545397",
+    "parent": "959069",
+    "text": "Municipal Unit of Ktimenia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11785969",
+    "parent": "957704",
+    "text": "Municipal Unit of Kythira",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771610",
+    "parent": "937632",
+    "text": "Municipal Unit of Lagkadia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15551871",
+    "parent": "554401",
+    "text": "Municipal Unit of Lakeria",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553354",
+    "parent": "554405",
+    "text": "Municipal Unit of Lamia",
+    "admin_level": "8"
+  },
+  {
+    "id": "18502449",
+    "parent": "959115",
+    "text": "Municipal Unit of Lampeia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569347",
+    "parent": "554401",
+    "text": "Municipal Unit of Larissa",
+    "admin_level": "8"
+  },
+  {
+    "id": "11894821",
+    "parent": "937628",
+    "text": "Municipal Unit of Larissos",
+    "admin_level": "8"
+  },
+  {
+    "id": "18502448",
+    "parent": "959115",
+    "text": "Municipal Unit of Lassion",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810171",
+    "parent": "956611",
+    "text": "Municipal Unit of Lefkada",
+    "admin_level": "8"
+  },
+  {
+    "id": "13087994",
+    "parent": "959149",
+    "text": "Municipal Unit of Lefktro",
+    "admin_level": "8"
+  },
+  {
+    "id": "11755791",
+    "parent": "937632",
+    "text": "Municipal Unit of Leonidio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11964972",
+    "parent": "937628",
+    "text": "Municipal Unit of Leontio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743599",
+    "parent": "937635",
+    "text": "Municipal Unit of Lerna",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750267",
+    "parent": "937632",
+    "text": "Municipal Unit of Levidi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553319",
+    "parent": "554405",
+    "text": "Municipal Unit of Lianokladi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11808032",
+    "parent": "557547",
+    "text": "Municipal Unit of Lidoriki",
+    "admin_level": "8"
+  },
+  {
+    "id": "11840822",
+    "parent": "937627",
+    "text": "Municipal Unit of Loutraki - Perachora",
+    "admin_level": "8"
+  },
+  {
+    "id": "12086148",
+    "parent": "2607262",
+    "text": "Municipal Unit of Lykovrysi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743671",
+    "parent": "937635",
+    "text": "Municipal Unit of Lyrkeia",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085703",
+    "parent": "4477559",
+    "text": "Municipal Unit of Magoula",
+    "admin_level": "8"
+  },
+  {
+    "id": "15552269",
+    "parent": "554401",
+    "text": "Municipal Unit of Makrichori",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991896",
+    "parent": "956612",
+    "text": "Municipal Unit of Makryneia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555832",
+    "parent": "554405",
+    "text": "Municipal Unit of Malesina",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085994",
+    "parent": "4477559",
+    "text": "Municipal Unit of Mandra",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750415",
+    "parent": "937632",
+    "text": "Municipal Unit of Mantineia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11814882",
+    "parent": "1845173",
+    "text": "Municipal Unit of Marathokabos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991951",
+    "parent": "956612",
+    "text": "Municipal Unit of Medeon",
+    "admin_level": "8"
+  },
+  {
+    "id": "11769404",
+    "parent": "937632",
+    "text": "Municipal Unit of Megalopoli",
+    "admin_level": "8"
+  },
+  {
+    "id": "12079706",
+    "parent": "4477559",
+    "text": "Municipal Unit of Megara",
+    "admin_level": "8"
+  },
+  {
+    "id": "15551942",
+    "parent": "554401",
+    "text": "Municipal Unit of Melivia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15546476",
+    "parent": "554400",
+    "text": "Municipal Unit of Menelaida",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991980",
+    "parent": "956612",
+    "text": "Municipal Unit of Menidi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11849746",
+    "parent": "937628",
+    "text": "Municipal Unit of Messatida",
+    "admin_level": "8"
+  },
+  {
+    "id": "11909692",
+    "parent": "957704",
+    "text": "Municipal Unit of Methana",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744629",
+    "parent": "937635",
+    "text": "Municipal Unit of Midea",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555564",
+    "parent": "554405",
+    "text": "Municipal Unit of Molos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1398773",
+    "parent": "2612469",
+    "text": "Municipal Unit of Moschato",
+    "admin_level": "8"
+  },
+  {
+    "id": "15571320",
+    "parent": "554407",
+    "text": "Municipal Unit of Mouresi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11894791",
+    "parent": "937628",
+    "text": "Municipal Unit of Movri",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743756",
+    "parent": "937635",
+    "text": "Municipal Unit of Mykines",
+    "admin_level": "8"
+  },
+  {
+    "id": "15986955",
+    "parent": "1360426",
+    "text": "Municipal Unit of Mystras",
+    "admin_level": "8"
+  },
+  {
+    "id": "11772852",
+    "parent": "956612",
+    "text": "Municipal Unit of Nafpaktos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744645",
+    "parent": "937635",
+    "text": "Municipal Unit of Nafplio",
+    "admin_level": "8"
+  },
+  {
+    "id": "15571424",
+    "parent": "554407",
+    "text": "Municipal Unit of Nea Agchialos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1403276",
+    "parent": "2604796",
+    "text": "Municipal Unit of Nea Chalkidona",
+    "admin_level": "8"
+  },
+  {
+    "id": "1397444",
+    "parent": "2604796",
+    "text": "Municipal Unit of Nea Filadelfeia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11743444",
+    "parent": "937635",
+    "text": "Municipal Unit of Nea Kios",
+    "admin_level": "8"
+  },
+  {
+    "id": "12079704",
+    "parent": "4477559",
+    "text": "Municipal Unit of Nea Peramos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11744646",
+    "parent": "937635",
+    "text": "Municipal Unit of Nea Tiryntha",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991942",
+    "parent": "956612",
+    "text": "Municipal Unit of Neapoli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1400758",
+    "parent": "2607262",
+    "text": "Municipal Unit of Neo Psychiko",
+    "admin_level": "8"
+  },
+  {
+    "id": "15552276",
+    "parent": "554401",
+    "text": "Municipal Unit of Nesson",
+    "admin_level": "8"
+  },
+  {
+    "id": "1394008",
+    "parent": "2616826",
+    "text": "Municipal Unit of Nikaia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548719",
+    "parent": "554401",
+    "text": "Municipal Unit of Nikea",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085899",
+    "parent": "4477559",
+    "text": "Municipal Unit of Oinoi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11894772",
+    "parent": "937628",
+    "text": "Municipal Unit of Olenia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555835",
+    "parent": "554405",
+    "text": "Municipal Unit of Opountioi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15565793",
+    "parent": "557546",
+    "text": "Municipal Unit of Orchomenos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11970360",
+    "parent": "937628",
+    "text": "Municipal Unit of Paion",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991949",
+    "parent": "956612",
+    "text": "Municipal Unit of Palairos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991905",
+    "parent": "956612",
+    "text": "Municipal Unit of Panaitoliko",
+    "admin_level": "8"
+  },
+  {
+    "id": "2333712",
+    "parent": "2607262",
+    "text": "Municipal Unit of Papagou",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991930",
+    "parent": "956612",
+    "text": "Municipal Unit of Parakampylia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11862993",
+    "parent": "937628",
+    "text": "Municipal Unit of Paralia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991897",
+    "parent": "956612",
+    "text": "Municipal Unit of Paravola",
+    "admin_level": "8"
+  },
+  {
+    "id": "11808833",
+    "parent": "557547",
+    "text": "Municipal Unit of Parnassos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11849723",
+    "parent": "937628",
+    "text": "Municipal Unit of Patras",
+    "admin_level": "8"
+  },
+  {
+    "id": "12086147",
+    "parent": "2607262",
+    "text": "Municipal Unit of Pefki",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548292",
+    "parent": "554405",
+    "text": "Municipal Unit of Pelasgia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11772968",
+    "parent": "956612",
+    "text": "Municipal Unit of Platanos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548631",
+    "parent": "554401",
+    "text": "Municipal Unit of Platykampos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545480",
+    "parent": "959069",
+    "text": "Municipal Unit of Potamia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545461",
+    "parent": "959069",
+    "text": "Municipal Unit of Proussos",
+    "admin_level": "8"
+  },
+  {
+    "id": "1403235",
+    "parent": "2607262",
+    "text": "Municipal Unit of Psychiko",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569808",
+    "parent": "554407",
+    "text": "Municipal Unit of Pteleos",
+    "admin_level": "8"
+  },
+  {
+    "id": "8367875",
+    "parent": "956612",
+    "text": "Municipal Unit of Pyllini",
+    "admin_level": "8"
+  },
+  {
+    "id": "11814881",
+    "parent": "1845173",
+    "text": "Municipal Unit of Pythagoreio",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545936",
+    "parent": "554400",
+    "text": "Municipal Unit of Rentini",
+    "admin_level": "8"
+  },
+  {
+    "id": "15959050",
+    "parent": "5324258",
+    "text": "Municipal Unit of Rhodes",
+    "admin_level": "8"
+  },
+  {
+    "id": "11848933",
+    "parent": "937628",
+    "text": "Municipal Unit of Rio",
+    "admin_level": "8"
+  },
+  {
+    "id": "11779810",
+    "parent": "937627",
+    "text": "Municipal Unit of Saronikos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11810214",
+    "parent": "956611",
+    "text": "Municipal Unit of Sfakiates",
+    "admin_level": "8"
+  },
+  {
+    "id": "11840988",
+    "parent": "937627",
+    "text": "Municipal Unit of Sikyona",
+    "admin_level": "8"
+  },
+  {
+    "id": "18498783",
+    "parent": "959115",
+    "text": "Municipal Unit of Skillountia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750463",
+    "parent": "937632",
+    "text": "Municipal Unit of Skiritida",
+    "admin_level": "8"
+  },
+  {
+    "id": "17165220",
+    "parent": "937847",
+    "text": "Municipal Unit of Skoutari",
+    "admin_level": "8"
+  },
+  {
+    "id": "11779852",
+    "parent": "937627",
+    "text": "Municipal Unit of Solygeia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569807",
+    "parent": "554407",
+    "text": "Municipal Unit of Sourpi",
+    "admin_level": "8"
+  },
+  {
+    "id": "15982215",
+    "parent": "1360426",
+    "text": "Municipal Unit of Sparta",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553224",
+    "parent": "554405",
+    "text": "Municipal Unit of Sperchiada",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991814",
+    "parent": "956612",
+    "text": "Municipal Unit of Stratos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548290",
+    "parent": "554405",
+    "text": "Municipal Unit of Stylis",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841003",
+    "parent": "937627",
+    "text": "Municipal Unit of Stymfalia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11841974",
+    "parent": "937628",
+    "text": "Municipal Unit of Sympolitia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15546685",
+    "parent": "554400",
+    "text": "Municipal Unit of Tamasi",
+    "admin_level": "8"
+  },
+  {
+    "id": "1398800",
+    "parent": "2612469",
+    "text": "Municipal Unit of Tavros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750475",
+    "parent": "937632",
+    "text": "Municipal Unit of Tegea",
+    "admin_level": "8"
+  },
+  {
+    "id": "11779939",
+    "parent": "937627",
+    "text": "Municipal Unit of Tenea",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607557",
+    "parent": "557546",
+    "text": "Municipal Unit of Thebes",
+    "admin_level": "8"
+  },
+  {
+    "id": "11991857",
+    "parent": "956612",
+    "text": "Municipal Unit of Thestieis",
+    "admin_level": "8"
+  },
+  {
+    "id": "11909741",
+    "parent": "4477554",
+    "text": "Municipal Unit of Thrakomakedones",
+    "admin_level": "8"
+  },
+  {
+    "id": "15555592",
+    "parent": "554405",
+    "text": "Municipal Unit of Tithorea",
+    "admin_level": "8"
+  },
+  {
+    "id": "11808144",
+    "parent": "557547",
+    "text": "Municipal Unit of Tolofona",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771680",
+    "parent": "937632",
+    "text": "Municipal Unit of Trikolonoi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750547",
+    "parent": "937632",
+    "text": "Municipal Unit of Tripoli",
+    "admin_level": "8"
+  },
+  {
+    "id": "11964890",
+    "parent": "937628",
+    "text": "Municipal Unit of Tritaia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11909693",
+    "parent": "957704",
+    "text": "Municipal Unit of Troizinia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771850",
+    "parent": "937632",
+    "text": "Municipal Unit of Tropaia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553382",
+    "parent": "554405",
+    "text": "Municipal Unit of Tymfristos",
+    "admin_level": "8"
+  },
+  {
+    "id": "11755751",
+    "parent": "937632",
+    "text": "Municipal Unit of Tyros",
+    "admin_level": "8"
+  },
+  {
+    "id": "11750186",
+    "parent": "937632",
+    "text": "Municipal Unit of Valtetsi",
+    "admin_level": "8"
+  },
+  {
+    "id": "11807953",
+    "parent": "557547",
+    "text": "Municipal Unit of Vardousia",
+    "admin_level": "8"
+  },
+  {
+    "id": "11814885",
+    "parent": "1845173",
+    "text": "Municipal Unit of Vathy",
+    "admin_level": "8"
+  },
+  {
+    "id": "11780001",
+    "parent": "937627",
+    "text": "Municipal Unit of Velos",
+    "admin_level": "8"
+  },
+  {
+    "id": "12085998",
+    "parent": "4477559",
+    "text": "Municipal Unit of Vilia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15545276",
+    "parent": "959069",
+    "text": "Municipal Unit of Viniani",
+    "admin_level": "8"
+  },
+  {
+    "id": "11780000",
+    "parent": "937627",
+    "text": "Municipal Unit of Vocha",
+    "admin_level": "8"
+  },
+  {
+    "id": "18498852",
+    "parent": "959115",
+    "text": "Municipal Unit of Volax",
+    "admin_level": "8"
+  },
+  {
+    "id": "1392636",
+    "parent": "4477554",
+    "text": "Municipal Unit of Voula",
+    "admin_level": "8"
+  },
+  {
+    "id": "11863028",
+    "parent": "937628",
+    "text": "Municipal Unit of Vrachneika",
+    "admin_level": "8"
+  },
+  {
+    "id": "11771180",
+    "parent": "937632",
+    "text": "Municipal Unit of Vytina",
+    "admin_level": "8"
+  },
+  {
+    "id": "11840925",
+    "parent": "937627",
+    "text": "Municipal Unit of Xylokastro",
+    "admin_level": "8"
+  },
+  {
+    "id": "15569164",
+    "parent": "554401",
+    "text": "Municipal Unit of Yiannouli",
+    "admin_level": "8"
+  },
+  {
+    "id": "1400371",
+    "parent": "2604796",
+    "text": "Municipal Unit of Ymittos",
+    "admin_level": "8"
+  },
+  {
+    "id": "15571301",
+    "parent": "554407",
+    "text": "Municipal Unit of Zagora",
+    "admin_level": "8"
+  },
+  {
+    "id": "3601261",
+    "parent": "4477559",
+    "text": "Municipal Unit of Zefyri",
+    "admin_level": "8"
+  },
+  {
+    "id": "15544371",
+    "parent": "554407",
+    "text": "Municipal unit of Argalasti",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548291",
+    "parent": "554405",
+    "text": "Municipal unit of Echinei",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607555",
+    "parent": "557546",
+    "text": "Municipality of Vagia",
+    "admin_level": "8"
+  },
+  {
+    "id": "15544490",
+    "parent": "554407",
+    "text": "Municipla unit of Milies",
+    "admin_level": "8"
+  },
+  {
+    "id": "14236779",
+    "parent": "563230",
+    "text": "Mygdonia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5324074",
+    "parent": "4496067",
+    "text": "Mykonos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13241289",
+    "parent": "11274601",
+    "text": "Mytilene Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5323628",
+    "parent": "4496067",
+    "text": "Naxos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13362724",
+    "parent": "554686",
+    "text": "Nea Alikarnassos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18609319",
+    "parent": "557549",
+    "text": "Nea Artaki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13783605",
+    "parent": "4477554",
+    "text": "Nea Makri Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13790679",
+    "parent": "2607262",
+    "text": "Nea Penteli Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13320450",
+    "parent": "554656",
+    "text": "Neapoli Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11946223",
+    "parent": "563230",
+    "text": "Neapoli Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13894258",
+    "parent": "554400",
+    "text": "Nevropoli Agrafon Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -3180,9 +2430,423 @@
     "admin_level": "8"
   },
   {
-    "id": "14660855",
-    "parent": "939213",
-    "text": "Xanthi Municipal Unit",
+    "id": "13363006",
+    "parent": "554686",
+    "text": "Nikos Kazantzakis Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13255882",
+    "parent": "1360426",
+    "text": "Oitylos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16807920",
+    "parent": "5324274",
+    "text": "Olympos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14236761",
+    "parent": "563230",
+    "text": "Oraiokastro Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13389136",
+    "parent": "4477554",
+    "text": "Paiania Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13389199",
+    "parent": "4477554",
+    "text": "Palea Fokea Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13362784",
+    "parent": "554686",
+    "text": "Paliani Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13234312",
+    "parent": "957829",
+    "text": "Paliki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683017",
+    "parent": "568383",
+    "text": "Pallini Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13389022",
+    "parent": "4477554",
+    "text": "Pallini Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13845734",
+    "parent": "558486",
+    "text": "Pamvotida Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11948617",
+    "parent": "563230",
+    "text": "Panorama Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14685536",
+    "parent": "938042",
+    "text": "Paranesti Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5323643",
+    "parent": "4496067",
+    "text": "Paros Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "11947832",
+    "parent": "563230",
+    "text": "Pefka Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "956817",
+    "parent": "5208399",
+    "text": "Pella Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "18962681",
+    "parent": "1360426",
+    "text": "Pellana Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "4495892",
+    "parent": "192307",
+    "text": "Peloponnese, Western Greece and the Ionian",
+    "admin_level": "4"
+  },
+  {
+    "id": "13790682",
+    "parent": "2607262",
+    "text": "Penteli Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13256948",
+    "parent": "558486",
+    "text": "Perama Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16244032",
+    "parent": "956714",
+    "text": "Perasma Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18653313",
+    "parent": "937847",
+    "text": "Petritsi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "554405",
+    "parent": "4495677",
+    "text": "Phthiotis Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "563226",
+    "parent": "5208399",
+    "text": "Pieria Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13388974",
+    "parent": "4477554",
+    "text": "Pikermi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16738885",
+    "parent": "959115",
+    "text": "Pineia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13894259",
+    "parent": "554400",
+    "text": "Plastiras Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "8629808",
+    "parent": "563230",
+    "text": "Polichni Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13241240",
+    "parent": "11274601",
+    "text": "Polichnitos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "15001385",
+    "parent": "956714",
+    "text": "Prespes Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "90550",
+    "parent": "4458374",
+    "text": "Preveza Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "14684903",
+    "parent": "938042",
+    "text": "Prosotsani Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11948619",
+    "parent": "563230",
+    "text": "Pylaia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13241359",
+    "parent": "957829",
+    "text": "Pylaros Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388976",
+    "parent": "4477554",
+    "text": "Rafina Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "4496068",
+    "parent": "192307",
+    "text": "Region of Crete",
+    "admin_level": "4"
+  },
+  {
+    "id": "557546",
+    "parent": "4495677",
+    "text": "Regional Unit of Boeotia",
+    "admin_level": "6"
+  },
+  {
+    "id": "2604796",
+    "parent": "4477553",
+    "text": "Regional Unit of Central Athens",
+    "admin_level": "6"
+  },
+  {
+    "id": "4477554",
+    "parent": "4477553",
+    "text": "Regional Unit of East Attica",
+    "admin_level": "6"
+  },
+  {
+    "id": "959069",
+    "parent": "4495677",
+    "text": "Regional Unit of Evrytania",
+    "admin_level": "6"
+  },
+  {
+    "id": "957704",
+    "parent": "4477553",
+    "text": "Regional Unit of Islands",
+    "admin_level": "6"
+  },
+  {
+    "id": "554407",
+    "parent": "4495677",
+    "text": "Regional Unit of Magnesia",
+    "admin_level": "6"
+  },
+  {
+    "id": "2607262",
+    "parent": "4477553",
+    "text": "Regional Unit of North Athens",
+    "admin_level": "6"
+  },
+  {
+    "id": "557547",
+    "parent": "4495677",
+    "text": "Regional Unit of Phocis",
+    "admin_level": "6"
+  },
+  {
+    "id": "2616826",
+    "parent": "4477553",
+    "text": "Regional Unit of Piraeus",
+    "admin_level": "6"
+  },
+  {
+    "id": "2612469",
+    "parent": "4477553",
+    "text": "Regional Unit of South Athens",
+    "admin_level": "6"
+  },
+  {
+    "id": "2612423",
+    "parent": "4477553",
+    "text": "Regional Unit of West Athens",
+    "admin_level": "6"
+  },
+  {
+    "id": "4477559",
+    "parent": "4477553",
+    "text": "Regional Unit of West Attica",
+    "admin_level": "6"
+  },
+  {
+    "id": "554693",
+    "parent": "4496068",
+    "text": "Rethymno Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "5324258",
+    "parent": "4496067",
+    "text": "Rhodes Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "939214",
+    "parent": "5208399",
+    "text": "Rodopi Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13363119",
+    "parent": "554686",
+    "text": "Rouvas Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "15969042",
+    "parent": "558499",
+    "text": "Sagiada Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13301509",
+    "parent": "957704",
+    "text": "Salamina Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13241332",
+    "parent": "957829",
+    "text": "Sami Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "1845173",
+    "parent": "4496067",
+    "text": "Samos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8411397",
+    "parent": "4477554",
+    "text": "Saronida Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "937847",
+    "parent": "5208399",
+    "text": "Serres Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "16159559",
+    "parent": "956726",
+    "text": "Servia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16164472",
+    "parent": "956726",
+    "text": "Siatista Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14685455",
+    "parent": "938042",
+    "text": "Sidironero Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14698948",
+    "parent": "554407",
+    "text": "Sipias Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14684904",
+    "parent": "938042",
+    "text": "Sitagri Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13683042",
+    "parent": "568383",
+    "text": "Sithonia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13320211",
+    "parent": "554656",
+    "text": "Sitia Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14684821",
+    "parent": "937847",
+    "text": "Skotoussa Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13255998",
+    "parent": "1360426",
+    "text": "Sminos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13388949",
+    "parent": "4477554",
+    "text": "Spata-Loutsa Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5207290",
+    "parent": "4495677",
+    "text": "Sporades Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8629807",
+    "parent": "563230",
+    "text": "Stavroupoli Municipal Unit",
     "admin_level": "8"
   },
   {
@@ -3192,9 +2856,345 @@
     "admin_level": "8"
   },
   {
-    "id": "15959050",
-    "parent": "5324258",
-    "text": "Municipal Unit of Rhodes",
+    "id": "14684737",
+    "parent": "937847",
+    "text": "Strymoniko Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18609459",
+    "parent": "557549",
+    "text": "Styra Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11947834",
+    "parent": "563230",
+    "text": "Sykies Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5323832",
+    "parent": "4496067",
+    "text": "Syros Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13362912",
+    "parent": "554686",
+    "text": "Temenos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5207349",
+    "parent": "5208399",
+    "text": "Thasos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "558499",
+    "parent": "4458374",
+    "text": "Thesprotia Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "11948133",
+    "parent": "563230",
+    "text": "Thessaloniki Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "563230",
+    "parent": "5208399",
+    "text": "Thessaloniki Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "4495677",
+    "parent": "192307",
+    "text": "Thessaly and Central Greece",
+    "admin_level": "4"
+  },
+  {
+    "id": "8325070",
+    "parent": "5323612",
+    "text": "Thira Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5323612",
+    "parent": "4496067",
+    "text": "Thira Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13365954",
+    "parent": "554686",
+    "text": "Thrapsano Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5324075",
+    "parent": "4496067",
+    "text": "Tinos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13683043",
+    "parent": "568383",
+    "text": "Toroni Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "16738987",
+    "parent": "959115",
+    "text": "Tragano Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "1779193",
+    "parent": "563230",
+    "text": "Triandria Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14698766",
+    "parent": "939217",
+    "text": "Trigono Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "558521",
+    "parent": "4495677",
+    "text": "Trikala Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "8455142",
+    "parent": "554407",
+    "text": "Trikeri Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "12545524",
+    "parent": "959149",
+    "text": "Tripyla Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13366039",
+    "parent": "554686",
+    "text": "Tybakio Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13363206",
+    "parent": "554686",
+    "text": "Tylissos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11831407",
+    "parent": "4477554",
+    "text": "Vari Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14348675",
+    "parent": "956726",
+    "text": "Velventos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "11831406",
+    "parent": "4477554",
+    "text": "Vouliagmeni Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "13320390",
+    "parent": "554656",
+    "text": "Vrachasi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "14660855",
+    "parent": "939213",
+    "text": "Xanthi Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "939213",
+    "parent": "5208399",
+    "text": "Xanthi Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13256159",
+    "parent": "959115",
+    "text": "Zacharo Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "18593982",
+    "parent": "5207386",
+    "text": "Zakynthos Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "5207386",
+    "parent": "4495892",
+    "text": "Zakynthos Regional Unit",
+    "admin_level": "6"
+  },
+  {
+    "id": "13366043",
+    "parent": "554686",
+    "text": "Zaros Municipal Unit",
+    "admin_level": "8"
+  },
+  {
+    "id": "15546871",
+    "parent": "554400",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0386\u03c1\u03bd\u03b7\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "19351838",
+    "parent": "937847",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03b3\u03ba\u03af\u03c3\u03c4\u03c1\u03bf\u03c5",
+    "admin_level": "8"
+  },
+  {
+    "id": "5609267",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03bb\u03b9\u03ac\u03c1\u03c4\u03bf\u03c5",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553355",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0393\u03bf\u03c1\u03b3\u03bf\u03c0\u03bf\u03c4\u03ac\u03bc\u03bf\u03c5",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607298",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03b5\u03c1\u03b2\u03b5\u03bd\u03bf\u03c7\u03c9\u03c1\u03af\u03c9\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547844",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0394\u03bf\u03bc\u03bf\u03ba\u03bf\u03cd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547800",
+    "parent": "554401",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03bd\u03b9\u03c0\u03c0\u03ad\u03b1",
+    "admin_level": "8"
+  },
+  {
+    "id": "15548816",
+    "parent": "554401",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03c1\u03c5\u03bc\u03b5\u03bd\u03ce\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607556",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03af\u03c3\u03b2\u03b7\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "5609268",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c0\u03b9\u03ad\u03c9\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547838",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03b9\u03ce\u03c4\u03b9\u03b4\u03bf\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "17360570",
+    "parent": "558486",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03c9\u03b1\u03bd\u03bd\u03b9\u03c4\u03ce\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547798",
+    "parent": "554401",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039d\u03b1\u03c1\u03b8\u03b1\u03ba\u03af\u03bf\u03c5",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547839",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039e\u03c5\u03bd\u03b9\u03ac\u03b4\u03bf\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553356",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b1\u03cd\u03bb\u03b9\u03b1\u03bd\u03b7\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607558",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03bb\u03b1\u03c4\u03b1\u03b9\u03ce\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547799",
+    "parent": "554401",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03bf\u03bb\u03c5\u03b4\u03ac\u03bc\u03b1\u03bd\u03c4\u03b1",
+    "admin_level": "8"
+  },
+  {
+    "id": "19290583",
+    "parent": "937847",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03c1\u03bf\u03bc\u03b1\u03c7\u03ce\u03bd\u03bf\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "15546872",
+    "parent": "554400",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03bf\u03c6\u03ac\u03b4\u03c9\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607300",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a3\u03c7\u03b7\u03bc\u03b1\u03c4\u03b1\u03c1\u03af\u03bf\u03c5",
+    "admin_level": "8"
+  },
+  {
+    "id": "5607301",
+    "parent": "557546",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a4\u03b1\u03bd\u03ac\u03b3\u03c1\u03b1\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "15553357",
+    "parent": "554405",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a5\u03c0\u03ac\u03c4\u03b7\u03c2",
+    "admin_level": "8"
+  },
+  {
+    "id": "15547797",
+    "parent": "554401",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b1\u03c1\u03c3\u03ac\u03bb\u03c9\u03bd",
+    "admin_level": "8"
+  },
+  {
+    "id": "15544616",
+    "parent": "959069",
+    "text": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03c1\u03b1\u03b3\u03ba\u03af\u03c3\u03c4\u03b1\u03c2",
     "admin_level": "8"
   }
 ]

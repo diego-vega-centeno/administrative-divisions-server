@@ -1,50 +1,8 @@
 [
   {
-    "id": "37355",
-    "parent": "54224",
-    "text": "Uusimaa",
-    "admin_level": "4"
-  },
-  {
-    "id": "38092",
-    "parent": "54224",
-    "text": "Southwest Finland",
-    "admin_level": "4"
-  },
-  {
-    "id": "918897",
-    "parent": "54224",
-    "text": "South Savo",
-    "admin_level": "4"
-  },
-  {
-    "id": "918898",
-    "parent": "54224",
-    "text": "North Savo",
-    "admin_level": "4"
-  },
-  {
-    "id": "1473990",
-    "parent": "54224",
-    "text": "Kanta-H\u00e4me",
-    "admin_level": "4"
-  },
-  {
     "id": "1701740",
     "parent": "54224",
     "text": "Central Finland",
-    "admin_level": "4"
-  },
-  {
-    "id": "1701741",
-    "parent": "54224",
-    "text": "Pirkanmaa",
-    "admin_level": "4"
-  },
-  {
-    "id": "1702263",
-    "parent": "54224",
-    "text": "South Ostrobothnia",
     "admin_level": "4"
   },
   {
@@ -54,9 +12,21 @@
     "admin_level": "4"
   },
   {
-    "id": "1703362",
+    "id": "1997164",
     "parent": "54224",
-    "text": "P\u00e4ij\u00e4t-H\u00e4me",
+    "text": "Kainuu",
+    "admin_level": "4"
+  },
+  {
+    "id": "1473990",
+    "parent": "54224",
+    "text": "Kanta-H\u00e4me",
+    "admin_level": "4"
+  },
+  {
+    "id": "2102313",
+    "parent": "54224",
+    "text": "Kymenlaakso",
     "admin_level": "4"
   },
   {
@@ -66,27 +36,39 @@
     "admin_level": "4"
   },
   {
-    "id": "1724360",
-    "parent": "54224",
-    "text": "North Ostrobothnia",
-    "admin_level": "4"
-  },
-  {
-    "id": "1997164",
-    "parent": "54224",
-    "text": "Kainuu",
-    "admin_level": "4"
-  },
-  {
     "id": "1999428",
     "parent": "54224",
     "text": "North Karelia",
     "admin_level": "4"
   },
   {
+    "id": "1724360",
+    "parent": "54224",
+    "text": "North Ostrobothnia",
+    "admin_level": "4"
+  },
+  {
+    "id": "918898",
+    "parent": "54224",
+    "text": "North Savo",
+    "admin_level": "4"
+  },
+  {
     "id": "2000320",
     "parent": "54224",
     "text": "Ostrobothnia",
+    "admin_level": "4"
+  },
+  {
+    "id": "1701741",
+    "parent": "54224",
+    "text": "Pirkanmaa",
+    "admin_level": "4"
+  },
+  {
+    "id": "1703362",
+    "parent": "54224",
+    "text": "P\u00e4ij\u00e4t-H\u00e4me",
     "admin_level": "4"
   },
   {
@@ -102,9 +84,27 @@
     "admin_level": "4"
   },
   {
-    "id": "2102313",
+    "id": "1702263",
     "parent": "54224",
-    "text": "Kymenlaakso",
+    "text": "South Ostrobothnia",
+    "admin_level": "4"
+  },
+  {
+    "id": "918897",
+    "parent": "54224",
+    "text": "South Savo",
+    "admin_level": "4"
+  },
+  {
+    "id": "38092",
+    "parent": "54224",
+    "text": "Southwest Finland",
+    "admin_level": "4"
+  },
+  {
+    "id": "37355",
+    "parent": "54224",
+    "text": "Uusimaa",
     "admin_level": "4"
   },
   {

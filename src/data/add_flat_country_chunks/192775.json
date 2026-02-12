@@ -1,26 +1,8 @@
 [
   {
-    "id": "2738475",
-    "parent": "192775",
-    "text": "K\u00e9dougou Region",
-    "admin_level": "4"
-  },
-  {
     "id": "2892079",
     "parent": "192775",
     "text": "Dakar Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "2906477",
-    "parent": "192775",
-    "text": "Thi\u00e8s Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "2908172",
-    "parent": "192775",
-    "text": "Louga Region",
     "admin_level": "4"
   },
   {
@@ -36,36 +18,6 @@
     "admin_level": "4"
   },
   {
-    "id": "2909649",
-    "parent": "192775",
-    "text": "Ziguinchor Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "3046921",
-    "parent": "192775",
-    "text": "Saint-Louis Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "3405108",
-    "parent": "192775",
-    "text": "Kolda Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "3405109",
-    "parent": "192775",
-    "text": "Tambacounda Region",
-    "admin_level": "4"
-  },
-  {
-    "id": "3405259",
-    "parent": "192775",
-    "text": "S\u00e9dhiou Region",
-    "admin_level": "4"
-  },
-  {
     "id": "3405262",
     "parent": "192775",
     "text": "Kaffrine Region",
@@ -78,9 +30,57 @@
     "admin_level": "4"
   },
   {
+    "id": "3405108",
+    "parent": "192775",
+    "text": "Kolda Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2738475",
+    "parent": "192775",
+    "text": "K\u00e9dougou Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2908172",
+    "parent": "192775",
+    "text": "Louga Region",
+    "admin_level": "4"
+  },
+  {
     "id": "3405492",
     "parent": "192775",
     "text": "Matam Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3046921",
+    "parent": "192775",
+    "text": "Saint-Louis Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3405259",
+    "parent": "192775",
+    "text": "S\u00e9dhiou Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "3405109",
+    "parent": "192775",
+    "text": "Tambacounda Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2906477",
+    "parent": "192775",
+    "text": "Thi\u00e8s Region",
+    "admin_level": "4"
+  },
+  {
+    "id": "2909649",
+    "parent": "192775",
+    "text": "Ziguinchor Region",
     "admin_level": "4"
   }
 ]

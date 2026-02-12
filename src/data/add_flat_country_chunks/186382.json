@@ -1,15 +1,27 @@
 [
   {
-    "id": "1300657",
-    "parent": "186382",
-    "text": "Stara Zagora",
-    "admin_level": "4"
+    "id": "17758230",
+    "parent": "3759436",
+    "text": "Balsha",
+    "admin_level": "8"
   },
   {
-    "id": "1437135",
-    "parent": "186382",
-    "text": "Varna",
-    "admin_level": "4"
+    "id": "3759425",
+    "parent": "1739543",
+    "text": "Bankia",
+    "admin_level": "6"
+  },
+  {
+    "id": "17759044",
+    "parent": "3759425",
+    "text": "Bankya",
+    "admin_level": "8"
+  },
+  {
+    "id": "17759653",
+    "parent": "3759439",
+    "text": "Bistritsa",
+    "admin_level": "8"
   },
   {
     "id": "1739521",
@@ -18,34 +30,28 @@
     "admin_level": "4"
   },
   {
+    "id": "17758980",
+    "parent": "3759431",
+    "text": "Buhovo",
+    "admin_level": "8"
+  },
+  {
     "id": "1739523",
     "parent": "186382",
     "text": "Burgas",
     "admin_level": "4"
   },
   {
-    "id": "1739524",
-    "parent": "186382",
-    "text": "Veliko Tarnovo",
-    "admin_level": "4"
+    "id": "17755316",
+    "parent": "3759427",
+    "text": "Busmantsi",
+    "admin_level": "8"
   },
   {
-    "id": "1739525",
-    "parent": "186382",
-    "text": "Vidin",
-    "admin_level": "4"
-  },
-  {
-    "id": "1739526",
-    "parent": "186382",
-    "text": "Vratsa",
-    "admin_level": "4"
-  },
-  {
-    "id": "1739527",
-    "parent": "186382",
-    "text": "Gabrovo",
-    "admin_level": "4"
+    "id": "17758307",
+    "parent": "3759436",
+    "text": "Chepintsi",
+    "admin_level": "8"
   },
   {
     "id": "1739528",
@@ -54,10 +60,130 @@
     "admin_level": "4"
   },
   {
+    "id": "17758243",
+    "parent": "3759436",
+    "text": "Dobroslavtsi",
+    "admin_level": "8"
+  },
+  {
+    "id": "17755319",
+    "parent": "3759431",
+    "text": "Dolni Bogrov",
+    "admin_level": "8"
+  },
+  {
+    "id": "17759509",
+    "parent": "3759439",
+    "text": "Dolni Pasarel",
+    "admin_level": "8"
+  },
+  {
+    "id": "1739527",
+    "parent": "186382",
+    "text": "Gabrovo",
+    "admin_level": "4"
+  },
+  {
+    "id": "17759791",
+    "parent": "3759439",
+    "text": "German",
+    "admin_level": "8"
+  },
+  {
+    "id": "17758983",
+    "parent": "3759431",
+    "text": "Gorni Bogrov",
+    "admin_level": "8"
+  },
+  {
+    "id": "1739545",
+    "parent": "186382",
+    "text": "Haskovo",
+    "admin_level": "4"
+  },
+  {
+    "id": "3759426",
+    "parent": "1739543",
+    "text": "Ilinden",
+    "admin_level": "6"
+  },
+  {
+    "id": "3759427",
+    "parent": "1739543",
+    "text": "Iskar",
+    "admin_level": "6"
+  },
+  {
+    "id": "17759043",
+    "parent": "3759425",
+    "text": "Ivanyane",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759428",
+    "parent": "1739543",
+    "text": "Izgrev",
+    "admin_level": "6"
+  },
+  {
     "id": "1739529",
     "parent": "186382",
     "text": "Kardzhali",
     "admin_level": "4"
+  },
+  {
+    "id": "17758604",
+    "parent": "3759436",
+    "text": "Katina",
+    "admin_level": "8"
+  },
+  {
+    "id": "17755318",
+    "parent": "3759439",
+    "text": "Kazichene",
+    "admin_level": "8"
+  },
+  {
+    "id": "17759045",
+    "parent": "3759425",
+    "text": "Klisura",
+    "admin_level": "8"
+  },
+  {
+    "id": "17759936",
+    "parent": "3759439",
+    "text": "Kokalyane",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759429",
+    "parent": "1739543",
+    "text": "Krasna poliana",
+    "admin_level": "6"
+  },
+  {
+    "id": "3759430",
+    "parent": "1739543",
+    "text": "Krasno selo",
+    "admin_level": "6"
+  },
+  {
+    "id": "3759431",
+    "parent": "1739543",
+    "text": "Kremikovci",
+    "admin_level": "6"
+  },
+  {
+    "id": "17755317",
+    "parent": "3759439",
+    "text": "Krivina",
+    "admin_level": "8"
+  },
+  {
+    "id": "17758250",
+    "parent": "3759436",
+    "text": "Kubratovo",
+    "admin_level": "8"
   },
   {
     "id": "1739530",
@@ -66,16 +192,124 @@
     "admin_level": "4"
   },
   {
+    "id": "3759432",
+    "parent": "1739543",
+    "text": "Liulin",
+    "admin_level": "6"
+  },
+  {
+    "id": "17758486",
+    "parent": "3759436",
+    "text": "Lokorsko",
+    "admin_level": "8"
+  },
+  {
     "id": "1739531",
     "parent": "186382",
     "text": "Lovech",
     "admin_level": "4"
   },
   {
+    "id": "17759455",
+    "parent": "3759439",
+    "text": "Lozen",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759433",
+    "parent": "1739543",
+    "text": "Lozenets",
+    "admin_level": "6"
+  },
+  {
+    "id": "17759231",
+    "parent": "3759438",
+    "text": "Malo Buchino",
+    "admin_level": "8"
+  },
+  {
+    "id": "17759285",
+    "parent": "3759447",
+    "text": "Marchaevo",
+    "admin_level": "8"
+  },
+  {
+    "id": "17758267",
+    "parent": "3759436",
+    "text": "Mirovyane",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759434",
+    "parent": "1739543",
+    "text": "Mladost",
+    "admin_level": "6"
+  },
+  {
     "id": "1739532",
     "parent": "186382",
     "text": "Montana",
     "admin_level": "4"
+  },
+  {
+    "id": "17757664",
+    "parent": "3759448",
+    "text": "Mramor",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759435",
+    "parent": "1739543",
+    "text": "Nadejda",
+    "admin_level": "6"
+  },
+  {
+    "id": "17758308",
+    "parent": "3759436",
+    "text": "Negovan",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759436",
+    "parent": "1739543",
+    "text": "Novi Iskar",
+    "admin_level": "6"
+  },
+  {
+    "id": "17758558",
+    "parent": "3759436",
+    "text": "Novi Iskar",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759437",
+    "parent": "1739543",
+    "text": "Oborishte",
+    "admin_level": "6"
+  },
+  {
+    "id": "16951188",
+    "parent": "1437135",
+    "text": "Odessos",
+    "admin_level": "6"
+  },
+  {
+    "id": "3759438",
+    "parent": "1739543",
+    "text": "Ovcha kupel",
+    "admin_level": "6"
+  },
+  {
+    "id": "3759439",
+    "parent": "1739543",
+    "text": "Pancharevo",
+    "admin_level": "6"
+  },
+  {
+    "id": "17759935",
+    "parent": "3759439",
+    "text": "Pancharevo",
+    "admin_level": "8"
   },
   {
     "id": "1739533",
@@ -90,6 +324,12 @@
     "admin_level": "4"
   },
   {
+    "id": "17759542",
+    "parent": "3759439",
+    "text": "Plana",
+    "admin_level": "8"
+  },
+  {
     "id": "1739535",
     "parent": "186382",
     "text": "Pleven",
@@ -100,6 +340,18 @@
     "parent": "186382",
     "text": "Plovdiv",
     "admin_level": "4"
+  },
+  {
+    "id": "17758487",
+    "parent": "3759436",
+    "text": "Podgumer",
+    "admin_level": "8"
+  },
+  {
+    "id": "3759440",
+    "parent": "1739543",
+    "text": "Poduyane",
+    "admin_level": "6"
   },
   {
     "id": "1739537",
@@ -114,10 +366,28 @@
     "admin_level": "4"
   },
   {
+    "id": "3759441",
+    "parent": "1739543",
+    "text": "Serdika",
+    "admin_level": "6"
+  },
+  {
+    "id": "1739546",
+    "parent": "186382",
+    "text": "Shumen",
+    "admin_level": "4"
+  },
+  {
     "id": "1739539",
     "parent": "186382",
     "text": "Silistra",
     "admin_level": "4"
+  },
+  {
+    "id": "3759442",
+    "parent": "1739543",
+    "text": "Slatina",
+    "admin_level": "6"
   },
   {
     "id": "1739540",
@@ -144,142 +414,16 @@
     "admin_level": "4"
   },
   {
-    "id": "1739544",
-    "parent": "186382",
-    "text": "Targovishte",
-    "admin_level": "4"
-  },
-  {
-    "id": "1739545",
-    "parent": "186382",
-    "text": "Haskovo",
-    "admin_level": "4"
-  },
-  {
-    "id": "1739546",
-    "parent": "186382",
-    "text": "Shumen",
-    "admin_level": "4"
-  },
-  {
-    "id": "1739547",
-    "parent": "186382",
-    "text": "Yambol",
-    "admin_level": "4"
-  },
-  {
-    "id": "3759425",
-    "parent": "1739543",
-    "text": "Bankia",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759426",
-    "parent": "1739543",
-    "text": "Ilinden",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759427",
-    "parent": "1739543",
-    "text": "Iskar",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759428",
-    "parent": "1739543",
-    "text": "Izgrev",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759429",
-    "parent": "1739543",
-    "text": "Krasna poliana",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759430",
-    "parent": "1739543",
-    "text": "Krasno selo",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759431",
-    "parent": "1739543",
-    "text": "Kremikovci",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759432",
-    "parent": "1739543",
-    "text": "Liulin",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759433",
-    "parent": "1739543",
-    "text": "Lozenets",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759434",
-    "parent": "1739543",
-    "text": "Mladost",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759435",
-    "parent": "1739543",
-    "text": "Nadejda",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759436",
-    "parent": "1739543",
-    "text": "Novi Iskar",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759437",
-    "parent": "1739543",
-    "text": "Oborishte",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759438",
-    "parent": "1739543",
-    "text": "Ovcha kupel",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759439",
-    "parent": "1739543",
-    "text": "Pancharevo",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759440",
-    "parent": "1739543",
-    "text": "Poduyane",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759441",
-    "parent": "1739543",
-    "text": "Serdika",
-    "admin_level": "6"
-  },
-  {
-    "id": "3759442",
-    "parent": "1739543",
-    "text": "Slatina",
-    "admin_level": "6"
-  },
-  {
     "id": "3759443",
     "parent": "1739543",
     "text": "Sredec",
     "admin_level": "6"
+  },
+  {
+    "id": "1300657",
+    "parent": "186382",
+    "text": "Stara Zagora",
+    "admin_level": "4"
   },
   {
     "id": "3759444",
@@ -288,10 +432,34 @@
     "admin_level": "6"
   },
   {
+    "id": "17758309",
+    "parent": "3759436",
+    "text": "Svetovrachene",
+    "admin_level": "8"
+  },
+  {
+    "id": "1739544",
+    "parent": "186382",
+    "text": "Targovishte",
+    "admin_level": "4"
+  },
+  {
     "id": "3759445",
     "parent": "1739543",
     "text": "Triadica",
     "admin_level": "6"
+  },
+  {
+    "id": "1437135",
+    "parent": "186382",
+    "text": "Varna",
+    "admin_level": "4"
+  },
+  {
+    "id": "13477567",
+    "parent": "16951188",
+    "text": "Varna",
+    "admin_level": "8"
   },
   {
     "id": "3759446",
@@ -300,285 +468,27 @@
     "admin_level": "6"
   },
   {
+    "id": "1739524",
+    "parent": "186382",
+    "text": "Veliko Tarnovo",
+    "admin_level": "4"
+  },
+  {
+    "id": "1739525",
+    "parent": "186382",
+    "text": "Vidin",
+    "admin_level": "4"
+  },
+  {
     "id": "3759447",
     "parent": "1739543",
     "text": "Vitosha",
     "admin_level": "6"
   },
   {
-    "id": "3759448",
-    "parent": "1739543",
-    "text": "Vrabnitsa",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289743",
-    "parent": "1739536",
-    "text": "\u042e\u0436\u0435\u043d",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289744",
-    "parent": "1739536",
-    "text": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289745",
-    "parent": "1739536",
-    "text": "\u0422\u0440\u0430\u043a\u0438\u044f",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289746",
-    "parent": "1739536",
-    "text": "\u0417\u0430\u043f\u0430\u0434\u0435\u043d",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289747",
-    "parent": "1739536",
-    "text": "\u0421\u0435\u0432\u0435\u0440\u0435\u043d",
-    "admin_level": "6"
-  },
-  {
-    "id": "7289748",
-    "parent": "1739536",
-    "text": "\u0418\u0437\u0442\u043e\u0447\u0435\u043d",
-    "admin_level": "6"
-  },
-  {
-    "id": "16951188",
-    "parent": "1437135",
-    "text": "Odessos",
-    "admin_level": "6"
-  },
-  {
-    "id": "16951189",
-    "parent": "1437135",
-    "text": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438",
-    "admin_level": "6"
-  },
-  {
-    "id": "16951190",
-    "parent": "1437135",
-    "text": "\u041c\u043b\u0430\u0434\u043e\u0441\u0442",
-    "admin_level": "6"
-  },
-  {
-    "id": "16951200",
-    "parent": "1437135",
-    "text": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0412\u0430\u0440\u043d\u0435\u043d\u0447\u0438\u043a",
-    "admin_level": "6"
-  },
-  {
-    "id": "16951215",
-    "parent": "1437135",
-    "text": "\u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e",
-    "admin_level": "6"
-  },
-  {
-    "id": "17755319",
-    "parent": "3759431",
-    "text": "Dolni Bogrov",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758980",
-    "parent": "3759431",
-    "text": "Buhovo",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758981",
-    "parent": "3759431",
-    "text": "Zhelyava",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758982",
-    "parent": "3759431",
-    "text": "Yana",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758983",
-    "parent": "3759431",
-    "text": "Gorni Bogrov",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758183",
-    "parent": "3759436",
-    "text": "Zhiten",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758230",
-    "parent": "3759436",
-    "text": "Balsha",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758243",
-    "parent": "3759436",
-    "text": "Dobroslavtsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758250",
-    "parent": "3759436",
-    "text": "Kubratovo",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758267",
-    "parent": "3759436",
-    "text": "Mirovyane",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758307",
-    "parent": "3759436",
-    "text": "Chepintsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758308",
-    "parent": "3759436",
-    "text": "Negovan",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758309",
-    "parent": "3759436",
-    "text": "Svetovrachene",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758485",
-    "parent": "3759436",
-    "text": "Voynegovtsi",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758486",
-    "parent": "3759436",
-    "text": "Lokorsko",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758487",
-    "parent": "3759436",
-    "text": "Podgumer",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758558",
-    "parent": "3759436",
-    "text": "Novi Iskar",
-    "admin_level": "8"
-  },
-  {
-    "id": "17758604",
-    "parent": "3759436",
-    "text": "Katina",
-    "admin_level": "8"
-  },
-  {
-    "id": "17755317",
-    "parent": "3759439",
-    "text": "Krivina",
-    "admin_level": "8"
-  },
-  {
-    "id": "17755318",
-    "parent": "3759439",
-    "text": "Kazichene",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759455",
-    "parent": "3759439",
-    "text": "Lozen",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759509",
-    "parent": "3759439",
-    "text": "Dolni Pasarel",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759542",
-    "parent": "3759439",
-    "text": "Plana",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759567",
-    "parent": "3759439",
-    "text": "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759653",
-    "parent": "3759439",
-    "text": "Bistritsa",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759791",
-    "parent": "3759439",
-    "text": "German",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759935",
-    "parent": "3759439",
-    "text": "Pancharevo",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759936",
-    "parent": "3759439",
-    "text": "Kokalyane",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759043",
-    "parent": "3759425",
-    "text": "Ivanyane",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759044",
-    "parent": "3759425",
-    "text": "Bankya",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759045",
-    "parent": "3759425",
-    "text": "Klisura",
-    "admin_level": "8"
-  },
-  {
     "id": "17759284",
     "parent": "3759447",
     "text": "Vladaya",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759285",
-    "parent": "3759447",
-    "text": "Marchaevo",
-    "admin_level": "8"
-  },
-  {
-    "id": "17759231",
-    "parent": "3759438",
-    "text": "Malo Buchino",
     "admin_level": "8"
   },
   {
@@ -588,16 +498,94 @@
     "admin_level": "8"
   },
   {
-    "id": "17757664",
-    "parent": "3759448",
-    "text": "Mramor",
+    "id": "17758485",
+    "parent": "3759436",
+    "text": "Voynegovtsi",
     "admin_level": "8"
   },
   {
-    "id": "17755316",
-    "parent": "3759427",
-    "text": "Busmantsi",
+    "id": "3759448",
+    "parent": "1739543",
+    "text": "Vrabnitsa",
+    "admin_level": "6"
+  },
+  {
+    "id": "1739526",
+    "parent": "186382",
+    "text": "Vratsa",
+    "admin_level": "4"
+  },
+  {
+    "id": "1739547",
+    "parent": "186382",
+    "text": "Yambol",
+    "admin_level": "4"
+  },
+  {
+    "id": "17758982",
+    "parent": "3759431",
+    "text": "Yana",
     "admin_level": "8"
+  },
+  {
+    "id": "17758981",
+    "parent": "3759431",
+    "text": "Zhelyava",
+    "admin_level": "8"
+  },
+  {
+    "id": "17758183",
+    "parent": "3759436",
+    "text": "Zhiten",
+    "admin_level": "8"
+  },
+  {
+    "id": "16951215",
+    "parent": "1437135",
+    "text": "\u0410\u0441\u043f\u0430\u0440\u0443\u0445\u043e\u0432\u043e",
+    "admin_level": "6"
+  },
+  {
+    "id": "16951200",
+    "parent": "1437135",
+    "text": "\u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432 \u0412\u0430\u0440\u043d\u0435\u043d\u0447\u0438\u043a",
+    "admin_level": "6"
+  },
+  {
+    "id": "17759567",
+    "parent": "3759439",
+    "text": "\u0416\u0435\u043b\u0435\u0437\u043d\u0438\u0446\u0430",
+    "admin_level": "8"
+  },
+  {
+    "id": "7289746",
+    "parent": "1739536",
+    "text": "\u0417\u0430\u043f\u0430\u0434\u0435\u043d",
+    "admin_level": "6"
+  },
+  {
+    "id": "7289748",
+    "parent": "1739536",
+    "text": "\u0418\u0437\u0442\u043e\u0447\u0435\u043d",
+    "admin_level": "6"
+  },
+  {
+    "id": "16951190",
+    "parent": "1437135",
+    "text": "\u041c\u043b\u0430\u0434\u043e\u0441\u0442",
+    "admin_level": "6"
+  },
+  {
+    "id": "16951189",
+    "parent": "1437135",
+    "text": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438",
+    "admin_level": "6"
+  },
+  {
+    "id": "7289747",
+    "parent": "1739536",
+    "text": "\u0421\u0435\u0432\u0435\u0440\u0435\u043d",
+    "admin_level": "6"
   },
   {
     "id": "4283101",
@@ -606,9 +594,21 @@
     "admin_level": "8"
   },
   {
-    "id": "13477567",
-    "parent": "16951188",
-    "text": "Varna",
-    "admin_level": "8"
+    "id": "7289745",
+    "parent": "1739536",
+    "text": "\u0422\u0440\u0430\u043a\u0438\u044f",
+    "admin_level": "6"
+  },
+  {
+    "id": "7289744",
+    "parent": "1739536",
+    "text": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d",
+    "admin_level": "6"
+  },
+  {
+    "id": "7289743",
+    "parent": "1739536",
+    "text": "\u042e\u0436\u0435\u043d",
+    "admin_level": "6"
   }
 ]
