@@ -26,7 +26,9 @@ class RelationSearch {
 
     // naive search approach
     for (const rel of this.data) {
-      if (rel.text.toLowerCase().includes(queryLower)) {
+      const relTextLower = rel.text.toLowerCase();
+      // check start with and includes ' <query>'
+      if (relTextLower.startsWith(queryLower) || relTextLower.includes(' ' + queryLower)) {
         const path = this.buildPath(rel.id);
         result.push({
           id: rel.id,
