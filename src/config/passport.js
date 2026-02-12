@@ -50,8 +50,8 @@ passport.use('google', new GoogleStrategy({
       if (!user.rowCount) {
         // create new user
         user = await pool.query(
-          'INSERT INTO users (email, name, oauth_id) VALUES ($1, $2, $3) RETURNING *',
-          [profile.emails[0].value, profile.displayName, profile.id]
+          'INSERT INTO users (name, oauth_id) VALUES ($1, $2, $3) RETURNING *',
+          [profile.displayName, profile.id]
         );
       }
 
