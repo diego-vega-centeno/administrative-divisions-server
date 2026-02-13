@@ -6,21 +6,19 @@ const router = express.Router();
 let frontendUrl = process.env.NODE_ENV == 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_PROD_URL;
 
 router.get("/",
-  passport.authenticate("google", {
-    scope: ["profile"],
-    prompt: "select_account",
+  passport.authenticate('oauth2', {
     session: false
-  })
+  }),
 );
 
 router.get("/callback",
-  passport.authenticate("google", {
+  passport.authenticate("oauth2", {
     session: false,
     failureRedirect: frontendUrl + "?error=oauth_failed"
   }),
   function (req, res) {
-
-    // generate token after passing google authentication
+    console.log({ id: req.user.id, name: req.user.name });
+    // generate token after passing osm authentication
     const token = jwt.sign(
       { id: req.user.id, name: req.user.name },
       process.env.JWT_SECRET,
@@ -29,8 +27,8 @@ router.get("/callback",
 
     res.cookie('jwt', token, {
       httpOnly: true,
-      secure: process.env.NODE_ENV === 'production',
-      sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
+      secure: true,
+      sameSite: 'none',
       maxAge: 1000 * 60 * 60 * 24 // 1d
     })
 
