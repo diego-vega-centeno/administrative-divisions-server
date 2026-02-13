@@ -11,7 +11,7 @@ const mockGoogleStrategy = {
   name: 'google',
 
   authenticate: function (req) {
-    const CALLBACK_URL = process.env.NODE_ENV === 'development' ? process.env.CALLBACK_DEV_URL : process.env.CALLBACK_PROD_URL;
+    const CALLBACK_URL = process.env.NODE_ENV === 'development' ? process.env.CALLBACK_DEV_GOOGLE_URL : process.env.CALLBACK_PROD_GOOGLE_URL;
     const FRONTEND_URL = process.env.NODE_ENV === 'development' ? process.env.FRONTEND_DEV_URL : process.env.FRONTEND_DEV_PROD;
     // Check if this is the callback route (has code parameter)
     if (req.query && req.query.code) {

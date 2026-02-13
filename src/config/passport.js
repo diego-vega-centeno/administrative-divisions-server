@@ -36,7 +36,7 @@ passport.use('google', new GoogleStrategy({
   clientID: process.env.GOOGLE_CLIENT_ID,
   clientSecret: process.env.GOOGLE_CLIENT_SECRET,
   callbackURL: process.env.NODE_ENV === 'development' ?
-    process.env.CALLBACK_DEV_URL : process.env.CALLBACK_PROD_URL,
+    process.env.CALLBACK_DEV_GOOGLE_URL : process.env.CALLBACK_PROD_GOOGLE_URL,
 },
   async function (accessToken, refreshToken, profile, done) {
     try {
