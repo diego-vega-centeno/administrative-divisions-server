@@ -45,14 +45,14 @@ passport.use('google', new GoogleStrategy({
       let user;
       user = await pool.query(
         'SELECT * FROM users WHERE oauth_id = $1',
-        [profile.id]
+        ['google-' + profile.id]
       );
 
       if (!user.rowCount) {
         // create new user
         user = await pool.query(
           'INSERT INTO users (name, oauth_id) VALUES ($1, $2) RETURNING *',
-          [profile.displayName, profile.id]
+          [profile.displayName, 'google-' + profile.id]
         );
       }
 
