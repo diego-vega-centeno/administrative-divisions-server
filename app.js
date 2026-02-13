@@ -3,6 +3,7 @@ import express from 'express'
 import passport from './src/config/passport.js'
 import userRoute from './src/routes/userRoute.js'
 import oauthGoogleRoute from './src/routes/oauthGoogle.js'
+import oauthOSMRoute from './src/routes/oauthOSM.js'
 import apiRoute from './src/routes/apiRoute.js'
 import countryRoute from './src/routes/countryRoute.js'
 import layerRoute from './src/routes/layers.js'
@@ -48,6 +49,7 @@ app.use(passport.initialize());
 
 // endpoints
 app.use('/auth/google', oauthGoogleRoute)
+app.use('/auth/osm', oauthOSMRoute)
 app.use('/user', userRoute)
 app.use('/layer', layerRoute)
 app.use('/country', countryRoute)
