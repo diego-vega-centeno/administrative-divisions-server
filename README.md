@@ -1,14 +1,23 @@
-# Administrative Divisions Server
+# Administrative Divisions API
 
-Backend API for administrative divisions project.
+Backend for [OSM administrative divisions](https://github.com/CopaCabana21/administrative-divisions).
 
 ## Features
 - OAuth authentication (Google) with JWT
 - PostgreSQL database for users and favorites
-- RESTful API for favorites management
+- RESTful API to query hierarchy per country 
 
-## Setup
-1. Clone the repo
-2. Run `npm install`
-3. Set up environment variables (see .env.example)
-4. Run `npm start`
+# Public REST API to get hierarchy:
+
+REST API serving administrative division hierarchies from OpenStreetMap.
+
+## Endpoints
+
+### Get Country Hierarchy
+```
+GET /api/v1/countries/:countryId?levels=4,6
+```
+
+**Parameters:**
+- `countryId` (required) - OSM relation ID
+- `levels` (optional) - Comma-separated admin levels to include
