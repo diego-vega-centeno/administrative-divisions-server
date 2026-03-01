@@ -3,9 +3,10 @@
 Backend for [OSM administrative divisions](https://github.com/CopaCabana21/administrative-divisions).
 
 ## Features
-- OAuth authentication (Google) with JWT
-- PostgreSQL database for users and favorites
-- RESTful API to query hierarchy per country 
+- OAuth authentication (Google, OpenStreetMap) with JWT
+- Save users and favorites to Supabase
+- Search administrative division and make parent name path
+- RESTful API to query hierarchy per country
 
 # Public REST API to get hierarchy:
 
