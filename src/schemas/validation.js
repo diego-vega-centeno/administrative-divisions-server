@@ -24,6 +24,7 @@ const relationSchema = z.object({
 
 const relationsSchema = z.array(relationSchema);
 
+// layers schema
 export const layerSchema = z.object({
   title: z
     .string()
