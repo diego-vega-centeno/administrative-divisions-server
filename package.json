@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "dev": "set NODE_ENV=development&& nodemon app.js",
-    "start": "node app.js"
+    "dev": "set NODE_ENV=development&& nodemon src/app.ts",
+    "start": "node src/app.ts"
   },
   "keywords": [],
   "author": "",
@@ -29,8 +29,14 @@
     "zod": "^4.3.4"
   },
   "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.20.3",
+    "@types/passport-jwt": "^4.0.1",
     "jest": "^30.2.0",
     "nodemon": "^3.1.11",
-    "supertest": "^7.1.4"
+    "supertest": "^7.1.4",
+    "typescript": "^7.0.2"
   }
 }
