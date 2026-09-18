@@ -3,8 +3,8 @@ import pool from "../config/db.js";
 type Relation = {
   relId: string;
   relName: string;
-  adminLevel: number;
-  parentsNames: string[];
+  adminLevel: string;
+  parentsNames: string;
 };
 
 async function getUserLayersRelations(userId: string) {
