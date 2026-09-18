@@ -47,17 +47,17 @@ describe("GET /api/v1/countries/:countryId", () => {
   });
 
   test("should return a valid JSON structure", async () => {
-    const response = await request(app)
-      .get("/api/v1/countries/288247")
-      .set("Cookie", `jwt=${token}`);
+    const response = await request(app).get("/api/v1/countries/288247");
 
     expect(response.status).toBe(200);
-    expect(response.body.data).toBeDefined();
-    expect(Array.isArray(response.body.data)).toBe(true);
+    expect(Array.isArray(response.body)).toBe(true);
+    expect(response.body.every((rel: Relation) => typeof rel === "object")).toBe(
+      true,
+    );
 
     // Check if data has expected structure
-    if (response.body.data.length > 0) {
-      const rels = response.body.data;
+    if (response.body.length > 0) {
+      const rels = response.body;
       expect(
         rels.every(
           (rel: Relation) =>
@@ -70,11 +70,10 @@ describe("GET /api/v1/countries/:countryId", () => {
   test("should filter by levels correctly", async () => {
     const response = await request(app)
       .get("/api/v1/countries/288247?levels=4,6")
-      .set("Cookie", `jwt=${token}`);
 
     expect(response.status).toBe(200);
     expect(
-      response.body.data.every((rel: Relation) =>
+      response.body.every((rel: Relation) =>
         ["4", "6"].includes(rel.admin_level),
       ),
     ).toBe(true);
