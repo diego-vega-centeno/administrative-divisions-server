@@ -18,7 +18,7 @@ beforeAll(async () => {
 afterAll(async () => {
   // clean test users
   const usersResult = await pool.query(
-    "SELECT id FROM users WHERE email LIKE '%@test.com'",
+    "SELECT id FROM users WHERE name LIKE 'test_user_name'",
   );
   const userIds = usersResult.rows.map((row) => row.id);
 
