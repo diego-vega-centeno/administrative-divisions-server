@@ -4,6 +4,14 @@ import pool from "../../config/db.js";
 import { generateTestToken } from "../helpers/testAuth.js";
 import { beforeAll, afterAll, describe, test, expect } from "@jest/globals";
 
+type Relation = {
+  relId: string;
+  relName: string;
+  adminLevel: string;
+  parentsNames: string;
+  [key: string]: unknown;
+};
+
 let token: string;
 let layerId: string;
 
@@ -15,7 +23,7 @@ beforeAll(async () => {
 afterAll(async () => {
   // clean test users
   const usersResult = await pool.query(
-    "SELECT id FROM users WHERE email LIKE '%@test.com'",
+    "SELECT id FROM users WHERE name LIKE 'test_user_name'",
   );
   const userIds = usersResult.rows.map((row) => row.id);
 
@@ -36,10 +44,20 @@ describe("PUT /layer", () => {
       .send({
         title: "test_layer_title",
         relations: [
-          { relId: "1", relName: "1-name" },
-          { relId: "2", relName: "2-name" },
+          {
+            relId: "1",
+            relName: "1-name",
+            adminLevel: "4",
+            parentsNames: "p-1-1, p-1-2",
+          },
+          {
+            relId: "2",
+            relName: "2-name",
+            adminLevel: "4",
+            parentsNames: "p-2-1, p-2-2",
+          },
         ],
-      });
+      } as { title: string; relations: Relation[] });
 
     // store id of created layer
     layerId = response.body.data.layerId;
@@ -85,11 +103,10 @@ describe("GET /layer/:id", () => {
     const response = await request(app)
       .get(`/layer/${layerId}`)
       .set("Cookie", `jwt=${token}`);
-
     expect(response.status).toBe(200);
     expect(response.body.data).not.toHaveLength(0);
 
-    // favorite = response.body.data[0];
+    // favorite = response.body[0];
   });
 
   // test('should successfully delete favorite', async () => {
