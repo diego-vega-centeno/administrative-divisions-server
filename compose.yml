@@ -12,11 +12,20 @@ services:
       - .env.docker
     environment:
       - NODE_ENV=development
-    env_file:
-      - .env
     depends_on:
       db:
         condition: service_healthy
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /app
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: package.json
+        - action: rebuild
+          path: package-lock.json
   db:
     image: postgres:18
     restart: always
