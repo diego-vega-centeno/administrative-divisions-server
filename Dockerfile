@@ -1,6 +1,17 @@
 # syntax=docker/dockerfile:1
 
 
+# Dev stage: target for development mode
+FROM dhi.io/node:24-alpine3.23-dev AS dev
+WORKDIR /app
+RUN --mount=type=bind,source=package.json,target=package.json \
+    --mount=type=bind,source=package-lock.json,target=package-lock.json \
+    npm ci
+COPY . .
+EXPOSE 3000
+CMD ["npm", "run", "dev"]
+
+
 # Deps stage: install production dependencies only.
 FROM dhi.io/node:24-alpine3.23-dev AS deps
 
@@ -21,8 +32,6 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
-# Expose the port that the application listens on.
 EXPOSE 3000
 
-# Run the application.
-CMD ["node", "app.js"]
+CMD ["npm", "run", "start"]
