@@ -4,7 +4,8 @@
 # Dev stage: target for development mode
 FROM dhi.io/node:24-alpine3.23-dev AS dev
 WORKDIR /app
-RUN --mount=type=bind,source=package.json,target=package.json \
+RUN --mount=type=cache,target=/root/.npm \
+    --mount=type=bind,source=package.json,target=package.json \
     --mount=type=bind,source=package-lock.json,target=package-lock.json \
     npm ci
 COPY . .
@@ -17,7 +18,8 @@ FROM dhi.io/node:24-alpine3.23-dev AS deps
 
 WORKDIR /app
 
-RUN --mount=type=bind,source=package.json,target=package.json \
+RUN --mount=type=cache,target=/root/.npm \
+    --mount=type=bind,source=package.json,target=package.json \
     --mount=type=bind,source=package-lock.json,target=package-lock.json \
     npm ci --omit=dev
 
