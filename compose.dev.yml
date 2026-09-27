@@ -1,0 +1,28 @@
+services:
+  server:
+    build:
+      context: .
+      target: dev
+    ports:
+      - "3000:3000"
+    # volumes:
+    #   - .:/app
+    #   - /app/node_modules
+    env_file:
+      - .env.docker
+    environment:
+      - NODE_ENV=development
+    depends_on:
+      db:
+        condition: service_healthy
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /app
+          ignore:
+            - node_modules/
+        - action: rebuild
+          path: package.json
+        - action: rebuild
+          path: package-lock.json
