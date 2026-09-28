@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
-    "dev": "set NODE_ENV=development&& nodemon -L app.js",
-    "start": "node app.js"
+    "dev": "set NODE_ENV=development&& dotenv -e .env.development -- nodemon -L app.js",
+    "dev:docker": "set NODE_ENV=development&& nodemon -L app.js",
+    "start": "set NODE_ENV=production&& node app.js"
   },
   "keywords": [],
   "author": "",
@@ -29,6 +30,7 @@
     "zod": "^4.3.4"
   },
   "devDependencies": {
+    "dotenv-cli": "^11.0.0",
     "jest": "^30.2.0",
     "nodemon": "^3.1.11",
     "supertest": "^7.1.4"

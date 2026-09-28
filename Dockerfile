@@ -10,7 +10,7 @@ RUN --mount=type=cache,target=/root/.npm \
     npm ci
 COPY . .
 EXPOSE 3000
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "dev:docker"]
 
 
 # Deps stage: install production dependencies only.
