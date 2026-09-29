@@ -6,7 +6,8 @@
   "scripts": {
     "test": "set NODE_ENV=test&& node --experimental-vm-modules node_modules/jest/bin/jest.js",
     "dev": "set NODE_ENV=development&& nodemon --exec tsx src/app.ts",
-    "start": "node src/app.ts"
+    "start": "node dist/app.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
