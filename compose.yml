@@ -1,0 +1,8 @@
+services:
+  server:
+    build:
+      context: .
+    ports:
+      - "3000:3000"
+    env_file:
+      - ${ENV_FILE:-.env.production}
