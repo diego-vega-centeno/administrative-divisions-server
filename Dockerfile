@@ -2,7 +2,7 @@
 
 
 # Dev stage: target for development mode
-FROM dhi.io/node:24-alpine3.23-dev AS dev
+FROM node:24-alpine AS dev
 WORKDIR /app
 RUN --mount=type=cache,target=/root/.npm \
     --mount=type=bind,source=package.json,target=package.json \
@@ -14,7 +14,7 @@ CMD ["npm", "run", "dev:docker"]
 
 
 # Deps stage: install production dependencies only.
-FROM dhi.io/node:24-alpine3.23-dev AS deps
+FROM node:24-alpine AS deps
 
 WORKDIR /app
 
@@ -25,7 +25,7 @@ RUN --mount=type=cache,target=/root/.npm \
 
 
 # Runner stage: minimal runtime image with compiled app and production deps.
-FROM dhi.io/node:24-alpine3.23 AS runner
+FROM node:24-alpine AS runner
 
 ENV PATH=/app/node_modules/.bin:$PATH
 
