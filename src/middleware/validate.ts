@@ -1,0 +1,26 @@
+import { z } from "zod";
+import type { Request, Response, NextFunction } from "express";
+
+const validate = (schema: z.ZodType) => {
+  return (req: Request, res: Response, next: NextFunction) => {
+    try {
+      schema.parse(req.body);
+      next();
+    } catch (error) {
+      if (error instanceof z.ZodError) {
+        const errors = error.issues.map((err) => ({
+          path: err.path.join("."),
+          message: err.message,
+        }));
+        return res.status(400).json({
+          code: "schema_validation_failed",
+          message: "Schema validation failed",
+          errors: errors,
+        });
+      }
+      next(error);
+    }
+  };
+};
+
+export default validate;
