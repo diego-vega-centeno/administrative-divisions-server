@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "set NODE_ENV=test&& node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "test": "set NODE_ENV=test&& node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand",
     "dev": "set NODE_ENV=development&& nodemon --exec tsx src/app.ts",
     "dev:docker": "set NODE_ENV=development&& nodemon -L src/app.ts",
     "start": "set NODE_ENV=production&& node dist/app.js",
